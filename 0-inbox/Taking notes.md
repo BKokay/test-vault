@@ -1,3 +1,5 @@
+[[markdown_cheatsheet]]
+
 Make my note atomic, make it search friendly
 
 [[what is an atomic note?]]
