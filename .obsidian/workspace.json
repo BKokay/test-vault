@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3869704e863485cb",
@@ -196,8 +196,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "176d9ceee2ced943",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
+    "4-archive",
+    "3-resources",
+    "2-areas",
+    "1-projects",
     "PARA.md",
     "0-inbox/Test Inbox Notes.md",
     "0-inbox/Taking notes.md",
