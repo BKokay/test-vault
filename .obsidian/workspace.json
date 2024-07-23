@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a3b3db2b4a72eaf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6af9bd92b8bbcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d0133cad0e1545e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25f4778e07f675d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b1f88f2eed5eaf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Test Inbox Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8651500a6d632afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e1d8023982eeb96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c12a2f6e1bcf035",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66aff525e3bedd60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcce41d0fb851e0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3869704e863485cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb76821ca2236362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90464020dd8fb70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0-inbox/Test Inbox Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99fca5d54117d088",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0-inbox/Test Inbox Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31cb52cab4636704",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42661e046a943867",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0-inbox/Test Inbox Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2b1f88f2eed5eaf6",
+  "lastOpenFiles": [
+    "PARA.md",
+    "0-inbox/Test Inbox Notes.md",
+    "Welcome.md",
+    "4-archive",
+    "3-resources",
+    "2-areas",
+    "1-projects",
+    "0-inbox"
+  ]
+}
