@@ -3,6 +3,6 @@ Commands used:
 
 
 ## Links:
-[practice problems](../1-projects/fuel-saver-app/database/practice-problems.md)
+[practice problems](practice-problems.md)
 
 2024-07-23 15:00
