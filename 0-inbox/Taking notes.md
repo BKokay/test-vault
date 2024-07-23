@@ -1,0 +1,18 @@
+Make my note atomic, make it search friendly
+
+[[what is an atomic note?]]
+
+[[atomic notes]] - each idea should be as small as possible and fit on a notecard 
+- questions
+- ideas 
+- supplementary tools 
+
+[[tags]] used to help you find your ideas quickly 
+- build - she used this if she wanted to build something 
+- check - if she's in a hurry and just wanted to quickly write down a thought 
+- toread
+- towatch
+## Links:
+https://www.youtube.com/watch?v=HSTOSWOhNo4&ab_channel=VickyZhao%5BBEEAMP%5D
+
+2024-07-23 12:43
