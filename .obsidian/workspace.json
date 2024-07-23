@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6af9bd92b8bbcd",
+        "id": "18164f0d5c623da3",
         "type": "tabs",
         "children": [
           {
-            "id": "1d0133cad0e1545e",
+            "id": "93a9d7a564380b0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25f4778e07f675d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cd8092689988500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Zettel template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "551fa80164a261f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/10 x dev using zettlekasten & obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "176d9ceee2ced943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Taking notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Taking notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Taking notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0-inbox/Taking notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,15 +139,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "93a9d7a564380b0f",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-app/database/practice-problems.md",
+    "0-inbox/Commands.md",
+    "2-areas/fullstack-dev/databases",
+    "0-inbox/How do I make links between notes.md",
+    "1-projects/fuel-saver-app/database",
+    "1-projects/fuel-saver-app",
+    "2-areas/fullstack-dev",
+    "0-inbox/Taking notes.md",
     "4-archive",
     "3-resources",
     "2-areas",
     "1-projects",
     "PARA.md",
     "0-inbox/Test Inbox Notes.md",
-    "0-inbox/Taking notes.md",
     "0-inbox/10 x dev using zettlekasten & obsidian.md",
     "2-areas/YouTube",
     "1-projects/test note.md",
@@ -213,11 +163,6 @@
     "2-areas/and another.md",
     "templates/Zettel template.md",
     "templates",
-    "Welcome.md",
-    "4-archive",
-    "3-resources",
-    "2-areas",
-    "1-projects",
-    "0-inbox"
+    "Welcome.md"
   ]
 }
