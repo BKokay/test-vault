@@ -12,6 +12,8 @@ Make my note atomic, make it search friendly
 - check - if she's in a hurry and just wanted to quickly write down a thought 
 - toread
 - towatch
+
+make sure that the title is easily searchable and use keywords that will allow you to use ctrl + f to find what you need. The idea is not to make a bunch of random notes but to start to build upon your ideas. 
 ## Links:
 https://www.youtube.com/watch?v=HSTOSWOhNo4&ab_channel=VickyZhao%5BBEEAMP%5D
 
