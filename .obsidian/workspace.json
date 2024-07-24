@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6af9bd92b8bbcd",
+        "id": "79a17098b38f8b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "551fa80164a261f8",
+            "id": "5e28641840345c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/10 x dev using zettlekasten & obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a71191085b7cc401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-resources/Obsidian/markdown_cheatsheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d941e2aab11f1597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+                "file": "0-inbox/Things to do in Bonn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+                "file": "0-inbox/Things to do in Bonn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+                "file": "0-inbox/Things to do in Bonn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/fuel-saver ER model.md"
+                "file": "0-inbox/Things to do in Bonn.md"
               }
             }
           }
@@ -173,37 +148,39 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d941e2aab11f1597",
+  "active": "5e28641840345c69",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/database/Commands.md",
+    "0-inbox/Things to do in Bonn.md",
+    "1-projects/Mom's trip",
+    "3-resources/Learning/PARA.md",
+    "0-inbox/10 x dev using zettlekasten & obsidian.md",
+    "3-resources/Obsidian/markdown_cheatsheet.md",
+    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
     "IMG_4546.jpeg",
     "1-projects/fuel-saver-app/database/practice-problems.md",
-    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "conflict-files-obsidian-git.md",
-    "3-resources/database/What is an Entity Relationship Diagram or ER model.md",
+    "2-areas/fullstack-dev/database/What is an Entity Relationship Diagram or ER model.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "0-inbox/enum type.md",
     "0-inbox/apache maven.md",
     "0-inbox/Notes from Georg.md",
     "0-inbox/sql.md",
-    "3-resources/database/CASE.md",
-    "3-resources/database/AS.md",
-    "3-resources/database/Arithmetic Expressions.md",
-    "3-resources/database/aliases.md",
-    "3-resources/database/aggregate functions.md",
-    "3-resources/Obsidian/markdown_cheatsheet.md",
-    "0-inbox/10 x dev using zettlekasten & obsidian.md",
+    "2-areas/fullstack-dev/database/CASE.md",
+    "2-areas/fullstack-dev/database/AS.md",
+    "2-areas/fullstack-dev/database/Arithmetic Expressions.md",
+    "2-areas/fullstack-dev/database/aliases.md",
+    "2-areas/fullstack-dev/database/aggregate functions.md",
     "Welcome.md",
     "0-inbox/markdown_cheatsheet.md",
-    "3-resources/database/sql expressions.md",
-    "3-resources/database/simple case.md",
-    "3-resources/database/general case.md",
-    "3-resources/database/WHERE.md",
-    "3-resources/database/WHERE vs CASE.md",
-    "3-resources/database/String Expressions.md",
-    "3-resources/database/SELECT.md",
-    "3-resources/database",
+    "2-areas/fullstack-dev/database/sql expressions.md",
+    "2-areas/fullstack-dev/database/simple case.md",
+    "2-areas/fullstack-dev/database/general case.md",
+    "2-areas/fullstack-dev/database/WHERE.md",
+    "2-areas/fullstack-dev/database/WHERE vs CASE.md",
+    "2-areas/fullstack-dev/database",
     "3-resources/Obsidian",
     "3-resources/Learning",
     "2-areas/fullstack-dev/databases",
@@ -211,7 +188,6 @@
     "1-projects/fuel-saver-app/database",
     "1-projects/fuel-saver-app",
     "2-areas/YouTube",
-    "templates",
-    "4-archive"
+    "templates"
   ]
 }
