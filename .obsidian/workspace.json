@@ -40,6 +40,30 @@
             }
           },
           {
+            "id": "adf39d8f7f26e05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Notes from Georg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e958bcf9ae58f915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/apache maven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6086ce6457de1a99",
             "type": "leaf",
             "state": {
@@ -52,25 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "8eccba3055252595",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "848d6ca5bc1907cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+                "file": "0-inbox/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+                "file": "0-inbox/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md"
+                "file": "0-inbox/Notes from Georg.md"
               }
             }
           }
@@ -199,13 +205,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "adf39d8f7f26e05d",
   "lastOpenFiles": [
+    "0-inbox/apache maven.md",
+    "0-inbox/Notes from Georg.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "1-projects/fuel-saver-app/Java",
     "3-resources/Java",
     "0-inbox/enum type.md",
     "2-areas/fullstack-dev/databases/Commands.md",
-    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "0-inbox/This is from my phone.md",
     "3-resources/Obsidian/markdown_cheatsheet.md",
@@ -232,13 +240,11 @@
     "3-resources/database/Logical Expressions.md",
     "3-resources/database/JOIN.md",
     "3-resources/database/GROUP BY.md",
-    "3-resources/database/general case.md",
     "Expressions",
     "3-resources/database",
     "2-areas/fullstack-dev/databases",
     "1-projects/fuel-saver-app/database",
     "1-projects/fuel-saver-app",
-    "2-areas/fullstack-dev",
-    "4-archive"
+    "2-areas/fullstack-dev"
   ]
 }
