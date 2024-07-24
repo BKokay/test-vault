@@ -11,12 +11,8 @@
             "id": "fd98758596dd750d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/This is from my phone.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/This is from my phone.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/This is from my phone.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "0-inbox/This is from my phone.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -133,8 +125,16 @@
   },
   "active": "fd98758596dd750d",
   "lastOpenFiles": [
-    "IMG_4546.jpeg",
     "0-inbox/This is from my phone.md",
+    "3-resources/database/What is an Entity Relationship Diagram or ER model.md",
+    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+    "0-inbox/Notes from Georg.md",
+    "UML Diagrams (Community).png",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+    "0-inbox/apache maven.md",
+    "0-inbox/enum type.md",
+    "Pasted image 20240724125235.png",
+    "IMG_4546.jpeg",
     "3-resources/Obsidian/How do I make links between notes.md",
     "3-resources/Obsidian/markdown_cheatsheet.md",
     "3-resources/Obsidian/Link your obsidian on iPhone.md",
@@ -160,11 +160,6 @@
     "3-resources/database/String Expressions.md",
     "3-resources/database/WHERE vs CASE.md",
     "3-resources/database/JOIN.md",
-    "3-resources/database/AS.md",
-    "3-resources/database/Conditional Expressions.md",
-    "3-resources/database/aliases.md",
-    "3-resources/database/simple case.md",
-    "3-resources/database/ORDER BY.md",
     "3-resources/database",
     "3-resources",
     "0-inbox",
