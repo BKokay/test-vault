@@ -11,8 +11,12 @@
             "id": "fd98758596dd750d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/My heart.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "0-inbox/My heart.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "0-inbox/My heart.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "0-inbox/My heart.md"
+          }
         }
       }
     ],
@@ -125,8 +133,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea380cf62937a6b1",
+  "active": "fd98758596dd750d",
   "lastOpenFiles": [
+    "0-inbox/My heart.md",
     "0-inbox/sql.md",
     "2-areas/fullstack-dev/database/FROM.md",
     "2-areas/fullstack-dev/database/Arithmetic Expressions.md",
@@ -153,7 +162,6 @@
     "0-inbox/Things to do in Bonn.md",
     "2-areas/fullstack-dev/database/Logical Expressions.md",
     "0-inbox/This is from my phone.md",
-    "3-resources/database/What is an Entity Relationship Diagram or ER model.md",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
     "IMG_4546.jpeg",
