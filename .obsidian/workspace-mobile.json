@@ -11,8 +11,12 @@
             "id": "fd98758596dd750d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/This is from my phone.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "0-inbox/This is from my phone.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "0-inbox/This is from my phone.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "0-inbox/This is from my phone.md"
+          }
         }
       }
     ],
@@ -123,8 +131,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea380cf62937a6b1",
+  "active": "fd98758596dd750d",
   "lastOpenFiles": [
+    "IMG_4546.jpeg",
+    "0-inbox/This is from my phone.md",
+    "3-resources/Obsidian/How do I make links between notes.md",
+    "3-resources/Obsidian/markdown_cheatsheet.md",
+    "3-resources/Obsidian/Link your obsidian on iPhone.md",
+    "3-resources/Obsidian",
+    "3-resources/Learning/Taking notes.md",
+    "3-resources/Learning/PARA.md",
+    "3-resources/Learning",
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "1-projects/fuel-saver-app/database",
     "1-projects/fuel-saver-app",
@@ -148,18 +165,9 @@
     "3-resources/database/aliases.md",
     "3-resources/database/simple case.md",
     "3-resources/database/ORDER BY.md",
-    "3-resources/database/WHERE.md",
-    "3-resources/database/general case.md",
-    "3-resources/database/Date and Time Expressions.md",
     "3-resources/database",
     "3-resources",
-    "0-inbox/10 x dev using zettlekasten & obsidian.md",
-    "0-inbox/Taking notes.md",
-    "0-inbox/PARA.md",
-    "0-inbox/How do I make links between notes.md",
     "0-inbox",
-    "2-areas/fullstack-dev/databases",
-    "2-areas/fullstack-dev",
-    "2-areas"
+    "2-areas/fullstack-dev/databases"
   ]
 }
