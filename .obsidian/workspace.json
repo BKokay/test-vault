@@ -16,51 +16,61 @@
             }
           },
           {
-            "id": "e6946af08541dfde",
+            "id": "c29ecb4b7e5de5c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/database/WHERE.md",
+                "file": "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d5952f2db9460288",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1ab62cf311935299",
+            "id": "daac50780f38cf27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Obsidian/markdown_cheatsheet.md",
+                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bad9820190bc77ca",
+            "id": "6086ce6457de1a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/databases/Commands.md",
+                "file": "0-inbox/enum type.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "8eccba3055252595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "848d6ca5bc1907cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/Obsidian/markdown_cheatsheet.md",
+                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/Obsidian/markdown_cheatsheet.md",
+                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,11 +176,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/Obsidian/markdown_cheatsheet.md"
+                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,10 +199,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab62cf311935299",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
-    "IMG_4546.jpeg",
+    "1-projects/fuel-saver-app/Java",
+    "3-resources/Java",
+    "0-inbox/enum type.md",
+    "2-areas/fullstack-dev/databases/Commands.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "0-inbox/This is from my phone.md",
+    "3-resources/Obsidian/markdown_cheatsheet.md",
+    "UML Diagrams (Community).png",
+    "3-resources/database/What is an Entity Relationship Diagram or ER model.md",
+    "Pasted image 20240724125235.png",
+    "IMG_4546.jpeg",
     "3-resources/Learning",
     "3-resources/Obsidian/Link your obsidian on iPhone.md",
     "3-resources/Obsidian/How do I make links between notes.md",
@@ -201,7 +222,6 @@
     "3-resources/database/WHERE.md",
     "3-resources/database/Date and Time Expressions.md",
     "3-resources/database/CASE.md",
-    "2-areas/fullstack-dev/databases/Commands.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "3-resources/database/String Expressions.md",
     "3-resources/database/sql expressions.md",
@@ -213,18 +233,12 @@
     "3-resources/database/JOIN.md",
     "3-resources/database/GROUP BY.md",
     "3-resources/database/general case.md",
-    "3-resources/database/FROM.md",
-    "3-resources/database/Conditional Expressions.md",
-    "3-resources/database/AS.md",
-    "3-resources/database/Arithmetic Expressions.md",
-    "3-resources/database/aliases.md",
     "Expressions",
     "3-resources/database",
     "2-areas/fullstack-dev/databases",
     "1-projects/fuel-saver-app/database",
     "1-projects/fuel-saver-app",
     "2-areas/fullstack-dev",
-    "4-archive",
-    "3-resources"
+    "4-archive"
   ]
 }
