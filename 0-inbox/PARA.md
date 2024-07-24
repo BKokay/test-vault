@@ -1,4 +1,3 @@
-
 # Projects
 * Short term collection of tasks and notes
 * Collect information in the folder, ie. todo list, any links etc.

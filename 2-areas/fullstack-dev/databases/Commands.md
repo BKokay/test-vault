@@ -1,5 +1,5 @@
 Commands used:
-[[SELECT]], [[FROM]], [[JOIN]], [[SUM]], [[GROUP BY]], [[ORDER BY]], [[AS]], [[ON]], [[WHERE]]
+[[SELECT]], [[FROM]], [[JOIN]], [[GROUP BY]], [[ORDER BY]], [[AS]], [[ON]], [[WHERE]]
 
 
 ## Links:

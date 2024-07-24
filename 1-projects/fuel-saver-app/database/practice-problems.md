@@ -6,12 +6,12 @@ A set of practice problems from Georg
 			AND latitude BETWEEN 50.68641 AND 51.02499
 			ORDER BY station_name ASC
 -  what are the names of the drivers who did a fuel stop yesterday?
-	1. SELECT drivers.first_name, drivers.last_name
-			FROM fuel_saver.drivers d
-			JOIN fuel_saver.fuel_stops fs ON d.devices_id = fs.device_id
-			WHERE DATE(fs.stop_timestamp) = '2024-07-22'
+	1. SELECT d.first_name, d.last_name 
+			FROM fuel_saver.drivers d 
+			JOIN fuel_saver.fuel_stops fs ON d.devices_id = fs.device_id 
+			WHERE DATE(fs.stop_timestamp) = CURRENT_DATE - INTERVAL '1 day';
  - what gas stations did the driver with ID 12345 already stop at?
-	1. SELECT gas_station.station_name, drivers.id, drivers.first_name || '  ' || drivers.last_name full_name //make this the name of  the column joining those two together
+	3. SELECT gas_station.station_name, drivers.id, drivers.first_name || '  ' || drivers.last_name full_name //make this the name of  the column joining those two together
 			FROM fuel_saver.gas_station
 			JOIN fuel_saver.fuel_stops ON gas_station.id = fuel_stops.station_id
 			JOIN fuel_saver.drivers ON fuel_saver.drivers.devices_id = fuel_saver.fuel_stops.device_id
@@ -33,15 +33,13 @@ A set of practice problems from Georg
 
 Commands used:
 [[SELECT]], [[FROM]], [[JOIN]], [[SUM]], [[GROUP BY]], [[ORDER BY]], [[AS]], [[ON]], [[WHERE]]
- 
+
+#database
+
 
 
 #edit device_id and devices_id is not the same for fuel_stops and drivers. Plural in one and not the other 
 
-[[postgresql]]
-[[practice]]
-[[sql]]
-[[databases]]
 ## Links:
 
 
