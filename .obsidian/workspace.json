@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/apache maven.md",
-                "mode": "source",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,8 +195,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3cdd78cc7ea42e1",
+  "active": "66aff525e3bedd60",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "0-inbox/apache maven.md",
     "2-areas/fullstack-dev/Java/Java Variables.md",
     "2-areas/fullstack-dev/Java/java-strings.md",
     "2-areas/fullstack-dev/Java/boolean.md",
@@ -203,8 +206,6 @@
     "2-areas/fullstack-dev/Java/float.md",
     "2-areas/fullstack-dev/Java/int.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
-    "0-inbox/apache maven.md",
     "2-areas/fullstack-dev/database/GROUP BY.md",
     "2-areas/fullstack-dev/database/SELECT.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",

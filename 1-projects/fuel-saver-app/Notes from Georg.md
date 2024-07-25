@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-07-25T13:18
+updated: 2024-07-25T14:35
 ---
 2024-07-24 13:36
 Steps write hello world in console
@@ -23,7 +23,7 @@ protected - any subclasses can inherit it
 # Project evolves in these steps
 
 - [x] "Hello world" app running in the command line  
-- [ ] Convert it to an Apache Maven project (for build and dependency management) 
+- [x] Convert it to an Apache Maven project (for build and dependency management) 
 - [ ]  Connect to the database via JDBC and print the contents of a table  
 -  [ ] Read user input from the command line and use it for a driver (e.g. read name of a driver and print all stops of this driver)  
 - [ ]  Create entity classes and "Data Access Objects" (DAOs) for each table (see [https://www.digitalocean.com/community/tutorials/dao-design-pattern)](https://www.digitalocean.com/community/tutorials/dao-design-pattern) "https://www.digitalocean.com/community/tutorials/dao-design-pattern)")  
