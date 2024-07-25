@@ -1,3 +1,7 @@
+---
+created: 2024-07-25T08:09
+updated: 2024-07-25T11:50
+---
 2024-07-24 08:52
 [[GROUP BY]] clause is used to group rows that have the same values in specific columns into aggregate data. It is typically uses in conjunction with [[aggregate functions]] like [[SUM()]]
 [[COUNT()]] [[AVG()]] [[MAX())]] and [[MIN()]]. It allows you to perform operations on each group of data rather than on individual rows. 

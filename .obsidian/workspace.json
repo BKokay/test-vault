@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Eclipse IDE.md",
+                "file": "1-projects/fuel-saver-app/database/practice-problems.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c3cdd78cc7ea42e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Eclipse IDE.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Eclipse IDE.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Eclipse IDE.md"
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
               }
             }
           },
@@ -170,12 +182,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad427f826ce64540",
+  "active": "c3cdd78cc7ea42e1",
   "lastOpenFiles": [
-    "0-inbox/Notes from Georg.md",
-    "timestamps/2024/07-July/2024-07-25-Thursday.md",
-    "0-inbox/Eclipse IDE.md",
+    "2-areas/fullstack-dev/database/GROUP BY.md",
+    "2-areas/fullstack-dev/database/SELECT.md",
+    "1-projects/fuel-saver-app/database/practice-problems.md",
     "0-inbox/To install.md",
+    "2-areas/fullstack-dev/Java/Eclipse IDE.md",
+    "2-areas/fullstack-dev/Java",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "timestamps/2024/07-July/2024-07-25-Thursday.md",
     "2-areas/Personal Growth",
     "0-inbox/sql.md",
     "3-resources/images",
@@ -196,19 +212,16 @@
     "2-areas/fullstack-dev/database/String Expressions.md",
     "2-areas/fullstack-dev/database/sql expressions.md",
     "2-areas/fullstack-dev/database/simple case.md",
-    "2-areas/fullstack-dev/database/SELECT.md",
     "2-areas/fullstack-dev/database/ORDER BY.md",
     "2-areas/fullstack-dev/database/ON.md",
     "2-areas/fullstack-dev/database/Logical Expressions.md",
     "2-areas/fullstack-dev/database/JOIN.md",
-    "2-areas/fullstack-dev/database/general case.md",
     "2-areas/fullstack-dev/database",
     "1-projects/fuel-saver-app/Java",
     "3-resources/Java",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
     "IMG_4546.jpeg",
-    "3-resources/Learning",
-    "3-resources/Obsidian"
+    "3-resources/Learning"
   ]
 }

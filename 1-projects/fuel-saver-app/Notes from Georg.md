@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-07-25T10:47
+updated: 2024-07-25T12:07
 ---
 2024-07-24 13:36
 Steps write hello world in console
@@ -14,9 +14,15 @@ build a webapp with a [[servlet]] to get one endpoint
 
 [[controller]] [[rest controller]] [[springboot]]
 
+int for regular number, long for bigger numbers , float for floating point, double also floating point but for precision, boolean 
+Every class shoujld go to one file. 
+//public everyone can use
+private only the class
+package globally available in the package. 
+protected - any subclasses can inherit it
 # Project evolves in these steps
 
-- [ ] "Hello world" app running in the command line  
+- [x] "Hello world" app running in the command line  
 - [ ] Convert it to an Apache Maven project (for build and dependency management) 
 - [ ]  Connect to the database via JDBC and print the contents of a table  
 -  [ ] Read user input from the command line and use it for a driver (e.g. read name of a driver and print all stops of this driver)  
