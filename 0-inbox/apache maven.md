@@ -1,8 +1,7 @@
-2024-07-24 13:38
+---
+created: 2024-07-24T13:38
+updated: 2024-07-25T13:20
+---
+steps to install Maven: 
 
-kind of like npm using vite 
-has a config with dependencies etc 
-## Links:
-
-
-
+all dependencies go into a pom.yml file. This will be auto generated. You can start a new Maven project in [[Eclipse IDE]] 

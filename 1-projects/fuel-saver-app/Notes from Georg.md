@@ -1,11 +1,11 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-07-25T12:07
+updated: 2024-07-25T13:18
 ---
 2024-07-24 13:36
 Steps write hello world in console
-[[apache maven]] convert to this kind of projecy
-add a database driver [[JDBC]] make the connection between JAVA and POSTGRES . WIll need a driver which is a middle wear. THen make with user input
+[[apache maven]] convert to this kind of project
+add a database driver [[JDBC]] make the connection between JAVA and POSTGRES . WIll need a driver which is a middle wear. Then make with user input
 DAO [[dao design pattern]]
 
 Interfaces [[interface-java]]
@@ -14,8 +14,8 @@ build a webapp with a [[servlet]] to get one endpoint
 
 [[controller]] [[rest controller]] [[springboot]]
 
-int for regular number, long for bigger numbers , float for floating point, double also floating point but for precision, boolean 
-Every class shoujld go to one file. 
+int for regular number, long for bigger numbers , float for floating point, double also floating point but for precision, Boolean 
+Every class should go to one file. 
 //public everyone can use
 private only the class
 package globally available in the package. 
