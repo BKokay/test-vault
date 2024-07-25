@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "cssTheme": "LYT Mode"
+  "cssTheme": "LYT Mode",
+  "showViewHeader": false
 }
