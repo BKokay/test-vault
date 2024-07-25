@@ -1,0 +1,15 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "templates/Template, Daily Note.md": "b67340a2d8a2fd71949696986216d5eae98ff77359763b53ec2a91a87f1f5c6c",
+    "timestamps/2024/07-July/2024-07-25-Thursday.md": "1172fea2f61a1bd48bc0d6f118907174ddf020eabf8e6184e3d57e40d0a40405",
+    "0-inbox/My heart.md": "4394c5f412b232d81e6e0e8da1d4fd6579ad4129ebd09ff97c18b73a31bd8d94"
+  }
+}

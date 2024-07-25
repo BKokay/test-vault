@@ -4,91 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "18164f0d5c623da3",
+        "id": "4aae6402e7278984",
         "type": "tabs",
         "children": [
           {
-            "id": "93a9d7a564380b0f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c29ecb4b7e5de5c9",
+            "id": "bab24d5c74edcddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daac50780f38cf27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adf39d8f7f26e05d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Zettel template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b64511a0f3a2fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e958bcf9ae58f915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/apache maven.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6086ce6457de1a99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/enum type.md",
+                "file": "templates/Template, Daily Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Untitled 1.md",
+                "file": "templates/Template, Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Untitled 1.md",
+                "file": "templates/Template, Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Untitled 1.md"
+                "file": "templates/Template, Daily Note.md"
               }
+            }
+          },
+          {
+            "id": "8a5448dabcbee6a2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -218,12 +157,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b64511a0f3a2fd4",
+  "active": "bab24d5c74edcddc",
   "lastOpenFiles": [
+    "timestamps/2024/07-July/2024-07-25-Thursday.md",
+    "0-inbox/apache maven.md",
+    "0-inbox/enum type.md",
     "templates/Template, Daily Note.md",
+    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+    "templates/Zettel template.md",
+    "0-inbox/To install.md",
+    "0-inbox/My heart.md",
+    "timestamps/2024/07-July",
+    "timestamps/2024",
+    "0-inbox/Untitled.md",
     "0-inbox/Untitled 1.md",
     "timestamps",
-    "templates/Zettel template.md",
     "0-inbox/Notes from Georg.md",
     "2-areas/fullstack-dev/database/WHERE.md",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md",
@@ -239,14 +188,6 @@
     "2-areas/fullstack-dev/database/general case.md",
     "2-areas/fullstack-dev/database/GROUP BY.md",
     "2-areas/fullstack-dev/database/FROM.md",
-    "2-areas/fullstack-dev/database/Date and Time Expressions.md",
-    "2-areas/fullstack-dev/database/Conditional Expressions.md",
-    "2-areas/fullstack-dev/database/Commands.md",
-    "2-areas/fullstack-dev/database/CASE.md",
-    "2-areas/fullstack-dev/database/AS.md",
-    "2-areas/fullstack-dev/database/Arithmetic Expressions.md",
-    "2-areas/fullstack-dev/database/aliases.md",
-    "2-areas/fullstack-dev/database/aggregate functions.md",
     "2-areas/fullstack-dev/database",
     "1-projects/fuel-saver-app/Java",
     "3-resources/Java",
@@ -256,8 +197,6 @@
     "3-resources/Learning",
     "3-resources/Obsidian",
     "Expressions",
-    "3-resources/database",
-    "2-areas/fullstack-dev/databases",
-    "1-projects/fuel-saver-app/database"
+    "3-resources/database"
   ]
 }
