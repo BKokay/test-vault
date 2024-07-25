@@ -13,12 +13,7 @@
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "0-inbox",
-      "template": "templates/Zettel template.md"
-    }
-  ],
+  "folder_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
