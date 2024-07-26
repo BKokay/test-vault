@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T09:52
-updated: 2024-07-26T10:25
+updated: 2024-07-26T10:52
 ---
 ### Numbers
 ##### JavaScript/TypeScript
@@ -118,4 +118,72 @@ public class Employee extends Person {
 	}
 }
 ```
-[[java classes]]
+[[java inheritance]]
+
+### Loops
+##### JavaScript/TypeScript
+```TypeScript
+for (let i: number = 0; i < 5; i++){
+	console.log(i)
+}; 
+```
+
+##### Java 
+```Java
+for (int i = 0; i < 5; i++){
+	System.out.println(i)
+};
+```
+[[java loops]]
+
+### Arrays
+##### JavaScript/TypeScript
+```TypeScript
+let numbers: number[] = [1, 2, 3, 4, 5];
+```
+
+##### Java 
+```Java
+int[] numbers = {1, 2, 3, 4, 5};
+```
+[[java arrays]]
+
+### Conditional Statements
+##### JavaScript/TypeScript
+```TypeScript
+if (x > y){
+	console.log("x is greater than y");
+} else {
+	console.log("x is not greateer than y");
+}
+```
+
+##### Java 
+```Java
+if (x > y){
+	console.log("x is greater than y");
+} else {
+	console.log("x is not greater than y");
+}
+```
+[[java conditional statements]]
+
+### Conditional Statements
+##### JavaScript/TypeScript
+```TypeScript
+if (x > y){
+	console.log("x is greater than y");
+} else {
+	console.log("x is not greateer than y");
+}
+```
+
+##### Java 
+```Java
+if (x > y){
+	console.log("x is greater than y");
+} else {
+	console.log("x is not greater than y");
+}
+```
+[[java conditional statements]]
