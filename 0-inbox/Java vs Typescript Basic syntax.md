@@ -1,10 +1,10 @@
 ---
 created: 2024-07-26T09:52
-updated: 2024-07-26T10:09
+updated: 2024-07-26T10:25
 ---
 ### Numbers
 ##### JavaScript/TypeScript
-```JavaScript
+```TypeScript
 let x: number = 10;
 const y: number = 20; 
 ```
@@ -17,7 +17,7 @@ final int y = 20
 [[java numbers]] 
 ### Functions/Methods
 ##### JavaScript/TypeScript
-```JavaScript
+```TypeScript
 function add(a:number,b:number): number{
 	return a + b
 } 
@@ -38,7 +38,7 @@ public int add(int a, int b){
 
 ### Classes and Objects
 ##### JavaScript/TypeScript
-```JavaScript
+```TypeScript
 class Person{
 	name: string;
 
@@ -47,7 +47,7 @@ class Person{
 	}
 
 	greet(): void {
-		console.log(`Hello, my name is ${this.name})
+		console.log(`Hello, my name is ${this.name}`)
 	}
 }
 
@@ -76,3 +76,46 @@ public class Person {
 ```
 [[java classes]] #check
 
+### Inheritance
+##### JavaScript/TypeScript
+```TypeScript
+class Employee extends Person {
+	job: string;
+
+	constructor(name: string, job: string){
+		super(name);
+		this.job = job;
+	}
+
+	work(): void {
+		console.log(`${this.name} is working as a ${this.job}`)
+	}
+}
+
+let employee = new Employee("Jane", "developer");
+employee.greet();
+employee.work(); 
+```
+
+##### Java 
+```Java
+public class Employee extends Person {
+	private String job;
+
+	public Employee(String name, String job){ //this is the constructor
+		super(name);
+		this.job = job; 
+	}
+
+	public void work() {
+		System.out.println(this.name + " is working as a " + this.job);
+	}
+
+	public static void main(String[] args){ //the main is what runs when the program is called
+		Employee employee = new Employee("Jane", "developer");
+		employee.greet();
+		employee.work();
+	}
+}
+```
+[[java classes]]
