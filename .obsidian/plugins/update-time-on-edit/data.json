@@ -9,19 +9,22 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "templates/Template, Daily Note.md": "b67340a2d8a2fd71949696986216d5eae98ff77359763b53ec2a91a87f1f5c6c",
-    "timestamps/2024/07-July/2024-07-25-Thursday.md": "45026e9df684a5fbf346e07ea5de0ceb6e570afdbcd01b875976ca74872af153",
+    "timestamps/2024/07-July/2024-07-25-Thursday.md": "ff5462ec289b4dacf04c0f54ec1bfcf3a9da5af1c11077204c2dbf5aa3b48e90",
     "2-areas/Personal Growth/My heart.md": "4394c5f412b232d81e6e0e8da1d4fd6579ad4129ebd09ff97c18b73a31bd8d94",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "90cbaca172c4fa4ba0de79f9927929e62b23c9484da8c9f31d6a4ce9ec804e4b",
-    "2-areas/fullstack-dev/Java/Eclipse IDE.md": "02fef8b3141a97a21fd3d4ddf1a618e4524374fa116030f1ed933b340f99d4be",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "ce3d98e81f5b92a54429ae248ec0486934f8ffaaf15a855a9b28f07b3e228a50",
+    "2-areas/fullstack-dev/Java/Eclipse IDE.md": "4f75bb06286534f118aac6464431bc723cfce20f1be6fea1dcee95a1ae4e3ece",
     "2-areas/fullstack-dev/database/SELECT.md": "325c82f8b9025e907946102a3f994bf1790372276e41640d83f9f0e915c467bb",
     "2-areas/fullstack-dev/database/GROUP BY.md": "73d81cea383c2b56253fe1ce7fd517208886ebc40574a94596d2fdeb2c8468b2",
-    "0-inbox/apache maven.md": "10b6d9f077c922691aecdc7fab630c17018440db6fabd8b19c505a2ba6af1c84",
     "2-areas/fullstack-dev/Java/java-strings.md": "a2c42fd191b8291323df5803aced8fe955eaf853e1d725f7149a8564e659430a",
     "2-areas/fullstack-dev/Java/int.md": "d499af615dfa68a6f133fa9e1ecce960b761af1ec57b31480b468c69437eb5d4",
     "2-areas/fullstack-dev/Java/float.md": "566b8de731100a7ae28eccf2cc63024c4f486a777f39585bb6e778bdb3fa910e",
     "2-areas/fullstack-dev/Java/char.md": "f5b38b4174e1c27b40b652ea8641e8973bfbc4c80a1c6fcfc682fc4f6fe1960b",
     "2-areas/fullstack-dev/Java/boolean.md": "238984fa004e8ce2111994be19a0fd837f6fc3a6c431ec3573f718eb78d81f58",
     "2-areas/fullstack-dev/Java/Java Variables.md": "4d518c2ee4535e00be1a944d1d45d84a045aba5888766e6bc4c70d29bf92f27c",
-    "0-inbox/Connect to database.md": "fee50ddcd61e4e2c27f2c8ee14a5478ce0b195b09272761ab14985193eb141f7"
+    "timestamps/2024/07-July/2024-07-26-Friday.md": "2f4d040fde7d76c7633c50fc1c8e5d7f5f66d7651a7e68374be0a7fa877a1dc1",
+    "2-areas/fullstack-dev/Java/pom.xml.md": "7396911864730e04c7105bd9de25b6a5465384ed0f1e316b9a8aa9412885b1a8",
+    "2-areas/fullstack-dev/Java/Connect to database.md": "fee50ddcd61e4e2c27f2c8ee14a5478ce0b195b09272761ab14985193eb141f7",
+    "2-areas/fullstack-dev/Java/apache maven.md": "06e0c26e0ed464bda8a6a98ba3bce32825ef16fc00c4ff60a6b714979ea22d39",
+    "0-inbox/Java vs Typescript Basic syntax.md": "7f8e831786f68d700525cd99d5d3f13eaecba0ff978df7ffe8baa892f0899710"
   }
 }

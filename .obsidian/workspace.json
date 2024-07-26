@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "ad427f826ce64540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/database/practice-problems.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c3cdd78cc7ea42e1",
             "type": "leaf",
             "state": {
@@ -39,6 +27,18 @@
               "state": {
                 "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7734e82047a1f3d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Java vs Typescript Basic syntax.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Connect to database.md",
+                "file": "2-areas/fullstack-dev/Java/apache maven.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a612f3df3bd56a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/fullstack-dev/Java/Connect to database.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Connect to database.md",
+                "file": "0-inbox/Java vs Typescript Basic syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Connect to database.md",
+                "file": "0-inbox/Java vs Typescript Basic syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Connect to database.md"
+                "file": "0-inbox/Java vs Typescript Basic syntax.md"
               }
             }
           },
@@ -206,40 +218,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f0f3c4e3499a657",
+  "active": "7734e82047a1f3d0",
   "lastOpenFiles": [
-    "1-projects/fuel-saver-app/database/practice-problems.md",
-    "0-inbox/Connect to database.md",
-    "0-inbox/apache maven.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
+    "0-inbox/Java vs Typescript Basic syntax.md",
+    "0-inbox/To install.md",
+    "1-projects/fuel-saver-app/database/practice-problems.md",
+    "2-areas/fullstack-dev/Java/Connect to database.md",
+    "2-areas/fullstack-dev/database/enum type.md",
+    "2-areas/fullstack-dev/Java/pom.xml.md",
+    "2-areas/fullstack-dev/Java/apache maven.md",
+    "2-areas/fullstack-dev/Java/Eclipse IDE.md",
+    "timestamps/2024/07-July/2024-07-26-Friday.md",
+    "timestamps/2024/07-July/2024-07-25-Thursday.md",
     "2-areas/fullstack-dev/Java/Java Variables.md",
     "2-areas/fullstack-dev/Java/java-strings.md",
     "2-areas/fullstack-dev/Java/boolean.md",
     "2-areas/fullstack-dev/Java/char.md",
     "2-areas/fullstack-dev/Java/float.md",
     "2-areas/fullstack-dev/Java/int.md",
-    "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "2-areas/fullstack-dev/database/GROUP BY.md",
     "2-areas/fullstack-dev/database/SELECT.md",
-    "0-inbox/To install.md",
     "2-areas/fullstack-dev/Java",
-    "timestamps/2024/07-July/2024-07-25-Thursday.md",
     "2-areas/Personal Growth",
     "0-inbox/sql.md",
     "3-resources/images",
     "templates/Template, Daily Note.md",
     "timestamps/2024/07-July",
     "timestamps/2024",
-    "0-inbox/enum type.md",
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "templates/Zettel template.md",
     "2-areas/Personal Growth/My heart.md",
     "0-inbox/Untitled 1.md",
     "timestamps",
-    "2-areas/fullstack-dev/database/WHERE.md",
-    "2-areas/fullstack-dev/database/WHERE vs CASE.md",
-    "2-areas/fullstack-dev/database/What is an Entity Relationship Diagram or ER model.md",
     "2-areas/fullstack-dev/database",
     "1-projects/fuel-saver-app/Java",
     "3-resources/Java",
