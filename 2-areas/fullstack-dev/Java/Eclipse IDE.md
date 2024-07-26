@@ -1,6 +1,6 @@
 ---
 created: 2024-07-25T09:51
-updated: 2024-07-25T10:45
+updated: 2024-07-26T09:46
 ---
 - To see the welcome screen, got to help/welcome
 - New project file/new
@@ -10,3 +10,4 @@ updated: 2024-07-25T10:45
 - new class can also be done from toolbar 
 - System.out.println("Hello World!") that is a "L" not an uppercase "i" [[java-strings]]
 - To automatically run in the console, press Alt + Shift X then J after letting go. 
+- ctrl + shift +  f to auto format 
