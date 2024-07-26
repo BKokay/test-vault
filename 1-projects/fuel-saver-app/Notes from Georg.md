@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-07-26T09:52
+updated: 2024-07-26T13:53
 ---
 2024-07-24 13:36
 Steps write hello world in console
@@ -42,6 +42,10 @@ protected - any subclasses can inherit it
 - Deregister DB driver on shutdown / restart  
 - Switch from lat / lon to PostGIS  
 - Switch numeric IDs to UUIDs
+
+Great! About the design: You should create one class for every table (Driver, GasStation, FuelStop) and one DAO class each. And the main program with the main method in a separate class. And you can start to organize your classes in sub packages, e.g. "domain" for Driver etc., "database" for the database connector and the DAOs - how you organize them is a matter of taste ![🙂]
+
+and it would be nice to have a common interface for the DAO classes, like in this tutorial: [https://www.baeldung.com/java-dao-pattern](https://www.baeldung.com/java-dao-pattern "https://www.baeldung.com/java-dao-pattern")
 ## Links:
 
 

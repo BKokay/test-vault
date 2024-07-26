@@ -11,7 +11,7 @@
     "templates/Template, Daily Note.md": "b67340a2d8a2fd71949696986216d5eae98ff77359763b53ec2a91a87f1f5c6c",
     "timestamps/2024/07-July/2024-07-25-Thursday.md": "ff5462ec289b4dacf04c0f54ec1bfcf3a9da5af1c11077204c2dbf5aa3b48e90",
     "2-areas/Personal Growth/My heart.md": "4394c5f412b232d81e6e0e8da1d4fd6579ad4129ebd09ff97c18b73a31bd8d94",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "ce3d98e81f5b92a54429ae248ec0486934f8ffaaf15a855a9b28f07b3e228a50",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "3a08b5d5e0f3574aff1578fe9c05b52acb8299e510a4ee5b47057192dcb2a901",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md": "4f75bb06286534f118aac6464431bc723cfce20f1be6fea1dcee95a1ae4e3ece",
     "2-areas/fullstack-dev/database/SELECT.md": "325c82f8b9025e907946102a3f994bf1790372276e41640d83f9f0e915c467bb",
     "2-areas/fullstack-dev/database/GROUP BY.md": "73d81cea383c2b56253fe1ce7fd517208886ebc40574a94596d2fdeb2c8468b2",
@@ -25,6 +25,8 @@
     "2-areas/fullstack-dev/Java/pom.xml.md": "7396911864730e04c7105bd9de25b6a5465384ed0f1e316b9a8aa9412885b1a8",
     "2-areas/fullstack-dev/Java/Connect to database.md": "fee50ddcd61e4e2c27f2c8ee14a5478ce0b195b09272761ab14985193eb141f7",
     "2-areas/fullstack-dev/Java/apache maven.md": "06e0c26e0ed464bda8a6a98ba3bce32825ef16fc00c4ff60a6b714979ea22d39",
-    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md": "76d77d1ce1e192a84c539488eecfc96be262e1559c7684ff6ab31412ab26e7b7"
+    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md": "76d77d1ce1e192a84c539488eecfc96be262e1559c7684ff6ab31412ab26e7b7",
+    "0-inbox/Things to do in Bonn.md": "dfe6bbe00d29194327194b92c3e76c47e047692745415a53d7b8e7442489b38b",
+    "0-inbox/JDBC.md": "00fab27e5f5c44c4633f7742b4271de1c46f120ab55e66177126d184c2267964"
   }
 }
