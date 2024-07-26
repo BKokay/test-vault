@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "79a17098b38f8b8a",
+        "id": "4aae6402e7278984",
         "type": "tabs",
         "children": [
           {
-            "id": "5e28641840345c69",
+            "id": "bab24d5c74edcddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Things to do in Bonn.md",
+                "file": "0-inbox/To install.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ad427f826ce64540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/database/practice-problems.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c3cdd78cc7ea42e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "344e8db5da7296bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/apache maven.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "40b397a9d9653dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,11 +114,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3869704e863485cb",
@@ -85,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Things to do in Bonn.md",
+                "file": "0-inbox/apache maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Things to do in Bonn.md",
+                "file": "0-inbox/apache maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +175,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Things to do in Bonn.md"
+                "file": "0-inbox/apache maven.md"
               }
             }
+          },
+          {
+            "id": "8a5448dabcbee6a2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,56 +197,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "random-note:Open random note": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5e28641840345c69",
+  "active": "66aff525e3bedd60",
   "lastOpenFiles": [
-    "0-inbox/My heart.md",
-    "2-areas/fullstack-dev/database/Commands.md",
-    "0-inbox/Things to do in Bonn.md",
-    "1-projects/Mom's trip",
-    "3-resources/Learning/PARA.md",
-    "0-inbox/10 x dev using zettlekasten & obsidian.md",
-    "3-resources/Obsidian/markdown_cheatsheet.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "0-inbox/apache maven.md",
+    "2-areas/fullstack-dev/Java/Java Variables.md",
+    "2-areas/fullstack-dev/Java/java-strings.md",
+    "2-areas/fullstack-dev/Java/boolean.md",
+    "2-areas/fullstack-dev/Java/char.md",
+    "2-areas/fullstack-dev/Java/float.md",
+    "2-areas/fullstack-dev/Java/int.md",
+    "2-areas/fullstack-dev/Java/Eclipse IDE.md",
+    "2-areas/fullstack-dev/database/GROUP BY.md",
+    "2-areas/fullstack-dev/database/SELECT.md",
+    "1-projects/fuel-saver-app/database/practice-problems.md",
+    "0-inbox/To install.md",
+    "2-areas/fullstack-dev/Java",
+    "timestamps/2024/07-July/2024-07-25-Thursday.md",
+    "2-areas/Personal Growth",
+    "0-inbox/sql.md",
+    "3-resources/images",
+    "templates/Template, Daily Note.md",
+    "timestamps/2024/07-July",
+    "timestamps/2024",
+    "0-inbox/enum type.md",
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+    "templates/Zettel template.md",
+    "2-areas/Personal Growth/My heart.md",
+    "0-inbox/Untitled 1.md",
+    "timestamps",
+    "2-areas/fullstack-dev/database/WHERE.md",
+    "2-areas/fullstack-dev/database/WHERE vs CASE.md",
+    "2-areas/fullstack-dev/database/What is an Entity Relationship Diagram or ER model.md",
+    "2-areas/fullstack-dev/database/String Expressions.md",
+    "2-areas/fullstack-dev/database",
+    "1-projects/fuel-saver-app/Java",
+    "3-resources/Java",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
     "IMG_4546.jpeg",
-    "1-projects/fuel-saver-app/database/practice-problems.md",
-    "conflict-files-obsidian-git.md",
-    "2-areas/fullstack-dev/database/What is an Entity Relationship Diagram or ER model.md",
-    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-    "0-inbox/enum type.md",
-    "0-inbox/apache maven.md",
-    "0-inbox/Notes from Georg.md",
-    "0-inbox/sql.md",
-    "2-areas/fullstack-dev/database/CASE.md",
-    "2-areas/fullstack-dev/database/AS.md",
-    "2-areas/fullstack-dev/database/Arithmetic Expressions.md",
-    "2-areas/fullstack-dev/database/aliases.md",
-    "2-areas/fullstack-dev/database/aggregate functions.md",
-    "Welcome.md",
-    "0-inbox/markdown_cheatsheet.md",
-    "2-areas/fullstack-dev/database/sql expressions.md",
-    "2-areas/fullstack-dev/database/simple case.md",
-    "2-areas/fullstack-dev/database/general case.md",
-    "2-areas/fullstack-dev/database/WHERE.md",
-    "2-areas/fullstack-dev/database",
-    "3-resources/Obsidian",
-    "3-resources/Learning",
-    "2-areas/fullstack-dev/databases",
-    "2-areas/fullstack-dev",
-    "1-projects/fuel-saver-app/database",
-    "1-projects/fuel-saver-app",
-    "2-areas/YouTube",
-    "templates"
+    "3-resources/Learning"
   ]
 }

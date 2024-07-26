@@ -15,14 +15,14 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "0-inbox",
-      "template": "templates/Zettel template.md"
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "templates/Template, Daily Note.md"
   ],
   "startup_templates": [
     ""

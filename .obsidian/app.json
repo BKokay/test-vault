@@ -1,5 +1,9 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "0-inbox",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "showRibbon": true,
+  "livePreview": false,
+  "attachmentFolderPath": "3-resources/images"
 }

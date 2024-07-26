@@ -1,5 +1,9 @@
 [
   "quick-explorer",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview",
+  "calendar",
+  "update-time-on-edit",
+  "periodic-notes"
 ]
