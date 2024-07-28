@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd98758596dd750d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/My heart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "93410eb248d057bf",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,44 +135,44 @@
   },
   "active": "93410eb248d057bf",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/database/enum type.md",
+    "0-inbox/Java Generics.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "2-areas/Personal Growth/My heart.md",
+    "2-areas/Personal Growth",
+    "timestamps/2024/07-July/2024-07-26-Friday.md",
+    "timestamps/2024/07-July/2024-07-25-Thursday.md",
+    "timestamps/2024/07-July",
+    "timestamps/2024",
+    "timestamps",
+    "templates/Template, Daily Note.md",
+    "0-inbox/JDBC.md",
+    "2-areas/fullstack-dev/Java/char.md",
+    "2-areas/fullstack-dev/Java/float.md",
+    "2-areas/fullstack-dev/Java/java-strings.md",
+    "2-areas/fullstack-dev/Java/boolean.md",
+    "2-areas/fullstack-dev/Java/Eclipse IDE.md",
+    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
+    "2-areas/fullstack-dev/Java/pom.xml.md",
+    "2-areas/fullstack-dev/Java/apache maven.md",
+    "2-areas/fullstack-dev/Java/Connect to database.md",
+    "2-areas/fullstack-dev/Java",
+    "2-areas/fullstack-dev/Java/int.md",
+    "0-inbox/To install.md",
+    "0-inbox/DAO Design Pattern.md",
+    "2-areas/fullstack-dev/Java/Java Variables.md",
     "0-inbox/Untitled.md",
     "0-inbox/My heart.md",
     "0-inbox/sql.md",
     "2-areas/fullstack-dev/database/FROM.md",
     "2-areas/fullstack-dev/database/Arithmetic Expressions.md",
-    "2-areas/fullstack-dev/database/GROUP BY.md",
-    "2-areas/fullstack-dev/database/sql expressions.md",
-    "2-areas/fullstack-dev/database/Commands.md",
-    "2-areas/fullstack-dev/database/aggregate functions.md",
-    "2-areas/fullstack-dev/database/CASE.md",
-    "2-areas/fullstack-dev/database/ON.md",
-    "2-areas/fullstack-dev/database/SELECT.md",
-    "2-areas/fullstack-dev/database/String Expressions.md",
-    "2-areas/fullstack-dev/database/WHERE vs CASE.md",
-    "2-areas/fullstack-dev/database/JOIN.md",
-    "2-areas/fullstack-dev/database/AS.md",
-    "2-areas/fullstack-dev/database/Conditional Expressions.md",
-    "2-areas/fullstack-dev/database/What is an Entity Relationship Diagram or ER model.md",
-    "2-areas/fullstack-dev/database/aliases.md",
-    "2-areas/fullstack-dev/database/simple case.md",
-    "2-areas/fullstack-dev/database/WHERE.md",
-    "2-areas/fullstack-dev/database/general case.md",
-    "2-areas/fullstack-dev/database/Date and Time Expressions.md",
     "2-areas/fullstack-dev/database",
-    "2-areas/fullstack-dev/database/ORDER BY.md",
-    "0-inbox/Things to do in Bonn.md",
-    "2-areas/fullstack-dev/database/Logical Expressions.md",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
     "IMG_4546.jpeg",
     "3-resources/Obsidian",
     "3-resources/Learning",
     "1-projects/fuel-saver-app/database",
-    "1-projects/fuel-saver-app",
-    "1-projects",
-    "templates",
-    "3-resources/database",
-    "3-resources",
-    "0-inbox"
+    "1-projects/fuel-saver-app"
   ]
 }
