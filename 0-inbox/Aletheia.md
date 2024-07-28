@@ -6,7 +6,7 @@ Model of four depths:
 
 
 
-[[Nonduality]]
+[[Nonduality]] feeling of interconnectedness with everyone and everything around you. A way of living in buddhism.  
 
 Clients could spontaneously shift up and down through the different depths within a single coaching session. 
 
