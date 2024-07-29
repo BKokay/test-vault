@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Java Generics.md",
+                "file": "timestamps/2024/07-July/2024-07-26-Friday.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f525e4f103cf16ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/To read on Monday.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Java Generics.md",
+                "file": "0-inbox/To read on Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Java Generics.md",
+                "file": "0-inbox/To read on Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Java Generics.md"
+                "file": "0-inbox/To read on Monday.md"
               }
             }
           },
@@ -254,15 +266,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00c7ec7bd76f1a2b",
+  "active": "f525e4f103cf16ed",
   "lastOpenFiles": [
+    "timestamps/2024/07-July/2024-07-26-Friday.md",
+    "0-inbox/To read on Monday.md",
     "0-inbox/Java Generics.md",
     "0-inbox/DAO Design Pattern.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Things to do in Bonn.md",
     "0-inbox/JDBC.md",
     "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
-    "timestamps/2024/07-July/2024-07-26-Friday.md",
     "0-inbox/To install.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "2-areas/fullstack-dev/Java/Connect to database.md",
@@ -286,7 +299,6 @@
     "templates/Template, Daily Note.md",
     "timestamps/2024/07-July",
     "timestamps/2024",
-    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "timestamps",
     "2-areas/fullstack-dev/database",
     "1-projects/fuel-saver-app/Java",
