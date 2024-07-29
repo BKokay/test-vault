@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md"
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "5e28641840345c69",
   "lastOpenFiles": [
+    "timestamps/2024/07-July/2024-07-29-Monday.md",
+    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
     "2-areas/fullstack-dev/Java/java-strings.md",
     "2-areas/fullstack-dev/Java/pom.xml.md",
     "0-inbox/Things to do in Bonn.md",
@@ -158,7 +160,6 @@
     "0-inbox/JDBC.md",
     "0-inbox/DAO Design Pattern.md",
     "0-inbox/Java vs Typescript Basic syntax.md",
-    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
     "conflict-files-obsidian-git.md",
     "timestamps/2024/07-July/2024-07-26-Friday.md",
     "2-areas/fullstack-dev/database/enum type.md",
@@ -180,7 +181,6 @@
     "2-areas/Personal Growth",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/To install.md",
-    "0-inbox/My heart.md",
     "1-projects/Mom's trip",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
