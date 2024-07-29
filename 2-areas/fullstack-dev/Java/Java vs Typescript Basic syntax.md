@@ -2,6 +2,10 @@
 created: 2024-07-26T09:52
 updated: 2024-07-26T10:52
 ---
+#### Links: 
+java cheatsheet: https://introcs.cs.princeton.edu/java/11cheatsheet/
+
+
 ### Numbers
 ##### JavaScript/TypeScript
 ```TypeScript
