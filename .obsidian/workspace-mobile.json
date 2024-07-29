@@ -130,6 +130,14 @@
             "file": "0-inbox/Aletheia.md"
           }
         }
+      },
+      {
+        "id": "da82325524df95f8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
