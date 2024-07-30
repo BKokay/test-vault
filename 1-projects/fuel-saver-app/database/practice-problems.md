@@ -1,3 +1,7 @@
+---
+created: 2024-07-23T13:51
+updated: 2024-07-30T14:04
+---
 A set of practice problems from Georg
 -  give me a list of all gas station names which are between 51.02499, 6.77267 and 50.68641, 7.31435, sorted alphabetically
 	1.  SELECT station_name
@@ -24,12 +28,15 @@ A set of practice problems from Georg
 			GROUP BY drivers.id
 			ORDER BY total_fuel_consumed DESC
 - Calculate the total savings of each driver 
-	 1. SELECT d.id AS driver_id, SUM(fs.total_savings) as total_savings
+``` SQL
+SELECT d.id AS driver_id, SUM(fs.total_savings) as total_savings
 		 FROM fuel_saver.fuel_stops fs
 		 JOIN fuel_saver.devices dev ON fs.device_id = dev.id
 		 JOIN fuel_saver.drivers d ON dev.id = d.devices_id
 		 GROUP BY d.id
 		 ORDER BY total_savings DESC
+```
+
 
 Commands used:
 [[SELECT]], [[FROM]], [[JOIN]], [[SUM]], [[GROUP BY]], [[ORDER BY]], [[AS]], [[ON]], [[WHERE]]

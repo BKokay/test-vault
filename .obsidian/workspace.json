@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "1-projects/fuel-saver-app/database/practice-problems.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,9 +43,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4c4100164a8853ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/fullstack-dev/Java/Simple Command-Line program.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c42f1fd7acbc44ea",
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "timestamps/2024/07-July/2024-07-30-Tuesday.md",
+                "file": "1-projects/fuel-saver-app/database/practice-problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "timestamps/2024/07-July/2024-07-30-Tuesday.md",
+                "file": "1-projects/fuel-saver-app/database/practice-problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "timestamps/2024/07-July/2024-07-30-Tuesday.md"
+                "file": "1-projects/fuel-saver-app/database/practice-problems.md"
               }
             }
           },
@@ -202,14 +214,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae8a9a12afee76d8",
+  "active": "097f79251ea294ef",
   "lastOpenFiles": [
-    "2-areas/fullstack-dev/Java/servlet.md",
+    "2-areas/fullstack-dev/Java/Simple Command-Line program.md",
+    "2-areas/fullstack-dev/Java/Connect to database.md",
+    "2-areas/fullstack-dev/Java/JDBC.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
+    "2-areas/fullstack-dev/Java/servlet.md",
+    "timestamps/2024/07-July/2024-07-30-Tuesday.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
-    "timestamps/2024/07-July/2024-07-30-Tuesday.md",
     "conflict-files-obsidian-git.md",
     "2-areas/Personal Growth/Aletheia.md",
     "2-areas/Personal Growth/Brain Waves.md",
@@ -219,17 +234,14 @@
     "2-areas/fullstack-dev/Java/Java Generics.md",
     "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
     "0-inbox/Things to do in Bonn.md",
-    "2-areas/fullstack-dev/Java/JDBC.md",
     "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
     "0-inbox/To install.md",
-    "2-areas/fullstack-dev/Java/Connect to database.md",
     "2-areas/fullstack-dev/database/enum type.md",
     "2-areas/fullstack-dev/Java/pom.xml.md",
     "2-areas/fullstack-dev/Java/apache maven.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "timestamps/2024/07-July/2024-07-25-Thursday.md",
     "2-areas/fullstack-dev/Java/Java Variables.md",
-    "2-areas/fullstack-dev/Java/java-strings.md",
     "2-areas/fullstack-dev/Java",
     "2-areas/Personal Growth",
     "3-resources/images",

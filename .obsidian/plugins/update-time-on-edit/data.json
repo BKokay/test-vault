@@ -23,7 +23,7 @@
     "2-areas/fullstack-dev/Java/Java Variables.md": "4d518c2ee4535e00be1a944d1d45d84a045aba5888766e6bc4c70d29bf92f27c",
     "timestamps/2024/07-July/2024-07-26-Friday.md": "c7e6306a1e0f2e584361528aa26e700e932dfdf24715cdf6859cd76a062c0aa4",
     "2-areas/fullstack-dev/Java/pom.xml.md": "7396911864730e04c7105bd9de25b6a5465384ed0f1e316b9a8aa9412885b1a8",
-    "2-areas/fullstack-dev/Java/Connect to database.md": "fee50ddcd61e4e2c27f2c8ee14a5478ce0b195b09272761ab14985193eb141f7",
+    "2-areas/fullstack-dev/Java/Connect to database.md": "338f1f0e2a8d92954cfbff0f2de7596758981a8648e26514ceac052a85991a87",
     "2-areas/fullstack-dev/Java/apache maven.md": "06e0c26e0ed464bda8a6a98ba3bce32825ef16fc00c4ff60a6b714979ea22d39",
     "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md": "6fcb27a09bb8384e40cd230149c225faeedc022477445c42e6eb368c8b79b248",
     "0-inbox/Things to do in Bonn.md": "dfe6bbe00d29194327194b92c3e76c47e047692745415a53d7b8e7442489b38b",
@@ -34,7 +34,9 @@
     "2-areas/Personal Growth/Aletheia.md": "c502768e4f6a8c7bb782f0e95a85cbb6f16a383dbe6b5af928218dccd433f347",
     "2-areas/fullstack-dev/Java/DAO Design Pattern.md": "027a33d95f18f4b688684d3aa3dd355c9743335581341bc5b94b346db340d0a8",
     "2-areas/fullstack-dev/Java/Java Generics.md": "9ba25b174bc07998ee2e5e508099a07ac7b6b73ce8906cd2507a5705ff232059",
-    "2-areas/fullstack-dev/Java/JDBC.md": "00fab27e5f5c44c4633f7742b4271de1c46f120ab55e66177126d184c2267964",
-    "2-areas/fullstack-dev/Java/servlet.md": "e465405d059a59ec2cf9c6c82e060e70740cb9a97a1fd8d0745fd42f6b86489f"
+    "2-areas/fullstack-dev/Java/JDBC.md": "cc021e168546cff4217179a847ddea2fc100731aabd18e03981e30a6d0c758fe",
+    "2-areas/fullstack-dev/Java/servlet.md": "e465405d059a59ec2cf9c6c82e060e70740cb9a97a1fd8d0745fd42f6b86489f",
+    "2-areas/fullstack-dev/Java/Simple Command-Line program.md": "04a20f43c6b10a6f683f404b6734152890e1f9afc88ef2fff6ea7421f51c701e",
+    "1-projects/fuel-saver-app/database/practice-problems.md": "c8211e43c28556c3d75887b67b6fb145b94ee6cefb454ae02c925a03b23ab2a8"
   }
 }
