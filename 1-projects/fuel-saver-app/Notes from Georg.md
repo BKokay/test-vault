@@ -1,12 +1,12 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-07-26T13:53
+updated: 2024-07-30T10:29
 ---
 2024-07-24 13:36
 Steps write hello world in console
 [[apache maven]] convert to this kind of project
 add a database driver [[JDBC]] make the connection between JAVA and POSTGRES . WIll need a driver which is a middle wear. Then make with user input
-DAO [[dao design pattern]]
+DAO [[DAO Design Pattern]]
 
 Interfaces [[interface-java]]
 
@@ -19,7 +19,7 @@ Every class should go to one file.
 //public everyone can use
 private only the class
 package globally available in the package. 
-protected - any subclasses can inherit it
+[[protected]] - any subclasses can inherit it
 # Project evolves in these steps
 
 - [x] "Hello world" app running in the command line  

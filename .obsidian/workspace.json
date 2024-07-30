@@ -26,19 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/servlet.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5b571468f0dba582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Brain Waves.md",
+                "file": "2-areas/fullstack-dev/Java/servlet.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/servlet.md",
+                "file": "2-areas/fullstack-dev/Java/servlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/servlet.md",
+                "file": "2-areas/fullstack-dev/Java/servlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/servlet.md"
+                "file": "2-areas/fullstack-dev/Java/servlet.md"
               }
             }
           },
@@ -183,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,21 +190,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d68a3ad7a1366f6",
+  "active": "99fca5d54117d088",
   "lastOpenFiles": [
-    "0-inbox/Brain Waves.md",
-    "0-inbox/servlet.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
+    "2-areas/fullstack-dev/Java/servlet.md",
     "timestamps/2024/07-July/2024-07-30-Tuesday.md",
+    "2-areas/Personal Growth/Aletheia.md",
+    "2-areas/Personal Growth/Brain Waves.md",
     "timestamps/2024/07-July/2024-07-29-Monday.md",
     "0-inbox/To read on Monday.md",
     "conflict-files-obsidian-git.md",
-    "0-inbox/Aletheia.md",
     "timestamps/2024/07-July/2024-07-26-Friday.md",
-    "0-inbox/Java Generics.md",
-    "0-inbox/DAO Design Pattern.md",
+    "2-areas/fullstack-dev/Java/Java Generics.md",
+    "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
     "0-inbox/Things to do in Bonn.md",
-    "0-inbox/JDBC.md",
+    "2-areas/fullstack-dev/Java/JDBC.md",
     "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
     "0-inbox/To install.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
