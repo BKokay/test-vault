@@ -15,7 +15,7 @@
     "2-areas/fullstack-dev/Java/Eclipse IDE.md": "4f75bb06286534f118aac6464431bc723cfce20f1be6fea1dcee95a1ae4e3ece",
     "2-areas/fullstack-dev/database/SELECT.md": "325c82f8b9025e907946102a3f994bf1790372276e41640d83f9f0e915c467bb",
     "2-areas/fullstack-dev/database/GROUP BY.md": "73d81cea383c2b56253fe1ce7fd517208886ebc40574a94596d2fdeb2c8468b2",
-    "2-areas/fullstack-dev/Java/java-strings.md": "a2c42fd191b8291323df5803aced8fe955eaf853e1d725f7149a8564e659430a",
+    "2-areas/fullstack-dev/Java/java-strings.md": "5c923f1fe7fa4118887b40bbe987dd5cac84bf6409b0d7422b8b79ca83dd6f03",
     "2-areas/fullstack-dev/Java/int.md": "d499af615dfa68a6f133fa9e1ecce960b761af1ec57b31480b468c69437eb5d4",
     "2-areas/fullstack-dev/Java/float.md": "566b8de731100a7ae28eccf2cc63024c4f486a777f39585bb6e778bdb3fa910e",
     "2-areas/fullstack-dev/Java/char.md": "f5b38b4174e1c27b40b652ea8641e8973bfbc4c80a1c6fcfc682fc4f6fe1960b",
@@ -25,13 +25,14 @@
     "2-areas/fullstack-dev/Java/pom.xml.md": "7396911864730e04c7105bd9de25b6a5465384ed0f1e316b9a8aa9412885b1a8",
     "2-areas/fullstack-dev/Java/Connect to database.md": "fee50ddcd61e4e2c27f2c8ee14a5478ce0b195b09272761ab14985193eb141f7",
     "2-areas/fullstack-dev/Java/apache maven.md": "06e0c26e0ed464bda8a6a98ba3bce32825ef16fc00c4ff60a6b714979ea22d39",
-    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md": "76d77d1ce1e192a84c539488eecfc96be262e1559c7684ff6ab31412ab26e7b7",
+    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md": "6fcb27a09bb8384e40cd230149c225faeedc022477445c42e6eb368c8b79b248",
     "0-inbox/Things to do in Bonn.md": "dfe6bbe00d29194327194b92c3e76c47e047692745415a53d7b8e7442489b38b",
     "0-inbox/JDBC.md": "00fab27e5f5c44c4633f7742b4271de1c46f120ab55e66177126d184c2267964",
     "0-inbox/To read on Monday.md": "8638056d610de4704ced89e95f94b68c6a91371d15b774b5a15dbd19257e3ee6",
     "0-inbox/DAO Design Pattern.md": "27cacb87f0de518aa4a7b6dea040cfd9ebbd4029b6c8ad480f4e9cbe9b2c2c55",
     "0-inbox/Java Generics.md": "9ba25b174bc07998ee2e5e508099a07ac7b6b73ce8906cd2507a5705ff232059",
     "0-inbox/Aletheia.md": "840740cf813dc73ccb738053e4be0d36cd7ba95ea46733d1675826180004f5ee",
-    "conflict-files-obsidian-git.md": "56190977da506a32921258a2f6e80bed24e4c5e1adb5ebfb5948076b49954c80"
+    "conflict-files-obsidian-git.md": "56190977da506a32921258a2f6e80bed24e4c5e1adb5ebfb5948076b49954c80",
+    "timestamps/2024/07-July/2024-07-29-Monday.md": "9cd892332baeb8f0394def43be2e03f106799751f99be6e6b604ed0e17bf6797"
   }
 }
