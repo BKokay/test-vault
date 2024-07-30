@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md",
+                "file": "timestamps/2024/07-July/2024-07-30-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md",
+                "file": "timestamps/2024/07-July/2024-07-30-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md"
+                "file": "timestamps/2024/07-July/2024-07-30-Tuesday.md"
               }
             }
           },
@@ -202,13 +202,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d68a3ad7a1366f6",
+  "active": "ae8a9a12afee76d8",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/Java/servlet.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
-    "2-areas/fullstack-dev/Java/servlet.md",
     "timestamps/2024/07-July/2024-07-30-Tuesday.md",
     "conflict-files-obsidian-git.md",
     "2-areas/Personal Growth/Aletheia.md",
