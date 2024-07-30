@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8090742308c3b2ad",
+        "id": "79a17098b38f8b8a",
         "type": "tabs",
-        "dimension": 62.58949880668258,
         "children": [
           {
-            "id": "1510385845f46a62",
+            "id": "5e28641840345c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2d68a3ad7a1366f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/servlet.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5b571468f0dba582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Brain Waves.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c42f1fd7acbc44ea",
-        "type": "tabs",
-        "dimension": 37.41050119331742,
-        "children": [
-          {
-            "id": "ae8a9a12afee76d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "timestamps/2024/07-July/2024-07-30-Tuesday.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -114,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "3869704e863485cb",
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/servlet.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/servlet.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,20 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/servlet.md"
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
               }
             }
-          },
-          {
-            "id": "8a5448dabcbee6a2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,56 +138,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "2d68a3ad7a1366f6",
+  "active": "5e28641840345c69",
   "lastOpenFiles": [
-    "0-inbox/Brain Waves.md",
-    "0-inbox/servlet.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
     "timestamps/2024/07-July/2024-07-30-Tuesday.md",
-    "timestamps/2024/07-July/2024-07-29-Monday.md",
-    "0-inbox/To read on Monday.md",
+    "0-inbox/servlet.md",
+    "0-inbox/Brain Waves.md",
     "conflict-files-obsidian-git.md",
-    "0-inbox/Aletheia.md",
-    "timestamps/2024/07-July/2024-07-26-Friday.md",
-    "0-inbox/Java Generics.md",
-    "0-inbox/DAO Design Pattern.md",
-    "0-inbox/Things to do in Bonn.md",
-    "0-inbox/JDBC.md",
+    "0-inbox/To read on Monday.md",
+    "timestamps/2024/07-July/2024-07-29-Monday.md",
     "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
-    "0-inbox/To install.md",
-    "1-projects/fuel-saver-app/database/practice-problems.md",
-    "2-areas/fullstack-dev/Java/Connect to database.md",
-    "2-areas/fullstack-dev/database/enum type.md",
-    "2-areas/fullstack-dev/Java/pom.xml.md",
-    "2-areas/fullstack-dev/Java/apache maven.md",
-    "2-areas/fullstack-dev/Java/Eclipse IDE.md",
-    "timestamps/2024/07-July/2024-07-25-Thursday.md",
-    "2-areas/fullstack-dev/Java/Java Variables.md",
     "2-areas/fullstack-dev/Java/java-strings.md",
-    "2-areas/fullstack-dev/Java/boolean.md",
-    "2-areas/fullstack-dev/Java/char.md",
-    "2-areas/fullstack-dev/Java",
-    "2-areas/Personal Growth",
-    "3-resources/images",
+    "2-areas/fullstack-dev/Java/pom.xml.md",
+    "0-inbox/Things to do in Bonn.md",
+    "0-inbox/Aletheia.md",
+    "0-inbox/Java Generics.md",
+    "0-inbox/JDBC.md",
+    "0-inbox/DAO Design Pattern.md",
+    "0-inbox/Java vs Typescript Basic syntax.md",
+    "timestamps/2024/07-July/2024-07-26-Friday.md",
+    "2-areas/fullstack-dev/database/enum type.md",
+    "2-areas/fullstack-dev/Java/apache maven.md",
+    "2-areas/fullstack-dev/Java/Connect to database.md",
+    "timestamps/2024/07-July/2024-07-25-Thursday.md",
     "timestamps/2024/07-July",
     "timestamps/2024",
     "timestamps",
-    "2-areas/fullstack-dev/database",
-    "1-projects/fuel-saver-app/Java",
-    "3-resources/Java",
+    "templates/Template, Daily Note.md",
+    "2-areas/fullstack-dev/Java/int.md",
+    "2-areas/fullstack-dev/Java/float.md",
+    "2-areas/fullstack-dev/Java/char.md",
+    "2-areas/fullstack-dev/Java/boolean.md",
+    "2-areas/fullstack-dev/Java/Java Variables.md",
+    "2-areas/fullstack-dev/Java",
+    "2-areas/Personal Growth",
+    "1-projects/Mom's trip",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
     "IMG_4546.jpeg",
-    "3-resources/Learning"
+    "2-areas/fullstack-dev/database",
+    "3-resources/Obsidian",
+    "3-resources/Learning",
+    "2-areas/fullstack-dev/databases"
   ]
 }
