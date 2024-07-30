@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-07-30T10:29
+updated: 2024-07-30T11:16
 ---
 2024-07-24 13:36
 Steps write hello world in console
@@ -36,7 +36,7 @@ package globally available in the package.
 # In between these steps
 
 - Use connection pool for DB  
-- Logging  
+- Logging  [[log4j]]
 - Connect it to Sonarqube  
 - Unit Tests  
 - Deregister DB driver on shutdown / restart  
