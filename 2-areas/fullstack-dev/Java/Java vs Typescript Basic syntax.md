@@ -1,10 +1,10 @@
 ---
 created: 2024-07-26T09:52
-updated: 2024-07-30T09:08
+updated: 2024-07-31T12:00
 ---
 #### Links: 
 java cheatsheet: https://introcs.cs.princeton.edu/java/11cheatsheet/
-
+[[java]]
 
 ### Numbers
 ##### JavaScript/TypeScript

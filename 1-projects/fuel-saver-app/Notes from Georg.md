@@ -1,9 +1,9 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-07-30T14:45
+updated: 2024-07-31T12:01
 ---
 2024-07-24 13:36
-Steps write hello world in console
+Steps write hello world in console in [[java]]
 [[apache maven]] convert to this kind of project
 add a database driver [[JDBC]] make the connection between JAVA and POSTGRES . WIll need a driver which is a middle wear. Then make with user input
 DAO [[DAO Design Pattern]]

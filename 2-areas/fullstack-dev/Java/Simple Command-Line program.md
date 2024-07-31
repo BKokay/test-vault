@@ -1,8 +1,8 @@
 ---
 created: 2024-07-30T13:23
-updated: 2024-07-30T13:52
+updated: 2024-07-31T12:01
 ---
-[[java.util]] [[java.util.Scanner]]
+[[java.util]] [[java.util.Scanner]] [[java]]
 
 ```java
 

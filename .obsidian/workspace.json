@@ -9,55 +9,18 @@
         "dimension": 62.58949880668258,
         "children": [
           {
-            "id": "1510385845f46a62",
+            "id": "fe191c7a79eff9e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "097f79251ea294ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/database/practice-problems.md",
+                "file": "0-inbox/What is a runnable.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2d68a3ad7a1366f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4c4100164a8853ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Simple Command-Line program.md",
-                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c42f1fd7acbc44ea",
@@ -70,26 +33,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timestamps/2024/07-July/2024-07-30-Tuesday.md",
+                "file": "timestamps/2024/07-July/2024-07-31-Wednesday.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "8a9f8a0c8b448276",
+            "id": "ac136bf39a1aae2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Meg Sullivan about DevEd.md",
+                "file": "3-resources/Learning/Tactic Knowledge.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Meg Sullivan about DevEd.md",
+                "file": "0-inbox/What is a runnable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Meg Sullivan about DevEd.md",
+                "file": "0-inbox/What is a runnable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Meg Sullivan about DevEd.md"
+                "file": "0-inbox/What is a runnable.md"
               }
             }
           },
@@ -227,34 +189,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a9f8a0c8b448276",
+  "active": "fe191c7a79eff9e6",
   "lastOpenFiles": [
-    "timestamps/2024/07-July/2024-07-30-Tuesday.md",
-    "0-inbox/Meg Sullivan about DevEd.md",
-    "2-areas/fullstack-dev/Java/java-strings.md",
-    "templates/Template, Daily Note.md",
-    "2-areas/fullstack-dev/database/Commands.md",
-    "2-areas/fullstack-dev/database/JOIN.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
-    "1-projects/fuel-saver-app/database/practice-problems.md",
+    "0-inbox/what is a thread.md",
+    "0-inbox/What is a runnable.md",
+    "0-inbox/what does @Override do.md",
+    "0-inbox/lambda expressions.md",
+    "0-inbox/Java Links.md",
+    "0-inbox/java-method-references.md",
+    "0-inbox/functional interfaces.md",
+    "2-areas/fullstack-dev/Java/Benefits of threading.md",
+    "2-areas/fullstack-dev/Java/accidental overloading.md",
     "2-areas/fullstack-dev/Java/Simple Command-Line program.md",
-    "2-areas/fullstack-dev/Java/Connect to database.md",
-    "2-areas/fullstack-dev/Java/JDBC.md",
     "2-areas/fullstack-dev/Java/servlet.md",
-    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
-    "conflict-files-obsidian-git.md",
-    "2-areas/Personal Growth/Aletheia.md",
-    "2-areas/Personal Growth/Brain Waves.md",
-    "timestamps/2024/07-July/2024-07-29-Monday.md",
-    "0-inbox/To read on Monday.md",
-    "timestamps/2024/07-July/2024-07-26-Friday.md",
-    "2-areas/fullstack-dev/Java/Java Generics.md",
-    "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
-    "0-inbox/Things to do in Bonn.md",
-    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
-    "0-inbox/To install.md",
+    "2-areas/fullstack-dev/Java/Java Variables.md",
+    "lambda expressions compare/contrast examples.md",
+    "0-inbox/web container.md",
     "2-areas/fullstack-dev/database/enum type.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "2-areas/fullstack-dev/Java/pom.xml.md",
+    "2-areas/fullstack-dev/Java/JDBC.md",
+    "2-areas/fullstack-dev/Java/java-strings.md",
+    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
+    "2-areas/fullstack-dev/Java/Java Generics.md",
+    "2-areas/fullstack-dev/Java/int.md",
+    "2-areas/fullstack-dev/Java/float.md",
+    "2-areas/fullstack-dev/Java/Eclipse IDE.md",
+    "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
+    "lambda expressions compare",
+    "2-areas/Professional Growth",
     "2-areas/fullstack-dev/Java",
     "2-areas/Personal Growth",
     "3-resources/images",
@@ -263,10 +227,8 @@
     "timestamps",
     "2-areas/fullstack-dev/database",
     "1-projects/fuel-saver-app/Java",
-    "3-resources/Java",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
-    "IMG_4546.jpeg",
-    "3-resources/Learning"
+    "IMG_4546.jpeg"
   ]
 }

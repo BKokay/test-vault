@@ -1,6 +1,6 @@
 ---
 created: 2024-07-25T15:19
-updated: 2024-07-30T13:51
+updated: 2024-07-31T11:58
 ---
 ``` java
 package de.infoware.test;
@@ -45,3 +45,4 @@ public class Test {
 ```
 
 use [[JDBC]] to establish a connection to a database
+[[java]]

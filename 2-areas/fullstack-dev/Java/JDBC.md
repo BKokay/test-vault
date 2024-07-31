@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T13:40
-updated: 2024-07-30T13:50
+updated: 2024-07-31T12:00
 ---
 JDBC - Java Database Connectivity
 
@@ -34,3 +34,5 @@ public class DB {
 ```
 
 Then [[Connect to database | create a connector class]] which uses this class. 
+
+[[java]]
