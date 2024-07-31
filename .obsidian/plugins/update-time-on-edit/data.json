@@ -40,15 +40,16 @@
     "3-resources/Learning/Tactic Knowledge.md": "695703855c7974f87395c8abdc70c1a08d5e77016538d1e20af097af1b879183",
     "2-areas/Professional Growth/Meg Sullivan about DevEd.md": "fdc00c8e89310cb962dd6b1677114fd3a834d98aebc5efdd083802328ee2bc8b",
     "timestamps/2024/07-July/2024-07-31-Wednesday.md": "e621186dd64a3e9a408591daed8dc6490faa43926beaf4cc34bf67bc0fbfd581",
-    "0-inbox/java-method-references.md": "a3fe98f63bc01a1b4e0099256971b378f23b1ac537b85b91a9394a8feb6305c5",
-    "0-inbox/lambda expressions.md": "ba53baed1324b206e07424ee9b61df28f480ae904e01697b35f645069e114215",
+    "0-inbox/java-method-references.md": "c84413587823bc94d77e85f3731c34c5765bee2a32332fa54800e2ea3e7063d0",
     "0-inbox/functional interfaces.md": "373fa7f1fad173be5fc2d4928dc90019b4be5ee22aea26425243625d1cb1c859",
     "lambda expressions compare/contrast examples.md": "0f663c27255c7a25e8b41d5de11d2e75829b24fc486c5f20bee1021cf9ffef16",
-    "0-inbox/what does @Override do.md": "07cee138f178ccc7733f9662e930b8238e351d3033b6f42debc8d572ffc4d1c6",
-    "0-inbox/what is a thread.md": "9297ff39d1518a8d3b8aa990224257ec383d58eae3856aac4a7f9a823fd24f5e",
     "0-inbox/Java Links.md": "8fa7ef7d50ea6f09a280ce4b39dba1ae4fc5c6c0e8d0d3ae24f1d6b44fe5629d",
     "2-areas/fullstack-dev/database/enum type.md": "5dc12395fbdbd1291d4cb0c54ede75a7c0db6f159daca2015aed340237a14024",
     "2-areas/fullstack-dev/Java/accidental overloading.md": "05f951a7237210544fcab9d7403a851cba69d4ff618510407b87e151898cb057",
-    "2-areas/fullstack-dev/Java/Benefits of threading.md": "50c91e57581d1dd907fc05cb067ea735932e7ad220e346b1ad294f16cc4d72d9"
+    "2-areas/fullstack-dev/Java/Benefits of threading.md": "50c91e57581d1dd907fc05cb067ea735932e7ad220e346b1ad294f16cc4d72d9",
+    "2-areas/fullstack-dev/Java/What is a runnable.md": "b6abe4975dd69ac9b43664bb0303a45ccdeacdb0d285dfb9a24b3aba328a9b4b",
+    "2-areas/fullstack-dev/Java/what does @Override do.md": "07cee138f178ccc7733f9662e930b8238e351d3033b6f42debc8d572ffc4d1c6",
+    "2-areas/fullstack-dev/Java/what is a thread.md": "9297ff39d1518a8d3b8aa990224257ec383d58eae3856aac4a7f9a823fd24f5e",
+    "2-areas/fullstack-dev/Java/lambda expressions.md": "ba53baed1324b206e07424ee9b61df28f480ae904e01697b35f645069e114215"
   }
 }

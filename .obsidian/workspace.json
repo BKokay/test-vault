@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/What is a runnable.md",
+                "file": "0-inbox/java-method-references.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/What is a runnable.md",
+                "file": "0-inbox/java-method-references.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/What is a runnable.md",
+                "file": "0-inbox/java-method-references.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/What is a runnable.md"
+                "file": "0-inbox/java-method-references.md"
               }
             }
           },
@@ -191,10 +191,10 @@
   },
   "active": "fe191c7a79eff9e6",
   "lastOpenFiles": [
-    "0-inbox/what is a thread.md",
-    "0-inbox/What is a runnable.md",
-    "0-inbox/what does @Override do.md",
-    "0-inbox/lambda expressions.md",
+    "2-areas/fullstack-dev/Java/lambda expressions.md",
+    "2-areas/fullstack-dev/Java/what is a thread.md",
+    "2-areas/fullstack-dev/Java/What is a runnable.md",
+    "2-areas/fullstack-dev/Java/what does @Override do.md",
     "0-inbox/Java Links.md",
     "0-inbox/java-method-references.md",
     "0-inbox/functional interfaces.md",
