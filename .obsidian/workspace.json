@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/java-method-references.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/java-method-references.md",
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/java-method-references.md",
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/java-method-references.md"
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md"
               }
             }
           },
@@ -189,8 +189,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe191c7a79eff9e6",
+  "active": "ae8a9a12afee76d8",
   "lastOpenFiles": [
+    "0-inbox/java-method-references.md",
     "timestamps/2024/08-August/2024-08-01-Thursday.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "timestamps/2024/07-July/2024-07-31-Wednesday.md",
@@ -204,7 +205,6 @@
     "Timestamps/2024/08-August",
     "Timestamps/2024/07-July",
     "Timestamps/2024",
-    "0-inbox/java-method-references.md",
     "2-areas/fullstack-dev/Java/lambda expressions.md",
     "2-areas/fullstack-dev/Java/what is a thread.md",
     "2-areas/fullstack-dev/Java/What is a runnable.md",
