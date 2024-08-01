@@ -1,6 +1,6 @@
 ---
 created: 2024-07-25T09:51
-updated: 2024-07-31T11:59
+updated: 2024-08-01T14:35
 ---
 - To see the welcome screen, got to help/welcome
 - New project file/new
@@ -11,5 +11,5 @@ updated: 2024-07-31T11:59
 - System.out.println("Hello World!") that is a "L" not an uppercase "i" [[java-strings]]
 - To automatically run in the console, press Alt + Shift X then J after letting go. 
 - ctrl + shift +  f to auto format 
-
+- split screen - Ctrl + Shift + [ (accessing {) for **split vertically**.
 [[java]]
