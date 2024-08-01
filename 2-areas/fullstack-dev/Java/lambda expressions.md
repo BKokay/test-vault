@@ -1,6 +1,6 @@
 ---
 created: 2024-07-31T10:41
-updated: 2024-07-31T11:24
+updated: 2024-08-01T10:20
 ---
 Lambda expressions allow you to write more concise and readable code when dealing with [[functional interfaces]]. They provide a way to create anonymous methods that can be passed around as if they were objects. They are comparable to [[javascript arrow functions]]. 
 
@@ -11,7 +11,7 @@ Lambda expressions allow you to write more concise and readable code when dealin
 (int a, int b) -> a + b //will return their sum 
 ```
 
-[[lambda expressions compare/contrast examples]]
+[[lambda examples]]
 
 ### Benefits: 
 1. Conciseness

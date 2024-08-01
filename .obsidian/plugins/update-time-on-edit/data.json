@@ -24,7 +24,7 @@
     "timestamps/2024/07-July/2024-07-26-Friday.md": "bd9b6f3b9983daaa4805fb1fbff7d86371ae1a8424f24f71a8cd16b62d60d034",
     "2-areas/fullstack-dev/Java/pom.xml.md": "500fed67ce24a1c04d4d587ee1b60f20a8b5b9f60f398ace317acbdd207ab437",
     "2-areas/fullstack-dev/Java/Connect to database.md": "dec80c6140666a5bba386e1c603fe811b69cc8db9727100870b4c54bba7cf79b",
-    "2-areas/fullstack-dev/Java/apache maven.md": "67690644b8943d09b3b1d110784cea633ffb27d27cb2c357bb300a552176d702",
+    "2-areas/fullstack-dev/Java/apache maven.md": "c5824e644bbb14c45a0ae1f997bb7fb7d66276b86fcd55dd5fca312ba580bc77",
     "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md": "ffb9273923fb55aeb85235f9a34c17d9c07bb38a6d55a8efdf6e5d8e5b21a906",
     "0-inbox/Things to do in Bonn.md": "dfe6bbe00d29194327194b92c3e76c47e047692745415a53d7b8e7442489b38b",
     "timestamps/2024/07-July/2024-07-29-Monday.md": "2143e1f0db1aa4e680d341c652dc890b025c573e78bbf81b1d7b4a8a90232870",
@@ -40,9 +40,6 @@
     "3-resources/Learning/Tactic Knowledge.md": "695703855c7974f87395c8abdc70c1a08d5e77016538d1e20af097af1b879183",
     "2-areas/Professional Growth/Meg Sullivan about DevEd.md": "fdc00c8e89310cb962dd6b1677114fd3a834d98aebc5efdd083802328ee2bc8b",
     "timestamps/2024/07-July/2024-07-31-Wednesday.md": "fc3b9a070a77802683dd3729b781f21169b59cc3318965a5e82531face3c590f",
-    "0-inbox/java-method-references.md": "c84413587823bc94d77e85f3731c34c5765bee2a32332fa54800e2ea3e7063d0",
-    "0-inbox/functional interfaces.md": "373fa7f1fad173be5fc2d4928dc90019b4be5ee22aea26425243625d1cb1c859",
-    "lambda expressions compare/contrast examples.md": "0f663c27255c7a25e8b41d5de11d2e75829b24fc486c5f20bee1021cf9ffef16",
     "0-inbox/Java Links.md": "8fa7ef7d50ea6f09a280ce4b39dba1ae4fc5c6c0e8d0d3ae24f1d6b44fe5629d",
     "2-areas/fullstack-dev/database/enum type.md": "5dc12395fbdbd1291d4cb0c54ede75a7c0db6f159daca2015aed340237a14024",
     "2-areas/fullstack-dev/Java/accidental overloading.md": "05f951a7237210544fcab9d7403a851cba69d4ff618510407b87e151898cb057",
@@ -50,12 +47,15 @@
     "2-areas/fullstack-dev/Java/What is a runnable.md": "b6abe4975dd69ac9b43664bb0303a45ccdeacdb0d285dfb9a24b3aba328a9b4b",
     "2-areas/fullstack-dev/Java/what does @Override do.md": "07cee138f178ccc7733f9662e930b8238e351d3033b6f42debc8d572ffc4d1c6",
     "2-areas/fullstack-dev/Java/what is a thread.md": "9297ff39d1518a8d3b8aa990224257ec383d58eae3856aac4a7f9a823fd24f5e",
-    "2-areas/fullstack-dev/Java/lambda expressions.md": "ba53baed1324b206e07424ee9b61df28f480ae904e01697b35f645069e114215",
+    "2-areas/fullstack-dev/Java/lambda expressions.md": "27e1f240002a878beb77a5ab9c4961124a294ea4f71f91cdf74385ba19f3366e",
     "Timestamps/2024/07-July/2024-07-30-Tuesday.md": "5803f4eacb78d64a8cddbd2e5d233c3a696f6dd03a6785478d7c0eabf59c8caa",
     "Timestamps/2024/07-July/2024-07-25-Thursday.md": "e70fea0fe2d477309a5e674f86394f7fee9d9344c0c139d2b6529294e17d3472",
     "Timestamps/2024/07-July/2024-07-31-Wednesday.md": "fc3b9a070a77802683dd3729b781f21169b59cc3318965a5e82531face3c590f",
     "Timestamps/2024/07-July/2024-07-29-Monday.md": "2143e1f0db1aa4e680d341c652dc890b025c573e78bbf81b1d7b4a8a90232870",
     "Timestamps/2024/07-July/2024-07-26-Friday.md": "bd9b6f3b9983daaa4805fb1fbff7d86371ae1a8424f24f71a8cd16b62d60d034",
-    "timestamps/2024/08-August/2024-08-01-Thursday.md": "994b06349ef0c4630bd5046b5c89bcc3fc2f7c758ab0035e758c1aa474e28179"
+    "timestamps/2024/08-August/2024-08-01-Thursday.md": "994b06349ef0c4630bd5046b5c89bcc3fc2f7c758ab0035e758c1aa474e28179",
+    "2-areas/fullstack-dev/Java/lambda examples.md": "0f663c27255c7a25e8b41d5de11d2e75829b24fc486c5f20bee1021cf9ffef16",
+    "2-areas/fullstack-dev/Java/functional interfaces.md": "373fa7f1fad173be5fc2d4928dc90019b4be5ee22aea26425243625d1cb1c859",
+    "2-areas/fullstack-dev/Java/java-method-references.md": "c84413587823bc94d77e85f3731c34c5765bee2a32332fa54800e2ea3e7063d0"
   }
 }
