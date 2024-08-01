@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-07-31T12:01
+updated: 2024-08-01T12:03
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -43,7 +43,7 @@ package globally available in the package.
 - Switch from lat / lon to PostGIS  
 - Switch numeric IDs to UUIDs
 
-Great! About the design: You should create one class for every table (Driver, GasStation, FuelStop) and one DAO class each. And the main program with the main method in a separate class. And you can start to organize your classes in sub packages, e.g. "domain" for Driver etc., "database" for the database connector and the DAOs - how you organize them is a matter of taste ![🙂]
+Great! About the design: You should create one class for every table (Driver, GasStation, FuelStop) and one [[DAO Design Pattern | DAO]] class each. And the main program with the main method in a separate class. And you can start to organize your classes in sub packages, e.g. "domain" for Driver etc., "database" for the database connector and the DAOs - how you organize them is a matter of taste ![🙂]
 
 and it would be nice to have a common interface for the DAO classes, like in this tutorial: [https://www.baeldung.com/java-dao-pattern](https://www.baeldung.com/java-dao-pattern "https://www.baeldung.com/java-dao-pattern")
 ## Links:

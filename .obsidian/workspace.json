@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/apache maven.md",
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Learning/Tactic Knowledge.md",
+                "file": "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "2d59c9c5c3420789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/apache maven.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/apache maven.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/apache maven.md"
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
               }
             }
           },
@@ -169,11 +182,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae8a9a12afee76d8",
+  "active": "2d59c9c5c3420789",
   "lastOpenFiles": [
-    "3-resources/Learning/Tactic Knowledge.md",
-    "2-areas/fullstack-dev/Java/apache maven.md",
+    "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
+    "3-resources/Learning/Tactic Knowledge.md",
+    "timestamps/2024/08-August/2024-08-01-Thursday.md",
+    "2-areas/fullstack-dev/Java/apache maven.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "2-areas/fullstack-dev/Java/java-method-references.md",
     "2-areas/fullstack-dev/Java/functional interfaces.md",
@@ -181,7 +196,6 @@
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-    "timestamps/2024/08-August/2024-08-01-Thursday.md",
     "3-resources/images/IMG_4546.jpeg",
     "timestamps/2024/07-July/2024-07-31-Wednesday.md",
     "timestamps/2024/07-July/2024-07-30-Tuesday.md",
@@ -194,7 +208,6 @@
     "2-areas/fullstack-dev/Java/servlet.md",
     "2-areas/fullstack-dev/Java/pom.xml.md",
     "2-areas/fullstack-dev/Java/JDBC.md",
-    "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
     "2-areas/fullstack-dev/Java/Connect to database.md",
     "Timestamps/2024/08-August/2024-08-01-Thursday.md",
     "timestamps/2024/08-August",
