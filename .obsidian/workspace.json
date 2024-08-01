@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/java-method-references.md",
-                "mode": "preview",
+                "file": "2-areas/fullstack-dev/Java/apache maven.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
+                "file": "2-areas/fullstack-dev/Java/apache maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
+                "file": "2-areas/fullstack-dev/Java/apache maven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md"
+                "file": "2-areas/fullstack-dev/Java/apache maven.md"
               }
             }
           },
@@ -189,11 +189,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae8a9a12afee76d8",
+  "active": "fe191c7a79eff9e6",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/java-method-references.md",
     "timestamps/2024/08-August/2024-08-01-Thursday.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
     "timestamps/2024/07-July/2024-07-31-Wednesday.md",
     "Timestamps/2024/08-August/2024-08-01-Thursday.md",
     "timestamps/2024/08-August",
