@@ -30,7 +30,7 @@
     "timestamps/2024/07-July/2024-07-29-Monday.md": "2143e1f0db1aa4e680d341c652dc890b025c573e78bbf81b1d7b4a8a90232870",
     "timestamps/2024/07-July/2024-07-30-Tuesday.md": "5803f4eacb78d64a8cddbd2e5d233c3a696f6dd03a6785478d7c0eabf59c8caa",
     "2-areas/Personal Growth/Brain Waves.md": "40026e6cf2e124a5d5f5b6e31d5645922f2e1c40c609d749a57bf7884e6a3386",
-    "2-areas/Personal Growth/Aletheia.md": "7f0b516aa9576069b72b175c8cb6ce34749b41427e2015e5f4b50da6ad7221dc",
+    "2-areas/Personal Growth/Aletheia.md": "30ef58235b1e4c5072b25e7ae0d6c4e508e10c07ffa0b196df9a2ebd47b621eb",
     "2-areas/fullstack-dev/Java/DAO Design Pattern.md": "f41fa4f8c51e82ac4567de34456e2f65bbabece8205e45cac717ae02082bc064",
     "2-areas/fullstack-dev/Java/Java Generics.md": "71078c45a7b1aeb440cfbd02928588fde79f1aa498bd8a7a89b63b7dd39ab244",
     "2-areas/fullstack-dev/Java/JDBC.md": "e4d2166e66046b7caebeb60b3ba0492ad86482d2b1bf007c0744231e74653d46",
@@ -58,13 +58,12 @@
     "2-areas/fullstack-dev/Java/functional interfaces.md": "373fa7f1fad173be5fc2d4928dc90019b4be5ee22aea26425243625d1cb1c859",
     "2-areas/fullstack-dev/Java/java-method-references.md": "c84413587823bc94d77e85f3731c34c5765bee2a32332fa54800e2ea3e7063d0",
     "0-inbox/Schwab.md": "437ea554cd0b6829c4ded08e39cfdf9004b269557d97ea76119d4f7a1ddac350",
-    "0-inbox/Refridgerator.md": "a78a896b86287d079660c42180d0af88aa1a4bd99959f33689f7aad615fb9e9a",
+    "0-inbox/Refridgerator.md": "6861959188ece486192b019b51eef9197077cc5cb76108671b14a233a9354988",
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md": "45fa76272dda7281112381cc35dab5ff7f5e7652f03f39141b64a215717cf5d3",
     "2-areas/fullstack-dev/Java/business logic.md": "dc2ab9f4ac8696204c1245da08ac1b524e1ac63c0365b1e0189a3de97c86744b",
     "2-areas/fullstack-dev/Java/business rules.md": "6bade06efe555ebca5913196806ab1b5ea781746ab8968d6cb4e04413254aa12",
     "2-areas/fullstack-dev/Java/Class Diagram fuel saver.md": "f43ecd08e2bec11d1fcde67b684095ea9837029541055d5b817e4a86a63d4d65",
     "2-areas/fullstack-dev/Java/getter and setter methods.md": "be1d78128f0291387c102473ddff468e64a47e0c16239d48b70d54d7698c0a65",
-    "2-areas/fullstack-dev/Java/internal state.md": "944ee557ac3dcd0dbe0535584325b60834334eee2c4a92c8999253f110ad013c",
-    "0-inbox/poetic attunement.md": "52d21057f8e380b137778cb92f6cc926e19f756de8df71b216af246e094f0329"
+    "2-areas/fullstack-dev/Java/internal state.md": "944ee557ac3dcd0dbe0535584325b60834334eee2c4a92c8999253f110ad013c"
   }
 }
