@@ -1,6 +1,6 @@
 ---
 created: 2024-07-29T08:19
-updated: 2024-08-02T06:03
+updated: 2024-08-02T09:17
 ---
 2024-07-28 18:33
 <% tp.file.cursor() %>
@@ -14,7 +14,7 @@ Presence and absence
 
 Clients could spontaneously shift up and down through the different depths within a single coaching session. 
 
-What is [[poetic attunement? ]]
+What is [[poetic attunement]]
 
 ## Links:
 
