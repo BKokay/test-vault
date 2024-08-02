@@ -9,7 +9,7 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "templates/Template, Daily Note.md": "b67340a2d8a2fd71949696986216d5eae98ff77359763b53ec2a91a87f1f5c6c",
-    "timestamps/2024/07-July/2024-07-25-Thursday.md": "e70fea0fe2d477309a5e674f86394f7fee9d9344c0c139d2b6529294e17d3472",
+    "timestamps/2024/07-July/2024-07-25-Thursday.md": "f48d315edfe9d21535dc722a52cfa12871aeada2df95de668bdbe933e6378827",
     "2-areas/Personal Growth/My heart.md": "4394c5f412b232d81e6e0e8da1d4fd6579ad4129ebd09ff97c18b73a31bd8d94",
     "1-projects/fuel-saver-app/Notes from Georg.md": "6b5b9a79b67a38ac24b5fb2608b4a92f393a755db9e9e24f740dcab1ab8a7b7b",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md": "50f2d74cb5f850a81338b2b29ca161e714f3103b676f79a011c9dcd28b1e7bee",
@@ -53,7 +53,7 @@
     "Timestamps/2024/07-July/2024-07-31-Wednesday.md": "fc3b9a070a77802683dd3729b781f21169b59cc3318965a5e82531face3c590f",
     "Timestamps/2024/07-July/2024-07-29-Monday.md": "2143e1f0db1aa4e680d341c652dc890b025c573e78bbf81b1d7b4a8a90232870",
     "Timestamps/2024/07-July/2024-07-26-Friday.md": "bd9b6f3b9983daaa4805fb1fbff7d86371ae1a8424f24f71a8cd16b62d60d034",
-    "timestamps/2024/08-August/2024-08-01-Thursday.md": "25a987f1a3debf4b60cbc0543c7eb34fd683999cf293490442b179ee38b1d50a",
+    "timestamps/2024/08-August/2024-08-01-Thursday.md": "4022db606109143e27ad9763eafaf4be8bf55f810f943b64c4101cb996c45417",
     "2-areas/fullstack-dev/Java/lambda examples.md": "0f663c27255c7a25e8b41d5de11d2e75829b24fc486c5f20bee1021cf9ffef16",
     "2-areas/fullstack-dev/Java/functional interfaces.md": "373fa7f1fad173be5fc2d4928dc90019b4be5ee22aea26425243625d1cb1c859",
     "2-areas/fullstack-dev/Java/java-method-references.md": "c84413587823bc94d77e85f3731c34c5765bee2a32332fa54800e2ea3e7063d0",
@@ -65,6 +65,8 @@
     "2-areas/fullstack-dev/Java/Class Diagram fuel saver.md": "f43ecd08e2bec11d1fcde67b684095ea9837029541055d5b817e4a86a63d4d65",
     "2-areas/fullstack-dev/Java/getter and setter methods.md": "be1d78128f0291387c102473ddff468e64a47e0c16239d48b70d54d7698c0a65",
     "2-areas/fullstack-dev/Java/internal state.md": "944ee557ac3dcd0dbe0535584325b60834334eee2c4a92c8999253f110ad013c",
-    "0-inbox/poetic attunement.md": "872090cc35714f47cfdadac31235a4ac5cb57b822d79db41571dfce55dbcb777"
+    "0-inbox/To install.md": "05f3df71bb83a0e1b64fed6c021a6d305aad7a2189b60abf9c5aae802c2c7d5a",
+    "0-inbox/Personas.md": "b0e7a8c0e8f6fe1badef80e5962eb8cc93e03cb2306987800555c1c68b036fa7",
+    "2-areas/Personal Growth/poetic attunement.md": "872090cc35714f47cfdadac31235a4ac5cb57b822d79db41571dfce55dbcb777"
   }
 }

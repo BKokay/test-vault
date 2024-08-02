@@ -18,62 +18,13 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ac136bf39a1aae2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9b4a5a0aaf163f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/Personal Growth/Aletheia.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2d59c9c5c3420789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a57767effc244fe9",
         "type": "tabs",
         "children": [
-          {
-            "id": "5031523a83109475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
           {
             "id": "3f00f5f83cb2d6b7",
             "type": "leaf",
@@ -97,8 +48,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fc24f1978be95144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/Personal Growth/Aletheia.md",
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/Personal Growth/Aletheia.md",
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Personal Growth/Aletheia.md"
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md"
               }
             }
           },
@@ -236,35 +200,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b4a5a0aaf163f67",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
-    "timestamps/2024/08-August/2024-08-02-Friday.md",
-    "2-areas/Personal Growth/Aletheia.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
     "timestamps/2024/08-August/2024-08-01-Thursday.md",
-    "0-inbox/poetic attunement.md",
+    "0-inbox/Untitled.md",
+    "0-inbox/To install.md",
+    "timestamps/2024/07-July/2024-07-25-Thursday.md",
+    "templates/Template, Daily Note.md",
+    "2-areas/fullstack-dev/Java/business logic.md",
+    "0-inbox/Personas.md",
+    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+    "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
+    "2-areas/Personal Growth/Aletheia.md",
+    "timestamps/2024/08-August/2024-08-02-Friday.md",
+    "2-areas/Personal Growth/poetic attunement.md",
     "Timestamps/2024/08-August/2024-08-02-Friday.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "0-inbox/Refridgerator.md",
     "0-inbox/Java Links.md",
     "2-areas/fullstack-dev/Java/Class Diagram fuel saver.md",
-    "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
     "2-areas/fullstack-dev/Java/getter and setter methods.md",
     "2-areas/fullstack-dev/Java/internal state.md",
     "2-areas/fullstack-dev/Java/business rules.md",
-    "2-areas/fullstack-dev/Java/business logic.md",
-    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "0-inbox/Schwab.md",
     "3-resources/Learning/Tactic Knowledge.md",
     "2-areas/fullstack-dev/Java/apache maven.md",
-    "2-areas/fullstack-dev/Java/java-method-references.md",
-    "2-areas/fullstack-dev/Java/functional interfaces.md",
     "3-resources/images/IMG_4546.jpeg",
-    "timestamps/2024/07-July/2024-07-31-Wednesday.md",
-    "timestamps/2024/07-July/2024-07-30-Tuesday.md",
-    "timestamps/2024/07-July/2024-07-29-Monday.md",
     "timestamps/2024/08-August",
     "Timestamps/2024/08-August",
     "Timestamps/2024/07-July",
