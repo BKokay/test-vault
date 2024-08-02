@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-                "mode": "preview",
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md"
+                "file": "timestamps/2024/08-August/2024-08-01-Thursday.md"
               }
             }
           },
@@ -238,6 +238,10 @@
   },
   "active": "9b4a5a0aaf163f67",
   "lastOpenFiles": [
+    "timestamps/2024/08-August/2024-08-02-Friday.md",
+    "Timestamps/2024/08-August/2024-08-02-Friday.md",
+    "timestamps/2024/08-August/2024-08-01-Thursday.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "0-inbox/Refridgerator.md",
     "0-inbox/Java Links.md",
@@ -250,10 +254,8 @@
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
-    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "0-inbox/Schwab.md",
     "3-resources/Learning/Tactic Knowledge.md",
-    "timestamps/2024/08-August/2024-08-01-Thursday.md",
     "2-areas/fullstack-dev/Java/apache maven.md",
     "2-areas/fullstack-dev/Java/java-method-references.md",
     "2-areas/fullstack-dev/Java/functional interfaces.md",
@@ -263,8 +265,6 @@
     "timestamps/2024/07-July/2024-07-29-Monday.md",
     "timestamps/2024/07-July/2024-07-26-Friday.md",
     "timestamps/2024/07-July/2024-07-25-Thursday.md",
-    "2-areas/fullstack-dev/Java/lambda examples.md",
-    "2-areas/fullstack-dev/Java/what does @Override do.md",
     "timestamps/2024/08-August",
     "Timestamps/2024/08-August",
     "Timestamps/2024/07-July",
