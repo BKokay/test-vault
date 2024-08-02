@@ -1,10 +1,11 @@
 ---
 created: 2024-07-26T13:55
-updated: 2024-08-01T14:27
+updated: 2024-08-02T11:31
 ---
 2024-07-26 14:20
-#### DAO (Data Access Object) [[Design Pattern]]
-This pattern separates low level data access code from high-level business logic. This [[abstraction]] allows your code to remain modular, easier to test and debug, and easier to maintain. 
+#### DAO (Data Access Object) [[Design Pattern]] [[Classes needed for design]]
+This pattern separates low level data access code from high-level business logic. This [[abstraction]] allows your code to remain modular, easier to test and debug, and easier to maintain. The decoupling of each layer allows you to easily switch out different parts of your program - change the OSM, change the implementation of the database interaction, and create mock implementations for testing. 
+
 **Abstraction Layer** the DAO acts as an intermediary between your application and the database. Instead of writing SQL queries directly into your [[business logic]], you let the DAO interact with the database.
 **Operations**
 - Create

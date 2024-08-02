@@ -11,7 +11,7 @@
     "templates/Template, Daily Note.md": "b67340a2d8a2fd71949696986216d5eae98ff77359763b53ec2a91a87f1f5c6c",
     "timestamps/2024/07-July/2024-07-25-Thursday.md": "f48d315edfe9d21535dc722a52cfa12871aeada2df95de668bdbe933e6378827",
     "2-areas/Personal Growth/My heart.md": "4394c5f412b232d81e6e0e8da1d4fd6579ad4129ebd09ff97c18b73a31bd8d94",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "3e41e6238dec312e576c09316006ed3c8a2cbdc96bcf7c8cb16b58b7e9db7ad1",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "f4e93d953835f33ca29213a75b03280d1ad36b4751c22f2ad7316b79e1be3701",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md": "50f2d74cb5f850a81338b2b29ca161e714f3103b676f79a011c9dcd28b1e7bee",
     "2-areas/fullstack-dev/database/SELECT.md": "325c82f8b9025e907946102a3f994bf1790372276e41640d83f9f0e915c467bb",
     "2-areas/fullstack-dev/database/GROUP BY.md": "73d81cea383c2b56253fe1ce7fd517208886ebc40574a94596d2fdeb2c8468b2",
@@ -31,7 +31,7 @@
     "timestamps/2024/07-July/2024-07-30-Tuesday.md": "5803f4eacb78d64a8cddbd2e5d233c3a696f6dd03a6785478d7c0eabf59c8caa",
     "2-areas/Personal Growth/Brain Waves.md": "40026e6cf2e124a5d5f5b6e31d5645922f2e1c40c609d749a57bf7884e6a3386",
     "2-areas/Personal Growth/Aletheia.md": "4fd9acd785a569433fea2f60e36a739f833d092c4e1241fcffba60e9f58875de",
-    "2-areas/fullstack-dev/Java/DAO Design Pattern.md": "f41fa4f8c51e82ac4567de34456e2f65bbabece8205e45cac717ae02082bc064",
+    "2-areas/fullstack-dev/Java/DAO Design Pattern.md": "79a8b710ba3fb0e143d588731973ee6586798f391ec4e48ac21d0baed5403a49",
     "2-areas/fullstack-dev/Java/Java Generics.md": "71078c45a7b1aeb440cfbd02928588fde79f1aa498bd8a7a89b63b7dd39ab244",
     "2-areas/fullstack-dev/Java/JDBC.md": "e4d2166e66046b7caebeb60b3ba0492ad86482d2b1bf007c0744231e74653d46",
     "2-areas/fullstack-dev/Java/servlet.md": "5902396ebb9f2535b70ed33b629b5033f2a77457189fe17ca04933b29073926e",
@@ -68,6 +68,13 @@
     "0-inbox/To install.md": "05f3df71bb83a0e1b64fed6c021a6d305aad7a2189b60abf9c5aae802c2c7d5a",
     "0-inbox/Personas.md": "b0e7a8c0e8f6fe1badef80e5962eb8cc93e03cb2306987800555c1c68b036fa7",
     "2-areas/Personal Growth/poetic attunement.md": "872090cc35714f47cfdadac31235a4ac5cb57b822d79db41571dfce55dbcb777",
-    "0-inbox/entity classes.md": "cd687d4a35f79f3deb5294ea56683c0f64dd71185abc42d75516f6c9b1c1c7fa"
+    "0-inbox/entity classes.md": "8f0433bc54fe0a39b7de422f00cb8908c185f724f10614a0d61dbcf80402cb03",
+    "0-inbox/entity annotations.md": "014e41bbf5d8aa5411de11c3dc7f4a8019ed6da2698f0b0314b8f35af186c57d",
+    "0-inbox/Classes needed for design.md": "3f48952d92b9009b3176ff8b200f1d18ac022c0ce72732884781e9b591f34815",
+    "0-inbox/User Entity class.md": "655b5ba2053342a50db48d137283684d80db894acc773b0abe894744ce7d71f4",
+    "0-inbox/User DAO interface.md": "1f458a56ba45d9242dd459891936c89fb9d7be8d3d62c2b1c65e4e451fb65521",
+    "0-inbox/User DAO implementation class.md": "e44377ecfee5910892e48fba156a2aff1df59b6b0a919da3f4fc1c958b24752b",
+    "0-inbox/User Service Class.md": "fdf2118027a76a99b6dd10fe7651472118c519d57a5931c2835bcad7cefa71a8",
+    "0-inbox/User Main Class.md": "93b9de53bb8472b6a3664cd0eeead283ef9784a6cee373ee42a45107fbbeefd2"
   }
 }

@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-02T09:52
+updated: 2024-08-02T10:55
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -20,7 +20,7 @@ Every class should go to one file.
 private only the class
 package globally available in the package. 
 [[protected]] - any subclasses can inherit it
-# Project evolves in these steps
+### Project evolves in these steps
 
 - [x] "Hello world" app running in the command line  
 - [x] Convert it to an Apache Maven project (for build and dependency management) 
@@ -33,7 +33,7 @@ package globally available in the package.
 - [ ] Add SwaggerUI / for documentation and an interactive UI  
 - [ ] Optional: Switch from JDBC to JPA?
 
-# In between these steps
+### In between these steps
 
 - Use connection pool for DB  
 - Logging  [[log4j]]
@@ -43,9 +43,11 @@ package globally available in the package.
 - Switch from lat / lon to PostGIS  
 - Switch numeric IDs to UUIDs
 
-Great! About the design: You should create one class for every table (Driver, GasStation, FuelStop) and one [[DAO Design Pattern | DAO]] class each. And the main program with the main method in a separate class. And you can start to organize your classes in sub packages, e.g. "domain" for Driver etc., "database" for the database connector and the DAOs - how you organize them is a matter of taste ![🙂]
+Great! [[Classes needed for design | About the design]]: You should create one [[entity classes | class]] for every table (Driver, GasStation, FuelStop) and one [[DAO Design Pattern | DAO]] class each. And the main program with the main method in a separate class. And you can start to organize your classes in sub packages, e.g. "domain" for Driver etc., "database" for the database connector and the DAOs - how you organize them is a matter of taste ![🙂]
 
 and it would be nice to have a common interface for the DAO classes, like in this tutorial: [https://www.baeldung.com/java-dao-pattern](https://www.baeldung.com/java-dao-pattern "https://www.baeldung.com/java-dao-pattern")
+
+
 ## Links:
 
 

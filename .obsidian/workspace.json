@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/entity classes.md",
-                "mode": "source",
+                "file": "0-inbox/User Entity class.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/entity classes.md",
+                "file": "0-inbox/User Entity class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/entity classes.md",
+                "file": "0-inbox/User Entity class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/entity classes.md"
+                "file": "0-inbox/User Entity class.md"
               }
             }
           },
@@ -196,8 +196,17 @@
   },
   "active": "a11197680451dd4c",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
+    "0-inbox/Classes needed for design.md",
+    "0-inbox/User Service Class.md",
+    "0-inbox/User Main Class.md",
+    "0-inbox/User DAO implementation class.md",
+    "0-inbox/User DAO interface.md",
+    "0-inbox/User Entity class.md",
+    "0-inbox/About the design.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/entity classes.md",
+    "0-inbox/entity annotations.md",
     "timestamps/2024/08-August/2024-08-01-Thursday.md",
     "0-inbox/Untitled.md",
     "0-inbox/To install.md",
@@ -206,7 +215,6 @@
     "2-areas/fullstack-dev/Java/business logic.md",
     "0-inbox/Personas.md",
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
-    "2-areas/fullstack-dev/Java/DAO Design Pattern.md",
     "2-areas/Personal Growth/Aletheia.md",
     "timestamps/2024/08-August/2024-08-02-Friday.md",
     "2-areas/Personal Growth/poetic attunement.md",
@@ -214,14 +222,6 @@
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "0-inbox/Refridgerator.md",
-    "0-inbox/Java Links.md",
-    "2-areas/fullstack-dev/Java/Class Diagram fuel saver.md",
-    "2-areas/fullstack-dev/Java/getter and setter methods.md",
-    "2-areas/fullstack-dev/Java/internal state.md",
-    "2-areas/fullstack-dev/Java/business rules.md",
-    "1-projects/fuel-saver-app/database/practice-problems.md",
-    "0-inbox/Schwab.md",
-    "3-resources/Learning/Tactic Knowledge.md",
     "3-resources/images/IMG_4546.jpeg",
     "timestamps/2024/08-August",
     "Timestamps/2024/08-August",
