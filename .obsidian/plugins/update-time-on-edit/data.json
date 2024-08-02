@@ -70,11 +70,12 @@
     "2-areas/Personal Growth/poetic attunement.md": "872090cc35714f47cfdadac31235a4ac5cb57b822d79db41571dfce55dbcb777",
     "0-inbox/entity classes.md": "8f0433bc54fe0a39b7de422f00cb8908c185f724f10614a0d61dbcf80402cb03",
     "0-inbox/entity annotations.md": "014e41bbf5d8aa5411de11c3dc7f4a8019ed6da2698f0b0314b8f35af186c57d",
-    "0-inbox/Classes needed for design.md": "3f48952d92b9009b3176ff8b200f1d18ac022c0ce72732884781e9b591f34815",
     "0-inbox/User Entity class.md": "655b5ba2053342a50db48d137283684d80db894acc773b0abe894744ce7d71f4",
     "0-inbox/User DAO interface.md": "1f458a56ba45d9242dd459891936c89fb9d7be8d3d62c2b1c65e4e451fb65521",
     "0-inbox/User DAO implementation class.md": "e44377ecfee5910892e48fba156a2aff1df59b6b0a919da3f4fc1c958b24752b",
     "0-inbox/User Service Class.md": "fdf2118027a76a99b6dd10fe7651472118c519d57a5931c2835bcad7cefa71a8",
-    "0-inbox/User Main Class.md": "93b9de53bb8472b6a3664cd0eeead283ef9784a6cee373ee42a45107fbbeefd2"
+    "0-inbox/User Main Class.md": "93b9de53bb8472b6a3664cd0eeead283ef9784a6cee373ee42a45107fbbeefd2",
+    "0-inbox/Add Git to Eclipse.md": "14fd962ee8b4bdae379a65684af6bb446e10551827fc7137177832c61fcf3021",
+    "2-areas/fullstack-dev/Java/Classes needed for design.md": "3f48952d92b9009b3176ff8b200f1d18ac022c0ce72732884781e9b591f34815"
   }
 }
