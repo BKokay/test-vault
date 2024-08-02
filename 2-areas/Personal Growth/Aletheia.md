@@ -1,6 +1,6 @@
 ---
 created: 2024-07-29T08:19
-updated: 2024-07-30T09:49
+updated: 2024-08-02T06:03
 ---
 2024-07-28 18:33
 <% tp.file.cursor() %>
@@ -13,6 +13,8 @@ Presence and absence
 [[Nonduality]] feeling of interconnectedness with everyone and everything around you. A way of living in buddhism.  
 
 Clients could spontaneously shift up and down through the different depths within a single coaching session. 
+
+What is [[poetic attunement? ]]
 
 ## Links:
 
