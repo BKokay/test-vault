@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/YouTube Channel/DAO YouTube Video.md",
+                "file": "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
                 "mode": "source",
                 "source": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/YouTube Channel/DAO YouTube Video.md",
+                "file": "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/YouTube Channel/DAO YouTube Video.md",
+                "file": "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/YouTube Channel/DAO YouTube Video.md"
+                "file": "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md"
               }
             }
           },
@@ -206,18 +206,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "fd14a3c333508f78",
   "lastOpenFiles": [
+    "1-projects/To Understand/DAO.md",
+    "2-areas/fullstack-dev/Java/Design Patterns/User Service Class.md",
+    "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
     "2-areas/Life Management/Schwab.md",
-    "1-projects/YouTube Channel/DAO YouTube Video.md",
-    "1-projects/YouTube Channel",
+    "1-projects/To Understand",
     "2-areas/Life Management",
     "3-resources/Personal",
     "2-areas/fullstack-dev/Java/entity annotations.md",
     "2-areas/fullstack-dev/Java/entity classes.md",
     "2-areas/fullstack-dev/Java/Java Links.md",
     "2-areas/Life Management/Personas.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
     "2-areas/fullstack-dev/Java/what is a thread.md",
     "2-areas/fullstack-dev/Java/What is a runnable.md",
     "2-areas/fullstack-dev/Java/what does @Override do.md",
