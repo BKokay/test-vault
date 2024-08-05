@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/poetic attunement?.md",
+                "file": "0-inbox/poetic attunement.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/poetic attunement?.md",
+            "file": "0-inbox/poetic attunement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/poetic attunement?.md",
+            "file": "0-inbox/poetic attunement.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-inbox/poetic attunement?.md"
+            "file": "0-inbox/poetic attunement.md"
           }
         }
       },
@@ -156,8 +156,9 @@
   },
   "active": "b1070af0be8cd120",
   "lastOpenFiles": [
-    "2-areas/Personal Growth/Aletheia.md",
     "0-inbox/poetic attunement?.md",
+    "2-areas/Personal Growth/Aletheia.md",
+    "0-inbox/poetic attunement.md",
     "0-inbox/Things to do in Bonn.md",
     "0-inbox/Aletheia.md",
     "2-areas/fullstack-dev/database/enum type.md",
@@ -186,7 +187,6 @@
     "0-inbox/To install.md",
     "0-inbox/DAO Design Pattern.md",
     "2-areas/fullstack-dev/Java/Java Variables.md",
-    "0-inbox/My heart.md",
     "2-areas/fullstack-dev/database",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",

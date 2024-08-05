@@ -1,5 +1,0 @@
-- Calendar by Liam Cain
-- Dataview by Michael Brenan
-- Hover Editor by nothingislost
-- Excalidraw by Zsolt Viczian
-- Kanban by mgmeyers
