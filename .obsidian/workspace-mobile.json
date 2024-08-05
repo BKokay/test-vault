@@ -11,12 +11,8 @@
             "id": "93410eb248d057bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Things to do in Bonn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/poetic attunement.md",
+                "file": "3-resources/Personal/Refridgerator.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/poetic attunement.md",
+            "file": "3-resources/Personal/Refridgerator.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/poetic attunement.md",
+            "file": "3-resources/Personal/Refridgerator.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-inbox/poetic attunement.md"
+            "file": "3-resources/Personal/Refridgerator.md"
           }
         }
       },
