@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Personal/Refridgerator.md",
+                "file": "0-inbox/Meal Plan.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3-resources/Personal/Refridgerator.md",
+            "file": "0-inbox/Meal Plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3-resources/Personal/Refridgerator.md",
+            "file": "0-inbox/Meal Plan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3-resources/Personal/Refridgerator.md"
+            "file": "0-inbox/Meal Plan.md"
           }
         }
       },
@@ -152,6 +152,9 @@
   },
   "active": "b1070af0be8cd120",
   "lastOpenFiles": [
+    "3-resources/Personal/Refridgerator.md",
+    "0-inbox/Meal Plan.md",
+    "0-inbox",
     "0-inbox/poetic attunement?.md",
     "2-areas/Personal Growth/Aletheia.md",
     "0-inbox/poetic attunement.md",
@@ -181,15 +184,12 @@
     "2-areas/fullstack-dev/Java",
     "2-areas/fullstack-dev/Java/int.md",
     "0-inbox/To install.md",
-    "0-inbox/DAO Design Pattern.md",
-    "2-areas/fullstack-dev/Java/Java Variables.md",
     "2-areas/fullstack-dev/database",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
     "IMG_4546.jpeg",
     "3-resources/Obsidian",
     "3-resources/Learning",
-    "1-projects/fuel-saver-app/database",
-    "1-projects/fuel-saver-app"
+    "1-projects/fuel-saver-app/database"
   ]
 }
