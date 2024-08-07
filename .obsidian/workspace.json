@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Meal Plan.md",
+                "file": "3-resources/Personal/Refridgerator.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Meal Plan.md",
+                "file": "3-resources/Personal/Refridgerator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Meal Plan.md",
+                "file": "3-resources/Personal/Refridgerator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Meal Plan.md"
+                "file": "3-resources/Personal/Refridgerator.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "8d98420fafec6a45",
   "lastOpenFiles": [
-    "templates/Zettel template.md",
     "0-inbox/Meal Plan.md",
+    "templates/Zettel template.md",
     "Weekly Meal Plan.md",
     "0-inbox",
     "conflict-files-obsidian-git.md",
