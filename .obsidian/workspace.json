@@ -38,13 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "timestamps/2024/08-August/2024-08-12-Monday.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Java Optional Class.md",
+                "file": "timestamps/2024/08-August/2024-08-12-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Java Optional Class.md",
+                "file": "timestamps/2024/08-August/2024-08-12-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Java Optional Class.md"
+                "file": "timestamps/2024/08-August/2024-08-12-Monday.md"
               }
             }
           },
@@ -182,10 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4281b2c36e9502a5",
+  "active": "8bfb4b6e3e67dd41",
   "lastOpenFiles": [
-    "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
     "0-inbox/Java Optional Class.md",
+    "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User DAO interface.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User Entity class.md",
