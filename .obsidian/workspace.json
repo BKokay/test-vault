@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd14a3c333508f78",
+            "id": "8c494162b89aaded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
+                "file": "0-inbox/Java Map Interface.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "4281b2c36e9502a5",
+            "id": "8260d36a203eef4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Java Optional Class.md",
+                "file": "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "8bfb4b6e3e67dd41",
+            "id": "6015694e91669774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Java Optional Class.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7fba0fec67cccc49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
-                "mode": "source",
+                "file": "2-areas/fullstack-dev/Java/IllegalArgumentException.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UPDATE",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
+                "file": "2-areas/fullstack-dev/Java/IllegalArgumentException.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
+                "file": "2-areas/fullstack-dev/Java/IllegalArgumentException.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md"
+                "file": "2-areas/fullstack-dev/Java/IllegalArgumentException.md"
               }
             }
           },
@@ -195,37 +182,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7fba0fec67cccc49",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
-    "0-inbox/PreparedStatement Java.md",
+    "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
+    "2-areas/fullstack-dev/Java/IllegalArgumentException.md",
+    "2-areas/fullstack-dev/Java/StringBuilder.md",
+    "0-inbox/stream java method.md",
+    "0-inbox/.stream() java method.md",
+    "0-inbox/.stream() method Java.md",
+    "0-inbox/Java Map Interface.md",
+    "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
     "2-areas/fullstack-dev/Java/Java Optional Class.md",
+    "Untitled.canvas",
+    "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
+    "2-areas/fullstack-dev/database/CASE.md",
+    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+    "2-areas/fullstack-dev/Java/lambda examples.md",
+    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
+    "0-inbox/Map Methods.md",
+    "0-inbox/Java Map.Entry interface.md",
+    "2-areas/fullstack-dev/Java/PreparedStatement Java.md",
     "timestamps/2024/08-August/2024-08-12-Monday.md",
     "0-inbox/Monday todo.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User DAO interface.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User Entity class.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User Main Class.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User Service Class.md",
     "1-projects/fuel-saver-app/Java/Connect to database.md",
     "2-areas/fullstack-dev/Java/business logic.md",
     "2-areas/fullstack-dev/Java/business rules.md",
-    "2-areas/fullstack-dev/Java/entity annotations.md",
-    "2-areas/Life Management/Schwab.md",
-    "1-projects/fuel-saver-app/Java/Notes from Georg.md",
-    "2-areas/fullstack-dev/Java/apache maven.md",
-    "conflict-files-obsidian-git.md",
-    "0-inbox/Meal Plan.md",
-    "1-projects/To Understand/DAO.md",
     "1-projects/To Understand",
     "2-areas/Life Management",
     "3-resources/Personal",
-    "2-areas/fullstack-dev/Java/entity classes.md",
-    "2-areas/fullstack-dev/Java/Java Links.md",
-    "2-areas/Life Management/Personas.md",
-    "2-areas/fullstack-dev/Java/what is a thread.md",
-    "2-areas/fullstack-dev/Java/What is a runnable.md",
-    "2-areas/fullstack-dev/Java/what does @Override do.md",
     "2-areas/fullstack-dev/Java/Design Patterns",
     "3-resources/images/IMG_4546.jpeg",
     "timestamps/2024/08-August",

@@ -1,3 +1,7 @@
+---
+created: 2024-07-25T08:09
+updated: 2024-08-13T09:11
+---
 2024-07-24 10:05
 
 [[CASE]] is the same as `IF/ELSE` statement in other programming languages. It can be used anywhere you would use and expression. It has two forms: [[general case]] and [[simple case]]

@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26T09:52
-updated: 2024-07-31T12:00
+updated: 2024-08-13T09:09
 ---
 #### Links: 
 java cheatsheet: https://introcs.cs.princeton.edu/java/11cheatsheet/
@@ -165,29 +165,10 @@ if (x > y){
 ##### Java 
 ```Java
 if (x > y){
-	console.log("x is greater than y");
+	System.out.println("x is greater than y");
 } else {
-	console.log("x is not greater than y");
+	System.out.println("x is not greater than y");
 }
 ```
 [[java conditional statements]]
 
-### Conditional Statements
-##### JavaScript/TypeScript
-```TypeScript
-if (x > y){
-	console.log("x is greater than y");
-} else {
-	console.log("x is not greateer than y");
-}
-```
-
-##### Java 
-```Java
-if (x > y){
-	console.log("x is greater than y");
-} else {
-	console.log("x is not greater than y");
-}
-```
-[[java conditional statements]]

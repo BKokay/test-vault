@@ -23,7 +23,7 @@
     "timestamps/2024/07-July/2024-07-26-Friday.md": "bd9b6f3b9983daaa4805fb1fbff7d86371ae1a8424f24f71a8cd16b62d60d034",
     "2-areas/fullstack-dev/Java/pom.xml.md": "500fed67ce24a1c04d4d587ee1b60f20a8b5b9f60f398ace317acbdd207ab437",
     "2-areas/fullstack-dev/Java/apache maven.md": "468a25164119218e5c34043f9ea652c285204fe07ea96192f3f73d662dccb213",
-    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md": "ffb9273923fb55aeb85235f9a34c17d9c07bb38a6d55a8efdf6e5d8e5b21a906",
+    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md": "4337ab1a5ce25e20928212f8b754786348e8b4986b9612fb0e42c0e2ac5c6506",
     "timestamps/2024/07-July/2024-07-29-Monday.md": "2143e1f0db1aa4e680d341c652dc890b025c573e78bbf81b1d7b4a8a90232870",
     "timestamps/2024/07-July/2024-07-30-Tuesday.md": "5803f4eacb78d64a8cddbd2e5d233c3a696f6dd03a6785478d7c0eabf59c8caa",
     "2-areas/Personal Growth/Brain Waves.md": "40026e6cf2e124a5d5f5b6e31d5645922f2e1c40c609d749a57bf7884e6a3386",
@@ -82,6 +82,14 @@
     "0-inbox/Meal Plan.md": "f5cf222356b2348e570aa75b03687de28ebe594f373a60f3d41b478d10984331",
     "timestamps/2024/08-August/2024-08-12-Monday.md": "41e95d3a62ca5429f164527d88aeba04e881d87c1fac986debde48efc28eb926",
     "2-areas/fullstack-dev/Java/Java Optional Class.md": "344aea2b8ff164d1c0fc03f07845008d29845c3794d4b4d30c938b177c8158f6",
-    "0-inbox/PreparedStatement Java.md": "4c4b3d95fe8350a4997a0bbfe2f71297b6b0b4fc940a604947f9b7f36554e677"
+    "2-areas/fullstack-dev/Java/PreparedStatement Java.md": "4c4b3d95fe8350a4997a0bbfe2f71297b6b0b4fc940a604947f9b7f36554e677",
+    "0-inbox/Java Map Interface.md": "8f0f5bc6a84e11b3ea60eb40e4fb7ef88df97bb292139e19771e52cbb8018a4f",
+    "0-inbox/Map Methods.md": "b29a7e897b09ecb2c5e374aa6ac562d9d24cf5bc0ed8dda47fb60f4ee5bb9864",
+    "0-inbox/Java Map.Entry interface.md": "ad210e83870e3f9ac6d1b6e4b614eb6617294b2737743e40bf598b44b49ad2e9",
+    "2-areas/fullstack-dev/database/CASE.md": "3fa4c584583a3aaa28d08439f56db0689577ef851b6ab98f2e6ae01e36da3ba3",
+    "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md": "93a973f5246f5090d511a29343b746544c870dd454464f2b0f0a1aedfb89a62b",
+    "0-inbox/stream java method.md": "b4802df017d74035ff3e9c88e0bf197fe34223b0efbfd7e63fef6cefc09f569b",
+    "2-areas/fullstack-dev/Java/StringBuilder.md": "e75e4f0fe834935d6fe3775c082bdd245d6c0f6425a037e622022a7398e4a677",
+    "2-areas/fullstack-dev/Java/IllegalArgumentException.md": "cc50ec86465258cb4751de3333ec5d694431062bcf42758dfea2523dc7fab5d8"
   }
 }
