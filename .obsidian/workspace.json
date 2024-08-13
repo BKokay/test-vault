@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1f74d571002e4dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/executeUpdate vs executeQuery.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/Java/update method dynamic.md",
+                "file": "0-inbox/executeUpdate vs executeQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Java/update method dynamic.md",
+                "file": "0-inbox/executeUpdate vs executeQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/Java/update method dynamic.md"
+                "file": "0-inbox/executeUpdate vs executeQuery.md"
               }
             }
           },
@@ -194,10 +206,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "1f74d571002e4dcf",
   "lastOpenFiles": [
-    "2-areas/fullstack-dev/Java/IllegalArgumentException.md",
     "1-projects/fuel-saver-app/Java/update method dynamic.md",
+    "0-inbox/executeUpdate vs executeQuery.md",
+    "2-areas/fullstack-dev/Java/IllegalArgumentException.md",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
     "2-areas/fullstack-dev/Java/StringBuilder.md",
     "2-areas/fullstack-dev/Java/stream java method.md",
@@ -222,7 +235,6 @@
     "2-areas/fullstack-dev/Java/Design Patterns/User Main Class.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User Service Class.md",
     "1-projects/fuel-saver-app/Java/Connect to database.md",
-    "2-areas/fullstack-dev/Java/business logic.md",
     "1-projects/To Understand",
     "2-areas/Life Management",
     "3-resources/Personal",
