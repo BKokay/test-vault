@@ -84,12 +84,13 @@
     "2-areas/fullstack-dev/Java/Java Optional Class.md": "344aea2b8ff164d1c0fc03f07845008d29845c3794d4b4d30c938b177c8158f6",
     "2-areas/fullstack-dev/Java/PreparedStatement Java.md": "4c4b3d95fe8350a4997a0bbfe2f71297b6b0b4fc940a604947f9b7f36554e677",
     "0-inbox/Java Map Interface.md": "8f0f5bc6a84e11b3ea60eb40e4fb7ef88df97bb292139e19771e52cbb8018a4f",
-    "0-inbox/Map Methods.md": "b29a7e897b09ecb2c5e374aa6ac562d9d24cf5bc0ed8dda47fb60f4ee5bb9864",
-    "0-inbox/Java Map.Entry interface.md": "ad210e83870e3f9ac6d1b6e4b614eb6617294b2737743e40bf598b44b49ad2e9",
     "2-areas/fullstack-dev/database/CASE.md": "3fa4c584583a3aaa28d08439f56db0689577ef851b6ab98f2e6ae01e36da3ba3",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md": "93a973f5246f5090d511a29343b746544c870dd454464f2b0f0a1aedfb89a62b",
-    "0-inbox/stream java method.md": "b4802df017d74035ff3e9c88e0bf197fe34223b0efbfd7e63fef6cefc09f569b",
     "2-areas/fullstack-dev/Java/StringBuilder.md": "e75e4f0fe834935d6fe3775c082bdd245d6c0f6425a037e622022a7398e4a677",
-    "2-areas/fullstack-dev/Java/IllegalArgumentException.md": "cc50ec86465258cb4751de3333ec5d694431062bcf42758dfea2523dc7fab5d8"
+    "2-areas/fullstack-dev/Java/IllegalArgumentException.md": "cc50ec86465258cb4751de3333ec5d694431062bcf42758dfea2523dc7fab5d8",
+    "1-projects/fuel-saver-app/Java/update method dynamic.md": "7ee4436ccc1d5619f1093facec737c5303dd15370df5bdae83c1611180b769a4",
+    "2-areas/fullstack-dev/Java/stream java method.md": "b4802df017d74035ff3e9c88e0bf197fe34223b0efbfd7e63fef6cefc09f569b",
+    "2-areas/fullstack-dev/Java/Map Methods.md": "b29a7e897b09ecb2c5e374aa6ac562d9d24cf5bc0ed8dda47fb60f4ee5bb9864",
+    "2-areas/fullstack-dev/Java/Java Map.Entry interface.md": "ad210e83870e3f9ac6d1b6e4b614eb6617294b2737743e40bf598b44b49ad2e9"
   }
 }
