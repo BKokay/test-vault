@@ -51,7 +51,7 @@
     "2-areas/fullstack-dev/Java/lambda examples.md": "0f663c27255c7a25e8b41d5de11d2e75829b24fc486c5f20bee1021cf9ffef16",
     "2-areas/fullstack-dev/Java/functional interfaces.md": "373fa7f1fad173be5fc2d4928dc90019b4be5ee22aea26425243625d1cb1c859",
     "2-areas/fullstack-dev/Java/java-method-references.md": "c84413587823bc94d77e85f3731c34c5765bee2a32332fa54800e2ea3e7063d0",
-    "1-projects/fuel-saver-app/database/fuel-saver ER model.md": "45fa76272dda7281112381cc35dab5ff7f5e7652f03f39141b64a215717cf5d3",
+    "1-projects/fuel-saver-app/database/fuel-saver ER model.md": "09ff6572d5a511db662e8921ca57c3c3b361e17451fe578bbe7e9c0cd6ed52d8",
     "2-areas/fullstack-dev/Java/business logic.md": "dc2ab9f4ac8696204c1245da08ac1b524e1ac63c0365b1e0189a3de97c86744b",
     "2-areas/fullstack-dev/Java/business rules.md": "6bade06efe555ebca5913196806ab1b5ea781746ab8968d6cb4e04413254aa12",
     "2-areas/fullstack-dev/Java/getter and setter methods.md": "be1d78128f0291387c102473ddff468e64a47e0c16239d48b70d54d7698c0a65",
@@ -92,6 +92,7 @@
     "2-areas/fullstack-dev/Java/stream java method.md": "b4802df017d74035ff3e9c88e0bf197fe34223b0efbfd7e63fef6cefc09f569b",
     "2-areas/fullstack-dev/Java/Map Methods.md": "b29a7e897b09ecb2c5e374aa6ac562d9d24cf5bc0ed8dda47fb60f4ee5bb9864",
     "2-areas/fullstack-dev/Java/Java Map.Entry interface.md": "ad210e83870e3f9ac6d1b6e4b614eb6617294b2737743e40bf598b44b49ad2e9",
-    "0-inbox/executeUpdate vs executeQuery.md": "ea35843f6591eab07a5d0167fd3e66b2a6971e487aeb3b28ff55f60e9afc74ed"
+    "0-inbox/executeUpdate vs executeQuery.md": "ea35843f6591eab07a5d0167fd3e66b2a6971e487aeb3b28ff55f60e9afc74ed",
+    "0-inbox/Todo.md": "e699b2ea64822d925121b92dbcbce0d6a8e4b066350c60cb9419ad09da91441c"
   }
 }
