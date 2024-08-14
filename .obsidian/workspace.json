@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Todo.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,15 +184,18 @@
   },
   "active": "6015694e91669774",
   "lastOpenFiles": [
+    "0-inbox/Meal Plan.md",
+    "0-inbox/Todo.md",
+    "0-inbox/Java Map Interface.md",
+    "0-inbox/executeUpdate vs executeQuery.md",
+    "2-areas/fullstack-dev/Java/Simple Command-Line program.md",
     "2-areas/fullstack-dev/Java/IllegalArgumentException.md",
     "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "1-projects/fuel-saver-app/Java/update method dynamic.md",
     "3-resources/images/Pasted image 20240813133542.png",
-    "0-inbox/Todo.md",
     "2-areas/fullstack-dev/Java/Java Links.md",
     "1-projects/fuel-saver-app/Java/Notes from Georg.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-    "0-inbox/executeUpdate vs executeQuery.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User Main Class.md",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
@@ -200,7 +203,6 @@
     "2-areas/fullstack-dev/Java/stream java method.md",
     "0-inbox/.stream() java method.md",
     "0-inbox/.stream() method Java.md",
-    "0-inbox/Java Map Interface.md",
     "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
     "2-areas/fullstack-dev/Java/Java Optional Class.md",
     "Untitled.canvas",
@@ -210,7 +212,6 @@
     "2-areas/fullstack-dev/Java/Map Methods.md",
     "2-areas/fullstack-dev/Java/Java Map.Entry interface.md",
     "2-areas/fullstack-dev/Java/PreparedStatement Java.md",
-    "timestamps/2024/08-August/2024-08-12-Monday.md",
     "1-projects/To Understand",
     "2-areas/Life Management",
     "3-resources/Personal",
