@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Todo.md",
-                "mode": "source",
+                "file": "1-projects/fuel-saver-app/Java/update method dynamic.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "update",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Todo.md",
+                "file": "1-projects/fuel-saver-app/Java/update method dynamic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Todo.md",
+                "file": "1-projects/fuel-saver-app/Java/update method dynamic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Todo.md"
+                "file": "1-projects/fuel-saver-app/Java/update method dynamic.md"
               }
             }
           },
@@ -184,8 +185,9 @@
   },
   "active": "6015694e91669774",
   "lastOpenFiles": [
-    "0-inbox/Meal Plan.md",
+    "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
     "0-inbox/Todo.md",
+    "0-inbox/Meal Plan.md",
     "0-inbox/Java Map Interface.md",
     "0-inbox/executeUpdate vs executeQuery.md",
     "2-areas/fullstack-dev/Java/Simple Command-Line program.md",
@@ -203,7 +205,6 @@
     "2-areas/fullstack-dev/Java/stream java method.md",
     "0-inbox/.stream() java method.md",
     "0-inbox/.stream() method Java.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
     "2-areas/fullstack-dev/Java/Java Optional Class.md",
     "Untitled.canvas",
     "2-areas/fullstack-dev/database/CASE.md",
