@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-15T09:04
+updated: 2024-08-15T12:48
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -20,6 +20,20 @@ Every class should go to one file.
 private only the class
 package globally available in the package. 
 [[protected]] - any subclasses can inherit it
+
+### Next steps: 08/15
+- [ ] add device dao, entity, impl 
+- [ ] add cascading delete for any foreign keys
+- [ ] extend with any methods to get complex SQL statements
+- [ ] add service classes
+	- [ ] fuelstop
+	- [ ] device
+	- [ ] gas station
+	- [ ] driver
+- [ ] Organize code into folders
+- [ ] add unit tests using  JMock and JUnit
+- [ ] Create a webapp with a servlet
+
 ### Project evolves in these steps
 
 - [x] "Hello world" app running in the command line  
