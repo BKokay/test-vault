@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md",
+                "file": "1-projects/fuel-saver-app/Java/Notes from Georg.md",
                 "mode": "preview",
                 "source": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "update",
+                "query": "notes from Georg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md",
+                "file": "1-projects/fuel-saver-app/Java/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md",
+                "file": "1-projects/fuel-saver-app/Java/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md"
+                "file": "1-projects/fuel-saver-app/Java/Notes from Georg.md"
               }
             }
           },
@@ -268,11 +269,11 @@
   },
   "active": "c0f323baa8d6e22d",
   "lastOpenFiles": [
+    "1-projects/WGU/Preplanning/PreStudy.md",
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "1-projects/WGU/Preplanning/WGU.md",
     "1-projects/WGU/Preplanning/Study.com.md",
     "1-projects/WGU/Preplanning/Sophia.md",
-    "1-projects/WGU/Preplanning/PreStudy.md",
     "1-projects/WGU/Preplanning/Links.md",
     "1-projects/WGU/Preplanning/Course List.md",
     "1-projects/WGU/Preplanning",

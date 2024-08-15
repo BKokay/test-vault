@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-02T10:55
+updated: 2024-08-15T09:04
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -26,7 +26,7 @@ package globally available in the package.
 - [x] Convert it to an Apache Maven project (for build and dependency management) 
 - [x]  Connect to the database via JDBC and print the contents of a table  
 -  [x] Read user input from the command line and use it for a driver (e.g. read name of a driver and print all stops of this driver)  
-- [ ]  Create [[entity classes]] and "Data Access Objects" (DAOs) for each table (see [https://www.digitalocean.com/community/tutorials/dao-design-pattern)](https://www.digitalocean.com/community/tutorials/dao-design-pattern) "https://www.digitalocean.com/community/tutorials/dao-design-pattern)")  
+- [x]  Create [[entity classes]] and "Data Access Objects" (DAOs) for each table (see [https://www.digitalocean.com/community/tutorials/dao-design-pattern)](https://www.digitalocean.com/community/tutorials/dao-design-pattern) "https://www.digitalocean.com/community/tutorials/dao-design-pattern)")  
 -  [ ] Build a webapp with a servlet which reads the name as a HTTP GET parameter and returns a JSON containing the stops  
 - [ ] Switch the application to the framework Spring Boot and replace the servlet by a Spring controller  
 - [ ] Add all the endpoints to the controller(s)  
