@@ -8,139 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c494162b89aaded",
+            "id": "2a71ece80bc9d3c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Java Map Interface.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8260d36a203eef4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
+                "file": "2-areas/fullstack-dev/database/general case.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6015694e91669774",
+            "id": "6ec6af3507431b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/Java/update method dynamic.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d65993eb407eebb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/WGU/Preplanning/Course List.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "35039bd3090669ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4a495288167ad866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "75caff1358730554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c0f323baa8d6e22d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2f9f95825070c93f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "53a9f8f594e7726c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "57abc907b93bbf5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
+                "file": "0-inbox/Methods for use cases.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "AND",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -206,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "0-inbox/Methods for use cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "0-inbox/Methods for use cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
+                "file": "0-inbox/Methods for use cases.md"
               }
             }
           },
@@ -278,13 +170,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f9f95825070c93f",
+  "active": "6ec6af3507431b0d",
   "lastOpenFiles": [
     "1-projects/fuel-saver-app/Fuel saver user stories.md",
-    "3-resources/images/Pasted image 20240815124638.png",
+    "1-projects/fuel-saver-app/database/practice-problems.md",
+    "2-areas/fullstack-dev/database/general case.md",
+    "2-areas/fullstack-dev/database/Logical Expressions.md",
+    "2-areas/fullstack-dev/database/WHERE vs CASE.md",
+    "0-inbox/Methods for use cases.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
-    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+    "3-resources/images/~$el-saver-final.docx",
+    "3-resources/images/fuel-saver-final.docx",
+    "0-inbox/On delete cascade.md",
     "1-projects/fuel-saver-app/Java/update method dynamic.md",
+    "0-inbox/Todo.md",
+    "3-resources/images/Pasted image 20240815124638.png",
+    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "1-projects/fuel-saver-app/Java/Connect to database.md",
     "1-projects/fuel-saver-app/Java/Class Diagram fuel saver.md",
     "2-areas/fullstack-dev/Java/Design Patterns/User Service Class.md",
@@ -299,17 +200,11 @@
     "1-projects/WGU",
     "3-resources/images/BSCS.2024.pdf",
     "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
-    "0-inbox/Todo.md",
     "0-inbox/Meal Plan.md",
     "0-inbox/Java Map Interface.md",
     "0-inbox/executeUpdate vs executeQuery.md",
     "2-areas/fullstack-dev/Java/Simple Command-Line program.md",
-    "2-areas/fullstack-dev/Java/IllegalArgumentException.md",
     "3-resources/images/Pasted image 20240813133542.png",
-    "2-areas/fullstack-dev/Java/Java Links.md",
-    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/User Main Class.md",
     "Untitled.canvas",
     "1-projects/To Understand",
     "2-areas/Life Management",
@@ -317,8 +212,6 @@
     "2-areas/fullstack-dev/Java/Design Patterns",
     "3-resources/images/IMG_4546.jpeg",
     "timestamps/2024/08-August",
-    "Timestamps/2024/08-August",
-    "Timestamps/2024/07-July",
     "3-resources/images/UML Diagrams (Community).png",
     "3-resources/images/Pasted image 20240724125235.png"
   ]

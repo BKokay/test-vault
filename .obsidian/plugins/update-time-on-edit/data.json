@@ -31,7 +31,7 @@
     "2-areas/fullstack-dev/Java/JDBC.md": "e4d2166e66046b7caebeb60b3ba0492ad86482d2b1bf007c0744231e74653d46",
     "2-areas/fullstack-dev/Java/servlet.md": "5902396ebb9f2535b70ed33b629b5033f2a77457189fe17ca04933b29073926e",
     "2-areas/fullstack-dev/Java/Simple Command-Line program.md": "7e35ca6e545e19cdce49f65eeb397b993a95de61e84291f80c35f805f591665f",
-    "1-projects/fuel-saver-app/database/practice-problems.md": "c8211e43c28556c3d75887b67b6fb145b94ee6cefb454ae02c925a03b23ab2a8",
+    "1-projects/fuel-saver-app/database/practice-problems.md": "bef46502ee6755313ba8da9f1fae042229ab7a6050344cdd5f302f7eb74dabd9",
     "3-resources/Learning/Tactic Knowledge.md": "695703855c7974f87395c8abdc70c1a08d5e77016538d1e20af097af1b879183",
     "2-areas/Professional Growth/Meg Sullivan about DevEd.md": "fdc00c8e89310cb962dd6b1677114fd3a834d98aebc5efdd083802328ee2bc8b",
     "timestamps/2024/07-July/2024-07-31-Wednesday.md": "fc3b9a070a77802683dd3729b781f21169b59cc3318965a5e82531face3c590f",
@@ -100,7 +100,11 @@
     "1-projects/WGU/Preplanning/Study.com.md": "82a880d0cf732d5a124d7bc4b4e77a74766593122c24a5ede0b6503da80e6808",
     "1-projects/WGU/Preplanning/WGU.md": "5a3eab997f7c009f984c47f92881a20183715cd110f86b8e1657455485347d69",
     "1-projects/WGU/Preplanning/Timeline & Cost.md": "440d678085774b17caceb59c6859b5186ded349e3c84109d7efaa544d5453a09",
-    "1-projects/fuel-saver-app/Fuel saver user stories.md": "1fef149f11a116501de313850d8bcb6736a900238e86580ad47e25594c8df7d7",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "f8d350b69dbef983d1ed65ce4b5522e8cc98de6387071794192f9479b1a43c5a"
+    "1-projects/fuel-saver-app/Fuel saver user stories.md": "5eb50a3d9043e76e0c8475313956042816b291fd92b590be198a64dc2111e44a",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "f391d8db0a208078241190141bb48ab03a65d303edf2e0bc81f86383533a418a",
+    "0-inbox/On delete cascade.md": "57c9d4ca5062617adde17436c8a41322e549db68fead9f8c4dfb48dd3dd79c89",
+    "0-inbox/Methods for use cases.md": "809357b4699eedfabad01d78c26f352fe6db93dcd059decd74729007f2fcb2d2",
+    "2-areas/fullstack-dev/database/WHERE vs CASE.md": "bc8fa4a4ebedca78c1f8dc592393d1c811bc4ecadf066261d2fffe47e9a00b1b",
+    "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005"
   }
 }

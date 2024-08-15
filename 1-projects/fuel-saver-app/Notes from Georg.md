@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-15T12:48
+updated: 2024-08-15T13:45
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -22,9 +22,14 @@ package globally available in the package.
 [[protected]] - any subclasses can inherit it
 
 ### Next steps: 08/15
-- [ ] add device dao, entity, impl 
-- [ ] add cascading delete for any foreign keys
-- [ ] extend with any methods to get complex SQL statements
+- [x] add device dao, entity, impl 
+- [x] add cascading delete for any foreign keys
+- [ ] extend with any methods to get complex SQL statements [[Methods for use cases]]
+	- [ ] check requirements doc
+	- [ ] write out method names
+	- [ ] write out logic
+	- [ ] check with Georg
+- [ ] add parameterized prepared statement
 - [ ] add service classes
 	- [ ] fuelstop
 	- [ ] device

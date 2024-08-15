@@ -1,3 +1,7 @@
+---
+created: 2024-07-25T08:09
+updated: 2024-08-15T14:43
+---
 2024-07-24 11:03
 What is the difference between [[WHERE]] and [[CASE]] in [[Conditional Expressions]]?
 
