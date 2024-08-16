@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T13:44
-updated: 2024-08-15T15:09
+updated: 2024-08-16T09:41
 ---
 [[Notes from Georg]] | [[Fuel saver user stories]] 
 
@@ -42,11 +42,20 @@ JOIN fuel_saver.fuel_stop fs ON gs.id = fs.station_id
 JOIN fuel_saver.device dev ON fs.device_id = dev.id
 JOIN fuel_saver.driver d ON dev.driver_id = d.id
 WHERE d.id = 2
-GROUP BY gs.station_name, gs.latitude, gs.longitude;
+GROUP BY gs.station_name, gs.latitude, gs.longitude; //get price & savings
+
+SELECT d.id AS driver_id, gs.station_name, gs.latitude, gs.longitude, SUM(fs.number_of_liters) AS total_liters, fs.id AS fuel_stop_id
+FROM fuel_saver.gas_station gs
+JOIN fuel_saver.fuel_stop fs ON gs.id = fs.station_id
+JOIN fuel_saver.device dev ON fs.device_id = dev.id
+JOIN fuel_saver.driver d ON dev.driver_id = d.id
+WHERE d.id = 2
+GROUP BY d.id, gs.station_name, gs.latitude, gs.longitude; //only get # of liters & location
 ```
 ```java
-public double getLitersFilled(int id){
-	String sql = 
+public double getTotalLitersFilled(int id){
+	String sql = "above"
+	
 }
 ```
 1. I want to see the total savings of a fuel stop

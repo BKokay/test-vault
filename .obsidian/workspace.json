@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "131fa394d9b3ef40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e597c99a0493163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Java Map Interface.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AND",
+                "query": "map",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,12 +191,13 @@
   },
   "active": "6ec6af3507431b0d",
   "lastOpenFiles": [
+    "0-inbox/Java Map Interface.md",
+    "0-inbox/Methods for use cases.md",
     "1-projects/fuel-saver-app/Fuel saver user stories.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "2-areas/fullstack-dev/database/general case.md",
     "2-areas/fullstack-dev/database/Logical Expressions.md",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md",
-    "0-inbox/Methods for use cases.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
@@ -201,7 +221,6 @@
     "3-resources/images/BSCS.2024.pdf",
     "2-areas/fullstack-dev/Java/Design Patterns/DAO Design Pattern.md",
     "0-inbox/Meal Plan.md",
-    "0-inbox/Java Map Interface.md",
     "0-inbox/executeUpdate vs executeQuery.md",
     "2-areas/fullstack-dev/Java/Simple Command-Line program.md",
     "3-resources/images/Pasted image 20240813133542.png",
