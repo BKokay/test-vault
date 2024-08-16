@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T13:44
-updated: 2024-08-16T11:55
+updated: 2024-08-16T13:45
 ---
 [[Notes from Georg]] | [[Fuel saver user stories]] 
 
@@ -103,6 +103,8 @@ public Map<long, String> getDriverForFuelStop(int fuelStopId){
 ```
 
 - [ ] I want to see total savings per custom time period of using the fuel-saver per driver or for all drivers
+	- For a company, there would need to be a company table?
+	- Replace d.id = ? with d.maptrip_manager_company = ? 
 ```SQL
 SELECT d.id AS driver_id, 
        d.first_name || ' ' || d.last_name AS driver_name, 
@@ -121,20 +123,66 @@ public double getTotalSavingsForDriver(int driverId, String startDate, String en
 	//prepare statement with try/catch
 	//asign rs.getDouble("total_savings") to totalSavings and use #.## format
 	return totalSavings
-
 }
 ```
 
 
-1. I want to see which of my drivers is saving the most per month/per year on fuel
-2. I want to be able to see my organization as a whole but also see individual drivers
-3. I want to see how much I've spent on fuel each month/year
-4. I want to see my monthly, yearly, and lifetime savings using fuel-saver
-5. I want my boss to see how much I have saved him
-6. I want to receive a tip from my boss
-7. I want to be able to sort by name of driver and amount saved
-8. I want to see which driver has saved and which hasn't
-9. I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
+- [ ] I want to see which of my drivers is saving the most per month/per year on fuel
+```java
+String sqlYear = "SELECT d.id AS driver_id, " + "d.first_name || ' ' || d.last_name AS driver_name, " + "EXTRACT(YEAR FROM fs.stop_timestamp) AS year, " + "SUM(fs.total_savings) AS total_savings " + "FROM fuel_saver.fuel_stops fs " + "JOIN fuel_saver.devices dev ON fs.device_id = dev.id " + "JOIN fuel_saver.drivers d ON dev.driver_id = d.id " + "WHERE EXTRACT(YEAR FROM fs.stop_timestamp) = ? " + "GROUP BY d.id, d.first_name, d.last_name, EXTRACT(YEAR FROM fs.stop_timestamp) " + "ORDER BY total_savings DESC";
+
+
+public class DriverSavingsData {
+
+    public static List<Map<String, Object>> getMonthlySavingsPerDriver(int month, int year) {
+        List<Map<String, Object>> result = new ArrayList<>();
+        String sql = "SELECT d.id AS driver_id, " +
+                       "d.first_name || ' ' || d.last_name AS driver_name, " +
+                       "EXTRACT(YEAR FROM fs.stop_timestamp) AS year, " +
+                       "EXTRACT(MONTH FROM fs.stop_timestamp) AS month, " +
+                       "SUM(fs.total_savings) AS total_savings " +
+                       "FROM fuel_saver.fuel_stops fs " +
+                       "JOIN fuel_saver.devices dev ON fs.device_id = dev.id " +
+                       "JOIN fuel_saver.drivers d ON dev.driver_id = d.id " +
+                       "WHERE EXTRACT(YEAR FROM fs.stop_timestamp) = ? AND EXTRACT(MONTH FROM fs.stop_timestamp) = ? " +
+                       "GROUP BY d.id, d.first_name, d.last_name, EXTRACT(YEAR FROM fs.stop_timestamp), EXTRACT(MONTH FROM fs.stop_timestamp) " +
+                       "ORDER BY total_savings DESC";
+
+        try (
+             PreparedStatement pstmt = conn.prepareStatement(sql)) {
+
+            pstmt.setInt(1, year);
+            pstmt.setInt(2, month);
+            ResultSet rs = pstmt.executeQuery();
+
+            while (rs.next()) {
+                Map<String, Object> row = new HashMap<>();
+                row.put("driver_id", rs.getInt("driver_id"));
+                row.put("driver_name", rs.getString("driver_name"));
+                row.put("year", rs.getInt("year"));
+                row.put("month", rs.getInt("month"));
+                row.put("total_savings", rs.getDouble("total_savings"));
+
+                result.add(row);
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return result;
+    }
+}
+
+```
+1. I want to be able to see my organization as a whole but also see individual drivers
+2. I want to see how much I've spent on fuel each month/year
+3. I want to see my monthly, yearly, and lifetime savings using fuel-saver
+4. I want my boss to see how much I have saved him
+5. I want to receive a tip from my boss
+6. I want to be able to sort by name of driver and amount saved
+7. I want to see which driver has saved and which hasn't
+8. I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
 
 
 
