@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T13:44
-updated: 2024-08-16T09:41
+updated: 2024-08-16T11:55
 ---
 [[Notes from Georg]] | [[Fuel saver user stories]] 
 
@@ -8,7 +8,7 @@ updated: 2024-08-16T09:41
 	-  FuelStopService.get(int id) -> this will already be implemented, do I want to *only* return the fuel_stop.stop_timestamp? 
 - [ ]  I want to see the location of a gas station - show lat/lon 
 ```java
-	public Point getLocation(int id) {
+	public Point getLocation(int gasStationId) {
 		String sql = "SELECT latitude, longitude FROM fuel_saver.gas_station WHERE id = ?";
 		//prepare statement here/ try catch
 		Point p = new Point();
@@ -19,14 +19,14 @@ updated: 2024-08-16T09:41
 
 - [ ]  I want to see the price per liter of a gas station //GasStationDao & Impl
 ```java
-public Double getPricePerLiter(int id) {
+public Map<LocalDateTime, double> getPricePerLiter(int gasStationId) {
 	String sql = "SELECT fs.price_per_liter, fs.stop_timestamp FROM fuel_saver.fuel_stop fs JOIN fuel_saver.gas_station gs ON fs.station_id = gs.id WHERE gs.id = ?"
-	Map<LocalDateTime, double> fuelStopsPrice = new HashMap<>();
+	Map<LocalDateTime, double> fuelStopsPrice = new Map<>();
 	//prepare statement here/ try/catch
 	LocalDateTime stopTimestamp = rs.getTimestamp("stop_timestamp").toLocalDate();
 	double pricePerLiter = rs.getDouble("price_per_liter");
 	fuelStopsPrice.put(stopTimestamp, pricePerLiter);
-	return fuelStops;
+	return fuelStopsPrice;
 }
 ```
 - [ ] I want to see the average price per liter of other gas stations along the route
@@ -34,7 +34,110 @@ public Double getPricePerLiter(int id) {
 ```java
 
 ```
-- [ ] I want to see the number of liters filled at a gas station - for a certain stop? For a certain driver?  
+- [ ] I want to see the number of liters filled at a gas station 
+```sql
+SELECT gs.id, SUM(fs.number_of_liters) AS total_liters
+FROM fuel_saver.gas_station gs
+JOIN fuel_saver.fuel_stop fs ON gs.id = fs.station_id
+JOIN fuel_saver.device dev ON fs.device_id = dev.id
+JOIN fuel_saver.driver d ON dev.driver_id = d.id
+WHERE d.id = ?
+GROUP BY gs.id;
+```
+```java
+public Map<long, double> getTotalLitersFilled(int gasStationId){
+	String sql = "" 
+	Map<long, double> totalLitersFilled = new Map<>();
+	//prepare statement w/ try/catch
+	long gasStationId = rs.getLong("id");
+	double totalLiters = rs.getLong("total_liters");
+	totalLitersFilled.put(gasStationId, totalLiters);
+	return totalLitersFilled 
+	
+}
+```
+
+- [ ] I want to see the total savings of a fuel stop
+```sql 
+SELECT fs.id, fs.total_savings
+FROM fuel_saver.fuel_stop fs
+WHERE fs.id = ?;
+
+```
+```java
+public Map<long, double> getTotalSavings(int fuelStopId){
+	String sql = "";
+	Map<long, double> totalSavings = new Map<>();
+	//prepare stateent w/ try/catch
+	long fuelStopId = rs.getLong("id");
+	DecimalFormat df = new DecimalFormat("#.##");
+	df.setRoundingMode(RoundingMode.CEILING);
+	double totalLiters = df.format(rs.getLong("total_savings"));
+	totalSavings.put(fuelStopId, totalLiters);
+	return totalSavings;
+	
+
+}
+```
+
+- [ ] I want to see the users name and user id of who filled up
+```sql
+SELECT d.id AS driver_id, 
+       d.first_name || ' ' || d.last_name AS driver_name, 
+       fs.stop_timestamp
+FROM fuel_saver.fuel_stop fs
+JOIN fuel_saver.device dev ON fs.device_id = dev.id
+JOIN fuel_saver.driver d ON dev.driver_id = d.id
+WHERE fs.id = ?;
+```
+```java
+public Map<long, String> getDriverForFuelStop(int fuelStopId){
+	String sql = "";
+	Map<long, string> driverIdAndName = new Map<>();
+	// prepare statement w/ try/catch
+	long driverId = rs.getLong("id");
+	String driverName = rs.getString("driver_name");
+	driverIdAndName.put(driverId, driverName);
+	return driverIDAndName; 
+}
+```
+
+- [ ] I want to see total savings per custom time period of using the fuel-saver per driver or for all drivers
+```SQL
+SELECT d.id AS driver_id, 
+       d.first_name || ' ' || d.last_name AS driver_name, 
+       SUM(fs.total_savings) AS total_savings
+FROM fuel_saver.fuel_stop fs
+JOIN fuel_saver.device dev ON fs.device_id = dev.id
+JOIN fuel_saver.driver d ON dev.driver_id = d.id
+WHERE d.id = ?
+AND fs.stop_timestamp BETWEEN '2024-07-01' AND '2024-07-31' //replace with ? 
+GROUP BY d.id, d.first_name, d.last_name;
+```
+```java
+public double getTotalSavingsForDriver(int driverId, String startDate, String endDate){ //string? What else is more type safe? 
+	double totalSavings = 0.0;
+	String sql = "";
+	//prepare statement with try/catch
+	//asign rs.getDouble("total_savings") to totalSavings and use #.## format
+	return totalSavings
+
+}
+```
+
+
+1. I want to see which of my drivers is saving the most per month/per year on fuel
+2. I want to be able to see my organization as a whole but also see individual drivers
+3. I want to see how much I've spent on fuel each month/year
+4. I want to see my monthly, yearly, and lifetime savings using fuel-saver
+5. I want my boss to see how much I have saved him
+6. I want to receive a tip from my boss
+7. I want to be able to sort by name of driver and amount saved
+8. I want to see which driver has saved and which hasn't
+9. I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
+
+
+
 ```sql
 SELECT gs.station_name, gs.latitude, gs.longitude, SUM(fs.number_of_liters) AS total_liters, SUM(fs.price_per_liter) AS total_price, SUM(fs.total_savings) AS total_savings
 FROM fuel_saver.gas_station gs
@@ -50,24 +153,5 @@ JOIN fuel_saver.fuel_stop fs ON gs.id = fs.station_id
 JOIN fuel_saver.device dev ON fs.device_id = dev.id
 JOIN fuel_saver.driver d ON dev.driver_id = d.id
 WHERE d.id = 2
-GROUP BY d.id, gs.station_name, gs.latitude, gs.longitude; //only get # of liters & location
+GROUP BY d.id, fs.id, gs.station_name, gs.latitude, gs.longitude; //get driver id, fs.id, gs.name, & lat lon
 ```
-```java
-public double getTotalLitersFilled(int id){
-	String sql = "above"
-	
-}
-```
-1. I want to see the total savings of a fuel stop
-2. I want to see the users name and user id of who filled up
-3. I want to see total savings per custom time period of using the fuel-saver per driver or for all drivers
-4. I want to see which of my drivers is saving the most per month/per year on fuel
-5. I want to be able to see my organization as a whole but also see individual drivers
-6. I want to see how much I've spent on fuel each month/year
-7. I want to see my monthly, yearly, and lifetime savings using fuel-saver
-8. I want my boss to see how much I have saved him
-9. I want to receive a tip from my boss
-10. I want to be able to sort by name of driver and amount saved
-11. I want to see which driver has saved and which hasn't
-12. I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
-13. 
