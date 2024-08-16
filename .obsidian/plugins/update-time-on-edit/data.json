@@ -78,7 +78,7 @@
     "3-resources/Personal/Refridgerator.md": "6861959188ece486192b019b51eef9197077cc5cb76108671b14a233a9354988",
     "1-projects/To Understand/DAO.md": "449469ee01fd7faf325e28e0fea75d31489e02049d7dc6983a089d90f333d748",
     "templates/Zettel template.md": "057b1d154ad5513b3da2c28a0e22eaf6a426424d16521397ef3c86f3bb7087b9",
-    "0-inbox/Meal Plan.md": "155549e72cae5cc9b2859b520ca615e94e1704e82d39b9d367d348c9b83110c5",
+    "0-inbox/Meal Plan.md": "e5ea506dc8478c7b043166995e14c35632cb69b0515fc412efefe0e9486fcda5",
     "timestamps/2024/08-August/2024-08-12-Monday.md": "41e95d3a62ca5429f164527d88aeba04e881d87c1fac986debde48efc28eb926",
     "2-areas/fullstack-dev/Java/Java Optional Class.md": "344aea2b8ff164d1c0fc03f07845008d29845c3794d4b4d30c938b177c8158f6",
     "2-areas/fullstack-dev/Java/PreparedStatement Java.md": "4c4b3d95fe8350a4997a0bbfe2f71297b6b0b4fc940a604947f9b7f36554e677",
@@ -105,6 +105,7 @@
     "0-inbox/On delete cascade.md": "57c9d4ca5062617adde17436c8a41322e549db68fead9f8c4dfb48dd3dd79c89",
     "0-inbox/Methods for use cases.md": "a32075a5cef48931b8f50d5d476ac2d12bdf686c248e68368ee9f67b57367899",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md": "bc8fa4a4ebedca78c1f8dc592393d1c811bc4ecadf066261d2fffe47e9a00b1b",
-    "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005"
+    "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005",
+    "0-inbox/Passwords.md": "31e391beda9242480376c03369fd7045f2ae16307b505dfc87dc0a694168222a"
   }
 }
