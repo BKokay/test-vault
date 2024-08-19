@@ -85,6 +85,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fa3564f61427537f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/json-java.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -227,11 +239,12 @@
   },
   "active": "1cf2677bbc9df8c0",
   "lastOpenFiles": [
+    "0-inbox/json-java.md",
+    "0-inbox/Methods for use cases.md",
     "2-areas/Personal Growth/journal-8-19-24.md",
     "timestamps/2024/08-August/2024-08-19-Monday.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
     "0-inbox/Passwords.md",
-    "0-inbox/Methods for use cases.md",
     "0-inbox/Java Map Interface.md",
     "0-inbox/Meal Plan.md",
     "1-projects/fuel-saver-app/Fuel saver user stories.md",
@@ -255,7 +268,6 @@
     "1-projects/WGU/Preplanning/Study.com.md",
     "1-projects/WGU/Preplanning/Sophia.md",
     "1-projects/WGU/Preplanning/Links.md",
-    "1-projects/WGU/Preplanning/Course List.md",
     "1-projects/WGU/Preplanning",
     "1-projects/WGU",
     "3-resources/images/BSCS.2024.pdf",

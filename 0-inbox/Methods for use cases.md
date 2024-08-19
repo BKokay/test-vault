@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T13:44
-updated: 2024-08-19T11:05
+updated: 2024-08-19T11:34
 ---
 [[Notes from Georg]] | [[Fuel saver user stories]] 
 
@@ -156,7 +156,7 @@ public double getMonthlySavingsForDriver(int month, int year, long driverId){
             ResultSet rs = pstmt.executeQuery();
 
             while (rs.next()) {
-                Map<String, Object> row = new HashMap<>();
+                JSONObject row = new JSONObject();
                 row.put("driver_id", rs.getInt("driver_id"));
                 row.put("driver_name", rs.getString("driver_name"));
                 row.put("year", rs.getInt("year"));
