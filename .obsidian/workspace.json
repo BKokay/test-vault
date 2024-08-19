@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Personal Growth/journal-8-19-24.md",
+                "file": "0-inbox/Methods for use cases.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,8 +110,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,8 +156,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Eclipse IDE.md",
+                "file": "0-inbox/Methods for use cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Eclipse IDE.md",
+                "file": "0-inbox/Methods for use cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Eclipse IDE.md"
+                "file": "0-inbox/Methods for use cases.md"
               }
             }
           },
@@ -250,14 +248,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "506bbe002dae0d77",
+  "active": "b4b3a8e4a0d65436",
   "lastOpenFiles": [
+    "2-areas/Personal Growth/journal-8-19-24.md",
     "0-inbox/Java Map Interface.md",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
+    "0-inbox/json-java.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "0-inbox/Methods for use cases.md",
-    "0-inbox/json-java.md",
-    "2-areas/Personal Growth/journal-8-19-24.md",
     "timestamps/2024/08-August/2024-08-19-Monday.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
     "0-inbox/Passwords.md",

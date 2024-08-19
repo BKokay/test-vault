@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T13:44
-updated: 2024-08-19T11:34
+updated: 2024-08-19T13:01
 ---
 [[Notes from Georg]] | [[Fuel saver user stories]] 
 
@@ -257,8 +257,43 @@ SELECT d.maptrip_manager_company,
                        ORDER BY year, month, total_savings DESC
 ```
 ```java
+public JSONObject getYearlySavings(int year, int companyId){
+	String sql = "SELECT d.maptrip_manager_company, \r\n"
+	+ " d.first_name || ' ' || d.last_name AS driver_name,\r\n"
+	+ " EXTRACT(YEAR FROM fs.stop_timestamp) AS year, \r\n"
+	+ " d.id AS driver_id, \r\n "
+	+ " SUM(fs.total_savings) AS total_savings \r\n"
+	+ " FROM fuel_saver.fuel_stop fs \r\n"
+	+ " JOIN fuel_saver.device dev ON fs.device_id = dev.id \r\n"
+	+ " JOIN fuel_saver.driver d ON dev.driver_id = d.id \r\n"
+	+ " WHERE EXTRACT(YEAR FROM fs.stop_timestamp) = ? \r\n"
+	+ " AND d.maptrip_manager_company = ?\r\n"
+	+ " GROUP BY d.id, d.maptrip_manager_company, d.first_name, d.last_name, EXTRACT(YEAR FROM fs.stop_timestamp)\r\n"
+	+ " ORDER BY total_savings DESC";
+	
+	JSONArray arr = new JSONArray();
 
+	try (PreparedStatement pstmt = connection.prepareStatement(sql)) {
+		pstmt.setInt(1, year);
+		pstmt.setInt(2, companyId);
 
+		ResultSet rs = pstmt.executeQuery();
+		while (rs.next()) {
+			JSONObject ob = new JSONObject();
+			ob.put("maptrip_manager_company", rs.getInt("maptrip_manager_company"));
+			ob.put("driver_id", rs.getInt("driver_id"));
+			ob.put("driver_name", rs.getString("driver_name"));
+			ob.put("year", rs.getInt("year"));
+			ob.put("total_savings", rs.getDouble("total_savings"));
+			
+			arr.put(ob);
+			}
+
+	  } catch (SQLException e) {
+			e.printStackTrace();
+			}
+	System.out.println(arr);
+}
 
 ```
 1. I want my boss to see how much I have saved him
