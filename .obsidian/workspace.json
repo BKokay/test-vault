@@ -80,7 +80,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Methods for use cases.md",
+                "file": "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "506bbe002dae0d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/fullstack-dev/Java/Eclipse IDE.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,8 +140,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
-                "matchingCase": true,
+                "query": "eclip",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -145,7 +157,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Methods for use cases.md",
+                "file": "2-areas/fullstack-dev/Java/Eclipse IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Methods for use cases.md",
+                "file": "2-areas/fullstack-dev/Java/Eclipse IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Methods for use cases.md"
+                "file": "2-areas/fullstack-dev/Java/Eclipse IDE.md"
               }
             }
           },
@@ -237,15 +250,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1cf2677bbc9df8c0",
+  "active": "506bbe002dae0d77",
   "lastOpenFiles": [
-    "0-inbox/json-java.md",
+    "0-inbox/Java Map Interface.md",
+    "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
+    "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "0-inbox/Methods for use cases.md",
+    "0-inbox/json-java.md",
     "2-areas/Personal Growth/journal-8-19-24.md",
     "timestamps/2024/08-August/2024-08-19-Monday.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
     "0-inbox/Passwords.md",
-    "0-inbox/Java Map Interface.md",
     "0-inbox/Meal Plan.md",
     "1-projects/fuel-saver-app/Fuel saver user stories.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
@@ -266,8 +281,6 @@
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "1-projects/WGU/Preplanning/WGU.md",
     "1-projects/WGU/Preplanning/Study.com.md",
-    "1-projects/WGU/Preplanning/Sophia.md",
-    "1-projects/WGU/Preplanning/Links.md",
     "1-projects/WGU/Preplanning",
     "1-projects/WGU",
     "3-resources/images/BSCS.2024.pdf",
