@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-20T11:40
+updated: 2024-08-20T13:10
 ---
 Generally, the method will have this format:
 ```java
@@ -52,7 +52,7 @@ public Point getGasStationLocation(int gasStationId){
 }
 ```
 
-- I want to see the time and the date of a fuel stop
+-  [x] I want to see the time and the date of a fuel stop
 	- in FuelStopDaoImpl
 	- parameters: fuel_stop.id
 	- returns: [{stop_timestamp: "", year: "", month: "", formatted_time:""}]
@@ -98,7 +98,7 @@ WHERE d.id = 2
 GROUP BY gs.id, fs.number_of_liters, fs.stop_timestamp;
 ```
 
-- I want to see the total savings of a fuel stop
+- [ ] I want to see the total savings of a fuel stop
 	- in FuelStopDaoImpl
 	- parameters: fuel_stop.id
 	- returns: {fuel_stop_id: "", total_savings: ""}
