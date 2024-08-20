@@ -85,9 +85,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2a0b3476d44816b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md"
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
               }
             }
           },
@@ -225,10 +237,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12c96555eb08682a",
+  "active": "2a0b3476d44816b9",
   "lastOpenFiles": [
-    "0-inbox/Methods for use cases draft.md",
     "0-inbox/Methods for use cases final.md",
+    "0-inbox/Methods for use cases draft.md",
     "2-areas/fullstack-dev/Java/java optional metaphor.md",
     "2-areas/fullstack-dev/Java/Java Optional Class.md",
     "0-inbox/json-java.md",
