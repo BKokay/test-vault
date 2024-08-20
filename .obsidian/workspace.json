@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "b4b3a8e4a0d65436",
+            "id": "12c96555eb08682a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Methods for use cases.md",
+                "file": "0-inbox/Methods for use cases final.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,42 +63,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e597c99a0493163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Java Map Interface.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1cf2677bbc9df8c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "506bbe002dae0d77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Eclipse IDE.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "fa3564f61427537f",
             "type": "leaf",
             "state": {
@@ -109,8 +73,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b4b3a8e4a0d65436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Methods for use cases draft.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Methods for use cases.md",
+                "file": "0-inbox/Methods for use cases final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Methods for use cases.md",
+                "file": "0-inbox/Methods for use cases final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Methods for use cases.md"
+                "file": "0-inbox/Methods for use cases final.md"
               }
             }
           },
@@ -248,25 +225,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4b3a8e4a0d65436",
+  "active": "12c96555eb08682a",
   "lastOpenFiles": [
+    "0-inbox/Methods for use cases draft.md",
+    "0-inbox/Methods for use cases final.md",
+    "0-inbox/json-java.md",
+    "1-projects/fuel-saver-app/Fuel saver user stories.md",
+    "3-resources/images/~$el-saver-final.docx",
     "2-areas/Personal Growth/journal-8-19-24.md",
     "0-inbox/Java Map Interface.md",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
-    "0-inbox/json-java.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
-    "0-inbox/Methods for use cases.md",
     "timestamps/2024/08-August/2024-08-19-Monday.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
     "0-inbox/Passwords.md",
     "0-inbox/Meal Plan.md",
-    "1-projects/fuel-saver-app/Fuel saver user stories.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "2-areas/fullstack-dev/database/general case.md",
     "2-areas/fullstack-dev/database/Logical Expressions.md",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
-    "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
     "0-inbox/On delete cascade.md",
     "1-projects/fuel-saver-app/Java/update method dynamic.md",
@@ -278,7 +256,6 @@
     "2-areas/fullstack-dev/Java/Design Patterns/User Service Class.md",
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "1-projects/WGU/Preplanning/WGU.md",
-    "1-projects/WGU/Preplanning/Study.com.md",
     "1-projects/WGU/Preplanning",
     "1-projects/WGU",
     "3-resources/images/BSCS.2024.pdf",

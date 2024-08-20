@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-15T13:45
+updated: 2024-08-20T09:36
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -24,7 +24,7 @@ package globally available in the package.
 ### Next steps: 08/15
 - [x] add device dao, entity, impl 
 - [x] add cascading delete for any foreign keys
-- [ ] extend with any methods to get complex SQL statements [[Methods for use cases]]
+- [ ] extend with any methods to get complex SQL statements [[Methods for use cases draft]]
 	- [ ] check requirements doc
 	- [ ] write out method names
 	- [ ] write out logic

@@ -1,12 +1,12 @@
 ---
 created: 2024-08-15T13:44
-updated: 2024-08-19T13:01
+updated: 2024-08-20T11:11
 ---
-[[Notes from Georg]] | [[Fuel saver user stories]] 
+[[Notes from Georg]] | [[Fuel saver user stories]] [[Methods for use cases final]]
 
-- [ ]  I want to see the time and date of a fuel stop
+-   I want to see the time and date of a fuel stop
 	-  FuelStopService.get(int id) -> this will already be implemented, do I want to *only* return the fuel_stop.stop_timestamp? 
-- [ ]  I want to see the location of a gas station - show lat/lon 
+-  I want to see the location of a gas station - show lat/lon 
 ```java
 	public Point getLocation(int gasStationId) {
 		String sql = "SELECT latitude, longitude FROM fuel_saver.gas_station WHERE id = ?";
@@ -17,7 +17,7 @@ updated: 2024-08-19T13:01
 	} 
 ```
 
-- [ ]  I want to see the price per liter of a gas station //GasStationDao & Impl
+-   I want to see the price per liter of a gas station
 ```java
 public Map<LocalDateTime, double> getPricePerLiter(int gasStationId) {
 	String sql = "SELECT fs.price_per_liter, fs.stop_timestamp FROM fuel_saver.fuel_stop fs JOIN fuel_saver.gas_station gs ON fs.station_id = gs.id WHERE gs.id = ?"
@@ -29,12 +29,12 @@ public Map<LocalDateTime, double> getPricePerLiter(int gasStationId) {
 	return fuelStopsPrice;
 }
 ```
-- [ ] I want to see the average price per liter of other gas stations along the route
+-  I want to see the average price per liter of other gas stations along the route
 	- this is complicated... do I check the lat/lon of a station in relation to the route?
 ```java
 
 ```
-- [ ] I want to see the number of liters filled at a gas station 
+-  I want to see the number of liters filled at a gas station 
 ```sql
 SELECT gs.id, SUM(fs.number_of_liters) AS total_liters
 FROM fuel_saver.gas_station gs
@@ -57,7 +57,7 @@ public Map<long, double> getTotalLitersFilled(int gasStationId){
 }
 ```
 
-- [ ] I want to see the total savings of a fuel stop
+-  I want to see the total savings of a fuel stop
 ```sql 
 SELECT fs.id, fs.total_savings
 FROM fuel_saver.fuel_stop fs
@@ -80,7 +80,7 @@ public Map<long, double> getTotalSavings(int fuelStopId){
 }
 ```
 
-- [ ] I want to see the users name and user id of who filled up
+-  I want to see the users name and user id of who filled up
 ```sql
 SELECT d.id AS driver_id, 
        d.first_name || ' ' || d.last_name AS driver_name, 
@@ -102,7 +102,7 @@ public Map<long, String> getDriverForFuelStop(int fuelStopId){
 }
 ```
 
-- [ ] I want to see total savings per custom time period of using the fuel-saver per driver or for all drivers
+- I want to see total savings per custom time period of using the fuel-saver per driver or for all drivers
 	- For a company, there would need to be a company table?
 	- Replace d.id = ? with d.maptrip_manager_company = ? 
 ```SQL
@@ -127,7 +127,7 @@ public double getTotalSavingsForDriver(int driverId, String startDate, String en
 ```
 
 
-- [ ] I want to see which of my drivers is saving the most per month/per year on fuel
+- I want to see which of my drivers is saving the most per month/per year on fuel
 ```sql
 SELECT d.id AS driver_id, 
                        d.first_name || ' ' || d.last_name AS driver_name,
@@ -143,9 +143,9 @@ SELECT d.id AS driver_id,
 ```
 
 ```java
-public double getMonthlySavingsForDriver(int month, int year, long driverId){
+public Array getMonthlySavingsForDriver(int month, int year, long driverId){
 	String sql = "";
-	List<Map<String, Object>> result = new ArrayList<>();
+	JSONArray result = new JSONArray();
 	
 		try (
              PreparedStatement pstmt = conn.prepareStatement(sql)) {
@@ -175,28 +175,30 @@ public double getMonthlySavingsForDriver(int month, int year, long driverId){
 }
 
 ```
- - [ ] I want to be able to see my organization as a whole but also see individual drivers
+ - I want to be able to see my organization as a whole but also see individual drivers
  
 ```java
 //don't yet have an organization, so that doesn't work 
 //for individual driver -> return total_savings
 ```
-- [ ]  I want to see how much I've spent on fuel each month/year
+-  I want to see how much I've spent on fuel each month/year
 ```sql
-SELECT d.id AS driver_id, 
-                       d.first_name || ' ' || d.last_name AS driver_name,
-                       EXTRACT(YEAR FROM fs.stop_timestamp) AS year, 
-                       SUM(fs.total_savings) AS total_savings 
-                       FROM fuel_saver.fuel_stop fs 
-                       JOIN fuel_saver.device dev ON fs.device_id = dev.id 
-                       JOIN fuel_saver.driver d ON dev.driver_id = d.id 
-                       WHERE EXTRACT(YEAR FROM fs.stop_timestamp) = ? AND d.id = ?
-                       GROUP BY d.id, d.first_name, d.last_name, EXTRACT(YEAR FROM fs.stop_timestamp) 
-                       ORDER BY total_savings DESC;
+SELECT d.id AS driver_id,
+	d.maptrip_manager_company,
+       d.first_name || ' ' || d.last_name AS driver_name,
+       EXTRACT(YEAR FROM fs.stop_timestamp) AS year, 
+       SUM(fs.number_of_liters * fs.price_per_liter) AS total_spent 
+FROM fuel_saver.fuel_stop fs 
+JOIN fuel_saver.device dev ON fs.device_id = dev.id 
+JOIN fuel_saver.driver d ON dev.driver_id = d.id 
+WHERE EXTRACT(YEAR FROM fs.stop_timestamp) = 2024 
+AND d.maptrip_manager_company = 2
+GROUP BY d.maptrip_manager_company, d.id, d.first_name, d.last_name, EXTRACT(YEAR FROM fs.stop_timestamp) 
+ORDER BY total_spent DESC;
 ```
 ```java
-
-public double getYearlySavingsForDriver(int year, long driverId){
+//for monthly, add another parameter and add to sql statement
+public double getYearlySavingsForCompany(int year, long maptripManagerCompany){
 	String sql = "";
 	List<Map<String, Object>> result = new ArrayList<>();
 	
@@ -227,7 +229,7 @@ public double getYearlySavingsForDriver(int year, long driverId){
 
 ```
 
- - [ ] I want to see my monthly, yearly, and lifetime savings using fuel-saver
+ - I want to see my monthly, yearly, and lifetime savings using fuel-saver
 ```sql
 #yearly
 SELECT d.maptrip_manager_company, 
@@ -296,11 +298,20 @@ public JSONObject getYearlySavings(int year, int companyId){
 }
 
 ```
-1. I want my boss to see how much I have saved him
-2. I want to receive a tip from my boss
-3. I want to be able to sort by name of driver and amount saved
-4. I want to see which driver has saved and which hasn't
-5. I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
+- I want my boss to see how much I have saved him
+-  I want to receive a tip from my boss
+-  I want to be able to sort by name of driver and amount saved
+-  I want to see which driver has saved and which hasn't
+-  I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
+```sql
+SELECT gs.station_name, gs.latitude, gs.longitude, fs.stop_timestamp, fs.fuel_type, fs.number_of_liters, fs.price_per_liter, fs.total_savings
+FROM fuel_saver.gas_station gs
+JOIN fuel_saver.fuel_stop fs ON gs.id = fs.station_id
+JOIN fuel_saver.device dev ON fs.device_id = dev.id
+JOIN fuel_saver.driver d ON dev.driver_id = d.id
+WHERE d.id = 2
+GROUP BY gs.station_name, gs.latitude, gs.longitude, fs.stop_timestamp, fs.fuel_type, d.id, fs.number_of_liters, fs.price_per_liter, fs.total_savings;
+```
 
 
 
@@ -311,7 +322,7 @@ JOIN fuel_saver.fuel_stop fs ON gs.id = fs.station_id
 JOIN fuel_saver.device dev ON fs.device_id = dev.id
 JOIN fuel_saver.driver d ON dev.driver_id = d.id
 WHERE d.id = 2
-GROUP BY gs.station_name, gs.latitude, gs.longitude; //get price & savings
+GROUP BY gs.station_name, gs.latitude, gs.longitude; //get price, liters, savings, location by driver
 
 SELECT d.id AS driver_id, gs.station_name, gs.latitude, gs.longitude, SUM(fs.number_of_liters) AS total_liters, fs.id AS fuel_stop_id
 FROM fuel_saver.gas_station gs
