@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-20T13:10
+updated: 2024-08-20T13:39
 ---
 Generally, the method will have this format:
 ```java
@@ -98,7 +98,7 @@ WHERE d.id = 2
 GROUP BY gs.id, fs.number_of_liters, fs.stop_timestamp;
 ```
 
-- [ ] I want to see the total savings of a fuel stop
+- [x] I want to see the total savings of a fuel stop
 	- in FuelStopDaoImpl
 	- parameters: fuel_stop.id
 	- returns: {fuel_stop_id: "", total_savings: ""}
@@ -108,10 +108,10 @@ FROM fuel_saver.fuel_stop fs
 WHERE fs.id = ?;
 ```
 
-- I want to see the user's name and user id of who filled up 
+- [x] I want to see the user's name and user id of who filled up 
 	- in FuelStopDaoImpl
 	- parameters fuel_stop.id
-	- returns: {driver_id: "", driver_name: "", stop_timestamp: "" }
+	- returns: {driver_id: "", driver_name: "", stop_timestamp: "" } //return timestamp here? 
 ```sql 
 SELECT d.id AS driver_id, 
        d.first_name || ' ' || d.last_name AS driver_name, 
