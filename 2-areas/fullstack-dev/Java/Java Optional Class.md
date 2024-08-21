@@ -1,6 +1,6 @@
 ---
 created: 2024-08-12T10:10
-updated: 2024-08-20T11:45
+updated: 2024-08-21T21:46
 ---
 NullPointerException - this can happen with a program has an abnormal termination. 
 Example is with this code:

@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-20T14:26
+updated: 2024-08-21T21:47
 ---
 Generally, the method will have this format:
 ```java

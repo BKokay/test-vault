@@ -1,6 +1,6 @@
 ---
 created: 2024-08-19T09:20
-updated: 2024-08-19T09:34
+updated: 2024-08-21T21:47
 ---
 last night, I was in the bath and kept having this thought run through my head - *"it never gets easier, you just get fitter."* 
 

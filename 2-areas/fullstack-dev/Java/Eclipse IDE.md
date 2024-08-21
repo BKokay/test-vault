@@ -1,6 +1,6 @@
 ---
 created: 2024-07-25T09:51
-updated: 2024-08-19T11:52
+updated: 2024-08-21T21:46
 ---
 - To see the welcome screen, got to help/welcome
 - New project file/new

@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T13:15
-updated: 2024-08-15T13:19
+updated: 2024-08-21T21:47
 ---
 ```sql
 ALTER TABLE fuel_saver.device
