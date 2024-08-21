@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Exceptions.md",
+                "file": "2-areas/fullstack-dev/Java/servlet.md",
                 "mode": "source",
                 "source": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "servlet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +169,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Exceptions.md",
+                "file": "2-areas/fullstack-dev/Java/servlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Exceptions.md",
+                "file": "2-areas/fullstack-dev/Java/servlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Exceptions.md"
+                "file": "2-areas/fullstack-dev/Java/servlet.md"
               }
             }
           },
@@ -263,8 +264,8 @@
   },
   "active": "f2a8680929b94789",
   "lastOpenFiles": [
-    "0-inbox/IOExceptions.md",
     "0-inbox/Exceptions.md",
+    "0-inbox/IOExceptions.md",
     "0-inbox/executeUpdate vs executeQuery.md",
     "2-areas/fullstack-dev/Java/Java Map Interface.md",
     "2-areas/fullstack-dev/Java/json-java.md",
