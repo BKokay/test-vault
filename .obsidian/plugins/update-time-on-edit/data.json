@@ -82,7 +82,6 @@
     "timestamps/2024/08-August/2024-08-12-Monday.md": "41e95d3a62ca5429f164527d88aeba04e881d87c1fac986debde48efc28eb926",
     "2-areas/fullstack-dev/Java/Java Optional Class.md": "c41d62ee6562bad6ed6a5177315aeb4c03d72e419ae0d861ca37c0e0b68e09d9",
     "2-areas/fullstack-dev/Java/PreparedStatement Java.md": "4c4b3d95fe8350a4997a0bbfe2f71297b6b0b4fc940a604947f9b7f36554e677",
-    "0-inbox/Java Map Interface.md": "8f0f5bc6a84e11b3ea60eb40e4fb7ef88df97bb292139e19771e52cbb8018a4f",
     "2-areas/fullstack-dev/database/CASE.md": "3fa4c584583a3aaa28d08439f56db0689577ef851b6ab98f2e6ae01e36da3ba3",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md": "93a973f5246f5090d511a29343b746544c870dd454464f2b0f0a1aedfb89a62b",
     "2-areas/fullstack-dev/Java/StringBuilder.md": "e75e4f0fe834935d6fe3775c082bdd245d6c0f6425a037e622022a7398e4a677",
@@ -102,15 +101,18 @@
     "1-projects/WGU/Preplanning/Timeline & Cost.md": "440d678085774b17caceb59c6859b5186ded349e3c84109d7efaa544d5453a09",
     "1-projects/fuel-saver-app/Fuel saver user stories.md": "3eec4302dcf2cec98238d815cdfbc7b91a3d7255bfbf72f0cc15e697caafba05",
     "1-projects/fuel-saver-app/Notes from Georg.md": "817b7097a25ebd57ad03872528692a6d7fee2f97f318e167b958b2487dc2bd43",
-    "0-inbox/On delete cascade.md": "57c9d4ca5062617adde17436c8a41322e549db68fead9f8c4dfb48dd3dd79c89",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md": "bc8fa4a4ebedca78c1f8dc592393d1c811bc4ecadf066261d2fffe47e9a00b1b",
     "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005",
     "0-inbox/Passwords.md": "3eeb351c30380ee255b4294a0d60d9541e18527f1e3ed9ff3c76cc43981408ea",
     "timestamps/2024/08-August/2024-08-19-Monday.md": "7fe7533748e46ab857a2f078098244b99f226da81e044c57a8a68067f0d6835a",
     "2-areas/Personal Growth/journal-8-19-24.md": "e5b44c30d3761a5fa7b05ee299525958dd7713b9cc4a89a1bac437739de5fbde",
-    "0-inbox/json-java.md": "6ed2d7b78e3e06f28259a9e7e4a597725c256b9f4b37ca3db864739ac5f5dee6",
     "0-inbox/Methods for use cases draft.md": "74ee2f9e5fd7dfdacfa43807f8b409d8bfa9751ea432a44149892548140a0523",
     "0-inbox/Methods for use cases final.md": "b65e9ccdd289110b49a98dc386c760f32b4d66e08c74447d091961c0bc39c764",
-    "2-areas/fullstack-dev/Java/java optional metaphor.md": "c4ea1269682dad1ee38b67f18eed1c103faf71183d995420dabf581fec9653fa"
+    "2-areas/fullstack-dev/Java/java optional metaphor.md": "c4ea1269682dad1ee38b67f18eed1c103faf71183d995420dabf581fec9653fa",
+    "2-areas/fullstack-dev/database/On delete cascade.md": "57c9d4ca5062617adde17436c8a41322e549db68fead9f8c4dfb48dd3dd79c89",
+    "2-areas/fullstack-dev/Java/json-java.md": "6ed2d7b78e3e06f28259a9e7e4a597725c256b9f4b37ca3db864739ac5f5dee6",
+    "2-areas/fullstack-dev/Java/Java Map Interface.md": "8f0f5bc6a84e11b3ea60eb40e4fb7ef88df97bb292139e19771e52cbb8018a4f",
+    "0-inbox/IOExceptions.md": "0e488cf282bafeff29bdeddb1bcd317be3d6bb98c66708a8c68c0fc8dc17509e",
+    "0-inbox/Exceptions.md": "e035e38ccc21acc7c0506386dc3e81483dd92a7dacb950b35a56f3250ca48207"
   }
 }
