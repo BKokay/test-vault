@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Methods for use cases draft.md",
+                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "servlet",
+                "query": "string to int",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,8 +169,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md",
+                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md",
+                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md"
+                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md"
               }
             }
           },
@@ -262,8 +261,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a8680929b94789",
+  "active": "b4b3a8e4a0d65436",
   "lastOpenFiles": [
+    "0-inbox/Passwords.md",
+    "0-inbox/Methods for use cases draft.md",
+    "2-areas/fullstack-dev/Java/servlet.md",
     "0-inbox/Exceptions.md",
     "0-inbox/IOExceptions.md",
     "0-inbox/executeUpdate vs executeQuery.md",
@@ -272,7 +274,6 @@
     "2-areas/fullstack-dev/database/On delete cascade.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Methods for use cases final.md",
-    "0-inbox/Methods for use cases draft.md",
     "2-areas/fullstack-dev/Java/java optional metaphor.md",
     "2-areas/fullstack-dev/Java/Java Optional Class.md",
     "1-projects/fuel-saver-app/Fuel saver user stories.md",
@@ -282,7 +283,6 @@
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "timestamps/2024/08-August/2024-08-19-Monday.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
-    "0-inbox/Passwords.md",
     "0-inbox/Meal Plan.md",
     "1-projects/fuel-saver-app/database/practice-problems.md",
     "2-areas/fullstack-dev/database/general case.md",
@@ -292,7 +292,6 @@
     "1-projects/fuel-saver-app/Java/update method dynamic.md",
     "0-inbox/Todo.md",
     "3-resources/images/Pasted image 20240815124638.png",
-    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
     "1-projects/WGU/Preplanning",
     "1-projects/WGU",
     "3-resources/images/BSCS.2024.pdf",
