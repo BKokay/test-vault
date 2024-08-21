@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-21T13:22
+updated: 2024-08-21T14:47
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -80,6 +80,15 @@ Empty 404
 
 had to add this line to my DB class because [[posgresql]] wasn't connecting
 `Class.forName("org.postgresql.Driver").getDeclaredConstructor().newInstance();`
+
+# Open questions:
+Do I want to return Optional with save, update, or delete? Do I want to return anything from those? 
+
+# TODO:
+The edits I made to GasStationDao need to also be implemented into my other daos. 
+Add other methods from [[Methods for use cases final]]
+Service Layer [[User Service Class]]
+Servlet [[servlet]]
 ## Links:
 
 
