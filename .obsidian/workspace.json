@@ -93,7 +93,7 @@
               "type": "markdown",
               "state": {
                 "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -240,6 +240,7 @@
   "active": "2a0b3476d44816b9",
   "lastOpenFiles": [
     "0-inbox/Methods for use cases final.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Methods for use cases draft.md",
     "2-areas/fullstack-dev/Java/java optional metaphor.md",
     "2-areas/fullstack-dev/Java/Java Optional Class.md",
@@ -258,7 +259,6 @@
     "2-areas/fullstack-dev/database/general case.md",
     "2-areas/fullstack-dev/database/Logical Expressions.md",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
     "3-resources/images/fuel-saver-final.docx",
     "0-inbox/On delete cascade.md",
     "1-projects/fuel-saver-app/Java/update method dynamic.md",

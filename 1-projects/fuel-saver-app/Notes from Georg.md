@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-20T09:36
+updated: 2024-08-20T15:00
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -66,7 +66,17 @@ Great! [[Classes needed for design | About the design]]: You should create one [
 
 and it would be nice to have a common interface for the DAO classes, like in this tutorial: [https://www.baeldung.com/java-dao-pattern](https://www.baeldung.com/java-dao-pattern "https://www.baeldung.com/java-dao-pattern")
 
+Should be HTTP return codes
+404 - not found
+500 - database down , internal server error
+log it so we can get the error
+on API layer return status code (error/success) 
+ALL NEED TO BE PASSED THROUGH LAYERS
+I/O exception 500 - add to catch block - e.message() or something 
+Empty 404
+200 Object 
 
+<**Pattern**>%date %level %class{1.}:%line %msg%n</**Pattern**> add to log.xml
 ## Links:
 
 

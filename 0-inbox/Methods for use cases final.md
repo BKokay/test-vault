@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-20T13:57
+updated: 2024-08-20T14:26
 ---
 Generally, the method will have this format:
 ```java
@@ -30,10 +30,10 @@ public JSONArray returnAnArrayOfObjects(int foo, String bar){
 ```
 
 As a fleet owner...
-- [ ] I want to see the location of a fuel station
+- [x] I want to see the location of a fuel station
 	- in GasStationDaoImpl
 	- parameters: gas_station.id
-	- returns: Point (long, lat) 
+	- returns: Coordinate (from a Coordinate class) 
 ```java
 public Point getGasStationLocation(int gasStationId){
 	String sql = "SELECT latitude, longitude FROM fuel_saver.gas_station WHERE id = ?";
