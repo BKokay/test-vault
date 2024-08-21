@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Meal Plan.md",
+                "file": "1-projects/WGU/Preplanning/PreStudy.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/Meal Plan.md",
+            "file": "1-projects/WGU/Preplanning/PreStudy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/Meal Plan.md",
+            "file": "1-projects/WGU/Preplanning/PreStudy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-inbox/Meal Plan.md"
+            "file": "1-projects/WGU/Preplanning/PreStudy.md"
           }
         }
       },
@@ -152,8 +152,8 @@
   },
   "active": "b1070af0be8cd120",
   "lastOpenFiles": [
-    "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "0-inbox/Meal Plan.md",
+    "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "3-resources/Personal/Refridgerator.md",
     "0-inbox",
     "0-inbox/poetic attunement?.md",

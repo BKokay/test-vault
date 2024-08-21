@@ -1,6 +1,6 @@
 ---
 created: 2024-08-12T10:10
-updated: 2024-08-12T10:40
+updated: 2024-08-20T11:45
 ---
 NullPointerException - this can happen with a program has an abnormal termination. 
 Example is with this code:
@@ -113,4 +113,4 @@ class GFG {
 
 ```
 To find more information, check this article: https://www.geeksforgeeks.org/java-8-optional-class/ 
-[[java]] [[java.util]]
+[[java]] [[java.util]] [[java optional metaphor]]
