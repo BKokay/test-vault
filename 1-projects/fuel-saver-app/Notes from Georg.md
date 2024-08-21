@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-20T15:00
+updated: 2024-08-21T13:22
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -77,6 +77,9 @@ Empty 404
 200 Object 
 
 <**Pattern**>%date %level %class{1.}:%line %msg%n</**Pattern**> add to log.xml
+
+had to add this line to my DB class because [[posgresql]] wasn't connecting
+`Class.forName("org.postgresql.Driver").getDeclaredConstructor().newInstance();`
 ## Links:
 
 

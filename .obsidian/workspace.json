@@ -75,12 +75,12 @@
             }
           },
           {
-            "id": "b4b3a8e4a0d65436",
+            "id": "297863470322e834",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "mode": "source",
                 "source": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md"
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
               }
             }
           },
@@ -261,8 +261,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4b3a8e4a0d65436",
+  "active": "297863470322e834",
   "lastOpenFiles": [
+    "0-inbox/Untitled.md",
+    "2-areas/fullstack-dev/Java/json-java.md",
+    "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "0-inbox/Passwords.md",
     "0-inbox/Methods for use cases draft.md",
     "2-areas/fullstack-dev/Java/servlet.md",
@@ -270,7 +273,6 @@
     "0-inbox/IOExceptions.md",
     "0-inbox/executeUpdate vs executeQuery.md",
     "2-areas/fullstack-dev/Java/Java Map Interface.md",
-    "2-areas/fullstack-dev/Java/json-java.md",
     "2-areas/fullstack-dev/database/On delete cascade.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Methods for use cases final.md",
@@ -289,8 +291,6 @@
     "2-areas/fullstack-dev/database/Logical Expressions.md",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md",
     "3-resources/images/fuel-saver-final.docx",
-    "1-projects/fuel-saver-app/Java/update method dynamic.md",
-    "0-inbox/Todo.md",
     "3-resources/images/Pasted image 20240815124638.png",
     "1-projects/WGU/Preplanning",
     "1-projects/WGU",
