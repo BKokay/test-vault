@@ -1,6 +1,6 @@
 ---
 created: 2024-08-21T09:24
-updated: 2024-08-21T21:47
+updated: 2024-08-22T08:59
 ---
 ### What are exceptions?
 An exception is an event that happens that interrupts the normal flow of an operation. It could be a bug, it could be the database or server being down, it could be a user input error. But, if not handled correctly, they cause the program to crash. 
