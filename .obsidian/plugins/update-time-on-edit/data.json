@@ -100,7 +100,7 @@
     "1-projects/WGU/Preplanning/WGU.md": "5a3eab997f7c009f984c47f92881a20183715cd110f86b8e1657455485347d69",
     "1-projects/WGU/Preplanning/Timeline & Cost.md": "440d678085774b17caceb59c6859b5186ded349e3c84109d7efaa544d5453a09",
     "1-projects/fuel-saver-app/Fuel saver user stories.md": "c0da975bcf18e0b3e0fd3abc2a458dbc785ae9367628fc70cb2b0b62fcfef58b",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "56920281a9c5b02bab67454553c8e6cb242643a68a6eb1f28a0528fa45ae67a1",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "b97ceb76185078001ba670a83c095f04db2a28c795e941804eb3def7aeb65a79",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md": "bc8fa4a4ebedca78c1f8dc592393d1c811bc4ecadf066261d2fffe47e9a00b1b",
     "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005",
     "0-inbox/Passwords.md": "3fc20a7fb3fc04e907406821e1a5f48493bbdd2366ca98ff42f86888fd9ee584",
@@ -110,9 +110,10 @@
     "0-inbox/Methods for use cases final.md": "031da0bfe45c4edac52e039132c98e4f3dd4903b671f23de50106da1570c0596",
     "2-areas/fullstack-dev/Java/java optional metaphor.md": "cd6e5b853687e7959d433dcf538eeb122b81699c5af189d1289d110bcb282c7d",
     "2-areas/fullstack-dev/database/On delete cascade.md": "704e3612726ecf8d3b1e70292c3286243f67cb8a7e37e1aafa4d8125357f2b56",
-    "2-areas/fullstack-dev/Java/json-java.md": "a6bdd77a192e60ec0fbea79c2b373cb85524cb6c535716b326a6d6b081df00d3",
+    "2-areas/fullstack-dev/Java/json-java.md": "d5c76b98ad70aebe2dfdba62972f56a2156fae9a9360de0893bcbb0e05ea1afa",
     "2-areas/fullstack-dev/Java/Java Map Interface.md": "bc4263449555ad348cc3f1c7d7e610d8832620ce0a91f3beee5e188ec3aeaf24",
-    "0-inbox/IOExceptions.md": "c18fd786ecd18d90f59ca4b47d99b3c1315ceda831f41915bc537e36a1248515",
-    "0-inbox/Exceptions.md": "e5a7c871bc58878dbed198827e7baaee2fa34ca3521d649c2565825622d5ac1c"
+    "0-inbox/IOExceptions.md": "d481f268cbe44c92bae5e582e4d09ee2ebe361416c5b1af58a0e3a6c24b15a5f",
+    "0-inbox/Exceptions.md": "e5a7c871bc58878dbed198827e7baaee2fa34ca3521d649c2565825622d5ac1c",
+    "0-inbox/LinkedHashMap.md": "a7805ec5445a5b91bc2b28ebc6b3e50fe20431ea58529e73a38b739d12324b17"
   }
 }

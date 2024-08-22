@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-22T11:41
+updated: 2024-08-22T13:07
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -92,7 +92,7 @@ Servlet [[servlet]]
 Finish getPricePerLiter() in GasStationImpl
 Finish setDriverStatus() in driverimpl
 
-!If there is any object that you want to maintain the insertion order, use a LinkedHashMap [[Java Map Interface]]
+!If there is any object that you want to maintain the insertion order, use a [[LinkedHashMap]] [[Java Map Interface]]
 ## Links:
 
 
