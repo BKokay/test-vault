@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md",
+                "file": "1-projects/WGU/Preplanning/WGU.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1-projects/WGU/Preplanning/PreStudy.md",
+            "file": "1-projects/WGU/Preplanning/WGU.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1-projects/WGU/Preplanning/PreStudy.md",
+            "file": "1-projects/WGU/Preplanning/WGU.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-projects/WGU/Preplanning/PreStudy.md"
+            "file": "1-projects/WGU/Preplanning/WGU.md"
           }
         }
       },
@@ -152,8 +152,11 @@
   },
   "active": "b1070af0be8cd120",
   "lastOpenFiles": [
-    "0-inbox/Meal Plan.md",
+    "1-projects/WGU/Preplanning/Sophia.md",
+    "1-projects/WGU/Preplanning/Study.com.md",
+    "1-projects/WGU/Preplanning/PreStudy.md",
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
+    "0-inbox/Meal Plan.md",
     "3-resources/Personal/Refridgerator.md",
     "0-inbox",
     "0-inbox/poetic attunement?.md",
@@ -180,10 +183,7 @@
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
     "2-areas/fullstack-dev/Java/pom.xml.md",
-    "2-areas/fullstack-dev/Java/apache maven.md",
-    "2-areas/fullstack-dev/Java/Connect to database.md",
     "2-areas/fullstack-dev/Java",
-    "2-areas/fullstack-dev/Java/int.md",
     "2-areas/fullstack-dev/database",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
