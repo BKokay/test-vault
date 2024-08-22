@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "2-areas/fullstack-dev/Java/Java Map Interface.md",
                 "mode": "preview",
                 "source": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "string to int",
+                "query": "map methods",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +169,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md"
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
               }
             }
           },
@@ -261,8 +262,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12c96555eb08682a",
+  "active": "66aff525e3bedd60",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/Java/Java Map Interface.md",
+    "0-inbox/Methods for use cases final.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Untitled.md",
     "2-areas/fullstack-dev/Java/json-java.md",
@@ -273,9 +276,7 @@
     "0-inbox/Exceptions.md",
     "0-inbox/IOExceptions.md",
     "0-inbox/executeUpdate vs executeQuery.md",
-    "2-areas/fullstack-dev/Java/Java Map Interface.md",
     "2-areas/fullstack-dev/database/On delete cascade.md",
-    "0-inbox/Methods for use cases final.md",
     "2-areas/fullstack-dev/Java/java optional metaphor.md",
     "2-areas/fullstack-dev/Java/Java Optional Class.md",
     "1-projects/fuel-saver-app/Fuel saver user stories.md",

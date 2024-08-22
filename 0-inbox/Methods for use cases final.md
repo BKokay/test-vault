@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-22T08:59
+updated: 2024-08-22T11:26
 ---
 Generally, the method will have this format:
 ```java
@@ -73,10 +73,10 @@ SELECT stop_timestamp,
 	-  parameters: gas_station.id
 	- returns:  [{price_per_liter: "", station_id: "", station_name: ""}]
 ```sql
-SELECT fs.price_per_liter, fs.station_id, gs.station_name
-	FROM fuel_saver.fuel_stop fs 
-	JOIN fuel_saver.gas_station gs ON fs.station_id = gs.id 
-	WHERE gs.id = ?
+SELECT fs.price_per_liter, fs.stop_timestamp
+FROM fuel_saver.fuel_stop fs
+JOIN fuel_saver.gas_station gs ON fs.station_id = gs.id
+WHERE gs.id = 3;
 ```
 
 - I want to see the average price per liter of other fuel stations along the route *I don't know where to start with this*
