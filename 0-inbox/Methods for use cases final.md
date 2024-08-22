@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-22T11:26
+updated: 2024-08-22T13:39
 ---
 Generally, the method will have this format:
 ```java
@@ -68,7 +68,7 @@ SELECT stop_timestamp,
 |------------------------|------|-------|----------------|
 | 2024-07-19 13:00:00+02 | 2024 | 7     | 13:00:00       |
 
-- I want to see the price per liter of a fuel station
+- [x] I want to see the price per liter of a fuel station
 	- in GasStationDaoImpl
 	-  parameters: gas_station.id
 	- returns:  [{price_per_liter: "", station_id: "", station_name: ""}]
