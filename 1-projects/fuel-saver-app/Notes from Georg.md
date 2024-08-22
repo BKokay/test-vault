@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-22T10:23
+updated: 2024-08-22T10:44
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -90,6 +90,7 @@ Add other methods from [[Methods for use cases final]]
 Service Layer [[User Service Class]]
 Servlet [[servlet]]
 Finish getPricePerLiter() in GasStationImpl
+Finish setDriverStatus() in driverimpl
 ## Links:
 
 
