@@ -37,8 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md",
-                "mode": "source",
                 "file": "timestamps/2024/08-August/2024-08-19-Monday.md",
                 "mode": "preview",
                 "source": true
@@ -83,7 +81,7 @@
               "type": "markdown",
               "state": {
                 "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -124,7 +122,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +189,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md",
                 "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -208,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md",
                 "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -232,7 +229,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/WGU/Preplanning/PreStudy.md"
                 "file": "1-projects/fuel-saver-app/Notes from Georg.md"
               }
             }
