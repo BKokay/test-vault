@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "6ec6af3507431b0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Meal Plan.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c575183668c1077b",
             "type": "leaf",
             "state": {
@@ -50,13 +38,25 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Methods for use cases final.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d285f9ef53822f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "131fa394d9b3ef40",
@@ -75,12 +75,24 @@
             }
           },
           {
-            "id": "ccceee90daafaedb",
+            "id": "21da7565d80d7b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "0-inbox/Notes from Georg cont.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "23ef23968fa99ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Jackson.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map methods",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "0-inbox/Notes from Georg cont.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "0-inbox/Notes from Georg cont.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
+                "file": "0-inbox/Notes from Georg cont.md"
               }
             }
           },
@@ -225,17 +237,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccceee90daafaedb",
+  "active": "21da7565d80d7b17",
   "lastOpenFiles": [
     "0-inbox/Methods for use cases final.md",
+    "0-inbox/Notes from Georg cont.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
-    "2-areas/fullstack-dev/Java/Java Map Interface.md",
+    "0-inbox/Jackson.md",
+    "0-inbox/Serialization.md",
+    "0-inbox/Todo.md",
+    "0-inbox/Untitled 1.md",
     "2-areas/fullstack-dev/Java/servlet.md",
+    "2-areas/Personal Growth/journal-8-19-24.md",
+    "2-areas/fullstack-dev/Java/Java Map Interface.md",
     "0-inbox/IOExceptions.md",
     "0-inbox/executeUpdate vs executeQuery.md",
     "2-areas/fullstack-dev/Java/json-java.md",
     "0-inbox/LinkedHashMap.md",
-    "0-inbox/Untitled.md",
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "0-inbox/Passwords.md",
     "0-inbox/Methods for use cases draft.md",
@@ -245,15 +262,10 @@
     "2-areas/fullstack-dev/Java/Java Optional Class.md",
     "1-projects/fuel-saver-app/Fuel saver user stories.md",
     "3-resources/images/~$el-saver-final.docx",
-    "2-areas/Personal Growth/journal-8-19-24.md",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "timestamps/2024/08-August/2024-08-19-Monday.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
-    "0-inbox/Meal Plan.md",
-    "1-projects/fuel-saver-app/database/practice-problems.md",
-    "2-areas/fullstack-dev/database/general case.md",
-    "2-areas/fullstack-dev/database/Logical Expressions.md",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
     "1-projects/WGU/Preplanning",
