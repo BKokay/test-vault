@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-08-23T12:09
+updated: 2024-08-23T12:47
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -17,10 +17,13 @@ public Optional<List<SomeClass>> getSomething(int id){
 Should I be creating classes for each database query that will return more than one row? For example in the DriverDaoImpl getLitersFilled() method, there will be more than one fuel_stop for the driver. So it will be an array of fuel_stop data/objects. These should be classes or can I just use JSONObject? If it is a class, where should I create that class? Could I just make one generic class to fill this in with? 
 [[DTO]] - Data Transfer Object - SomeClassDto.java 
 
-2. Jackson - pretty much only need `objectMapper.writeValue()`? Write to a file? Or write value as a string to return from the API? Probably *string* and return it from my API/servlet layer
-	1. return string `writevalueasstrings`
+2. [[Jackson]] - pretty much only need `objectMapper.writeValue()`? Write to a file? Or write value as a string to return from the API? Probably *string* and return it from my API/servlet layer
+	1. return string `writeValueAsString(classObj)`
+```java
+String carAsString = objectMapper.writeValueAsString(car);
+```
 3. Insertion order - I like the [[LinkedHashMap]] solution to making sure the order is how I want it. Is that the best way to go about it? 
-	1. insertion order doesn't matter because later on in implementation it could change
+	- insertion order doesn't matter because later on in implementation it could change
 4. save() return boolean? for status codes, I want to have booleans so that I can return 200, 404 statuses
 	1. save delete boolean
 	2. update return updated object

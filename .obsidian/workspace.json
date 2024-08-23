@@ -6,6 +6,7 @@
       {
         "id": "a57767effc244fe9",
         "type": "tabs",
+        "dimension": 45.633187772925766,
         "children": [
           {
             "id": "2a71ece80bc9d3c5",
@@ -56,11 +57,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "131fa394d9b3ef40",
         "type": "tabs",
+        "dimension": 54.366812227074234,
         "children": [
           {
             "id": "f2a8680929b94789",
@@ -81,7 +83,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Notes from Georg cont.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -149,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3869704e863485cb",
@@ -239,9 +242,9 @@
   },
   "active": "21da7565d80d7b17",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Methods for use cases final.md",
     "0-inbox/Notes from Georg cont.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Jackson.md",
     "0-inbox/Serialization.md",
     "0-inbox/Todo.md",
