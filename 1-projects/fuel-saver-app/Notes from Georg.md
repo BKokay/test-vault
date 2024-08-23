@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-22T13:07
+updated: 2024-08-22T14:31
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -83,6 +83,7 @@ had to add this line to my DB class because [[posgresql]] wasn't connecting
 
 # Open questions:
 Do I want to return Optional with save, update, or delete? Do I want to return anything from those? 
+Should I create classes for all of my other methods? No, but what about nested classes? Is that something I should be doing? 
 
 # TODO:
 The edits I made to GasStationDao need to also be implemented into my other daos. 

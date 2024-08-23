@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-22T13:39
+updated: 2024-08-22T14:23
 ---
 Generally, the method will have this format:
 ```java
@@ -81,7 +81,7 @@ WHERE gs.id = 3;
 
 - I want to see the average price per liter of other fuel stations along the route *I don't know where to start with this*
 
-- I want to see the number of liters filled at a fuel station 
+- [x] I want to see the number of liters filled at a fuel station 
 	- in DriverDaoImpl
 	- this is assuming that we want it per fuel stop, not just a sum of all fuel stops at that gas station
 	- parameters: driver.id
@@ -122,7 +122,7 @@ JOIN fuel_saver.driver d ON dev.driver_id = d.id
 WHERE fs.id = ?;
 ```
 
-- I want to see total savings per custom time period of using the fuel-saver per driver or for all drivers
+- [ ] I want to see total savings per custom time period of using the fuel-saver per driver or for all drivers
 	- in DriverDaoImpl //should be two methods or could just be one with a param for companyOrDriver
 	- parameters: id, startTimeString, endTimeString, companyOrDriver
 	- returns: {driver_id: "", driver_name: "", total_savings: ""} if using driver id
@@ -152,7 +152,7 @@ ORDER BY total_savings DESC;
 
 ```
 
-- I want to see which of my drivers is saving the most per month/year on fuel 
+-  [ ] I want to see which of my drivers is saving the most per month/year on fuel 
 	- in DriverDaoImpl
 	- params: companyId, startTimeString, endTimeString
 	- returns: {driver_id: "", driver_name: "", total_savings: ""}
@@ -172,7 +172,7 @@ ORDER BY total_savings DESC;
 - I want to be able to see my organization as a whole but also see individual drivers
 	- the three queries above will cover this use case
 
-- I want to see how much I've spent on fuel each year
+- [ ] I want to see how much I've spent on fuel each year
 	- in DriverDaoImpl? CompanyDao doesn't exist - should it? 
 	- parameters: companyID, year
 	- returns: [{driver_id: "", maptrip_manager_company: "", driver_name: "", year: "", total_spent: ""}]
@@ -191,7 +191,7 @@ GROUP BY d.maptrip_manager_company, d.id, d.first_name, d.last_name, EXTRACT(YEA
 ORDER BY total_spent DESC;
 ```
 
-- I want to see how much I've spend on fuel each month 
+- [ ] I want to see how much I've spend on fuel each month 
 	- in DriverDaoImpl/CompanyDaoImpl
 	- parameters: companyId, year, month(int)
 	- returns: [{driver_id: "", maptrip_manager_company: "", driver_name: "", year: "", month: "", total_spent: ""}]
@@ -221,7 +221,7 @@ ORDER BY total_spent DESC;
 	- this is done on the company savings query above
 -  I want to see which driver has saved and which hasn't
 	- same as above - you can see the total savings per driver in a company 
--  I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
+-  [ ] I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
 	- DriverDaoImpl
 	- parameters: driverId
 	- returns: [{fuel_stop_id: "", stop_timestamp: "", number_of_liters: "", price_per_liter: "", total_savings: "", station_id: "" station_name: "", fuel_type: "" }]
