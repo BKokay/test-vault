@@ -82,8 +82,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Notes from Georg cont.md",
-                "mode": "preview",
+                "file": "0-inbox/DTO.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Notes from Georg cont.md",
+                "file": "0-inbox/DTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Notes from Georg cont.md",
+                "file": "0-inbox/DTO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Notes from Georg cont.md"
+                "file": "0-inbox/DTO.md"
               }
             }
           },
@@ -242,10 +242,11 @@
   },
   "active": "21da7565d80d7b17",
   "lastOpenFiles": [
+    "0-inbox/Jackson.md",
+    "0-inbox/DTO.md",
+    "0-inbox/Notes from Georg cont.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Methods for use cases final.md",
-    "0-inbox/Notes from Georg cont.md",
-    "0-inbox/Jackson.md",
     "0-inbox/Serialization.md",
     "0-inbox/Todo.md",
     "0-inbox/Untitled 1.md",
@@ -268,7 +269,6 @@
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "timestamps/2024/08-August/2024-08-19-Monday.md",
-    "1-projects/WGU/Preplanning/PreStudy.md",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
     "1-projects/WGU/Preplanning",
