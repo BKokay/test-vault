@@ -26,9 +26,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7da982a91c2289ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Thoughts on having a second child.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1-projects/WGU/Preplanning/WGU.md",
+            "file": "0-inbox/Thoughts on having a second child.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1-projects/WGU/Preplanning/WGU.md",
+            "file": "0-inbox/Thoughts on having a second child.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-projects/WGU/Preplanning/WGU.md"
+            "file": "0-inbox/Thoughts on having a second child.md"
           }
         }
       },
@@ -150,8 +162,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1070af0be8cd120",
+  "active": "7da982a91c2289ec",
   "lastOpenFiles": [
+    "1-projects/WGU/Preplanning/WGU.md",
+    "0-inbox/Thoughts on having a second child.md",
     "1-projects/WGU/Preplanning/Sophia.md",
     "1-projects/WGU/Preplanning/Study.com.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
@@ -181,8 +195,6 @@
     "2-areas/fullstack-dev/Java/java-strings.md",
     "2-areas/fullstack-dev/Java/boolean.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
-    "2-areas/fullstack-dev/Java/Java vs Typescript Basic syntax.md",
-    "2-areas/fullstack-dev/Java/pom.xml.md",
     "2-areas/fullstack-dev/Java",
     "2-areas/fullstack-dev/database",
     "UML Diagrams (Community).png",
