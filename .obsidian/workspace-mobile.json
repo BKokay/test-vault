@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Thoughts on having a second child.md",
+                "file": "0-inbox/Jackson.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/Thoughts on having a second child.md",
+            "file": "0-inbox/Jackson.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/Thoughts on having a second child.md",
+            "file": "0-inbox/Jackson.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-inbox/Thoughts on having a second child.md"
+            "file": "0-inbox/Jackson.md"
           }
         }
       },
@@ -164,8 +164,12 @@
   },
   "active": "7da982a91c2289ec",
   "lastOpenFiles": [
-    "1-projects/WGU/Preplanning/WGU.md",
+    "0-inbox/IOExceptions.md",
+    "0-inbox/executeUpdate vs executeQuery.md",
+    "0-inbox/Exceptions.md",
+    "0-inbox/DTO.md",
     "0-inbox/Thoughts on having a second child.md",
+    "1-projects/WGU/Preplanning/WGU.md",
     "1-projects/WGU/Preplanning/Sophia.md",
     "1-projects/WGU/Preplanning/Study.com.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
@@ -191,10 +195,6 @@
     "templates/Template, Daily Note.md",
     "0-inbox/JDBC.md",
     "2-areas/fullstack-dev/Java/char.md",
-    "2-areas/fullstack-dev/Java/float.md",
-    "2-areas/fullstack-dev/Java/java-strings.md",
-    "2-areas/fullstack-dev/Java/boolean.md",
-    "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "2-areas/fullstack-dev/Java",
     "2-areas/fullstack-dev/database",
     "UML Diagrams (Community).png",
