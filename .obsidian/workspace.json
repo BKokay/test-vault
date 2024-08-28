@@ -71,7 +71,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Notes from Georg cont.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "0-inbox/Notes from Georg cont.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "0-inbox/Notes from Georg cont.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md"
+                "file": "0-inbox/Notes from Georg cont.md"
               }
             }
           },
@@ -226,10 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12c96555eb08682a",
+  "active": "f2a8680929b94789",
   "lastOpenFiles": [
-    "0-inbox/Notes from Georg cont.md",
     "0-inbox/Methods for use cases final.md",
+    "0-inbox/Notes from Georg cont.md",
     "0-inbox/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Java/servlet.md",
     "0-inbox/Thoughts on having a second child.md",
