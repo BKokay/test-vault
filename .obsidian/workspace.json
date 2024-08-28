@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "131fa394d9b3ef40",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md"
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
               }
             }
           },
@@ -226,11 +226,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12c96555eb08682a",
+  "active": "d285f9ef53822f74",
   "lastOpenFiles": [
     "0-inbox/Notes from Georg cont.md",
-    "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "0-inbox/Methods for use cases final.md",
+    "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "0-inbox/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Java/servlet.md",
     "0-inbox/Thoughts on having a second child.md",
