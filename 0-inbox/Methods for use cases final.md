@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-28T11:36
+updated: 2024-08-28T13:10
 ---
 Generally, the method will have this format:
 ```java
@@ -123,7 +123,7 @@ JOIN fuel_saver.driver d ON dev.driver_id = d.id
 WHERE fs.id = ?;
 ```
 
-- [ ] I want to see total savings per custom time period of using the fuel-saver per driver or for all drivers
+- [x] I want to see total savings per custom time period of using the fuel-saver per driver or for all drivers
 	- in DriverDaoImpl //should be two methods or could just be one with a param for companyOrDriver
 	- parameters: id, startTimeString, endTimeString, companyOrDriver
 	- returns: {driver_id: "", driver_name: "", total_savings: ""} if using driver id
