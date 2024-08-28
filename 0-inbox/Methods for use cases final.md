@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-28T10:56
+updated: 2024-08-28T11:36
 ---
 Generally, the method will have this format:
 ```java
@@ -222,7 +222,7 @@ ORDER BY total_spent DESC;
 	- this is done on the company savings query above
 -  I want to see which driver has saved and which hasn't
 	- same as above - you can see the total savings per driver in a company 
--  [ ] I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
+-  [x] I want to see details of a driver: Where/when has he filled up? How many liters did he fill? What was the fuel type? At what price did he fill up?
 	- DriverDaoImpl
 	- parameters: driverId
 	- returns: [{fuel_stop_id: "", stop_timestamp: "", number_of_liters: "", price_per_liter: "", total_savings: "", station_id: "" station_name: "", fuel_type: "" }]
