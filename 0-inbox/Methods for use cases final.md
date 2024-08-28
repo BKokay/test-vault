@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-28T13:10
+updated: 2024-08-28T13:39
 ---
 Generally, the method will have this format:
 ```java
@@ -173,7 +173,7 @@ ORDER BY total_savings DESC;
 - I want to be able to see my organization as a whole but also see individual drivers
 	- the three queries above will cover this use case
 
-- [ ] I want to see how much I've spent on fuel each year
+- [x] I want to see how much I've spent on fuel each year
 	- in DriverDaoImpl? CompanyDao doesn't exist - should it? 
 	- parameters: companyID, year
 	- returns: [{driver_id: "", maptrip_manager_company: "", driver_name: "", year: "", total_spent: ""}]
@@ -192,7 +192,7 @@ GROUP BY d.maptrip_manager_company, d.id, d.first_name, d.last_name, EXTRACT(YEA
 ORDER BY total_spent DESC;
 ```
 
-- [ ] I want to see how much I've spend on fuel each month 
+- [x] I want to see how much I've spend on fuel each month 
 	- in DriverDaoImpl/CompanyDaoImpl
 	- parameters: companyId, year, month(int)
 	- returns: [{driver_id: "", maptrip_manager_company: "", driver_name: "", year: "", month: "", total_spent: ""}]
