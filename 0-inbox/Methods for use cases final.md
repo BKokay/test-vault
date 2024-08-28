@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-23T11:54
+updated: 2024-08-28T10:56
 ---
 Generally, the method will have this format:
 ```java
@@ -81,8 +81,8 @@ WHERE gs.id = 3;
 
 - I want to see the average price per liter of other fuel stations along the route *I don't know where to start with this*
 
-- [ ] I want to see the number of liters filled at a fuel station 
-- [ ] by driver, by gas station id , Both in fuel_stop
+- [x] I want to see the number of liters filled at a fuel station 
+- [x] by driver, by gas station id , Both in fuel_stop
 	- in DriverDaoImpl
 	- this is assuming that we want it per fuel stop, not just a sum of all fuel stops at that gas station
 	- parameters: driver.id

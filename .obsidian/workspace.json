@@ -39,7 +39,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Methods for use cases final.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "131fa394d9b3ef40",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Notes from Georg cont.md",
+                "file": "0-inbox/Methods for use cases final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Notes from Georg cont.md",
+                "file": "0-inbox/Methods for use cases final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Notes from Georg cont.md"
+                "file": "0-inbox/Methods for use cases final.md"
               }
             }
           },
@@ -226,10 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a8680929b94789",
+  "active": "12c96555eb08682a",
   "lastOpenFiles": [
-    "0-inbox/flow of DAO and DTO.md",
     "0-inbox/Notes from Georg cont.md",
+    "0-inbox/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Java/servlet.md",
     "0-inbox/Thoughts on having a second child.md",
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
