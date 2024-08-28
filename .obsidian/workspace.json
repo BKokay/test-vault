@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md",
+                "file": "0-inbox/Notes from Georg cont.md",
                 "mode": "source",
                 "source": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md",
+                "file": "0-inbox/Notes from Georg cont.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md",
+                "file": "0-inbox/Notes from Georg cont.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/servlet.md"
+                "file": "0-inbox/Notes from Georg cont.md"
               }
             }
           },
@@ -228,6 +228,7 @@
   },
   "active": "f2a8680929b94789",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/Java/servlet.md",
     "0-inbox/Thoughts on having a second child.md",
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "0-inbox/DTO.md",
@@ -238,7 +239,6 @@
     "0-inbox/Serialization.md",
     "0-inbox/Todo.md",
     "0-inbox/Untitled 1.md",
-    "2-areas/fullstack-dev/Java/servlet.md",
     "2-areas/Personal Growth/journal-8-19-24.md",
     "2-areas/fullstack-dev/Java/Java Map Interface.md",
     "0-inbox/IOExceptions.md",
