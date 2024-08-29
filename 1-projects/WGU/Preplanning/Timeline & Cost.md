@@ -1,7 +1,30 @@
 ---
 created: 2024-08-14T12:42
-updated: 2024-08-28T12:49
+updated: 2024-08-29T09:24
 ---
+Prestudy: $0 
+- Time to complete: 12 weeks  
+- Start date: 08/19/2024  
+- End date: 10/18/2024
+
+Sophia: *$299 *
+- Time to complete: 12 weeks  
+- Start date: 10/19/2024
+- End date: 12/21/2024
+
+Study.com: *$705* 
+- Time to complete: 12 weeks  
+- Start date: 12/21/2024
+- End date:  03/01/2025
+
+WGU: *$8,570*
+- Time to complete: 52 weeks  
+- Start date: 03/01/2025
+- End date:  03/01/2026
+
+Total Cost: *$9,574*
+Total Time: *1 year 7 months*
+
 Prestudy: $0 
 - Time to complete: 12 weeks  
 - Start date: 08/19/2024  
