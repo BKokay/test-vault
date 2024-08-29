@@ -1,10 +1,11 @@
 ---
 created: 2024-07-30T09:22
-updated: 2024-08-28T09:09
+updated: 2024-08-29T10:48
 ---
 # What is a servlet? 
 A [[java]] class that extends server functionalities, **handling requests and generating responses** from [[web client]]. Servlets are used to create [[dynamic web pages]] and are part of the [[Java Servlet API]], providing [[interfaces]] and classes for writing servlets. [[interface-java]]
 
+**In Deployed Resources/webapp/WEB-INF/web.xml, you have to put the path to your servlet!!
 
 ### How does a servlet work?
 1. Client requests: when a web client sends a request to the [[server]], the server forwards this request to the servlet
@@ -65,3 +66,4 @@ public class HelloWorldServlet extends HttpServlet {
 - `javax.servlet.http.HttpServletResponse` 
 	- Purpose: This [[interfaces | interface]] provides methods to create and sent the HTTP response to the client, including setting the response headers, status codes, and the response body.
 	- Usage in Servlets: The `HttpServletResponse` object is passed to the servlets `doGet` or `doPost` method. It allows the servlet to send data back to the client, such as HTML content, JSON data, or redirect instructions. 
+

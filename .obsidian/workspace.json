@@ -71,7 +71,7 @@
               "type": "markdown",
               "state": {
                 "file": "2-areas/fullstack-dev/Java/servlet.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -230,6 +230,7 @@
   "active": "f2a8680929b94789",
   "lastOpenFiles": [
     "1-projects/fuel-saver-app/Notes from Georg.md",
+    "2-areas/fullstack-dev/Java/servlet.md",
     "1-projects/fuel-saver-app/Notes from Georg cont.md",
     "0-inbox/DTO.md",
     "0-inbox/Exceptions.md",
@@ -242,7 +243,6 @@
     "2-areas/fullstack-dev/Java/executeUpdate vs executeQuery.md",
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "1-projects/fuel-saver-app/Methods for use cases final.md",
-    "2-areas/fullstack-dev/Java/servlet.md",
     "2-areas/Personal Growth/Thoughts on having a second child.md",
     "0-inbox/Todo.md",
     "0-inbox/Untitled 1.md",
