@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-08-28T13:58
+updated: 2024-08-29T10:19
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -37,8 +37,8 @@ String carAsString = objectMapper.writeValueAsString(car);
 	- [x] make sure return statements and types are there
 	- [x] Create [[DTO]] classes
 	- [x] Remove any methods that will be implemented using the get() method
-- [ ] add service layer for each Dao
-	- [ ] pass through status 
+- [x] add service layer for each Dao
+	- [x] pass through status 
 - [ ] add servlet layer for each Dao //only for two classes or so
 	- [ ] return status codes? 
 - [ ] add database into repo with SQL to create the empty database and then another class to populate with test data. 

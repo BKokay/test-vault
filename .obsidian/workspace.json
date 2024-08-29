@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Methods for use cases final.md",
+                "file": "1-projects/fuel-saver-app/Methods for use cases final.md",
                 "mode": "preview",
                 "source": true
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Notes from Georg cont.md",
+                "file": "2-areas/fullstack-dev/Java/servlet.md",
                 "mode": "preview",
                 "source": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Jackson.md",
+                "file": "2-areas/fullstack-dev/Java/Jackson.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "servlet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
+                "file": "2-areas/fullstack-dev/Java/servlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md",
+                "file": "2-areas/fullstack-dev/Java/servlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/WGU/Preplanning/Timeline & Cost.md"
+                "file": "2-areas/fullstack-dev/Java/servlet.md"
               }
             }
           },
@@ -226,29 +227,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d285f9ef53822f74",
+  "active": "f2a8680929b94789",
   "lastOpenFiles": [
     "1-projects/fuel-saver-app/Notes from Georg.md",
-    "0-inbox/Notes from Georg cont.md",
-    "0-inbox/Methods for use cases final.md",
-    "1-projects/WGU/Preplanning/Timeline & Cost.md",
-    "0-inbox/flow of DAO and DTO.md",
-    "2-areas/fullstack-dev/Java/servlet.md",
-    "0-inbox/Thoughts on having a second child.md",
+    "1-projects/fuel-saver-app/Notes from Georg cont.md",
     "0-inbox/DTO.md",
-    "0-inbox/Jackson.md",
-    "0-inbox/Serialization.md",
+    "0-inbox/Exceptions.md",
+    "0-inbox/IOExceptions.md",
+    "2-areas/fullstack-dev/Java/Serialization.md",
+    "1-projects/fuel-saver-app/Methods for use cases draft.md",
+    "2-areas/fullstack-dev/Java/LinkedHashMap.md",
+    "2-areas/fullstack-dev/Java/Jackson.md",
+    "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
+    "2-areas/fullstack-dev/Java/executeUpdate vs executeQuery.md",
+    "1-projects/WGU/Preplanning/Timeline & Cost.md",
+    "1-projects/fuel-saver-app/Methods for use cases final.md",
+    "2-areas/fullstack-dev/Java/servlet.md",
+    "2-areas/Personal Growth/Thoughts on having a second child.md",
     "0-inbox/Todo.md",
     "0-inbox/Untitled 1.md",
     "2-areas/Personal Growth/journal-8-19-24.md",
     "2-areas/fullstack-dev/Java/Java Map Interface.md",
-    "0-inbox/IOExceptions.md",
-    "0-inbox/executeUpdate vs executeQuery.md",
     "2-areas/fullstack-dev/Java/json-java.md",
-    "0-inbox/LinkedHashMap.md",
-    "0-inbox/Passwords.md",
-    "0-inbox/Methods for use cases draft.md",
-    "0-inbox/Exceptions.md",
+    "2-areas/Life Management/Passwords.md",
     "2-areas/fullstack-dev/database/On delete cascade.md",
     "2-areas/fullstack-dev/Java/java optional metaphor.md",
     "2-areas/fullstack-dev/Java/Java Optional Class.md",
