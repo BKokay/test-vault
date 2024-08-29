@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-21T21:46
+updated: 2024-08-22T13:07
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -89,6 +89,10 @@ The edits I made to GasStationDao need to also be implemented into my other daos
 Add other methods from [[Methods for use cases final]]
 Service Layer [[User Service Class]]
 Servlet [[servlet]]
+Finish getPricePerLiter() in GasStationImpl
+Finish setDriverStatus() in driverimpl
+
+!If there is any object that you want to maintain the insertion order, use a [[LinkedHashMap]] [[Java Map Interface]]
 ## Links:
 
 

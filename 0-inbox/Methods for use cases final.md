@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T09:36
-updated: 2024-08-21T21:47
+updated: 2024-08-22T13:39
 ---
 Generally, the method will have this format:
 ```java
@@ -68,15 +68,15 @@ SELECT stop_timestamp,
 |------------------------|------|-------|----------------|
 | 2024-07-19 13:00:00+02 | 2024 | 7     | 13:00:00       |
 
-- I want to see the price per liter of a fuel station
+- [x] I want to see the price per liter of a fuel station
 	- in GasStationDaoImpl
 	-  parameters: gas_station.id
 	- returns:  [{price_per_liter: "", station_id: "", station_name: ""}]
 ```sql
-SELECT fs.price_per_liter, fs.station_id, gs.station_name
-	FROM fuel_saver.fuel_stop fs 
-	JOIN fuel_saver.gas_station gs ON fs.station_id = gs.id 
-	WHERE gs.id = ?
+SELECT fs.price_per_liter, fs.stop_timestamp
+FROM fuel_saver.fuel_stop fs
+JOIN fuel_saver.gas_station gs ON fs.station_id = gs.id
+WHERE gs.id = 3;
 ```
 
 - I want to see the average price per liter of other fuel stations along the route *I don't know where to start with this*
