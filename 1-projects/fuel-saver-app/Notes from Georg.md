@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-22T18:57
+updated: 2024-08-23T11:07
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -73,8 +73,8 @@ log it so we can get the error
 on API layer return status code (error/success) 
 ALL NEED TO BE PASSED THROUGH LAYERS
 I/O exception 500 - add to catch block - e.message() or something 
-Empty 404
-200 Object 
+Empty 404 if(object.isEmpty())
+200 Object if(object.)
 
 <**Pattern**>%date %level %class{1.}:%line %msg%n</**Pattern**> add to log.xml
 
@@ -83,6 +83,7 @@ had to add this line to my DB class because [[posgresql]] wasn't connecting
 
 # Open questions:
 Do I want to return Optional with save, update, or delete? Do I want to return anything from those? 
+Should I create classes for all of my other methods? No, but what about nested classes? Is that something I should be doing? 
 
 # TODO:
 The edits I made to GasStationDao need to also be implemented into my other daos. 
@@ -93,6 +94,9 @@ Finish getPricePerLiter() in GasStationImpl
 Finish setDriverStatus() in driverimpl
 
 !If there is any object that you want to maintain the insertion order, use a [[LinkedHashMap]] [[Java Map Interface]]
+
+08-83-24
+"Oh, and one more thing: You can create JSON objects and arrays by creating them by hand with the JSON lib I showed you, but that be a lot of work. For your API, you might want to have a look at [[Jackson]], which is an object mapper. You can use it to serialize Java objects to JSON (or XML) and deserialize JSON (or XML) to Java objects." [[Serialization]]
 ## Links:
 
 

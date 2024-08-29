@@ -1,6 +1,6 @@
 ---
 created: 2024-08-22T13:07
-updated: 2024-08-22T18:57
+updated: 2024-08-29T10:22
 ---
 ```java
 public Optional<JSONArray> getPricePerLiter(int id) throws IOException {
@@ -41,4 +41,4 @@ public Optional<JSONArray> getPricePerLiter(int id) throws IOException {
 
 ```
 
-[[Map Methods]][[java]][[Notes from Georg]]
+[[Map Methods]] [[java]] [[Notes from Georg]]
