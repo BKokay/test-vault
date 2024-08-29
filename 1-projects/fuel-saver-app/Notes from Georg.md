@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-22T13:07
+updated: 2024-08-22T18:57
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]

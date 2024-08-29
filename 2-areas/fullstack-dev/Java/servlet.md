@@ -1,6 +1,6 @@
 ---
 created: 2024-07-30T09:22
-updated: 2024-08-22T08:59
+updated: 2024-08-22T18:57
 ---
 # What is a servlet? 
 A [[java]] class that extends server functionalities, **handling requests and generating responses** from [[web client]]. Servlets are used to create [[dynamic web pages]] and are part of the [[Java Servlet API]], providing [[interfaces]] and classes for writing servlets. [[interface-java]]
