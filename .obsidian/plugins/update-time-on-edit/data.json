@@ -96,7 +96,7 @@
     "1-projects/WGU/Preplanning/WGU.md": "5a3eab997f7c009f984c47f92881a20183715cd110f86b8e1657455485347d69",
     "1-projects/WGU/Preplanning/Timeline & Cost.md": "dd73f03357be51c44272e045360f53565c8e5d372d8887c92a0b2455503ccd14",
     "1-projects/fuel-saver-app/Fuel saver user stories.md": "35d644d7b618d86858c4d688c1a4690af5d042fdf866462ab969e4c0490a07e8",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "929e363bf40889de8b77702a69572b328168c682761b7a4411fb8aa43293bcef",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "2cba65ab97abf5ecc226ecee92efb27acbe32deaa90141d6a4b225c9d758a18a",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md": "bc8fa4a4ebedca78c1f8dc592393d1c811bc4ecadf066261d2fffe47e9a00b1b",
     "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005",
     "timestamps/2024/08-August/2024-08-19-Monday.md": "e1056f24c18e80ace79577dd048a5ba65a213cc138addd93c76c33f3b9b7dacd",
@@ -113,17 +113,16 @@
     "2-areas/fullstack-dev/Java/LinkedHashMap.md": "a5e791e3dd4345e867aabb8f88a49b6f9da0d94cacc2fc6ab118789446547295",
     "1-projects/fuel-saver-app/Methods for use cases draft.md": "4f1f0f5fe317991f434409287ff9dccef7da2cb1f4315658e5dea02b4052a3b1",
     "1-projects/fuel-saver-app/Methods for use cases final.md": "fdc4abf5cb465fc9cbfdd70d2c7ae2b449d693e2b381d9b0fd6ec4c2ac3fda75",
-    "1-projects/fuel-saver-app/Notes from Georg cont.md": "d3295215f7b81c5fdb5aa8a108bc1e2ddc62111773083484e85a7ce45af918e2",
+    "1-projects/fuel-saver-app/Notes from Georg cont.md": "9bfe0733585840f6bfb48aad3a4a99dcafde9dd686e04c1e2dd53f1deee5faa2",
     "2-areas/fullstack-dev/Java/Serialization.md": "d7594772fe506110d8c1c641a40faa7c04a0b6d46ecbd8ee8bab6f9fb328f2e6",
     "2-areas/Life Management/Passwords.md": "c4957461dc1ced8cd3187f97b2f2311e5dbdd93b9eae84ac76bb1a05d05dc35c",
     "2-areas/Life Management/Meal Plan.md": "e5ea506dc8478c7b043166995e14c35632cb69b0515fc412efefe0e9486fcda5",
     "2-areas/Personal Growth/Thoughts on having a second child.md": "0b5271ef641cf642c8807f09bda55db55e9e5caf95cee880bb05eaf74a49e5ab",
     "2-areas/fullstack-dev/database/general case.md": "cc26160e6f26e0219539011241955ce833b8a277a040faf39d503f905a0672e4",
-    "0-inbox/TODO.md": "72a3ea32405153470af740e7fb6b13ba440e1766cb94794a2a24a37fd9a49e19",
+    "0-inbox/TODO.md": "aab0d43463748e918791528edb83988f4552ccd5c5554844f5d00e13c57312c7",
     "0-inbox/Embedded Systems.md": "6939c89bf55eabd62d55d061afcc1109a807f5cb9cd7fbac7e511c8422a41255",
     "0-inbox/Linux.md": "e617aad0d00c1e3e9f9907fe9e5e030e98ab9daf023fed02afa928266212044e",
     "0-inbox/distribution family.md": "4c78927b375ab8f4216d2b17e06f235f927c83194e607a168849bd4a00499c95",
-    "0-inbox/linux distributions.md": "19556b104ceae80a7051c9fb37908d5300f6d573f08ef9521b5cb968852bf6aa",
-    "conflict-files-obsidian-git.md": "c935c8f56f21481278b22b39e11238942ad3e1a952c52b4d954caaecc71b9e42"
+    "0-inbox/linux distributions.md": "19556b104ceae80a7051c9fb37908d5300f6d573f08ef9521b5cb968852bf6aa"
   }
 }

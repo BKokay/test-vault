@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-08-23T11:07
+updated: 2024-08-30T09:41
 ---
 2024-07-24 13:36
 Steps write hello world in console in [[java]]
@@ -24,18 +24,18 @@ package globally available in the package.
 ### Next steps: 08/15
 - [x] add device dao, entity, impl 
 - [x] add cascading delete for any foreign keys
-- [ ] extend with any methods to get complex SQL statements [[Methods for use cases draft]]
+- [x] extend with any methods to get complex SQL statements [[Methods for use cases draft]]
 	- [ ] check requirements doc
 	- [ ] write out method names
 	- [ ] write out logic
 	- [ ] check with Georg
-- [ ] add parameterized prepared statement
-- [ ] add service classes
+- [x] add parameterized prepared statement
+- [x] add service classes
 	- [ ] fuelstop
 	- [ ] device
 	- [ ] gas station
 	- [ ] driver
-- [ ] Organize code into folders
+- [x] Organize code into folders
 - [ ] add unit tests using  JMock and JUnit
 - [ ] Create a webapp with a servlet
 
@@ -54,13 +54,13 @@ package globally available in the package.
 
 ### In between these steps
 
-- Use connection pool for DB  
-- Logging  [[log4j]]
-- Connect it to Sonarqube  
-- Unit Tests  
-- Deregister DB driver on shutdown / restart  
-- Switch from lat / lon to PostGIS  
-- Switch numeric IDs to UUIDs
+- [x] Use connection pool for DB  
+- [x] Logging  [[log4j]]
+- [ ] Connect it to Sonarqube  
+- [ ] Unit Tests  
+- [x] Deregister DB driver on shutdown / restart  
+- [ ] Switch from lat / lon to PostGIS  
+- [ ] Switch numeric IDs to UUIDs
 
 Great! [[Classes needed for design | About the design]]: You should create one [[entity classes | class]] for every table (Driver, GasStation, FuelStop) and one [[DAO Design Pattern | DAO]] class each. And the main program with the main method in a separate class. And you can start to organize your classes in sub packages, e.g. "domain" for Driver etc., "database" for the database connector and the DAOs - how you organize them is a matter of taste ![🙂]
 
@@ -82,16 +82,16 @@ had to add this line to my DB class because [[posgresql]] wasn't connecting
 `Class.forName("org.postgresql.Driver").getDeclaredConstructor().newInstance();`
 
 # Open questions:
-Do I want to return Optional with save, update, or delete? Do I want to return anything from those? 
-Should I create classes for all of my other methods? No, but what about nested classes? Is that something I should be doing? 
+~~Do I want to return Optional with save, update, or delete? Do I want to return anything from those?~~ 
+~~Should I create classes for all of my other methods? No, but what about nested classes? Is that something I should be doing?~~ 
 
 # TODO:
-The edits I made to GasStationDao need to also be implemented into my other daos. 
-Add other methods from [[Methods for use cases final]]
-Service Layer [[User Service Class]]
-Servlet [[servlet]]
-Finish getPricePerLiter() in GasStationImpl
-Finish setDriverStatus() in driverimpl
+~~The edits I made to GasStationDao need to also be implemented into my other daos.~~ 
+~~Add other methods from [[Methods for use cases final]]~~
+~~Service Layer [[User Service Class]]~~
+~~Servlet [[servlet]]~~
+~~Finish getPricePerLiter() in GasStationImpl~~
+~~Finish setDriverStatus() in driverimpl~~
 
 !If there is any object that you want to maintain the insertion order, use a [[LinkedHashMap]] [[Java Map Interface]]
 

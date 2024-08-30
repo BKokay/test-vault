@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-08-29T10:19
+updated: 2024-08-30T09:42
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -31,7 +31,7 @@ String carAsString = objectMapper.writeValueAsString(car);
 
 ### Next steps:
 [[flow of DAO and DTO]]
-- [ ] finally finish adding the methods to the DaoImpls
+- [x] finally finish adding the methods to the DaoImpls
 	- [x] Make sure all method have `throws IOException` in the catch block. 
 	- [ ] Update fuel_stop.fuel_type to capital letters
 	- [x] make sure return statements and types are there
