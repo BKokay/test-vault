@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/flush().md",
-                "mode": "source",
+                "file": "0-inbox/TODO.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "waves",
+                "query": "serial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/flush().md",
+                "file": "0-inbox/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/flush().md",
+                "file": "0-inbox/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/flush().md"
+                "file": "0-inbox/TODO.md"
               }
             }
           },
@@ -182,10 +182,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "317dee4da3277e2f",
   "lastOpenFiles": [
-    "1-projects/fuel-saver-app/Notes from Georg cont.md",
+    "2-areas/fullstack-dev/Java/Jackson.md",
+    "2-areas/fullstack-dev/Java/Serialization.md",
     "2-areas/fullstack-dev/Java/flush().md",
+    "1-projects/fuel-saver-app/Notes from Georg cont.md",
     "2-areas/Professional Growth/strengths and weaknesses.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/TODO.md",
@@ -194,14 +196,12 @@
     "0-inbox/distribution family.md",
     "0-inbox/Linux.md",
     "0-inbox/Embedded Systems.md",
-    "2-areas/fullstack-dev/Java/Jackson.md",
     "2-areas/Personal Growth/Brain Waves.md",
     "2-areas/fullstack-dev/database/general case.md",
     "2-areas/fullstack-dev/Java/servlet.md",
     "0-inbox/DTO.md",
     "0-inbox/Exceptions.md",
     "0-inbox/IOExceptions.md",
-    "2-areas/fullstack-dev/Java/Serialization.md",
     "1-projects/fuel-saver-app/Methods for use cases draft.md",
     "2-areas/fullstack-dev/Java/LinkedHashMap.md",
     "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
