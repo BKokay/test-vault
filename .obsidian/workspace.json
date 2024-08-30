@@ -4,41 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a57767effc244fe9",
-        "type": "tabs",
-        "dimension": 45.633187772925766,
-        "children": [
-          {
-            "id": "2a71ece80bc9d3c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg cont.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "adbdb5e8a86d4875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Embedded Systems.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "131fa394d9b3ef40",
         "type": "tabs",
-        "dimension": 54.366812227074234,
         "children": [
           {
             "id": "23ef23968fa99ee1",
@@ -51,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9b452efca8d535d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/TODO.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "waves",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Embedded Systems.md",
+                "file": "0-inbox/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Embedded Systems.md",
+                "file": "0-inbox/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Embedded Systems.md"
+                "file": "0-inbox/TODO.md"
               }
             }
           },
@@ -190,15 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "adbdb5e8a86d4875",
+  "active": "9b452efca8d535d9",
   "lastOpenFiles": [
-    "1-projects/fuel-saver-app/Notes from Georg cont.md",
-    "0-inbox/Embedded Systems.md",
-    "0-inbox/Linux.md",
-    "0-inbox/linux distributions.md",
-    "0-inbox/distribution family.md",
-    "2-areas/fullstack-dev/database/general case.md",
     "2-areas/fullstack-dev/Java/Jackson.md",
+    "0-inbox/TODO.md",
+    "2-areas/Personal Growth/Brain Waves.md",
+    "1-projects/fuel-saver-app/Notes from Georg cont.md",
+    "2-areas/fullstack-dev/database/general case.md",
     "2-areas/fullstack-dev/Java/servlet.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/DTO.md",
