@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-08-30T13:48
+updated: 2024-08-30T14:07
 ---
 - [ ] add the get extra method to doGet
 - [ ] add db class to mock
@@ -34,3 +34,5 @@ public class Main{
 		// printing out the information
         System.out.println("First Name : "+fname + "\nLast Name : "+optionalParameter +"\nThe age : "+age);
 ```
+
+Also, I am going to change it to getDriverFinancialSummary(int it, int year, Optional<int> month)
