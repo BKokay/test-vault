@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-08-30T09:42
+updated: 2024-08-30T10:06
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -61,3 +61,5 @@ String carAsString = objectMapper.writeValueAsString(car);
 	* Annotations for each method - then Swagger will create that site 
 *  SpringDoc will read the annotations and create a spec then the spec will be picked up by Swagger
 * Create a spec.yml to have the specs 
+* Question to Hendrik: With methods that join tables but still belong to one table, ie. get price history, do I put that in its own servlet or just in the doGet method or make its own method in the GasStationServlet class? 
+	* Answer: when it moves to a controller, you will be able to define the endpoints within the GasStationController class. However, for clean code now, maybe it makes sense to make its own servlet. 
