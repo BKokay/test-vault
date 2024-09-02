@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-09-02T08:50
+updated: 2024-09-02T11:42
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -39,7 +39,7 @@ String carAsString = objectMapper.writeValueAsString(car);
 	- [x] Remove any methods that will be implemented using the get() method
 - [x] add service layer for each Dao
 	- [x] pass through status 
-- [ ] add servlet layer for each Dao //only for two classes or so
+- [x] add servlet layer for each Dao //only for two classes or so
 	- [ ] return status codes? 
 - [ ] add database into repo with SQL to create the empty database and then another class to populate with test data. 
 	- [ ] not class just an sql file with the database creation queries 

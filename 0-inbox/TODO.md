@@ -1,9 +1,10 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-02T11:01
+updated: 2024-09-02T11:48
 ---
 - [x] add the get extra method to doGet
 - [x] Finish making DriverServlet. 
+- [ ] Make device and fuelstop servlet to use in testing
 - [ ] Test locally
 - [ ] add db class to mock
 - [ ] Test

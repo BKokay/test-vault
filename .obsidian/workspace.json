@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg cont.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eddeec06bcfad4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/mocking and testing.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/TODO.md",
+                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/TODO.md",
+                "file": "0-inbox/mocking and testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/TODO.md",
+                "file": "0-inbox/mocking and testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/TODO.md"
+                "file": "0-inbox/mocking and testing.md"
               }
             }
           },
@@ -182,17 +194,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "317dee4da3277e2f",
+  "active": "eddeec06bcfad4e5",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "0-inbox/mocking and testing.md",
+    "0-inbox/TODO.md",
+    "1-projects/fuel-saver-app/Notes from Georg cont.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
-    "0-inbox/TODO.md",
     "2-areas/fullstack-dev/Java/Jackson.md",
     "2-areas/fullstack-dev/Java/Serialization.md",
     "2-areas/fullstack-dev/Java/flush().md",
-    "1-projects/fuel-saver-app/Notes from Georg cont.md",
     "2-areas/Professional Growth/strengths and weaknesses.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
     "conflict-files-obsidian-git.md",
     "0-inbox/linux distributions.md",
     "0-inbox/distribution family.md",
@@ -208,8 +222,6 @@
     "2-areas/fullstack-dev/Java/LinkedHashMap.md",
     "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Java/executeUpdate vs executeQuery.md",
-    "1-projects/fuel-saver-app/Methods for use cases final.md",
-    "2-areas/Personal Growth/Thoughts on having a second child.md",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
