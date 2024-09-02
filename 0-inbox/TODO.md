@@ -1,12 +1,13 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-02T08:50
+updated: 2024-09-02T11:01
 ---
-- [ ] add the get extra method to doGet
-- [ ] Finish making DriverServlet. 
+- [x] add the get extra method to doGet
+- [x] Finish making DriverServlet. 
 - [ ] Test locally
 - [ ] add db class to mock
 - [ ] Test
+- [ ] think about reducing duplicate code
 
 When setting up the doGet method in DriverServlet, I realized that the service.getSavings() method isn't right. I should change that to be getYearlySavings and getMonthlySavings 
 I could make the parameter month & year, just like in getYearlySpending/getMonthlySpending. Therefore there would be less room for user error. 
