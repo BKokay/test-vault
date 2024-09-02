@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-02T11:48
+updated: 2024-09-02T14:16
 ---
 - [x] add the get extra method to doGet
 - [x] Finish making DriverServlet. 
@@ -9,6 +9,9 @@ updated: 2024-09-02T11:48
 - [ ] add db class to mock
 - [ ] Test
 - [ ] think about reducing duplicate code
+
+Where am I? Trying to learn about database testing/mocking. It seems that actually creating a table in Postgres will be best and then tearing it down after doing the tests. The use JUnit to run the tests. But there are so so many options, I feel lost. 
+
 
 When setting up the doGet method in DriverServlet, I realized that the service.getSavings() method isn't right. I should change that to be getYearlySavings and getMonthlySavings 
 I could make the parameter month & year, just like in getYearlySpending/getMonthlySpending. Therefore there would be less room for user error. 
