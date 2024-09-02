@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/TODO.md",
+                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/TODO.md",
+                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/TODO.md",
+                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/TODO.md"
+                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md"
               }
             }
           },
@@ -194,12 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "eddeec06bcfad4e5",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-app/Notes from Georg cont.md",
+    "0-inbox/TODO.md",
     "0-inbox/mocking and testing.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
-    "0-inbox/TODO.md",
-    "1-projects/fuel-saver-app/Notes from Georg cont.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "1-projects/WGU/Preplanning/Timeline & Cost.md",
     "1-projects/WGU/Preplanning/PreStudy.md",
