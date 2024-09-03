@@ -1,6 +1,6 @@
 ---
 created: 2024-08-20T11:45
-updated: 2024-09-02T08:50
+updated: 2024-09-02T16:10
 ---
 # metaphor to help understand
 Using `java.util.Optional` is like having a special covered dish in a restaurant that might or might not contain food. You don't want to be surprised when the waiter takes the cover off and you get an empty plate. Similarly, you don't want your program to crash when a method unexpectedly returns `null` . `Optional` helps you to deal with these situations by forcing you to deal with the possibility that the value might be absent. 

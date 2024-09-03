@@ -1,6 +1,6 @@
 ---
 created: 2024-09-02T11:56
-updated: 2024-09-02T12:56
+updated: 2024-09-02T16:10
 ---
 # What is it? 
 Testing the functionality of a class without testing its dependencies. Therefore, we need to provide an **object-under-test** which is a replacement for the dependencies which we can control. For example, we might want to force extreme return values, exception throwing or other time-consuming methods in order to get a fixed return value. This controlled replacement is the **mock**. 
