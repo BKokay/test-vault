@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-03T10:43
+updated: 2024-09-03T10:46
 ---
 
 [[Notes from Georg]] [[Notes from Georg cont]]

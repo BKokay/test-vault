@@ -1,6 +1,6 @@
 ---
 created: 2024-08-15T13:44
-updated: 2024-09-03T10:42
+updated: 2024-09-03T10:46
 ---
 [[Notes from Georg]] | [[Fuel saver user stories]] [[Methods for use cases final]]
 
