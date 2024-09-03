@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-09-03T09:58
+updated: 2024-09-03T10:42
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
