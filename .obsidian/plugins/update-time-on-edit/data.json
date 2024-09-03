@@ -96,7 +96,7 @@
     "1-projects/WGU/Preplanning/WGU.md": "5a3eab997f7c009f984c47f92881a20183715cd110f86b8e1657455485347d69",
     "1-projects/WGU/Preplanning/Timeline & Cost.md": "dd73f03357be51c44272e045360f53565c8e5d372d8887c92a0b2455503ccd14",
     "1-projects/fuel-saver-app/Fuel saver user stories.md": "89563611191ce05d564eb4e566a4800c2758d6d0507e59db58f9591d96e85d30",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "7cff5d9298178215a3a4c0decbaaae0b65e640316e0b69a66efa79db6bbb6d31",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "ef7600bc9b57fdad8792bcbe509413b7074bc3377ab5c96a3113bb4c37f140c1",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md": "bc8fa4a4ebedca78c1f8dc592393d1c811bc4ecadf066261d2fffe47e9a00b1b",
     "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005",
     "timestamps/2024/08-August/2024-08-19-Monday.md": "c2e425d94679b812b1cbb8b3f868c6d4afd22d1122e3d2ffc069eff5f71fd933",
@@ -119,14 +119,16 @@
     "2-areas/Life Management/Meal Plan.md": "e5ea506dc8478c7b043166995e14c35632cb69b0515fc412efefe0e9486fcda5",
     "2-areas/Personal Growth/Thoughts on having a second child.md": "0b5271ef641cf642c8807f09bda55db55e9e5caf95cee880bb05eaf74a49e5ab",
     "2-areas/fullstack-dev/database/general case.md": "cc26160e6f26e0219539011241955ce833b8a277a040faf39d503f905a0672e4",
-    "0-inbox/TODO.md": "1a0bdb7e02059c6a43c9ea64cb189b9f482da852861b2c672a9515d3179a2fd1",
+    "0-inbox/TODO.md": "21466042c4a9153e12d3e6ff913e5c1898812a868788cf90235bc4b6077885de",
     "0-inbox/Embedded Systems.md": "9aab481341b904f910f9e32488798e689c9341f31c78e70a07295cdb37a1412e",
     "0-inbox/Linux.md": "e9f4268364270edb08c9222b98a2beb75133a801947e84a4a3b6fd62ddbe50de",
     "0-inbox/distribution family.md": "0df740c71e023d12d8a9b792b796c103b2cfa5fddb3b12e5aba56915608492d0",
     "0-inbox/linux distributions.md": "bee9003722ba76f5a92455f858d487984f68dcf900566dc8927853fa1f14c388",
     "2-areas/Professional Growth/strengths and weaknesses.md": "f5a46485c51ea7855c1d81f0c0768f296e86ea913ec1fd2cbdda4202456325f0",
     "2-areas/fullstack-dev/Java/flush().md": "6a751efccbb176ab01d483c93440337ae0575fe4cb2483493976e59531cacba1",
-    "0-inbox/mocking and testing.md": "c3e0bdb576c92dda541ee1f87f8c81bd9667853ee0961e8ae10899769a82b467",
-    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md": "324080f772b4e23feda022ca20324e5e1cc60a321835d035da29d92e67ce252c"
+    "0-inbox/mocking and testing.md": "c4cf6c127322bde1367a2b1108993aa7d29232bc7e5e37ffdc7c05781f624506",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md": "324080f772b4e23feda022ca20324e5e1cc60a321835d035da29d92e67ce252c",
+    "0-inbox/jUnit.md": "1e176b5cd7b3bfde1fa695d3ec15e4010664bf26c4eff93c2303fc73410dd763",
+    "2-areas/fullstack-dev/Java/JVM.md": "9ee6bcd8b2a6a689bc5df9001ae46487e295d58d7ed4aec5f95351ca894f073e"
   }
 }
