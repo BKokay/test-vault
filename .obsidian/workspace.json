@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cascade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,10 +208,11 @@
   },
   "active": "ed9d1b7565ba897b",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/database/On delete cascade.md",
+    "0-inbox/Questions 2.md",
     "2-areas/fullstack-dev/Java/Jackson.md",
     "1-projects/fuel-saver-app/Questions 1.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
-    "0-inbox/Questions 2.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
     "0-inbox/mocking and testing.md",
@@ -225,7 +226,6 @@
     "2-areas/fullstack-dev/database/simple case.md",
     "2-areas/fullstack-dev/database/SELECT.md",
     "2-areas/fullstack-dev/database/ORDER BY.md",
-    "2-areas/fullstack-dev/database/On delete cascade.md",
     "2-areas/fullstack-dev/database/ON.md",
     "2-areas/fullstack-dev/database/Logical Expressions.md",
     "2-areas/fullstack-dev/database/JOIN.md",
