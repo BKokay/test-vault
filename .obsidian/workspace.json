@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Questions 2.md",
-                "mode": "source",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/TODO.md",
-                "mode": "source",
+                "file": "1-projects/fuel-saver-app/Questions 1.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Questions 2.md",
+                "file": "1-projects/fuel-saver-app/Questions 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Questions 2.md",
+                "file": "1-projects/fuel-saver-app/Questions 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Questions 2.md"
+                "file": "1-projects/fuel-saver-app/Questions 1.md"
               }
             }
           },
@@ -206,13 +206,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed9d1b7565ba897b",
+  "active": "85aa7b4ce6813e09",
   "lastOpenFiles": [
-    "2-areas/fullstack-dev/database/On delete cascade.md",
+    "0-inbox/TODO.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Questions 2.md",
+    "2-areas/fullstack-dev/database/On delete cascade.md",
     "2-areas/fullstack-dev/Java/Jackson.md",
     "1-projects/fuel-saver-app/Questions 1.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
     "0-inbox/mocking and testing.md",
@@ -233,7 +234,6 @@
     "2-areas/fullstack-dev/database/general case.md",
     "2-areas/fullstack-dev/database/FROM.md",
     "2-areas/fullstack-dev/database/enum type.md",
-    "2-areas/fullstack-dev/database/Date and Time Expressions.md",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",

@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-04T11:17
+updated: 2024-09-04T14:50
 ---
 
 [[Notes from Georg]] [[Questions 1]]
@@ -10,7 +10,7 @@ updated: 2024-09-04T11:17
 - [x] Make device and fuelstop servlet to use in testing
 - [x] Test locally
 - [x] add db class to mock
-- [ ] populate test db with data
+- [x] populate test db with data
 - [ ] Test
 - [ ] think about reducing duplicate code
 

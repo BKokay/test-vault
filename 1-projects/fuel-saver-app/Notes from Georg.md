@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-09-04T08:42
+updated: 2024-09-04T14:50
 ---
 
 2024-07-24 13:36
@@ -27,19 +27,19 @@ package globally available in the package.
 - [x] add device dao, entity, impl
 - [x] add cascading delete for any foreign keys
 - [x] extend with any methods to get complex SQL statements [[Methods for use cases draft]]
-  - [ ] check requirements doc
-  - [ ] write out method names
-  - [ ] write out logic
-  - [ ] check with Georg
+  - [x] check requirements doc
+  - [x] write out method names
+  - [x] write out logic
+  - [x] check with Georg
 - [x] add parameterized prepared statement
 - [x] add service classes
-  - [ ] fuelstop
-  - [ ] device
-  - [ ] gas station
-  - [ ] driver
+  - [x] fuelstop
+  - [x] device
+  - [x] gas station
+  - [x] driver
 - [x] Organize code into folders
 - [ ] add unit tests using JMock and JUnit
-- [ ] Create a webapp with a servlet
+- [x] Create a webapp with a servlet
 
 ### Project evolves in these steps
 
