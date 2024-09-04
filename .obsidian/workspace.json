@@ -4,8 +4,41 @@
     "type": "split",
     "children": [
       {
+        "id": "a57767effc244fe9",
+        "type": "tabs",
+        "dimension": 45.633187772925766,
+        "children": [
+          {
+            "id": "2a71ece80bc9d3c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Notes from Georg cont.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "adbdb5e8a86d4875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Embedded Systems.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "131fa394d9b3ef40",
         "type": "tabs",
+        "dimension": 54.366812227074234,
         "children": [
           {
             "id": "23ef23968fa99ee1",
@@ -18,81 +51,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "9b452efca8d535d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eddeec06bcfad4e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "81017dfc3598fc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "85aa7b4ce6813e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/TODO.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "317dee4da3277e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "21c23c413a9e42be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/jUnit.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "insert",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0-inbox/Embedded Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0-inbox/Embedded Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "0-inbox/Embedded Systems.md"
               }
             }
           },
@@ -231,34 +190,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81017dfc3598fc0c",
+  "active": "adbdb5e8a86d4875",
   "lastOpenFiles": [
-    "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
     "conflict-files-obsidian-git.md",
-    "2-areas/fullstack-dev/database/WHERE vs CASE.md",
-    "2-areas/fullstack-dev/database/WHERE.md",
-    "2-areas/fullstack-dev/database/What is an Entity Relationship Diagram or ER model.md",
-    "2-areas/fullstack-dev/database/String Expressions.md",
-    "2-areas/fullstack-dev/database/sql expressions.md",
-    "2-areas/fullstack-dev/database/simple case.md",
-    "2-areas/fullstack-dev/database/SELECT.md",
-    "2-areas/fullstack-dev/database/ORDER BY.md",
-    "2-areas/fullstack-dev/database/On delete cascade.md",
-    "2-areas/fullstack-dev/database/ON.md",
-    "2-areas/fullstack-dev/database/Logical Expressions.md",
-    "2-areas/fullstack-dev/database/JOIN.md",
-    "2-areas/fullstack-dev/database/GROUP BY.md",
+    "2-areas/fullstack-dev/Java/JVM.md",
+    "0-inbox/jUnit.md",
+    "0-inbox/mocking and testing.md",
+    "2-areas/fullstack-dev/Java/flush().md",
+    "2-areas/Professional Growth/strengths and weaknesses.md",
+    "0-inbox/Embedded Systems.md",
+    "0-inbox/TODO.md",
+    "1-projects/fuel-saver-app/Notes from Georg cont.md",
+    "0-inbox/Linux.md",
+    "0-inbox/linux distributions.md",
+    "0-inbox/distribution family.md",
     "2-areas/fullstack-dev/database/general case.md",
-    "2-areas/fullstack-dev/database/FROM.md",
-    "2-areas/fullstack-dev/database/enum type.md",
-    "2-areas/fullstack-dev/database/Date and Time Expressions.md",
-    "2-areas/fullstack-dev/database/Conditional Expressions.md",
-    "2-areas/fullstack-dev/database/Commands.md",
-    "2-areas/fullstack-dev/database/CASE.md",
-    "2-areas/fullstack-dev/database/AS.md",
-    "2-areas/fullstack-dev/database/Arithmetic Expressions.md",
-    "2-areas/fullstack-dev/database/aliases.md",
-    "2-areas/fullstack-dev/database/aggregate functions.md",
+    "2-areas/fullstack-dev/Java/Jackson.md",
+    "2-areas/fullstack-dev/Java/servlet.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "0-inbox/DTO.md",
+    "0-inbox/Exceptions.md",
+    "0-inbox/IOExceptions.md",
+    "2-areas/fullstack-dev/Java/Serialization.md",
+    "1-projects/fuel-saver-app/Methods for use cases draft.md",
+    "2-areas/fullstack-dev/Java/LinkedHashMap.md",
+    "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
+    "2-areas/fullstack-dev/Java/executeUpdate vs executeQuery.md",
+    "1-projects/WGU/Preplanning/Timeline & Cost.md",
+    "1-projects/fuel-saver-app/Methods for use cases final.md",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
