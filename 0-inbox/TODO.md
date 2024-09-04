@@ -1,9 +1,9 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-04T08:42
+updated: 2024-09-04T11:17
 ---
 
-[[Notes from Georg]] [[Notes from Georg cont]]
+[[Notes from Georg]] [[Questions 1]]
 
 - [x] add the get extra method to doGet
 - [x] Finish making DriverServlet.

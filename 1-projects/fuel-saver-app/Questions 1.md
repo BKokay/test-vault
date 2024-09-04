@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-09-04T08:42
+updated: 2024-09-04T11:20
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -41,10 +41,10 @@ String carAsString = objectMapper.writeValueAsString(car);
 	- [x] pass through status 
 - [x] add servlet layer for each Dao //only for two classes or so
 	- [ ] return status codes? 
-- [ ] add database into repo with SQL to create the empty database and then another class to populate with test data. 
+- [x] add database into repo with SQL to create the empty database and then another class to populate with test data. 
 	- [ ] not class just an sql file with the database creation queries 
 - [ ] unit tests - mock data for fake tables then test services
-	- [ ] connection test - will be able to see if database works basically
+	- [x] connection test - will be able to see if database works basically
 - [ ] connect to SonarQube - java linter, bug finder, tests
 	- [ ] code analysis run 
 - [ ] SpringBoot 
