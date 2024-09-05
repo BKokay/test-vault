@@ -1,5 +1,5 @@
 ---
 created: 2024-08-29T22:07
-updated: 2024-09-04T08:42
+updated: 2024-09-05T09:25
 ---
 Embedded systems are a combination of computer hardware and software designed to have a specific function within a larger system. Usually they are part of other devices and help to control these devices. A big portion of embedded systems have a [[linux kernal]] running on them. Therefore, with embedded systems comes embedded software. The purpose of this software is to access the hardware and make it usable. The major advantages of [[Linux]] over any proprietary embedded software include cross vendor platform compatibility, development, support and no license fees. Two of the most popular embedded software projects are Android, that is mainly used on mobile phones across a variety of vendors and Raspbian, which is used mainly on Raspberry Pi.

@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-04T14:50
+updated: 2024-09-05T09:26
 ---
 
 [[Notes from Georg]] [[Questions 1]]
@@ -11,6 +11,7 @@ updated: 2024-09-04T14:50
 - [x] Test locally
 - [x] add db class to mock
 - [x] populate test db with data
+- [ ] Convert to UUIDs
 - [ ] Test
 - [ ] think about reducing duplicate code
 
