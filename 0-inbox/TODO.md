@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-05T09:26
+updated: 2024-09-06T10:14
 ---
 
 [[Notes from Georg]] [[Questions 1]]
@@ -11,9 +11,10 @@ updated: 2024-09-05T09:26
 - [x] Test locally
 - [x] add db class to mock
 - [x] populate test db with data
-- [ ] Convert to UUIDs
+- [x] Convert to UUIDs
 - [ ] Test
 - [ ] think about reducing duplicate code
+- [ ] Ask about update methods when there are foreign keys 
 
 Where am I? Trying to learn about database testing/mocking. It seems that actually creating a table in Postgres will be best and then tearing it down after doing the tests. The use JUnit to run the tests. But there are so so many options, I feel lost.
 
