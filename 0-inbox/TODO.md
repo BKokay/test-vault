@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-06T10:14
+updated: 2024-09-06T11:35
 ---
 
 [[Notes from Georg]] [[Questions 1]]
@@ -13,6 +13,8 @@ updated: 2024-09-06T10:14
 - [x] populate test db with data
 - [x] Convert to UUIDs
 - [ ] Test
+	- [ ] fuelstopgetmethod test, add in other details to assertEquals
+	- [ ] 
 - [ ] think about reducing duplicate code
 - [ ] Ask about update methods when there are foreign keys 
 
