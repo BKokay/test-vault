@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "06f701fb6e4acefd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/SonarQube.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "17a858090d574c98",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/Questions 1.md",
+                "file": "0-inbox/SonarQube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Questions 1.md",
+                "file": "0-inbox/SonarQube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/Questions 1.md"
+                "file": "0-inbox/SonarQube.md"
               }
             }
           },
@@ -242,8 +254,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "882ba91ccf4683d2",
+  "active": "06f701fb6e4acefd",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-app/Questions 1.md",
+    "0-inbox/SonarQube.md",
     "0-inbox/TODO.md",
     "2-areas/fullstack-dev/database/UUIDs.md",
     "0-inbox/Type Casting.md",
@@ -257,7 +271,6 @@
     "2-areas/fullstack-dev/Linux",
     "2-areas/fullstack-dev/Java/Exceptions.md",
     "2-areas/fullstack-dev/Java/jUnit.md",
-    "1-projects/fuel-saver-app/Questions 1.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Questions 2.md",
     "2-areas/fullstack-dev/database/On delete cascade.md",
@@ -270,7 +283,6 @@
     "2-areas/fullstack-dev/database/WHERE.md",
     "2-areas/fullstack-dev/database/What is an Entity Relationship Diagram or ER model.md",
     "2-areas/fullstack-dev/database/String Expressions.md",
-    "2-areas/fullstack-dev/database/sql expressions.md",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
