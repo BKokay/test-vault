@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/SonarQube.md",
+                "file": "2-areas/fullstack-dev/Java/Exceptions.md",
                 "mode": "source",
                 "source": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cascade",
+                "query": "exception",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/SonarQube.md",
+                "file": "2-areas/fullstack-dev/Java/Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/SonarQube.md",
+                "file": "2-areas/fullstack-dev/Java/Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/SonarQube.md"
+                "file": "2-areas/fullstack-dev/Java/Exceptions.md"
               }
             }
           },
@@ -256,8 +257,8 @@
   },
   "active": "06f701fb6e4acefd",
   "lastOpenFiles": [
-    "1-projects/fuel-saver-app/Questions 1.md",
     "0-inbox/SonarQube.md",
+    "1-projects/fuel-saver-app/Questions 1.md",
     "0-inbox/TODO.md",
     "2-areas/fullstack-dev/database/UUIDs.md",
     "0-inbox/Type Casting.md",
