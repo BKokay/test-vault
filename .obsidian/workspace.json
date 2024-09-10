@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Exceptions.md",
-                "mode": "source",
+                "file": "0-inbox/SonarQube.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -162,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Exceptions.md",
+                "file": "0-inbox/SonarQube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Exceptions.md",
+                "file": "0-inbox/SonarQube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Exceptions.md"
+                "file": "0-inbox/SonarQube.md"
               }
             }
           },
@@ -257,6 +256,7 @@
   },
   "active": "06f701fb6e4acefd",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/Java/Exceptions.md",
     "0-inbox/SonarQube.md",
     "1-projects/fuel-saver-app/Questions 1.md",
     "0-inbox/TODO.md",
@@ -270,7 +270,6 @@
     "2-areas/fullstack-dev/Java/DTO.md",
     "2-areas/fullstack-dev/Linux/Embedded Systems.md",
     "2-areas/fullstack-dev/Linux",
-    "2-areas/fullstack-dev/Java/Exceptions.md",
     "2-areas/fullstack-dev/Java/jUnit.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Questions 2.md",
