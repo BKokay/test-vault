@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-09-09T09:05
+updated: 2024-09-18T14:06
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -45,7 +45,7 @@ String carAsString = objectMapper.writeValueAsString(car);
 	- [x] not class just an sql file with the database creation queries 
 - [x] unit tests - mock data for fake tables then test services
 	- [x] connection test - will be able to see if database works basically
-- [ ] connect to SonarQube - java linter, bug finder, tests
+- [x] connect to SonarQube - java linter, bug finder, tests
 	- [ ] code analysis run 
 - [ ] SpringBoot 
 	- [ ] build controller with one endpoint

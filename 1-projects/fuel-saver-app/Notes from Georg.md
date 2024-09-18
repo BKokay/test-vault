@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-09-18T09:25
+updated: 2024-09-18T14:06
 ---
 
 2024-07-24 13:36
@@ -38,7 +38,7 @@ package globally available in the package.
   - [x] gas station
   - [x] driver
 - [x] Organize code into folders
-- [ ] add unit tests using JMock and JUnit
+- [x] add unit tests using JMock and JUnit
 - [x] Create a webapp with a servlet
 
 ### Project evolves in these steps
@@ -58,11 +58,11 @@ package globally available in the package.
 
 - [x] Use connection pool for DB
 - [x] Logging [[log4j]]
-- [ ] Connect it to Sonarqube
-- [ ] Unit Tests
+- [x] Connect it to Sonarqube
+- [x] Unit Tests
 - [x] Deregister DB driver on shutdown / restart
 - [ ] Switch from lat / lon to PostGIS
-- [ ] Switch numeric IDs to UUIDs
+- [x] Switch numeric IDs to UUIDs
 
 Great! [[Classes needed for design | About the design]]: You should create one [[entity classes | class]] for every table (Driver, GasStation, FuelStop) and one [[DAO Design Pattern | DAO]] class each. And the main program with the main method in a separate class. And you can start to organize your classes in sub packages, e.g. "domain" for Driver etc., "database" for the database connector and the DAOs - how you organize them is a matter of taste ![🙂]
 

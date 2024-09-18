@@ -67,7 +67,7 @@
     "2-areas/fullstack-dev/Java/Design Patterns/User DAO interface.md": "1f458a56ba45d9242dd459891936c89fb9d7be8d3d62c2b1c65e4e451fb65521",
     "2-areas/fullstack-dev/Java/Design Patterns/User Entity class.md": "655b5ba2053342a50db48d137283684d80db894acc773b0abe894744ce7d71f4",
     "2-areas/fullstack-dev/Java/Design Patterns/User Main Class.md": "93b9de53bb8472b6a3664cd0eeead283ef9784a6cee373ee42a45107fbbeefd2",
-    "2-areas/fullstack-dev/Java/entity classes.md": "8f0433bc54fe0a39b7de422f00cb8908c185f724f10614a0d61dbcf80402cb03",
+    "2-areas/fullstack-dev/Java/entity classes.md": "eac388bc659a8cb1136c744911374f9839037fc3a80de4535ce5ca357648d806",
     "2-areas/fullstack-dev/Java/entity annotations.md": "014e41bbf5d8aa5411de11c3dc7f4a8019ed6da2698f0b0314b8f35af186c57d",
     "2-areas/fullstack-dev/Java/Add Git to Eclipse.md": "14fd962ee8b4bdae379a65684af6bb446e10551827fc7137177832c61fcf3021",
     "2-areas/fullstack-dev/Java/Java Links.md": "8fa7ef7d50ea6f09a280ce4b39dba1ae4fc5c6c0e8d0d3ae24f1d6b44fe5629d",
@@ -88,7 +88,7 @@
     "2-areas/fullstack-dev/Java/Map Methods.md": "b29a7e897b09ecb2c5e374aa6ac562d9d24cf5bc0ed8dda47fb60f4ee5bb9864",
     "2-areas/fullstack-dev/Java/Java Map.Entry interface.md": "ad210e83870e3f9ac6d1b6e4b614eb6617294b2737743e40bf598b44b49ad2e9",
     "1-projects/fuel-saver-app/Fuel saver user stories.md": "ac30e144f7d4d6a499f70d3b397609b044eb012093da5ceabc24356e7dea447f",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "2ab009d299fc1620c743c87c88ffd00ba9a0765b8c3f999822a06fe18ec0938f",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "ecf7f4d298667aa33834a6c383132cfa4e7719f6746f4cf256ad82c3847aad07",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md": "bc8fa4a4ebedca78c1f8dc592393d1c811bc4ecadf066261d2fffe47e9a00b1b",
     "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005",
     "timestamps/2024/08-August/2024-08-19-Monday.md": "b0e7f5cf1666f94f9e10fe5a57ace119071d25d77b644cedb3633e28158a6467",
@@ -107,7 +107,7 @@
     "2-areas/Life Management/Passwords.md": "d50ad60e1c98858c1d816a1ac4cf6edaf38e30b33d2d0b6c38701236598d1d6c",
     "2-areas/Personal Growth/Thoughts on having a second child.md": "0b5271ef641cf642c8807f09bda55db55e9e5caf95cee880bb05eaf74a49e5ab",
     "2-areas/fullstack-dev/database/general case.md": "cc26160e6f26e0219539011241955ce833b8a277a040faf39d503f905a0672e4",
-    "0-inbox/TODO.md": "797091c9da1072e5c4fd87fb44b6aab10017ff7594e8dc5bfe0ee17d2e0755f0",
+    "0-inbox/TODO.md": "8ab0f4c9c932f7f375be47f88f48847fabcc9bc6617b72461ea193e644d788ee",
     "2-areas/Professional Growth/strengths and weaknesses.md": "c7d5840a5101556b9e6e4aa278e90d9eb1b37fc75ffc15c4f8f10277365dbeaf",
     "2-areas/fullstack-dev/Java/flush().md": "53f4ae3c2e312bb3b852a8da7258d3d7e2a1864f5ac511772d09ffb13fc69b5c",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md": "3606675659ebdb75c6507dbd54cbbb97b8f81b199ac6994b079e49d5d72a0650",
@@ -128,7 +128,7 @@
     "2-areas/fullstack-dev/database/String Expressions.md": "16d2b627e627fa9af2b1949809ebecc437d94791abce9a7b2aa48dffe9cea0df",
     "2-areas/fullstack-dev/database/What is an Entity Relationship Diagram or ER model.md": "2cb06be4063deaa1397d21adf9755a20f485fdc4564bc9f22978555983d4d053",
     "2-areas/fullstack-dev/database/WHERE.md": "4daed4b4ea10a251e004e1949cbdcf3baabba467c2a9c38dcd6be1c6c877c7ef",
-    "1-projects/fuel-saver-app/Questions 1.md": "002eb7fc35c20cbde878fb75918570e99a12d7044e6623211b64feb1b3913d14",
+    "1-projects/fuel-saver-app/Questions 1.md": "73fbe836ac14e498f1c2cebefa8a6c6e56aa27535d4c99e9bded34cb416d2f9a",
     "0-inbox/Questions 2.md": "1c88e3727555d309a74da783607805fcf638141de8efff9646164dfe7217da6c",
     "2-areas/fullstack-dev/database/UUIDs.md": "87f4f28da398829141cc3e65a2a2b50f9c0a7a0275728290642add9ebec9c700",
     "2-areas/fullstack-dev/Java/jUnit.md": "b8cd6bd80d5e730259c88accb0be330e4724e78d4856d4ea48b84873e3d952bc",
@@ -159,6 +159,7 @@
     "0-inbox/pipeline operations.md": "b8c0ffff1fd58d9b1522bca629c1f56368ea9810fd2da889d1a2551edf9106c6",
     "0-inbox/lazy evaluation.md": "4d81073d00019abf0c14bcc505f839e5052d2fb951985563c19c3e5c32b7e061",
     "0-inbox/parallel execution.md": "41a4673c00daf8b26813fdc4670d69ef95891ec2b3787534c538a9c05aa9ab7f",
-    "0-inbox/Intermediate operations.md": "8bf98ec27317251c37b81c95ac4872dd361a6dab6ff8a691c4d9fa05a1dabd1c"
+    "0-inbox/Intermediate operations.md": "8bf98ec27317251c37b81c95ac4872dd361a6dab6ff8a691c4d9fa05a1dabd1c",
+    "0-inbox/ORM.md": "22834289ba171ac987569b3f8c95940d634a89f33c0c9280025452098c02b1c1"
   }
 }

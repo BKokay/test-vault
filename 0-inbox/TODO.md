@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-06T12:01
+updated: 2024-09-18T14:06
 ---
 
 [[Notes from Georg]] [[Questions 1]]
@@ -12,10 +12,10 @@ updated: 2024-09-06T12:01
 - [x] add db class to mock
 - [x] populate test db with data
 - [x] Convert to UUIDs
-- [ ] Test
+- [x] Test
 	- [ ] fuelstopgetmethod test, add in other details to assertEquals
 	- [ ] Gas Station tests 
-- [ ] think about reducing duplicate code
+- [x] think about reducing duplicate code
 - [ ] Ask about update methods when there are foreign keys 
 
 Where am I? Trying to learn about database testing/mocking. It seems that actually creating a table in Postgres will be best and then tearing it down after doing the tests. The use JUnit to run the tests. But there are so so many options, I feel lost.
