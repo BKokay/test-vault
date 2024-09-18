@@ -143,7 +143,7 @@
     "2-areas/Life Management/Meal Plans/Meal Plan.md": "e5ea506dc8478c7b043166995e14c35632cb69b0515fc412efefe0e9486fcda5",
     "2-areas/Life Management/Meal Plans/Meal Plan 1.md": "d8157ad03a1274e1581513eeda80cd9233d6961292b6a8a20980a17180952193",
     "2-areas/fullstack-dev/Java/IOExceptions.md": "5eedd648159117c5172882a5dd01eeaefb6000a2aa7cea7e894f68831df371ec",
-    "2-areas/fullstack-dev/Java/java stream().md": "0b8448353f511fde18fe1b9aaa01d4b5648011ec41d6fa233ea0ffb194380406",
+    "2-areas/fullstack-dev/Java/java stream().md": "9d01bb032b634c5a68370f51fb999607f5465ca5c00a8803895318ceef7c11fa",
     "4-archive/WGU/Preplanning/Course List.md": "18325ed4ecbc441057e9e79dc6b40b55fa78ca7a70d981a0e855eaf2ea2c2b0d",
     "4-archive/WGU/Preplanning/PreStudy.md": "ce76595e8c60dae3aecbdffb6d776ceb6fdfa077957aac4a3ab41a55b605a4ff",
     "4-archive/WGU/Preplanning/Timeline & Cost.md": "dd73f03357be51c44272e045360f53565c8e5d372d8887c92a0b2455503ccd14",
@@ -155,6 +155,10 @@
     "2-areas/fullstack-dev/Java/Type Casting.md": "ac1c3ae15043dca7276f6939fb0110743e7bde275d67a63ab5158e20ae8cc0e5",
     "2-areas/fullstack-dev/Java/SonarQube.md": "b782be77ea0fcdf837afe164e747c632c261f2cc00b4526fabce0762148a3e83",
     "1-projects/Prompting Claude, concepts.md": "09895e730a258b62a586804c5ac6ac9cf7268f701b18f61d949e3df4c5e338d4",
-    "1-projects/Prompting Claude, code.md": "764688cde4466a03ce0ee14c53bdefc0bedeeff116514c1e39741358e867928f"
+    "1-projects/Prompting Claude, code.md": "764688cde4466a03ce0ee14c53bdefc0bedeeff116514c1e39741358e867928f",
+    "0-inbox/pipeline operations.md": "b8c0ffff1fd58d9b1522bca629c1f56368ea9810fd2da889d1a2551edf9106c6",
+    "0-inbox/lazy evaluation.md": "4d81073d00019abf0c14bcc505f839e5052d2fb951985563c19c3e5c32b7e061",
+    "0-inbox/parallel execution.md": "41a4673c00daf8b26813fdc4670d69ef95891ec2b3787534c538a9c05aa9ab7f",
+    "0-inbox/Intermediate operations.md": "8bf98ec27317251c37b81c95ac4872dd361a6dab6ff8a691c4d9fa05a1dabd1c"
   }
 }
