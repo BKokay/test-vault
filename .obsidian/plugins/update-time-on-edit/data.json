@@ -96,7 +96,7 @@
     "1-projects/WGU/Preplanning/WGU.md": "5a3eab997f7c009f984c47f92881a20183715cd110f86b8e1657455485347d69",
     "1-projects/WGU/Preplanning/Timeline & Cost.md": "dd73f03357be51c44272e045360f53565c8e5d372d8887c92a0b2455503ccd14",
     "1-projects/fuel-saver-app/Fuel saver user stories.md": "ac30e144f7d4d6a499f70d3b397609b044eb012093da5ceabc24356e7dea447f",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "1b40328d447c8c7828d2aa09cba8a7d34808919979e83eb864b31aea19274473",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "2ab009d299fc1620c743c87c88ffd00ba9a0765b8c3f999822a06fe18ec0938f",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md": "bc8fa4a4ebedca78c1f8dc592393d1c811bc4ecadf066261d2fffe47e9a00b1b",
     "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005",
     "timestamps/2024/08-August/2024-08-19-Monday.md": "b0e7f5cf1666f94f9e10fe5a57ace119071d25d77b644cedb3633e28158a6467",
@@ -150,6 +150,7 @@
     "2-areas/fullstack-dev/Linux/linux distributions.md": "5b75e453ab3f71d910e2d213651af8efe2aa8aad4333635874cd85ca4488ced1",
     "2-areas/fullstack-dev/Java/mocking and testing.md": "2fdbfc396f990bd0616e82be6577360726e1c374c06c7744514942853260c940",
     "0-inbox/Type Casting.md": "ac1c3ae15043dca7276f6939fb0110743e7bde275d67a63ab5158e20ae8cc0e5",
-    "0-inbox/SonarQube.md": "522d388da403a6155171c698ce316a9c2ae634782cd894f5fa94c6122aa9381d"
+    "0-inbox/SonarQube.md": "b782be77ea0fcdf837afe164e747c632c261f2cc00b4526fabce0762148a3e83",
+    "0-inbox/rest controller.md": "30383b384a057b9d7b96865b1c719b85553449a9c8b5be43dc1b40ff27b8769a"
   }
 }
