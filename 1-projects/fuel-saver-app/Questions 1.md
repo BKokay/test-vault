@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-09-18T14:06
+updated: 2024-09-18T14:59
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -48,6 +48,7 @@ String carAsString = objectMapper.writeValueAsString(car);
 - [x] connect to SonarQube - java linter, bug finder, tests
 	- [ ] code analysis run 
 - [ ] SpringBoot 
+	- [ ] https://spring.io/guides/gs/spring-boot#scratch
 	- [ ] build controller with one endpoint
 	- [ ] add annotations
 	- [ ] SpringDoc will create yml
