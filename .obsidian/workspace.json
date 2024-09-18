@@ -8,175 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23ef23968fa99ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Jackson.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ed9d1b7565ba897b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "85aa7b4ce6813e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Questions 1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "882ba91ccf4683d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Questions 1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "06f701fb6e4acefd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1db0e2465b158063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/rest controller.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f408c5f1723ecb8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/java stream().md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "49728feb5bf91ab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Prompting Claude, code.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b224fc916cacd88c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Prompting Claude, concepts.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4f94b054c84126d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Meal Plan 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "17a858090d574c98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Type Casting.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "06ffa45b1e1a46b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/database/UUIDs.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "317dee4da3277e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "21c23c413a9e42be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/jUnit.md",
+                "file": "1-projects/Prompting Claude, concepts.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Prompting Claude, concepts.md",
+                "file": "1-projects/Prompting Claude, concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Prompting Claude, concepts.md",
+                "file": "1-projects/Prompting Claude, concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Prompting Claude, concepts.md"
+                "file": "1-projects/Prompting Claude, concepts.md"
               }
             }
           },
@@ -314,48 +157,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b224fc916cacd88c",
+  "active": "f408c5f1723ecb8f",
   "lastOpenFiles": [
-    "0-inbox/Prompting Claude, code.md",
-    "0-inbox/Prompting Claude, concepts.md",
-    "0-inbox/java stream().md",
-    "0-inbox/Meal Plan 1.md",
+    "1-projects/Prompting Claude, code.md",
+    "0-inbox/rest controller.md",
+    "2-areas/fullstack-dev/Java/jUnit.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+    "2-areas/fullstack-dev/database/UUIDs.md",
+    "2-areas/fullstack-dev/Java/Type Casting.md",
+    "2-areas/Life Management/Meal Plans/Meal Plan 1.md",
+    "1-projects/Prompting Claude, concepts.md",
+    "2-areas/fullstack-dev/Java/java stream().md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "1-projects/fuel-saver-app/Questions 1.md",
+    "0-inbox/Questions 2.md",
+    "2-areas/fullstack-dev/Java/Jackson.md",
+    "2-areas/fullstack-dev/Java/DAO.md",
+    "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Java/stream java method.md",
-    "0-inbox/rest controller.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
     "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Java/Design Patterns/Classes needed for design.md",
-    "0-inbox/SonarQube.md",
+    "2-areas/fullstack-dev/Java/SonarQube.md",
     "2-areas/fullstack-dev/Java/Exceptions.md",
-    "1-projects/fuel-saver-app/Questions 1.md",
     "0-inbox/TODO.md",
-    "2-areas/fullstack-dev/database/UUIDs.md",
-    "0-inbox/Type Casting.md",
     "2-areas/fullstack-dev/Java/mocking and testing.md",
     "2-areas/fullstack-dev/Linux/linux distributions.md",
     "2-areas/fullstack-dev/Linux/Linux.md",
     "2-areas/fullstack-dev/Linux/distribution family.md",
-    "0-inbox/IOExceptions.md",
+    "2-areas/fullstack-dev/Java/IOExceptions.md",
     "2-areas/fullstack-dev/Java/DTO.md",
-    "2-areas/fullstack-dev/Linux/Embedded Systems.md",
     "2-areas/fullstack-dev/Linux",
-    "2-areas/fullstack-dev/Java/jUnit.md",
-    "0-inbox/Questions 2.md",
-    "2-areas/fullstack-dev/database/On delete cascade.md",
-    "2-areas/fullstack-dev/Java/Jackson.md",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
-    "1-projects/WGU/Preplanning",
-    "1-projects/WGU",
+    "4-archive/WGU/Preplanning",
+    "4-archive/WGU",
     "3-resources/images/BSCS.2024.pdf",
     "3-resources/images/Pasted image 20240813133542.png",
     "Untitled.canvas",
     "1-projects/To Understand",
     "2-areas/Life Management",
     "3-resources/Personal",
-    "2-areas/fullstack-dev/Java/Design Patterns",
     "3-resources/images/IMG_4546.jpeg",
     "3-resources/images/UML Diagrams (Community).png",
     "3-resources/images/Pasted image 20240724125235.png"
