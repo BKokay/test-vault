@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "f408c5f1723ecb8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/java stream().md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4f94b054c84126d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Meal Plan 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "17a858090d574c98",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "controller",
+                "query": "stream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/rest controller.md",
+                "file": "0-inbox/java stream().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/rest controller.md",
+                "file": "0-inbox/java stream().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/rest controller.md"
+                "file": "0-inbox/java stream().md"
               }
             }
           },
@@ -266,11 +290,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1db0e2465b158063",
+  "active": "f408c5f1723ecb8f",
   "lastOpenFiles": [
-    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "0-inbox/Meal Plan 1.md",
+    "0-inbox/java stream().md",
+    "3-resources/images/Pasted image 20240918100802.png",
+    "2-areas/fullstack-dev/Java/stream java method.md",
     "0-inbox/rest controller.md",
-    "0-inbox/Untitled.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
     "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Java/Design Patterns/Classes needed for design.md",
     "0-inbox/SonarQube.md",
@@ -293,8 +320,6 @@
     "2-areas/fullstack-dev/Java/Jackson.md",
     "2-areas/fullstack-dev/Java/Eclipse IDE.md",
     "2-areas/fullstack-dev/Java/Eclipse Shortcuts for code editing.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/User DAO implementation class.md",
-    "conflict-files-obsidian-git.md",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
