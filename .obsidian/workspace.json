@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "fb978a713c734841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/MVC.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "c0f175dcccd79f63",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jpa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/Questions 1.md",
+                "file": "0-inbox/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Questions 1.md",
+                "file": "0-inbox/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/Questions 1.md"
+                "file": "0-inbox/MVC.md"
               }
             }
           },
@@ -206,8 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "991c0eb3500cf074",
+  "active": "fb978a713c734841",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-app/Questions 1.md",
+    "0-inbox/MVC.md",
     "0-inbox/rest controller.md",
     "2-areas/fullstack-dev/Java/pipeline operations.md",
     "2-areas/fullstack-dev/Java/parallel execution.md",
@@ -215,7 +229,6 @@
     "2-areas/fullstack-dev/Java/lazy evaluation.md",
     "2-areas/fullstack-dev/Java/Intermediate operations.md",
     "2-areas/fullstack-dev/Java/Enhanced for loop.md",
-    "1-projects/fuel-saver-app/Questions 1.md",
     "0-inbox/To build.md",
     "0-inbox/Questions 2.md",
     "0-inbox/TODO.md",
@@ -235,7 +248,6 @@
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/Classes needed for design.md",
     "2-areas/fullstack-dev/Linux",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
