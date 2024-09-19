@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/parallel execution.md",
+                "file": "2-areas/fullstack-dev/Java/parallel execution.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/lazy evaluation.md",
+                "file": "2-areas/fullstack-dev/Java/lazy evaluation.md",
                 "mode": "source",
                 "source": true
               }
@@ -208,22 +208,23 @@
   },
   "active": "991c0eb3500cf074",
   "lastOpenFiles": [
-    "0-inbox/To build.md",
+    "0-inbox/rest controller.md",
+    "2-areas/fullstack-dev/Java/pipeline operations.md",
+    "2-areas/fullstack-dev/Java/parallel execution.md",
+    "2-areas/fullstack-dev/Java/ORM.md",
+    "2-areas/fullstack-dev/Java/lazy evaluation.md",
+    "2-areas/fullstack-dev/Java/Intermediate operations.md",
+    "2-areas/fullstack-dev/Java/Enhanced for loop.md",
     "1-projects/fuel-saver-app/Questions 1.md",
+    "0-inbox/To build.md",
     "0-inbox/Questions 2.md",
     "0-inbox/TODO.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "2-areas/fullstack-dev/Java/entity classes.md",
-    "0-inbox/ORM.md",
     "2-areas/fullstack-dev/Java/java stream().md",
     "2-areas/fullstack-dev/Java/stream java method.md",
-    "0-inbox/Intermediate operations.md",
-    "0-inbox/parallel execution.md",
-    "0-inbox/lazy evaluation.md",
-    "0-inbox/pipeline operations.md",
     "1-projects/Prompting Claude, concepts.md",
     "1-projects/Prompting Claude, code.md",
-    "0-inbox/rest controller.md",
     "2-areas/fullstack-dev/Java/jUnit.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "2-areas/fullstack-dev/database/UUIDs.md",
@@ -235,7 +236,6 @@
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Java/Design Patterns/Classes needed for design.md",
-    "2-areas/fullstack-dev/Java/SonarQube.md",
     "2-areas/fullstack-dev/Linux",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
