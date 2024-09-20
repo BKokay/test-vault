@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "c0f175dcccd79f63",
+            "id": "163b44853904920a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/To build.md",
+                "file": "0-inbox/ResponseEntity.md",
                 "mode": "source",
                 "source": true
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/To build.md",
+                "file": "0-inbox/ResponseEntity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/To build.md",
+                "file": "0-inbox/ResponseEntity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/To build.md"
+                "file": "0-inbox/ResponseEntity.md"
               }
             }
           },
@@ -218,8 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb978a713c734841",
+  "active": "163b44853904920a",
   "lastOpenFiles": [
+    "0-inbox/To build.md",
+    "0-inbox/ResponseEntity.md",
     "0-inbox/MVC.md",
     "1-projects/fuel-saver-app/Questions 1.md",
     "0-inbox/rest controller.md",
@@ -229,7 +231,6 @@
     "2-areas/fullstack-dev/Java/lazy evaluation.md",
     "2-areas/fullstack-dev/Java/Intermediate operations.md",
     "2-areas/fullstack-dev/Java/Enhanced for loop.md",
-    "0-inbox/To build.md",
     "0-inbox/Questions 2.md",
     "0-inbox/TODO.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
@@ -247,7 +248,6 @@
     "2-areas/fullstack-dev/Java/DAO.md",
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
-    "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Linux",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
