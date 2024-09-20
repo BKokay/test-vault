@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:37
-updated: 2024-09-18T14:59
+updated: 2024-09-20T11:36
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -51,6 +51,7 @@ String carAsString = objectMapper.writeValueAsString(car);
 	- [ ] https://spring.io/guides/gs/spring-boot#scratch
 	- [ ] build controller with one endpoint
 	- [ ] add annotations
+		- [ ] add annotations to both dao and service as well 
 	- [ ] SpringDoc will create yml
 	- [ ] The to SwaggerUI
 - [ ] PostGIS (all locations along route)
