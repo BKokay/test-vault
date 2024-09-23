@@ -1,6 +1,6 @@
 ---
 created: 2024-09-05T11:03
-updated: 2024-09-05T11:43
+updated: 2024-09-23T11:57
 ---
 In [[java]], you can tell the complier to treat a generic as a specific type. If the value cannot be cast, a `ClassCastExcetption` [[Exceptions]] will be thrown. 
 ```java 

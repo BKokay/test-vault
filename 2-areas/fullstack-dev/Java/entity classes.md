@@ -1,6 +1,6 @@
 ---
 created: 2024-08-02T09:52
-updated: 2024-09-18T14:05
+updated: 2024-09-23T11:57
 ---
 An entity class represents a table in a relational database and each instance of an entity class corresponds to a row in that table. 
 

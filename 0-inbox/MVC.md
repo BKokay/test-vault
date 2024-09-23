@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19T11:09
-updated: 2024-09-19T11:17
+updated: 2024-09-23T11:57
 ---
 What is an MVC? It stands for *Model-View-Controller*, a design pattern used in software development to separate concerns within an application, particularly for building use interfaces, web applications, and APIs. 
 

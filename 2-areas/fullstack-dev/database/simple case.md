@@ -1,6 +1,6 @@
 ---
 created: 2024-07-25T08:09
-updated: 2024-09-03T11:11
+updated: 2024-09-23T11:57
 ---
 2024-07-24 10:11
 	First evaluates the expression and compares the result with each value( `value1, value2, ...`) in the `WHEN` clauses sequentially until it finds the match. 
