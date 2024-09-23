@@ -1,3 +1,7 @@
+---
+created: 2024-07-24T22:28
+updated: 2024-09-23T11:53
+---
 2024-07-24 10:42
 
 [[ON]] is used to specify the condition for joining tables. It is typically used in [[JOIN]] operations to determine how rows from two or more tables should be combined based on related columns. 

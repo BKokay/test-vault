@@ -1,3 +1,7 @@
+---
+created: 2024-07-24T22:28
+updated: 2024-09-23T11:53
+---
 2024-07-24 10:34
 
 [[JOIN]] is the basic `INNER JOIN` which takes data from two different tables and congregates it into one joined table. It returns only the rows where there is a match in both tables based on a specified condition. 

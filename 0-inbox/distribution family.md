@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T21:57
-updated: 2024-08-30T18:35
+updated: 2024-09-23T11:53
 ---
 There are many distributions families. The most popular are [[Debian]] [[Red Hat]] 
 

@@ -26,21 +26,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7da982a91c2289ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Jackson.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/Jackson.md",
+            "file": "1-projects/WGU/Preplanning/WGU.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/Jackson.md",
+            "file": "1-projects/WGU/Preplanning/WGU.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-inbox/Jackson.md"
+            "file": "1-projects/WGU/Preplanning/WGU.md"
           }
         }
       },
@@ -162,8 +150,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7da982a91c2289ec",
+  "active": "b1070af0be8cd120",
   "lastOpenFiles": [
+    "0-inbox/Jackson.md",
+    "1-projects/fuel-saver-app/Notes from Georg cont.md",
+    "2-areas/Personal Growth/Thoughts on having a second child.md",
+    "0-inbox/TODO.md",
+    "2-areas/fullstack-dev/Java/flush().md",
+    "2-areas/fullstack-dev/Java/LinkedHashMap.md",
+    "2-areas/Life Management/Meal Plan.md",
+    "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
+    "2-areas/Professional Growth/strengths and weaknesses.md",
+    "0-inbox/linux distributions.md",
+    "2-areas/Life Management/Passwords.md",
+    "2-areas/fullstack-dev/Java/Serialization.md",
+    "0-inbox/Embedded Systems.md",
+    "2-areas/fullstack-dev/Java/Jackson.md",
+    "2-areas/fullstack-dev/Java/executeUpdate vs executeQuery.md",
+    "0-inbox/distribution family.md",
+    "1-projects/fuel-saver-app/Methods for use cases final.md",
+    "0-inbox/Linux.md",
+    "1-projects/fuel-saver-app/Methods for use cases draft.md",
     "0-inbox/IOExceptions.md",
     "0-inbox/executeUpdate vs executeQuery.md",
     "0-inbox/Exceptions.md",
@@ -171,30 +178,11 @@
     "0-inbox/Thoughts on having a second child.md",
     "1-projects/WGU/Preplanning/WGU.md",
     "1-projects/WGU/Preplanning/Sophia.md",
-    "1-projects/WGU/Preplanning/Study.com.md",
-    "1-projects/WGU/Preplanning/PreStudy.md",
-    "1-projects/WGU/Preplanning/Timeline & Cost.md",
-    "0-inbox/Meal Plan.md",
-    "3-resources/Personal/Refridgerator.md",
     "0-inbox",
-    "0-inbox/poetic attunement?.md",
-    "2-areas/Personal Growth/Aletheia.md",
-    "0-inbox/poetic attunement.md",
-    "0-inbox/Things to do in Bonn.md",
-    "0-inbox/Aletheia.md",
-    "2-areas/fullstack-dev/database/enum type.md",
-    "0-inbox/Java Generics.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
-    "2-areas/Personal Growth/My heart.md",
     "2-areas/Personal Growth",
-    "timestamps/2024/07-July/2024-07-26-Friday.md",
-    "timestamps/2024/07-July/2024-07-25-Thursday.md",
     "timestamps/2024/07-July",
     "timestamps/2024",
     "timestamps",
-    "templates/Template, Daily Note.md",
-    "0-inbox/JDBC.md",
-    "2-areas/fullstack-dev/Java/char.md",
     "2-areas/fullstack-dev/Java",
     "2-areas/fullstack-dev/database",
     "UML Diagrams (Community).png",

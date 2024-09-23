@@ -1,3 +1,7 @@
+---
+created: 2024-07-24T22:28
+updated: 2024-09-23T11:53
+---
 2024-07-24 09:40
 
  [[sql expressions]] are combinations of one or more values, operators, and SQL functions that evaluate to a value. They are used to compute values, manipulate data, and perform operations within SQL queries. 

@@ -1,3 +1,7 @@
+---
+created: 2024-07-24T22:28
+updated: 2024-09-23T11:53
+---
 2024-07-24 10:32
 
 Perform calculations on a set of values to return a single value using functions like `SUM()`, `COUNT()`, `AVG()`, `MIN()`, and `MAX()`.

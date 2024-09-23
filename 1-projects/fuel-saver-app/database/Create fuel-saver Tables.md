@@ -1,3 +1,7 @@
+---
+created: 2024-07-24T14:16
+updated: 2024-09-23T11:53
+---
 2024-07-24 12:56
 
 [[create tables]] [[sql]] #database [[fuel-saver ER model]] [[enum type]]
