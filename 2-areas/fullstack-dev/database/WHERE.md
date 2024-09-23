@@ -1,6 +1,6 @@
 ---
-created: 2024-07-24T22:28
-updated: 2024-09-23T11:53
+created: 2024-07-25T08:09
+updated: 2024-09-03T11:11
 ---
 2024-07-24 10:52
 [[WHERE]] clause is used to filter records that meet specific conditions. The criteria must be met in order to the rows to be included in the result set. 

@@ -4,55 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "a57767effc244fe9",
+        "id": "131fa394d9b3ef40",
         "type": "tabs",
-        "dimension": 45.633187772925766,
         "children": [
           {
-            "id": "2a71ece80bc9d3c5",
+            "id": "f408c5f1723ecb8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg cont.md",
+                "file": "2-areas/fullstack-dev/Java/java stream().md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "991c0eb3500cf074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Questions 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fb978a713c734841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/To build.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "adbdb5e8a86d4875",
+            "id": "163b44853904920a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Embedded Systems.md",
+                "file": "0-inbox/TODO.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4caab03df940b228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Habits to build.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "72889ba42e51232a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/fullstack-dev/Java/parallel execution.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4519b9c568baed86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/fullstack-dev/Java/lazy evaluation.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "131fa394d9b3ef40",
-        "type": "tabs",
-        "dimension": 54.366812227074234,
-        "children": [
-          {
-            "id": "23ef23968fa99ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Jackson.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Embedded Systems.md",
+                "file": "0-inbox/Habits to build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Embedded Systems.md",
+                "file": "0-inbox/Habits to build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Embedded Systems.md"
+                "file": "0-inbox/Habits to build.md"
               }
             }
           },
@@ -190,48 +230,49 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "adbdb5e8a86d4875",
+  "active": "4caab03df940b228",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "2-areas/fullstack-dev/Java/flush().md",
-    "2-areas/Professional Growth/strengths and weaknesses.md",
-    "0-inbox/Embedded Systems.md",
     "0-inbox/TODO.md",
-    "1-projects/fuel-saver-app/Notes from Georg cont.md",
-    "0-inbox/Linux.md",
-    "0-inbox/linux distributions.md",
-    "0-inbox/distribution family.md",
-    "2-areas/fullstack-dev/database/general case.md",
-    "2-areas/fullstack-dev/Java/Jackson.md",
-    "2-areas/fullstack-dev/Java/servlet.md",
+    "0-inbox/Habits to build.md",
+    "1-projects/fuel-saver-app/Questions 1.md",
+    "0-inbox/To build.md",
+    "0-inbox/ResponseEntity.md",
+    "0-inbox/MVC.md",
+    "0-inbox/rest controller.md",
+    "2-areas/fullstack-dev/Java/pipeline operations.md",
+    "2-areas/fullstack-dev/Java/parallel execution.md",
+    "2-areas/fullstack-dev/Java/ORM.md",
+    "2-areas/fullstack-dev/Java/lazy evaluation.md",
+    "2-areas/fullstack-dev/Java/Intermediate operations.md",
+    "2-areas/fullstack-dev/Java/Enhanced for loop.md",
+    "0-inbox/Questions 2.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
-    "0-inbox/DTO.md",
-    "0-inbox/Exceptions.md",
-    "0-inbox/IOExceptions.md",
-    "2-areas/fullstack-dev/Java/Serialization.md",
-    "1-projects/fuel-saver-app/Methods for use cases draft.md",
-    "2-areas/fullstack-dev/Java/LinkedHashMap.md",
-    "2-areas/fullstack-dev/Java/flow of DAO and DTO.md",
-    "2-areas/fullstack-dev/Java/executeUpdate vs executeQuery.md",
-    "1-projects/WGU/Preplanning/Timeline & Cost.md",
-    "1-projects/fuel-saver-app/Methods for use cases final.md",
-    "2-areas/Personal Growth/Thoughts on having a second child.md",
-    "0-inbox/Todo.md",
-    "0-inbox/Untitled 1.md",
+    "2-areas/fullstack-dev/Java/entity classes.md",
+    "2-areas/fullstack-dev/Java/java stream().md",
+    "2-areas/fullstack-dev/Java/stream java method.md",
+    "1-projects/Prompting Claude, concepts.md",
+    "1-projects/Prompting Claude, code.md",
+    "2-areas/fullstack-dev/Java/jUnit.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
+    "2-areas/fullstack-dev/database/UUIDs.md",
+    "2-areas/fullstack-dev/Java/Type Casting.md",
+    "2-areas/Life Management/Meal Plans/Meal Plan 1.md",
+    "2-areas/fullstack-dev/Java/Jackson.md",
+    "2-areas/Life Management/Meal Plans",
+    "3-resources/images/Pasted image 20240918100802.png",
+    "2-areas/fullstack-dev/Linux",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
-    "1-projects/WGU/Preplanning",
-    "1-projects/WGU",
+    "4-archive/WGU/Preplanning",
+    "4-archive/WGU",
     "3-resources/images/BSCS.2024.pdf",
     "3-resources/images/Pasted image 20240813133542.png",
     "Untitled.canvas",
     "1-projects/To Understand",
     "2-areas/Life Management",
     "3-resources/Personal",
-    "2-areas/fullstack-dev/Java/Design Patterns",
     "3-resources/images/IMG_4546.jpeg",
-    "timestamps/2024/08-August",
     "3-resources/images/UML Diagrams (Community).png",
     "3-resources/images/Pasted image 20240724125235.png"
   ]

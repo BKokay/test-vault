@@ -1,6 +1,6 @@
 ---
-created: 2024-07-24T22:28
-updated: 2024-09-23T11:53
+created: 2024-07-25T08:09
+updated: 2024-09-03T11:10
 ---
 2024-07-24 09:14
 [[FROM]] clause is uses to specify the table or tables you want to retrieve data from. It is fundamental to the [[SELECT]] statement. Can be used to kind of join data from one table, or only query certain columns. 

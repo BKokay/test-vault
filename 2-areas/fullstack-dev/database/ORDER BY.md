@@ -1,6 +1,6 @@
 ---
-created: 2024-07-24T22:28
-updated: 2024-09-23T11:53
+created: 2024-07-25T08:09
+updated: 2024-09-03T11:11
 ---
 2024-07-24 08:39
 [[ORDER BY]] is how you want a column to be ordered. options are ascending or descending 

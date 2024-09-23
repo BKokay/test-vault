@@ -1,18 +1,33 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-23T11:53
+updated: 2024-09-18T14:06
 ---
-- [ ] add the get extra method to doGet
-- [ ] Finish making DriverServlet. 
-- [ ] Test locally
-- [ ] add db class to mock
-- [ ] Test
 
-When setting up the doGet method in DriverServlet, I realized that the service.getSavings() method isn't right. I should change that to be getYearlySavings and getMonthlySavings 
-I could make the parameter month & year, just like in getYearlySpending/getMonthlySpending. Therefore there would be less room for user error. 
+[[Notes from Georg]] [[Questions 1]]
 
-Then I could change the method to be getDriverFinancials(int id, enum Financials, int year, Optional<int> month) only have one DriverFinancialsDTO  
-It would look something like the example in this link: https://favtutor.com/blogs/java-optional-parameters 
+- [x] add the get extra method to doGet
+- [x] Finish making DriverServlet.
+- [x] Make device and fuelstop servlet to use in testing
+- [x] Test locally
+- [x] add db class to mock
+- [x] populate test db with data
+- [x] Convert to UUIDs
+- [x] Test
+	- [ ] fuelstopgetmethod test, add in other details to assertEquals
+	- [ ] Gas Station tests 
+- [x] think about reducing duplicate code
+- [ ] Ask about update methods when there are foreign keys 
+
+Where am I? Trying to learn about database testing/mocking. It seems that actually creating a table in Postgres will be best and then tearing it down after doing the tests. The use JUnit to run the tests. But there are so so many options, I feel lost.
+
+To make sure that @beforeall and @afterall gets called, I should extend the db method with each test. Is that the best way? And, also, Springboot will include all of the testing stuff I need. Should I just include it now? No, I think its best to keep doing it in steps so I can see what is happening. Should each test have their own class, or should I make one test for each method?
+
+~~When setting up the doGet method in DriverServlet, I realized that the service.getSavings() method isn't right. I should change that to be getYearlySavings and getMonthlySavings~~
+~~I could make the parameter month & year, just like in getYearlySpending/getMonthlySpending. Therefore there would be less room for user error.~~
+
+~~Then I could change the method to be getDriverFinancials(int id, enum Financials, int year, Optional<int> month) only have one DriverFinancialsDTO~~  
+~~It would look something like the example in this link: https://favtutor.com/blogs/java-optional-parameters~~
+
 ```java
 // importing optional class
 import java.util.Optional;

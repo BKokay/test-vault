@@ -1,6 +1,10 @@
 ---
 created: 2024-08-23T10:37
+<<<<<<< HEAD:1-projects/fuel-saver-app/Notes from Georg cont.md
 updated: 2024-09-23T11:53
+=======
+updated: 2024-09-20T14:34
+>>>>>>> main:1-projects/fuel-saver-app/Questions 1.md
 ---
 ### Questions for George
 1. JSONObject or new Class()? 
@@ -33,26 +37,29 @@ String carAsString = objectMapper.writeValueAsString(car);
 [[flow of DAO and DTO]]
 - [x] finally finish adding the methods to the DaoImpls
 	- [x] Make sure all method have `throws IOException` in the catch block. 
-	- [ ] Update fuel_stop.fuel_type to capital letters
+	- [x] Update fuel_stop.fuel_type to capital letters
 	- [x] make sure return statements and types are there
 	- [x] Create [[DTO]] classes
 	- [x] Remove any methods that will be implemented using the get() method
 - [x] add service layer for each Dao
 	- [x] pass through status 
-- [ ] add servlet layer for each Dao //only for two classes or so
-	- [ ] return status codes? 
-- [ ] add database into repo with SQL to create the empty database and then another class to populate with test data. 
-	- [ ] not class just an sql file with the database creation queries 
-- [ ] unit tests - mock data for fake tables then test services
-	- [ ] connection test - will be able to see if database works basically
-- [ ] connect to SonarQube - java linter, bug finder, tests
+- [x] add servlet layer for each Dao //only for two classes or so
+	- [x] return status codes? 
+- [x] add database into repo with SQL to create the empty database and then another class to populate with test data. 
+	- [x] not class just an sql file with the database creation queries 
+- [x] unit tests - mock data for fake tables then test services
+	- [x] connection test - will be able to see if database works basically
+- [x] connect to SonarQube - java linter, bug finder, tests
 	- [ ] code analysis run 
 - [ ] SpringBoot 
+	- [ ] https://spring.io/guides/gs/spring-boot#scratch
 	- [ ] build controller with one endpoint
 	- [ ] add annotations
+		- [ ] add annotations to both dao and service as well 
 	- [ ] SpringDoc will create yml
 	- [ ] The to SwaggerUI
 - [ ] PostGIS (all locations along route)
+- [ ] Add better error/exception handling 
 
 #### Notes:
 * Use UUIDs when creating the 'real' database 
