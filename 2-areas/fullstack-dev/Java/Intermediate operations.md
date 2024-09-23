@@ -1,6 +1,6 @@
 ---
 created: 2024-09-18T13:28
-updated: 2024-09-23T12:04
+updated: 2024-09-23T13:08
 ---
 ### Important intermediate operations: 
 [[how to read java syntax with generics]]
