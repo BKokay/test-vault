@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "2f524c1940676334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "72889ba42e51232a",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Prompting Claude, code.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Prompting Claude, code.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Prompting Claude, code.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -230,12 +242,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4caab03df940b228",
+  "active": "2f524c1940676334",
   "lastOpenFiles": [
+    "1-projects/Prompting Claude, code.md",
+    "conflict-files-obsidian-git.md",
+    "0-inbox/Concept.md",
     "2-areas/fullstack-dev/database/UUIDs.md",
     "2-areas/fullstack-dev/Java/Type Casting.md",
     "1-projects/fuel-saver-app/Questions 1.md",
-    "1-projects/Prompting Claude, code.md",
     "1-projects/Prompting Claude, concepts.md",
     "0-inbox/Habits to build.md",
     "0-inbox/TODO.md",
@@ -256,8 +270,6 @@
     "2-areas/fullstack-dev/Java/stream java method.md",
     "2-areas/fullstack-dev/Java/jUnit.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-    "2-areas/Life Management/Meal Plans/Meal Plan 1.md",
-    "2-areas/fullstack-dev/Java/Jackson.md",
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Linux",
