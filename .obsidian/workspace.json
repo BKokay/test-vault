@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Habits to build.md",
+                "file": "1-projects/Prompting Claude, code.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "UUID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Habits to build.md",
+                "file": "1-projects/Prompting Claude, code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Habits to build.md",
+                "file": "1-projects/Prompting Claude, code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Habits to build.md"
+                "file": "1-projects/Prompting Claude, code.md"
               }
             }
           },
@@ -232,9 +232,13 @@
   },
   "active": "4caab03df940b228",
   "lastOpenFiles": [
-    "0-inbox/TODO.md",
-    "0-inbox/Habits to build.md",
+    "2-areas/fullstack-dev/database/UUIDs.md",
+    "2-areas/fullstack-dev/Java/Type Casting.md",
     "1-projects/fuel-saver-app/Questions 1.md",
+    "1-projects/Prompting Claude, code.md",
+    "1-projects/Prompting Claude, concepts.md",
+    "0-inbox/Habits to build.md",
+    "0-inbox/TODO.md",
     "0-inbox/To build.md",
     "0-inbox/ResponseEntity.md",
     "0-inbox/MVC.md",
@@ -250,12 +254,8 @@
     "2-areas/fullstack-dev/Java/entity classes.md",
     "2-areas/fullstack-dev/Java/java stream().md",
     "2-areas/fullstack-dev/Java/stream java method.md",
-    "1-projects/Prompting Claude, concepts.md",
-    "1-projects/Prompting Claude, code.md",
     "2-areas/fullstack-dev/Java/jUnit.md",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
-    "2-areas/fullstack-dev/database/UUIDs.md",
-    "2-areas/fullstack-dev/Java/Type Casting.md",
     "2-areas/Life Management/Meal Plans/Meal Plan 1.md",
     "2-areas/fullstack-dev/Java/Jackson.md",
     "2-areas/Life Management/Meal Plans",
