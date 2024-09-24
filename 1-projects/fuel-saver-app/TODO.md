@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T15:16
-updated: 2024-09-23T12:04
+updated: 2024-09-24T09:24
 ---
 
 [[Notes from Georg]] [[Questions 1]]

@@ -107,7 +107,6 @@
     "2-areas/Life Management/Passwords.md": "7165428ffc2015b40d45b861538a214d4b8ebe2e58025305ad518aca732db65b",
     "2-areas/Personal Growth/Thoughts on having a second child.md": "1d573ff532b3e57927c4a2d5ef92e2b2d70c4f2583edea470a8a79c2d87e769d",
     "2-areas/fullstack-dev/database/general case.md": "cc26160e6f26e0219539011241955ce833b8a277a040faf39d503f905a0672e4",
-    "0-inbox/TODO.md": "de98d397bb9a58b42ebcf5bf4673dbe374a754d37856ff365b2364bb3cfa03d1",
     "2-areas/Professional Growth/strengths and weaknesses.md": "5de68cd1c491ae6a4bf1d8bd1a05c1d1a861b01814fe21ef5653af3cc9f58fad",
     "2-areas/fullstack-dev/Java/flush().md": "53f4ae3c2e312bb3b852a8da7258d3d7e2a1864f5ac511772d09ffb13fc69b5c",
     "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md": "a307ab29a6db653c2ec95ffda2da4c4ec66f544105b97eb8aa1ba5bacff2997d",
@@ -167,6 +166,7 @@
     "0-inbox/Habits to build.md": "84ae762c1ce2b496cde5d771b89b5c32b2f9e664e526589fa809a6ab4d990954",
     "0-inbox/Concept.md": "66b3df07060ba7be607a21b0caa051be65609db0e54baa85ad1039f8da0429ac",
     "0-inbox/Java Generics.md": "d61c1e231e80551d31637e877653e90ffaeb552e0d44589190843985b80809d5",
-    "0-inbox/bounded generics.md": "27c01b8092c6e8e05678eeab0f89d5c17b183415b0acc85285bd6365cb03b960"
+    "0-inbox/bounded generics.md": "27c01b8092c6e8e05678eeab0f89d5c17b183415b0acc85285bd6365cb03b960",
+    "1-projects/fuel-saver-app/TODO.md": "aa8e3edbd66740edac977b08821e6135418961a4df7bb635d9e24b56aee2db7f"
   }
 }

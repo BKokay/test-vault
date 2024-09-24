@@ -50,12 +50,12 @@ String carAsString = objectMapper.writeValueAsString(car);
 - [x] unit tests - mock data for fake tables then test services
 	- [x] connection test - will be able to see if database works basically
 - [x] connect to SonarQube - java linter, bug finder, tests
-	- [ ] code analysis run 
+	- [x] code analysis run 
 - [ ] SpringBoot 
-	- [ ] https://spring.io/guides/gs/spring-boot#scratch
-	- [ ] build controller with one endpoint
-	- [ ] add annotations
-		- [ ] add annotations to both dao and service as well 
+	- [x] https://spring.io/guides/gs/spring-boot#scratch
+	- [x] build controller with one endpoint
+	- [x] add annotations
+		- [x] add annotations to both dao and service as well 
 	- [ ] SpringDoc will create yml
 	- [ ] The to SwaggerUI
 - [ ] PostGIS (all locations along route)
