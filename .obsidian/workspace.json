@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Questions Sept 24.md",
+                "file": "0-inbox/ResponseEntity.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "040467a5a3550c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/DAO Support in Spring Boot.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Questions Sept 24.md",
+                "file": "0-inbox/DAO Support in Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Questions Sept 24.md",
+                "file": "0-inbox/DAO Support in Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Questions Sept 24.md"
+                "file": "0-inbox/DAO Support in Spring Boot.md"
               }
             }
           },
@@ -182,34 +194,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c345577a0f784f6c",
+  "active": "040467a5a3550c19",
   "lastOpenFiles": [
-    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "0-inbox/ResponseEntity.md",
+    "0-inbox/DAO Support in Spring Boot.md",
+    "0-inbox/rest controller.md",
     "0-inbox/Questions Sept 24.md",
+    "1-projects/Hackathon/Hackathon Concept.md",
+    "1-projects/Hackathon",
+    "3-resources/Prompting Claude, code.md",
+    "2-areas/fullstack-dev/Java/MVC.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
     "1-projects/fuel-saver-app/Questions 1.md",
     "2-areas/fullstack-dev/Java/parallel execution.md",
     "2-areas/fullstack-dev/Java/Java Links.md",
-    "1-projects/Prompting Claude, code.md",
     "1-projects/fuel-saver-app/TODO.md",
-    "0-inbox/To build.md",
+    "2-areas/Professional Growth/To build.md",
     "2-areas/fullstack-dev/Java/java stream().md",
-    "0-inbox/Java Generics.md",
-    "0-inbox/bounded generics.md",
+    "2-areas/fullstack-dev/Java/Java Generics.md",
+    "2-areas/fullstack-dev/Java/bounded generics.md",
     "2-areas/fullstack-dev/Java/Intermediate operations.md",
     "conflict-files-obsidian-git.md",
-    "0-inbox/Concept.md",
     "2-areas/fullstack-dev/database/UUIDs.md",
     "2-areas/fullstack-dev/Java/Type Casting.md",
-    "1-projects/Prompting Claude, concepts.md",
-    "0-inbox/Habits to build.md",
-    "0-inbox/ResponseEntity.md",
-    "0-inbox/MVC.md",
-    "0-inbox/rest controller.md",
+    "3-resources/Prompting Claude, concepts.md",
+    "2-areas/Professional Growth/Habits to build.md",
     "2-areas/fullstack-dev/Java/pipeline operations.md",
     "2-areas/fullstack-dev/Java/ORM.md",
     "2-areas/fullstack-dev/Java/lazy evaluation.md",
     "2-areas/fullstack-dev/Java/Enhanced for loop.md",
-    "0-inbox/Questions 2.md",
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Linux",
@@ -223,7 +236,6 @@
     "Untitled.canvas",
     "1-projects/To Understand",
     "2-areas/Life Management",
-    "3-resources/Personal",
     "3-resources/images/IMG_4546.jpeg",
     "3-resources/images/UML Diagrams (Community).png",
     "3-resources/images/Pasted image 20240724125235.png"
