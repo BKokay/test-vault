@@ -1,6 +1,6 @@
 ---
 created: 2024-07-24T13:36
-updated: 2024-09-23T12:04
+updated: 2024-09-24T09:53
 ---
 
 2024-07-24 13:36
@@ -49,8 +49,8 @@ package globally available in the package.
 - [x] Read user input from the command line and use it for a driver (e.g. read name of a driver and print all stops of this driver)
 - [x] Create [[entity classes]] and "Data Access Objects" (DAOs) for each table (see [https://www.digitalocean.com/community/tutorials/dao-design-pattern)](https://www.digitalocean.com/community/tutorials/dao-design-pattern) "https://www.digitalocean.com/community/tutorials/dao-design-pattern)")
 - [x] Build a webapp with a servlet which reads the name as a HTTP GET parameter and returns a JSON containing the stops
-- [ ] Switch the application to the framework Spring Boot and replace the servlet by a Spring controller
-- [ ] Add all the endpoints to the controller(s)
+- [x] Switch the application to the framework Spring Boot and replace the servlet by a Spring controller
+- [x] Add all the endpoints to the controller(s)
 - [ ] Add SwaggerUI / for documentation and an interactive UI
 - [ ] Optional: Switch from JDBC to JPA?
 

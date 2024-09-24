@@ -88,7 +88,7 @@
     "2-areas/fullstack-dev/Java/Map Methods.md": "b29a7e897b09ecb2c5e374aa6ac562d9d24cf5bc0ed8dda47fb60f4ee5bb9864",
     "2-areas/fullstack-dev/Java/Java Map.Entry interface.md": "ad210e83870e3f9ac6d1b6e4b614eb6617294b2737743e40bf598b44b49ad2e9",
     "1-projects/fuel-saver-app/Fuel saver user stories.md": "7fc4a99cdee0fffa7b5749ba5795ca3dab3a4ed260f5a46456f592940698df69",
-    "1-projects/fuel-saver-app/Notes from Georg.md": "5c32aec6b9373ea269e30ac7ffa51861824a07d0655dfa450222dfdebc8fdfd8",
+    "1-projects/fuel-saver-app/Notes from Georg.md": "4af9a2d95ef246e5dcf2c0565412d11297de3f856ffd10b9075c00cacd3b1563",
     "2-areas/fullstack-dev/database/WHERE vs CASE.md": "bc8fa4a4ebedca78c1f8dc592393d1c811bc4ecadf066261d2fffe47e9a00b1b",
     "2-areas/fullstack-dev/database/Logical Expressions.md": "3674c54ae223149845990a2939594e2bc2c0efdef57e96ab2f4a0712b1f0d005",
     "timestamps/2024/08-August/2024-08-19-Monday.md": "b0e7f5cf1666f94f9e10fe5a57ace119071d25d77b644cedb3633e28158a6467",
@@ -153,8 +153,8 @@
     "2-areas/fullstack-dev/Java/Type Casting.md": "ac1c3ae15043dca7276f6939fb0110743e7bde275d67a63ab5158e20ae8cc0e5",
     "2-areas/fullstack-dev/Java/SonarQube.md": "b782be77ea0fcdf837afe164e747c632c261f2cc00b4526fabce0762148a3e83",
     "1-projects/Prompting Claude, concepts.md": "74ef2707b267bbd974d2406aed25137a26c749f880a8921b431a401405c484bc",
-    "1-projects/Prompting Claude, code.md": "e281d6b20a75cfe092dc485b24dbdc79a383735f86e352cd8b533633d55b888e",
-    "0-inbox/To build.md": "28affcb83f21bcf7cca6887a5bf40b0b12846e2db4f1a28dfe7fedb144d6ff94",
+    "1-projects/Prompting Claude, code.md": "3d752eb15f9c4f13860ca4106f0d25242060d9ab4a002476bed33921ec2c9397",
+    "0-inbox/To build.md": "f3ed419b7381e28ffc0ae2e6f55bb804e60e06347d4521ce9a3a086fd27bd38b",
     "2-areas/fullstack-dev/Java/Enhanced for loop.md": "9a563ba75ba10aeafb0833a3b9a8eefb98eebbce90252f291e43eb8d00cff0c9",
     "2-areas/fullstack-dev/Java/Intermediate operations.md": "53fc3ee7785ed478d83fb098f8ceaa8b022e2e1002f09e420675fdcec343d2a6",
     "2-areas/fullstack-dev/Java/lazy evaluation.md": "833f5a70a9897f805f039c79aa48a0d1db56dc4369ec270f607d1d499396553e",
@@ -167,6 +167,7 @@
     "0-inbox/Concept.md": "66b3df07060ba7be607a21b0caa051be65609db0e54baa85ad1039f8da0429ac",
     "0-inbox/Java Generics.md": "d61c1e231e80551d31637e877653e90ffaeb552e0d44589190843985b80809d5",
     "0-inbox/bounded generics.md": "27c01b8092c6e8e05678eeab0f89d5c17b183415b0acc85285bd6365cb03b960",
-    "1-projects/fuel-saver-app/TODO.md": "aa8e3edbd66740edac977b08821e6135418961a4df7bb635d9e24b56aee2db7f"
+    "1-projects/fuel-saver-app/TODO.md": "aa8e3edbd66740edac977b08821e6135418961a4df7bb635d9e24b56aee2db7f",
+    "0-inbox/Questions Sept 24.md": "a4b8fb912af207673b1a21566bcab8c642b6e4740afa866b7aa87b9b77dd49f5"
   }
 }
