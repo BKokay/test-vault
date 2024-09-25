@@ -1,6 +1,10 @@
 ---
 created: 2024-08-30T10:21
+<<<<<<< HEAD
 updated: 2024-09-04T08:49
+=======
+updated: 2024-09-23T11:57
+>>>>>>> 9bdce39565b602fd1e4387e0e8dddea923455ea8
 ---
 # What is flush()?
 This is used with `PrintWriter` if you are sending a large amount of data to the client. It ensures that the data is sent to the client immediately. In [[servlet]] the servlet container automatically flushes after the buffer at the end of the request handling the process. 

@@ -1,6 +1,10 @@
 ---
 created: 2024-08-19T11:26
+<<<<<<< HEAD
 updated: 2024-09-04T08:49
+=======
+updated: 2024-09-23T11:57
+>>>>>>> 9bdce39565b602fd1e4387e0e8dddea923455ea8
 ---
 A package to create JSON data in java
 

@@ -1,6 +1,10 @@
 ---
 created: 2024-07-24T13:36
+<<<<<<< HEAD
 updated: 2024-09-04T08:49
+=======
+updated: 2024-09-24T09:53
+>>>>>>> 9bdce39565b602fd1e4387e0e8dddea923455ea8
 ---
 
 2024-07-24 13:36
@@ -27,19 +31,19 @@ package globally available in the package.
 - [x] add device dao, entity, impl
 - [x] add cascading delete for any foreign keys
 - [x] extend with any methods to get complex SQL statements [[Methods for use cases draft]]
-  - [ ] check requirements doc
-  - [ ] write out method names
-  - [ ] write out logic
-  - [ ] check with Georg
+  - [x] check requirements doc
+  - [x] write out method names
+  - [x] write out logic
+  - [x] check with Georg
 - [x] add parameterized prepared statement
 - [x] add service classes
-  - [ ] fuelstop
-  - [ ] device
-  - [ ] gas station
-  - [ ] driver
+  - [x] fuelstop
+  - [x] device
+  - [x] gas station
+  - [x] driver
 - [x] Organize code into folders
-- [ ] add unit tests using JMock and JUnit
-- [ ] Create a webapp with a servlet
+- [x] add unit tests using JMock and JUnit
+- [x] Create a webapp with a servlet
 
 ### Project evolves in these steps
 
@@ -49,8 +53,8 @@ package globally available in the package.
 - [x] Read user input from the command line and use it for a driver (e.g. read name of a driver and print all stops of this driver)
 - [x] Create [[entity classes]] and "Data Access Objects" (DAOs) for each table (see [https://www.digitalocean.com/community/tutorials/dao-design-pattern)](https://www.digitalocean.com/community/tutorials/dao-design-pattern) "https://www.digitalocean.com/community/tutorials/dao-design-pattern)")
 - [x] Build a webapp with a servlet which reads the name as a HTTP GET parameter and returns a JSON containing the stops
-- [ ] Switch the application to the framework Spring Boot and replace the servlet by a Spring controller
-- [ ] Add all the endpoints to the controller(s)
+- [x] Switch the application to the framework Spring Boot and replace the servlet by a Spring controller
+- [x] Add all the endpoints to the controller(s)
 - [ ] Add SwaggerUI / for documentation and an interactive UI
 - [ ] Optional: Switch from JDBC to JPA?
 
@@ -58,11 +62,11 @@ package globally available in the package.
 
 - [x] Use connection pool for DB
 - [x] Logging [[log4j]]
-- [ ] Connect it to Sonarqube
-- [ ] Unit Tests
+- [x] Connect it to Sonarqube
+- [x] Unit Tests
 - [x] Deregister DB driver on shutdown / restart
 - [ ] Switch from lat / lon to PostGIS
-- [ ] Switch numeric IDs to UUIDs
+- [x] Switch numeric IDs to UUIDs
 
 Great! [[Classes needed for design | About the design]]: You should create one [[entity classes | class]] for every table (Driver, GasStation, FuelStop) and one [[DAO Design Pattern | DAO]] class each. And the main program with the main method in a separate class. And you can start to organize your classes in sub packages, e.g. "domain" for Driver etc., "database" for the database connector and the DAOs - how you organize them is a matter of taste ![🙂]
 
