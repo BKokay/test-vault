@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,8 +196,9 @@
   },
   "active": "040467a5a3550c19",
   "lastOpenFiles": [
-    "1-projects/fuel-saver-app/Questions 1.md",
+    "2-areas/fullstack-dev/database/UUIDs.md",
     "0-inbox/Questions Sept 24.md",
+    "1-projects/fuel-saver-app/Questions 1.md",
     "0-inbox/DAO Support in Spring Boot.md",
     "0-inbox/ResponseEntity.md",
     "0-inbox/rest controller.md",
@@ -215,7 +216,6 @@
     "2-areas/fullstack-dev/Java/bounded generics.md",
     "2-areas/fullstack-dev/Java/Intermediate operations.md",
     "conflict-files-obsidian-git.md",
-    "2-areas/fullstack-dev/database/UUIDs.md",
     "2-areas/fullstack-dev/Java/Type Casting.md",
     "3-resources/Prompting Claude, concepts.md",
     "2-areas/Professional Growth/Habits to build.md",

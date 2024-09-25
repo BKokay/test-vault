@@ -1,6 +1,6 @@
 ---
 created: 2024-09-05T09:13
-updated: 2024-09-23T12:04
+updated: 2024-09-24T14:22
 ---
 in [[posgresql]], you can generate UUIDs using the `uuid-ossp` extension. When creating your table, add 
 ```sql
