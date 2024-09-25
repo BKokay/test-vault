@@ -157,7 +157,6 @@
     "2-areas/fullstack-dev/Java/ORM.md": "22834289ba171ac987569b3f8c95940d634a89f33c0c9280025452098c02b1c1",
     "2-areas/fullstack-dev/Java/parallel execution.md": "41a4673c00daf8b26813fdc4670d69ef95891ec2b3787534c538a9c05aa9ab7f",
     "2-areas/fullstack-dev/Java/pipeline operations.md": "b8c0ffff1fd58d9b1522bca629c1f56368ea9810fd2da889d1a2551edf9106c6",
-    "0-inbox/ResponseEntity.md": "9543773f107955408114920ef208ea30df8a9a5038e784805b304b0f454388bb",
     "1-projects/fuel-saver-app/TODO.md": "aa8e3edbd66740edac977b08821e6135418961a4df7bb635d9e24b56aee2db7f",
     "0-inbox/Questions Sept 24.md": "b9b16989d790bf9eb10b93d3694bc8009c6e1154222ba58341ab33a55c395821",
     "3-resources/Prompting Claude, code.md": "3d752eb15f9c4f13860ca4106f0d25242060d9ab4a002476bed33921ec2c9397",
@@ -168,11 +167,15 @@
     "2-areas/fullstack-dev/Java/Java Generics.md": "d61c1e231e80551d31637e877653e90ffaeb552e0d44589190843985b80809d5",
     "2-areas/fullstack-dev/Java/bounded generics.md": "27c01b8092c6e8e05678eeab0f89d5c17b183415b0acc85285bd6365cb03b960",
     "2-areas/fullstack-dev/Java/MVC.md": "ad49eb907581cebcf693d96c250aafa3d5ab7e7080161c4179f7c1622910a297",
-    "0-inbox/DAO Support in Spring Boot.md": "95e23d581180fa6ee296e11a48b3421884ac25addab1cc613314af67d181789a",
     "0-inbox/Tracy Lee, CEO This Dot.md": "e469f9f33600d79cb2c8c43c0471097522bfb4a9789faaa7aa6717bbb1b3fffe",
-    "0-inbox/Query for schemas.md": "4581070d736fec0cafe85e580a323247f62018d9ec93239a6c520a14d3812f9d",
-    "0-inbox/Insert new test devices.md": "48cd71b2fc6c18d189f3bbe6601959bd33811ba365d91c1517180a4cf62b4063",
-    "0-inbox/Insert new test fuel stops.md": "e9a50252ba772c78879a08e6cce1b3c64b75875acefce2191fef9ae2d6969772",
-    "0-inbox/How to set up a string controller.md": "ce59f868eb449e66091ccab3c000c4d02620778ac34bf7ab234b00882dcdb0c0"
+    "2-areas/fullstack-dev/Java/Regression Testing.md": "402b5ca0638fd861933a72055e2ada621c964cf5c400167c9abc88454e84a628",
+    "2-areas/fullstack-dev/Java/DAO Support in Spring Boot.md": "95e23d581180fa6ee296e11a48b3421884ac25addab1cc613314af67d181789a",
+    "2-areas/fullstack-dev/Java/How to set up a string controller.md": "ce59f868eb449e66091ccab3c000c4d02620778ac34bf7ab234b00882dcdb0c0",
+    "1-projects/fuel-saver-app/database/Insert new test devices.md": "48cd71b2fc6c18d189f3bbe6601959bd33811ba365d91c1517180a4cf62b4063",
+    "1-projects/fuel-saver-app/database/Insert new test fuel stops.md": "e9a50252ba772c78879a08e6cce1b3c64b75875acefce2191fef9ae2d6969772",
+    "2-areas/fullstack-dev/database/Query for schemas.md": "4581070d736fec0cafe85e580a323247f62018d9ec93239a6c520a14d3812f9d",
+    "2-areas/fullstack-dev/Java/ResponseEntity.md": "9543773f107955408114920ef208ea30df8a9a5038e784805b304b0f454388bb",
+    "2-areas/fullstack-dev/Java/Unit Testing.md": "ba0e744df2e309d044bf3c30716efbcf67d17bd48c68f7bf3ecfc7a4c5d1562c",
+    "2-areas/fullstack-dev/Java/Integration Testing.md": "8764820a0ceebc2f20500f2bf89f8a0d9c9a872d15dc7d82a314648fa3db3d46"
   }
 }

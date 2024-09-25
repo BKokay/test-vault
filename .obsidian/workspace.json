@@ -8,97 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52ee53225db2083c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Questions 1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c345577a0f784f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/ResponseEntity.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "040467a5a3550c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Questions Sept 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cfc72904827ed152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Tracy Lee, CEO This Dot.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6917f85cee9c97f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Query for schemas.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "426d6852ce86761a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Insert new test devices.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ed3a200069f53056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Insert new test fuel stops.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f4216de4cfdb9807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Questions Sept 24.md",
-                "mode": "preview",
+                "file": "2-areas/fullstack-dev/Java/Unit Testing.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -115,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Questions Sept 24.md",
+                "file": "2-areas/fullstack-dev/Java/Unit Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Questions Sept 24.md",
+                "file": "2-areas/fullstack-dev/Java/Unit Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Questions Sept 24.md"
+                "file": "2-areas/fullstack-dev/Java/Unit Testing.md"
               }
             }
           },
@@ -256,16 +171,19 @@
   },
   "active": "f4216de4cfdb9807",
   "lastOpenFiles": [
-    "0-inbox/How to set up a string controller.md",
-    "0-inbox/Insert new test fuel stops.md",
-    "0-inbox/Insert new test devices.md",
-    "0-inbox/Query for schemas.md",
-    "0-inbox/Tracy Lee, CEO This Dot.md",
     "0-inbox/Questions Sept 24.md",
-    "2-areas/fullstack-dev/database/UUIDs.md",
+    "1-projects/fuel-saver-app/database/Insert new test fuel stops.md",
+    "1-projects/fuel-saver-app/database/Insert new test devices.md",
+    "2-areas/fullstack-dev/database/Query for schemas.md",
+    "0-inbox/Tracy Lee, CEO This Dot.md",
+    "2-areas/fullstack-dev/Java/ResponseEntity.md",
     "1-projects/fuel-saver-app/Questions 1.md",
-    "0-inbox/DAO Support in Spring Boot.md",
-    "0-inbox/ResponseEntity.md",
+    "2-areas/fullstack-dev/Java/Unit Testing.md",
+    "2-areas/fullstack-dev/Java/Integration Testing.md",
+    "2-areas/fullstack-dev/Java/How to set up a string controller.md",
+    "2-areas/fullstack-dev/Java/DAO Support in Spring Boot.md",
+    "2-areas/fullstack-dev/Java/Regression Testing.md",
+    "2-areas/fullstack-dev/database/UUIDs.md",
     "0-inbox/rest controller.md",
     "1-projects/Hackathon/Hackathon Concept.md",
     "1-projects/Hackathon",
@@ -280,9 +198,6 @@
     "2-areas/fullstack-dev/Java/Java Generics.md",
     "2-areas/fullstack-dev/Java/bounded generics.md",
     "2-areas/fullstack-dev/Java/Intermediate operations.md",
-    "conflict-files-obsidian-git.md",
-    "2-areas/fullstack-dev/Java/Type Casting.md",
-    "3-resources/Prompting Claude, concepts.md",
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Linux",
