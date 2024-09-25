@@ -1,10 +1,11 @@
 ---
 created: 2024-09-24T09:51
-updated: 2024-09-24T15:13
+updated: 2024-09-25T10:44
 ---
 # TODO: 
-- [ ] tear down database and re put the data using UUID
-- [ ] Properties for environments 
+- [x] tear down database and re put the data using UUID
+- [x] Properties for environments 
+	- [ ] in folders, but not optimized for anything yet
 - [ ] Redo tests for controllers
 	- [ ] re-push to sonarqube
 - [ ] better exception error hendling
