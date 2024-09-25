@@ -11,3 +11,4 @@ Actually, an app that allows you to plan road trips with pins dropped with each 
 
 Second time around: baby cloths inventory for when you don’t know what you need to buy since you already have some clothes in the basement from your first kid. 
 Simple database. *Increment* and decrement options. Pictures for the items with the number prominently displayed. Also option to display as a table which you can download and print 
+[[baby clothes tracker]] [[baby announcement]]

@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a57767effc244fe9",
+        "id": "131fa394d9b3ef40",
         "type": "tabs",
-        "dimension": 45.633187772925766,
         "children": [
           {
-            "id": "f4216de4cfdb9807",
+            "id": "23ef23968fa99ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Unit Testing.md",
+                "file": "2-areas/Professional Growth/To build.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "06add33d507438d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/baby announcement.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "fb96bb977c11a8f0",
+            "id": "c7dccd6928a8979d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "preview",
+                "file": "0-inbox/baby clothes tracker.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +74,6 @@
               "type": "search",
               "state": {
                 "query": "",
-                "query": "spring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Unit Testing.md",
+                "file": "0-inbox/baby clothes tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Unit Testing.md",
+                "file": "0-inbox/baby clothes tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Unit Testing.md"
+                "file": "0-inbox/baby clothes tracker.md"
               }
             }
           },
@@ -171,49 +182,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e0edd7e631a2889",
-  "active": "f4216de4cfdb9807",
+  "active": "c7dccd6928a8979d",
   "lastOpenFiles": [
-    "0-inbox/Questions Sept 24.md",
-    "1-projects/fuel-saver-app/database/Insert new test fuel stops.md",
-    "1-projects/fuel-saver-app/database/Insert new test devices.md",
-    "2-areas/fullstack-dev/database/Query for schemas.md",
-    "0-inbox/Tracy Lee, CEO This Dot.md",
-    "2-areas/fullstack-dev/Java/ResponseEntity.md",
-    "1-projects/fuel-saver-app/Questions 1.md",
-    "2-areas/fullstack-dev/Java/Unit Testing.md",
-    "2-areas/fullstack-dev/Java/Integration Testing.md",
-    "2-areas/fullstack-dev/Java/How to set up a string controller.md",
-    "2-areas/fullstack-dev/Java/DAO Support in Spring Boot.md",
-    "2-areas/fullstack-dev/Java/Regression Testing.md",
-    "2-areas/fullstack-dev/database/UUIDs.md",
-    "0-inbox/rest controller.md",
-    "1-projects/Hackathon/Hackathon Concept.md",
-    "1-projects/Hackathon",
-    "3-resources/Prompting Claude, code.md",
-    "2-areas/fullstack-dev/Java/MVC.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
-    "2-areas/fullstack-dev/Java/parallel execution.md",
-    "2-areas/fullstack-dev/Java/Java Links.md",
-    "1-projects/fuel-saver-app/TODO.md",
+    "0-inbox/baby announcement.md",
     "2-areas/Professional Growth/To build.md",
-    "2-areas/fullstack-dev/Java/java stream().md",
-    "2-areas/fullstack-dev/Java/Java Generics.md",
-    "2-areas/fullstack-dev/Java/bounded generics.md",
-    "2-areas/fullstack-dev/Java/Intermediate operations.md",
-    "2-areas/Life Management/Meal Plans",
+    "0-inbox/baby clothes tracker.md",
+    "2-areas/fullstack-dev/Java/Jackson.md",
+    "conflict-files-obsidian-git.md",
+    "4-archive/WGU/Preplanning/WGU.md",
+    "4-archive/WGU/Preplanning/Timeline & Cost.md",
+    "4-archive/WGU/Preplanning/Study.com.md",
+    "4-archive/WGU/Preplanning/Sophia.md",
+    "4-archive/WGU/Preplanning/PreStudy.md",
+    "4-archive/WGU/Preplanning/Links.md",
+    "4-archive/WGU/Preplanning/Course List.md",
+    "4-archive/WGU/Preplanning",
+    "4-archive/WGU",
     "3-resources/images/Pasted image 20240918100802.png",
+    "3-resources/Prompting Claude, concepts.md",
+    "3-resources/Prompting Claude, code.md",
+    "2-areas/fullstack-dev/database/UUIDs.md",
+    "2-areas/fullstack-dev/database/Query for schemas.md",
+    "2-areas/fullstack-dev/Linux/linux distributions.md",
+    "2-areas/fullstack-dev/Linux/distribution family.md",
+    "2-areas/fullstack-dev/Linux/Linux.md",
+    "2-areas/fullstack-dev/Linux/Embedded Systems.md",
     "2-areas/fullstack-dev/Linux",
+    "2-areas/fullstack-dev/Java/pipeline operations.md",
+    "2-areas/fullstack-dev/Java/parallel execution.md",
+    "2-areas/fullstack-dev/Java/mocking and testing.md",
+    "2-areas/fullstack-dev/Java/lazy evaluation.md",
+    "2-areas/fullstack-dev/Java/java stream().md",
+    "2-areas/fullstack-dev/Java/jUnit.md",
+    "2-areas/Life Management/Meal Plans",
+    "1-projects/Hackathon",
     "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/fuel-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
-    "4-archive/WGU/Preplanning",
-    "4-archive/WGU",
+    "1-projects/WGU/Preplanning",
+    "1-projects/WGU",
     "3-resources/images/BSCS.2024.pdf",
     "3-resources/images/Pasted image 20240813133542.png",
     "Untitled.canvas",
-    "1-projects/To Understand",
-    "2-areas/Life Management",
     "3-resources/images/IMG_4546.jpeg",
     "3-resources/images/UML Diagrams (Community).png",
     "3-resources/images/Pasted image 20240724125235.png"
