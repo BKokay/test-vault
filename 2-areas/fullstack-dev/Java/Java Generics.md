@@ -1,6 +1,6 @@
 ---
 created: 2024-09-23T13:08
-updated: 2024-09-23T13:18
+updated: 2024-09-25T20:58
 ---
 # Definition
 A feature that will allow your code to work with different types while providing type safety at compile-time. 

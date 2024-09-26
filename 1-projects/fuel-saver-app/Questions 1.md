@@ -1,10 +1,14 @@
 ---
 created: 2024-08-23T10:37
 <<<<<<< HEAD:1-projects/fuel-saver-app/Notes from Georg cont.md
+updated: 2024-09-04T08:49
+=======
+<<<<<<< HEAD:1-projects/fuel-saver-app/Notes from Georg cont.md
 updated: 2024-09-23T11:53
 =======
 updated: 2024-09-20T14:34
 >>>>>>> main:1-projects/fuel-saver-app/Questions 1.md
+>>>>>>> 9bdce39565b602fd1e4387e0e8dddea923455ea8:1-projects/fuel-saver-app/Questions 1.md
 ---
 ### Questions for George
 1. JSONObject or new Class()? 

@@ -1,6 +1,10 @@
 ---
 created: 2024-08-13T08:50
+<<<<<<< HEAD
+updated: 2024-09-04T08:49
+=======
 updated: 2024-09-23T12:04
+>>>>>>> 9bdce39565b602fd1e4387e0e8dddea923455ea8
 ---
 #### what is a Map? 
 It is a data structure that contains values on the basis of key value pairs. Each key value pair is known as an entry. A Map is useful if **you have to update, search, or delete elements on the basis of a key**

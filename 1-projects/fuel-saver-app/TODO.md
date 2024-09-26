@@ -1,6 +1,10 @@
 ---
 created: 2024-08-29T15:16
+<<<<<<< HEAD:0-inbox/TODO.md
+updated: 2024-09-04T08:49
+=======
 updated: 2024-09-24T09:24
+>>>>>>> 9bdce39565b602fd1e4387e0e8dddea923455ea8:1-projects/fuel-saver-app/TODO.md
 ---
 
 [[Notes from Georg]] [[Questions 1]]

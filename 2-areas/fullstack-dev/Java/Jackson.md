@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T10:13
-updated: 2024-09-23T12:04
+updated: 2024-09-25T20:58
 ---
 https://www.baeldung.com/jackson-object-mapper-tutorial
 

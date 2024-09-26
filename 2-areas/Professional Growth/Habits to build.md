@@ -1,6 +1,6 @@
 ---
 created: 2024-09-23T09:36
-updated: 2024-09-23T12:04
+updated: 2024-09-25T20:58
 ---
 Work: 
 1. Re-read and organize notes in Obsidian on a recurring basis

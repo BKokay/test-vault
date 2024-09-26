@@ -1,6 +1,6 @@
 ---
 created: 2024-09-25T08:57
-updated: 2024-09-25T09:10
+updated: 2024-09-25T20:58
 ---
 https://open.spotify.com/episode/0Ii4dhipSvOo22JAN20nyI
 

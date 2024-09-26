@@ -1,6 +1,6 @@
 ---
 created: 2024-08-28T10:08
-updated: 2024-09-23T11:53
+updated: 2024-09-25T20:58
 ---
   
 So, check my understanding... The database is set up, in my case using Postgres. I have entity classes which reflect the structure of the database tables. I have a Dao class which houses queries to get info out of the database. I have a DTO class which is basically a wrapper for the entity class which shields sensitive information from the client. The service class calls the DAO class and the service class transforms Entity classes into DTOs. The controller then serves the DTO to the client using the service class. Is that correct?

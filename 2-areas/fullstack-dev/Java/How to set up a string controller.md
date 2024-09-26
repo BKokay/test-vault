@@ -1,6 +1,6 @@
 ---
 created: 2024-09-25T10:28
-updated: 2024-09-25T10:30
+updated: 2024-09-25T20:58
 ---
 How to set up a [[spring]] controller in [[springboot]] using the DAO and Service classes 
 [[REST API]] [[CRUD]]

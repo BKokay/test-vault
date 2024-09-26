@@ -1,6 +1,6 @@
 ---
 created: 2024-08-21T13:16
-updated: 2024-09-23T11:53
+updated: 2024-09-25T20:58
 ---
 # What is serialization?
 *Serialization* is converting a Java object into a formal (like JSON or XML) that can be easily stored or transmitted.

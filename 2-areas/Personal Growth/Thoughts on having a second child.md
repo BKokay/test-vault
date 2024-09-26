@@ -1,6 +1,6 @@
 ---
 created: 2024-08-26T18:27
-updated: 2024-09-23T12:04
+updated: 2024-09-25T20:58
 ---
 My daughter would have someone in this life. Especially after we pass, and as we age. 
 

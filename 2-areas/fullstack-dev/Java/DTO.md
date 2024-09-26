@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23T13:36
-updated: 2024-09-23T12:04
+updated: 2024-09-25T20:58
 ---
 Data Transfer Object
 Basically, a class that you can enter data from a database into when executing a query and then pass around the object in order to do what you need to do from an API or service class

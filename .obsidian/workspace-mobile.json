@@ -11,12 +11,8 @@
             "id": "93410eb248d057bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Habits to build.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Concept.md",
+                "file": "0-inbox/baby clothes tracker.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/Concept.md",
+            "file": "0-inbox/baby clothes tracker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/Concept.md",
+            "file": "0-inbox/baby clothes tracker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-inbox/Concept.md"
+            "file": "0-inbox/baby clothes tracker.md"
           }
         }
       },
@@ -156,6 +152,12 @@
   },
   "active": "c2b3e544c672ae4f",
   "lastOpenFiles": [
+    "0-inbox/baby announcement.md",
+    "3-resources/images/IMG_5087.png",
+    "0-inbox/baby clothes tracker.md",
+    "2-areas/Professional Growth/To build.md",
+    "0-inbox/Untitled.md",
+    "Untitled",
     "0-inbox/Habits to build.md",
     "0-inbox/Concept.md",
     "1-projects/RestaurantFinder",
@@ -184,15 +186,10 @@
     "2-areas/fullstack-dev/Linux/linux distributions.md",
     "2-areas/fullstack-dev/Linux/Embedded Systems.md",
     "2-areas/fullstack-dev/Linux/distribution family.md",
-    "2-areas/fullstack-dev/Linux/Linux.md",
     "2-areas/fullstack-dev/Linux",
-    "2-areas/fullstack-dev/Java/DTO.md",
-    "2-areas/fullstack-dev/Java/JVM.md",
-    "2-areas/fullstack-dev/Java/DAO.md",
     "0-inbox",
     "2-areas/Personal Growth",
     "timestamps/2024/07-July",
-    "timestamps/2024",
     "UML Diagrams (Community).png",
     "Pasted image 20240724125235.png",
     "IMG_4546.jpeg"

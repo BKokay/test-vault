@@ -1,6 +1,6 @@
 ---
 created: 2024-08-22T13:07
-updated: 2024-09-23T11:53
+updated: 2024-09-25T20:58
 ---
 ```java
 public Optional<JSONArray> getPricePerLiter(int id) throws IOException {

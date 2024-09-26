@@ -1,6 +1,10 @@
 ---
 created: 2024-09-02T11:56
+<<<<<<< HEAD:0-inbox/mocking and testing.md
+updated: 2024-09-04T08:49
+=======
 updated: 2024-09-23T11:57
+>>>>>>> 9bdce39565b602fd1e4387e0e8dddea923455ea8:2-areas/fullstack-dev/Java/mocking and testing.md
 ---
 
 # What is it?
