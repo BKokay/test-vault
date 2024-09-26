@@ -1,13 +1,13 @@
 ---
 created: 2024-09-24T09:51
-updated: 2024-09-26T10:44
+updated: 2024-09-26T14:38
 ---
 # TODO: 
 - [x] tear down database and re put the data using UUID
 - [x] Properties for environments 
-	- [ ] in folders, but not optimized for anything yet
-- [ ] Redo tests for controllers
-	- [ ] re-push to sonarqube
+	- [x] in folders, but not optimized for anything yet
+- [x] Redo tests for controllers
+	- [x] re-push to sonarqube
 - [ ] better exception error hendling
 
 - [ ] SwaggerUI OpenAPI spec 
