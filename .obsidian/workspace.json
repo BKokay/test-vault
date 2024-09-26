@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "34c81086253f4724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/DONT FORGET.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "fb96bb977c11a8f0",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spring",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Unit Testing.md",
+                "file": "0-inbox/DONT FORGET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Unit Testing.md",
+                "file": "0-inbox/DONT FORGET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Unit Testing.md"
+                "file": "0-inbox/DONT FORGET.md"
               }
             }
           },
@@ -169,8 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4216de4cfdb9807",
+  "active": "34c81086253f4724",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/Java/Unit Testing.md",
+    "0-inbox/DONT FORGET.md",
     "0-inbox/Questions Sept 24.md",
     "1-projects/fuel-saver-app/database/Insert new test fuel stops.md",
     "1-projects/fuel-saver-app/database/Insert new test devices.md",
@@ -178,7 +193,6 @@
     "0-inbox/Tracy Lee, CEO This Dot.md",
     "2-areas/fullstack-dev/Java/ResponseEntity.md",
     "1-projects/fuel-saver-app/Questions 1.md",
-    "2-areas/fullstack-dev/Java/Unit Testing.md",
     "2-areas/fullstack-dev/Java/Integration Testing.md",
     "2-areas/fullstack-dev/Java/How to set up a string controller.md",
     "2-areas/fullstack-dev/Java/DAO Support in Spring Boot.md",
@@ -197,7 +211,6 @@
     "2-areas/fullstack-dev/Java/java stream().md",
     "2-areas/fullstack-dev/Java/Java Generics.md",
     "2-areas/fullstack-dev/Java/bounded generics.md",
-    "2-areas/fullstack-dev/Java/Intermediate operations.md",
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Linux",
