@@ -1,5 +1,7 @@
 A tracker that second time around moms can take inventory of what they already have for baby number two and easily access that information from a web app 
 
+Check out [[vaadin]] for front end? Uses Java 
+
 Will have three views: 
 1. a landing page where you can play with the tracker to show on my portfolio as well as to my family as a baby announcement.
 2. Behind a sign in wall, users can track their own information 
