@@ -1,6 +1,6 @@
 ---
-created: 2024-09-25T18:49
-updated: 2024-09-25T18:50
+created: 2024-09-26T08:35
+updated: 2024-09-26T08:35
 ---
 # Conflicts
 Please resolve them and commit them using the commands `Git: Commit all changes` followed by `Git: Push`
@@ -8,6 +8,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 [[#Additional Instructions]] available below file list
 
 - Not a file: .obsidian/plugins/update-time-on-edit/data.json
+- Not a file: .obsidian/workspace.json
 
 # Additional Instructions
 I strongly recommend to use "Source mode" for viewing the conflicted files. For simple conflicts, in each file listed above replace every occurrence of the following text blocks with the desired text.

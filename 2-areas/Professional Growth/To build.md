@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19T09:49
-updated: 2024-09-25T20:58
+updated: 2024-09-26T08:35
 ---
 An app that shows rest stops and you can filter based on your needs
 - Personas

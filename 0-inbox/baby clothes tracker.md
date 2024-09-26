@@ -1,3 +1,7 @@
+---
+created: 2024-09-26T08:35
+updated: 2024-09-26T08:35
+---
 A tracker that second time around moms can take inventory of what they already have for baby number two and easily access that information from a web app 
 
 Check out [[vaadin]] for front end? Uses Java 

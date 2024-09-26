@@ -1,6 +1,6 @@
 ---
 created: 2024-07-25T08:09
-updated: 2024-09-25T20:58
+updated: 2024-09-26T08:35
 ---
 2024-07-24 10:11
 Evaluates as a normal `if/else`. When the first condition that returns true happens, the function returns the corresponding result that follows that condition. It stops evaluating after finding a `true` condition. 

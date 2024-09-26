@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19T10:38
-updated: 2024-09-25T20:58
+updated: 2024-09-26T08:35
 ---
 [[java]]
 The enhanced for loop is a for-of loop and makes iterating through loops more readable.

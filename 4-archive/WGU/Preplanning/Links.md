@@ -1,6 +1,6 @@
 ---
 created: 2024-08-14T12:48
-updated: 2024-09-25T20:58
+updated: 2024-09-26T08:35
 ---
 The missing semester:  https://missing.csail.mit.edu/
 Course List with Equivalents: https://drive.google.com/file/d/1jzQNEj1E6CVkA_AZbIRBt6qmTBCpGhrP/view

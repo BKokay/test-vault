@@ -1,6 +1,6 @@
 ---
 created: 2024-09-25T09:15
-updated: 2024-09-25T20:58
+updated: 2024-09-26T08:35
 ---
 //this will list all of the schemas that exist on you table 
 ```sql

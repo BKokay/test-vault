@@ -1,6 +1,6 @@
 ---
 created: 2024-09-18T11:30
-updated: 2024-09-25T20:58
+updated: 2024-09-26T08:35
 ---
 To learn new concepts in a new language, create a new project which follows the familiar folder structure of a real project:
 ```

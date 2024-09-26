@@ -1,6 +1,6 @@
 ---
 created: 2024-09-24T09:51
-updated: 2024-09-25T20:58
+updated: 2024-09-26T08:35
 ---
 # TODO: 
 - [x] tear down database and re put the data using UUID

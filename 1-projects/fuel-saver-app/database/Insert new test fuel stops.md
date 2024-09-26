@@ -1,6 +1,6 @@
 ---
 created: 2024-09-25T09:53
-updated: 2024-09-25T20:58
+updated: 2024-09-26T08:35
 ---
 I need to link the fuel stop id with different device ids and station ids. I can enter the queries into pgAdmin like this:
 ```sql
