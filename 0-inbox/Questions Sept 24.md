@@ -1,6 +1,6 @@
 ---
 created: 2024-09-24T09:51
-updated: 2024-09-26T08:35
+updated: 2024-09-26T10:44
 ---
 # TODO: 
 - [x] tear down database and re put the data using UUID
@@ -24,3 +24,4 @@ updated: 2024-09-26T08:35
 2. Mentioned having the SQL to create the tables. This exists in the test /database package (not yet using jdbcTemplate). However, I wouldn't re-create a table every time, so that isn't something that needs to exist on the fuelsaver level, correct? 
 3. application.properties - does it make sense to have test & production here as well for the different profiles? 
 	1. https://gitlab.infoware.de/web/maptrip-server-api/-/tree/develop/maptrip-server-api-app/src/main/profiles/production?ref_type=heads
+4. Additional question - the Postgres database returns an enum differently than Jdbc expects it. You can add `stringtype=unspecified` and then make sure the java enum is a string using `.name()` but it a workaround.  https://stackoverflow.com/questions/851758/java-enums-jpa-and-postgres-enums-how-do-i-make-them-work-together
