@@ -150,7 +150,7 @@
     "4-archive/WGU/Preplanning/Sophia.md": "d70bdea20f29b665cf7f5f8fa3c49a8e23e110da709ce4bfd88a973afa473b55",
     "2-areas/fullstack-dev/Java/DAO.md": "bc617595fc453c7e5076d30117a91bb05c283f7483355eb79aff8d3cfea786a4",
     "2-areas/fullstack-dev/Java/Type Casting.md": "ac1c3ae15043dca7276f6939fb0110743e7bde275d67a63ab5158e20ae8cc0e5",
-    "2-areas/fullstack-dev/Java/SonarQube.md": "b782be77ea0fcdf837afe164e747c632c261f2cc00b4526fabce0762148a3e83",
+    "2-areas/fullstack-dev/Java/SonarQube.md": "00b0f8e205913a94ec24250af6d8e6e24c7fe54452e327bd41b0dcf1215f4571",
     "2-areas/fullstack-dev/Java/Enhanced for loop.md": "5c7671d452a411cf50b505c0ec3368baf65a2ca2ddbbbd2612b9cd723a6841a6",
     "2-areas/fullstack-dev/Java/Intermediate operations.md": "88626c9fcfd7a0ed48e671173a232c0a0a6b01fe1bbb1ac246d9eb9a64a044df",
     "2-areas/fullstack-dev/Java/lazy evaluation.md": "7fccf5ed03cef9cc5b23a1a3605b83f0592a4dd9b3c742d0884c928dcbf10f3d",
@@ -181,6 +181,7 @@
     "0-inbox/baby announcement.md": "aa0566396b739d198634a99feab5e2a3c5a96c3faca36ab0072d1e0fd01bdb7e",
     "0-inbox/baby clothes tracker.md": "e3c3d25dbeefd7c70988342059bbd754229d45983404462c1be22a900813bbf1",
     "0-inbox/distribution family.md": "3a76c4b0c76887f323da75fb2efc92e807f2c6621cc331b2f3224e5d0fadf7c1",
-    "0-inbox/Debug in Eclipse IDE.md": "87dd4ca31fa7efe91db3d0adc9092228259c67660c21be69a7741013f5f1d540"
+    "0-inbox/Debug in Eclipse IDE.md": "87dd4ca31fa7efe91db3d0adc9092228259c67660c21be69a7741013f5f1d540",
+    "0-inbox/Enum issue.md": "500481ef37bd34e29d642d0b38ca8a668a6ec0d33e06d15d8b973fbe3f25293f"
   }
 }
