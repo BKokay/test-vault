@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/Prompting Claude, concepts.md",
+                "file": "2-areas/Personal Growth/Quotes to ponder.md",
                 "mode": "source",
                 "source": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/Prompting Claude, concepts.md",
+                "file": "2-areas/Personal Growth/Quotes to ponder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/Prompting Claude, concepts.md",
+                "file": "2-areas/Personal Growth/Quotes to ponder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/Prompting Claude, concepts.md"
+                "file": "2-areas/Personal Growth/Quotes to ponder.md"
               }
             }
           },
@@ -230,37 +230,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "81d3d191dbb7f2a2",
   "lastOpenFiles": [
-    "3-resources/Using AI",
-    "1-projects/Clothes tracker/baby announcement.md",
-    "1-projects/Clothes tracker/baby clothes tracker.md",
-    "1-projects/Clothes tracker",
+    "2-areas/Personal Growth/Thoughts on having a second child.md",
+    "3-resources/Using AI/Asking about a technology.md",
+    "3-resources/Using AI/Prompting Claude, concepts.md",
+    "3-resources/Using AI/Prompting Claude, code.md",
+    "2-areas/Personal Growth/Quotes to ponder.md",
+    "2-areas/Personal Growth/My personas.md",
+    "2-areas/Personal Growth/poetic attunement.md",
+    "2-areas/Personal Growth/My heart.md",
+    "2-areas/Personal Growth/Brain Waves.md",
+    "2-areas/Personal Growth/journal-8-19-24.md",
     "0-inbox/Master TODO list.md",
-    "0-inbox/Setting up Next.js blog.md",
-    "0-inbox/TODO Monday Sept 30.md",
-    "0-inbox/Tracy Lee, CEO This Dot.md",
     "0-inbox/Questions Sept 24.md",
-    "2-areas/fullstack-dev/Java/SonarQube.md",
-    "0-inbox/Enum issue.md",
-    "0-inbox/Debug in Eclipse IDE.md",
-    "0-inbox/DONT FORGET.md",
-    "conflict-files-obsidian-git.md",
+    "1-projects/Ideas/To build.md",
+    "1-projects/Ideas/Hackathon/Hackathon Concept.md",
+    "1-projects/Ideas",
+    "2-areas/Professional Growth/strengths and weaknesses.md",
+    "2-areas/Professional Growth/Meg Sullivan about DevEd.md",
+    "2-areas/Professional Growth/Habits to build.md",
+    "3-resources/Learning/PARA.md",
+    "2-areas/Professional Growth/10 x dev using zettlekasten & obsidian.md",
+    "3-resources/Obsidian/To install.md",
+    "3-resources/Obsidian/markdown_cheatsheet.md",
+    "3-resources/Obsidian/Link your obsidian on iPhone.md",
+    "3-resources/Personal/Things to do in Bonn.md",
+    "3-resources/Obsidian/How do I make links between notes.md",
+    "3-resources/Using AI",
+    "1-projects/Ideas/Clothes tracker/baby announcement.md",
+    "1-projects/Ideas/Clothes tracker/baby clothes tracker.md",
+    "1-projects/Ideas/Clothes tracker",
     "3-resources/images/IMG_5087.png",
-    "0-inbox/distribution family.md",
-    "0-inbox/Untitled.md",
-    "2-areas/fullstack-dev/Java/Unit Testing.md",
-    "1-projects/fuel-saver-app/database/Insert new test fuel stops.md",
-    "1-projects/fuel-saver-app/database/Insert new test devices.md",
-    "2-areas/fullstack-dev/database/Query for schemas.md",
-    "2-areas/fullstack-dev/Java/ResponseEntity.md",
-    "1-projects/fuel-saver-app/Questions 1.md",
-    "2-areas/fullstack-dev/Java/Integration Testing.md",
-    "2-areas/fullstack-dev/Java/How to set up a string controller.md",
-    "2-areas/fullstack-dev/Java/DAO Support in Spring Boot.md",
-    "2-areas/fullstack-dev/Java/Regression Testing.md",
-    "2-areas/fullstack-dev/database/UUIDs.md",
-    "1-projects/Hackathon",
+    "1-projects/Ideas/Hackathon",
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Linux",
@@ -269,10 +271,8 @@
     "3-resources/images/Pasted image 20240815124638.png",
     "4-archive/WGU/Preplanning",
     "4-archive/WGU",
-    "3-resources/images/BSCS.2024.pdf",
     "3-resources/images/Pasted image 20240813133542.png",
     "Untitled.canvas",
-    "1-projects/To Understand",
     "3-resources/images/IMG_4546.jpeg",
     "3-resources/images/UML Diagrams (Community).png",
     "3-resources/images/Pasted image 20240724125235.png"
