@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "11c0d95bcad745c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Goals at infoware.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "fb96bb977c11a8f0",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
+                "file": "0-inbox/Goals at infoware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
+                "file": "0-inbox/Goals at infoware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md"
+                "file": "0-inbox/Goals at infoware.md"
               }
             }
           },
@@ -206,10 +218,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c04165bcc48bfcd5",
+  "active": "11c0d95bcad745c7",
   "lastOpenFiles": [
-    "0-inbox/Tracy Lee, CEO This Dot.md",
     "0-inbox/TODO Monday Sept 30.md",
+    "0-inbox/Goals at infoware.md",
+    "0-inbox/Tracy Lee, CEO This Dot.md",
     "0-inbox/Questions Sept 24.md",
     "2-areas/fullstack-dev/Java/SonarQube.md",
     "0-inbox/Enum issue.md",
@@ -235,7 +248,6 @@
     "0-inbox/rest controller.md",
     "1-projects/Hackathon/Hackathon Concept.md",
     "1-projects/Hackathon",
-    "3-resources/Prompting Claude, code.md",
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Linux",
