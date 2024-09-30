@@ -2,9 +2,17 @@
 created: 2024-09-26T08:35
 updated: 2024-09-26T08:35
 ---
+# What is it? 
 A tracker that second time around moms can take inventory of what they already have for baby number two and easily access that information from a web app 
 
-Check out [[vaadin]] for front end? Uses Java 
+Other useful versions [[kids closet]] [[minimalist closet]]
+
+
+## The problem: 
+I have things from my first child that I can use again with my second. The problem is that I have no idea what I have down in the basement. I would like to get an inventory for what is there and be able to categorize everything visually rather than keep this information in my head or on a notebook somewhere. 
+
+## The solution: 
+A web app that allows you to inventory your baby clothes based on gender, weather, and size. 
 
 Will have three views: 
 1. a landing page where you can play with the tracker to show on my portfolio as well as to my family as a baby announcement.
@@ -35,3 +43,6 @@ User Stories:
 5. I want this to work on mobile and desktop 
 
 For the database, it can just be clothes table. Loop through table x times and add new data. If there are changes, add that type or ENUM 
+
+~~Check out [[vaadin]] for front end? Uses Java~~ 
+Use [[react]] for front end because it is so in demand 
