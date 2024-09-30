@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/baby clothes tracker.md",
+                "file": "3-resources/Prompting Claude, concepts.md",
                 "mode": "source",
                 "source": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/baby clothes tracker.md",
+                "file": "3-resources/Prompting Claude, concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/baby clothes tracker.md",
+                "file": "3-resources/Prompting Claude, concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/baby clothes tracker.md"
+                "file": "3-resources/Prompting Claude, concepts.md"
               }
             }
           },
@@ -230,8 +230,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81d3d191dbb7f2a2",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
+    "3-resources/Using AI",
+    "1-projects/Clothes tracker/baby announcement.md",
+    "1-projects/Clothes tracker/baby clothes tracker.md",
+    "1-projects/Clothes tracker",
     "0-inbox/Master TODO list.md",
     "0-inbox/Setting up Next.js blog.md",
     "0-inbox/TODO Monday Sept 30.md",
@@ -244,8 +248,6 @@
     "conflict-files-obsidian-git.md",
     "3-resources/images/IMG_5087.png",
     "0-inbox/distribution family.md",
-    "0-inbox/baby clothes tracker.md",
-    "0-inbox/baby announcement.md",
     "0-inbox/Untitled.md",
     "2-areas/fullstack-dev/Java/Unit Testing.md",
     "1-projects/fuel-saver-app/database/Insert new test fuel stops.md",
@@ -258,7 +260,6 @@
     "2-areas/fullstack-dev/Java/DAO Support in Spring Boot.md",
     "2-areas/fullstack-dev/Java/Regression Testing.md",
     "2-areas/fullstack-dev/database/UUIDs.md",
-    "0-inbox/rest controller.md",
     "1-projects/Hackathon",
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
@@ -272,7 +273,6 @@
     "3-resources/images/Pasted image 20240813133542.png",
     "Untitled.canvas",
     "1-projects/To Understand",
-    "2-areas/Life Management",
     "3-resources/images/IMG_4546.jpeg",
     "3-resources/images/UML Diagrams (Community).png",
     "3-resources/images/Pasted image 20240724125235.png"
