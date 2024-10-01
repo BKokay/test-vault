@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
+                "file": "2-areas/Life Management/Schwab.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
+                "file": "2-areas/Life Management/Schwab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
+                "file": "2-areas/Life Management/Schwab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md"
+                "file": "2-areas/Life Management/Schwab.md"
               }
             }
           },
@@ -220,6 +220,8 @@
   },
   "active": "11c0d95bcad745c7",
   "lastOpenFiles": [
+    "2-areas/Life Management/Passwords.md",
+    "0-inbox/TODO Monday Sept 30.md",
     "0-inbox/Questions Sept 24.md",
     "0-inbox/Master TODO list.md",
     "0-inbox/Goals at infoware.md",
@@ -248,8 +250,6 @@
     "2-areas/fullstack-dev/Eclipse IDE",
     "2-areas/Personal Growth/Quotes to ponder.md",
     "2-areas/Personal Growth/My personas.md",
-    "1-projects/Ideas/Hackathon/Hackathon Concept.md",
-    "1-projects/Ideas/Clothes tracker/baby clothes tracker.md",
     "1-projects/Ideas/Hackathon",
     "1-projects/Ideas/Clothes tracker",
     "1-projects/Ideas",
