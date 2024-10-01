@@ -2,7 +2,7 @@
 created: 2024-09-18T13:28
 updated: 2024-09-26T08:35
 ---
-### Important intermediate operations: 
+### Important intermediate operations in Stream(): 
 [[how to read java syntax with generics]]
 1. .map() 
 [[map()]]
