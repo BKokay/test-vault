@@ -20,3 +20,5 @@ Response codes:
 For the getAll() methods from the controller, should I add @Hidden? Or do I want them available since it will only be internal 
 
 Changed StreetNumber in db setup to BIGINT from VARCHAR(20)
+
+Creating DTOs for Update and Save Methods for separation of concerns and security reasons. 
