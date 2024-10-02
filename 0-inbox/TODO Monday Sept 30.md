@@ -16,3 +16,5 @@ Response codes:
 400 - bad request 
 404 - not found (id)
 - [ ] are there any other codes I should add? 
+
+For the getAll() methods from the controller, should I add @Hidden? Or do I want them available since it will only be internal 
