@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "489e21b4aff90063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/fullstack-dev/Java/Pageable.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "fb96bb977c11a8f0",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
+                "file": "2-areas/fullstack-dev/Java/Pageable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
+                "file": "2-areas/fullstack-dev/Java/Pageable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md"
+                "file": "2-areas/fullstack-dev/Java/Pageable.md"
               }
             }
           },
@@ -242,12 +254,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1e70355fa95e88d",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
+    "0-inbox/TODO Monday Sept 30.md",
+    "2-areas/fullstack-dev/Java/Pageable.md",
     "0-inbox/Questions Sept 24.md",
     "0-inbox/Springdoc.md",
     "0-inbox/Goals at infoware.md",
-    "0-inbox/TODO Monday Sept 30.md",
     "0-inbox/OpenAPI spec.md",
     "2-areas/Life Management/Schwab.md",
     "2-areas/Life Management/Passwords.md",
@@ -272,7 +285,6 @@
     "2-areas/fullstack-dev/Java/Design Patterns/DAO.md",
     "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
     "2-areas/fullstack-dev/Eclipse IDE/Eclipse Shortcuts for code editing.md",
-    "2-areas/fullstack-dev/Eclipse IDE/Eclipse IDE.md",
     "2-areas/fullstack-dev/Eclipse IDE",
     "1-projects/Ideas/Hackathon",
     "1-projects/Ideas/Clothes tracker",
