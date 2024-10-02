@@ -18,3 +18,5 @@ Response codes:
 - [ ] are there any other codes I should add? 
 
 For the getAll() methods from the controller, should I add @Hidden? Or do I want them available since it will only be internal 
+
+Changed StreetNumber in db setup to BIGINT from VARCHAR(20)
