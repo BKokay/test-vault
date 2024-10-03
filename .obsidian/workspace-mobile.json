@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/baby clothes tracker.md",
+                "file": "0-inbox/My first try.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/baby clothes tracker.md",
+            "file": "0-inbox/My first try.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/baby clothes tracker.md",
+            "file": "0-inbox/My first try.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-inbox/baby clothes tracker.md"
+            "file": "0-inbox/My first try.md"
           }
         }
       },
@@ -150,8 +150,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2b3e544c672ae4f",
+  "active": "ea380cf62937a6b1",
   "lastOpenFiles": [
+    "0-inbox/My first try.md",
     "0-inbox/baby announcement.md",
     "3-resources/images/IMG_5087.png",
     "0-inbox/baby clothes tracker.md",
@@ -185,7 +186,6 @@
     "2-areas/Life Management/Meal Plans",
     "2-areas/fullstack-dev/Linux/linux distributions.md",
     "2-areas/fullstack-dev/Linux/Embedded Systems.md",
-    "2-areas/fullstack-dev/Linux/distribution family.md",
     "2-areas/fullstack-dev/Linux",
     "0-inbox",
     "2-areas/Personal Growth",
