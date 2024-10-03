@@ -56,31 +56,7 @@
             }
           },
           {
-            "id": "11c0d95bcad745c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Questions Sept 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0d3bcf2e875e58f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Goals at infoware.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c1e70355fa95e88d",
+            "id": "817475df7a79383f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maven",
+                "query": "sonarqube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,46 +218,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1e70355fa95e88d",
+  "active": "817475df7a79383f",
   "lastOpenFiles": [
     "2-areas/fullstack-dev/Java/Pageable.md",
-    "0-inbox/TODO Monday Sept 30.md",
-    "0-inbox/Questions Sept 24.md",
     "0-inbox/Springdoc.md",
-    "0-inbox/Goals at infoware.md",
-    "0-inbox/OpenAPI spec.md",
-    "2-areas/Life Management/Schwab.md",
-    "2-areas/Life Management/Passwords.md",
-    "0-inbox/Master TODO list.md",
     "conflict-files-obsidian-git.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/DTO.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/flow of DAO and DTO.md",
+    "0-inbox/OpenAPI spec.md",
+    "0-inbox/TODO Monday Sept 30.md",
+    "0-inbox/Goals at infoware.md",
+    "0-inbox/Setting up Next.js blog.md",
+    "2-areas/fullstack-dev/Java/Java Generics.md",
+    "2-areas/fullstack-dev/Java/Jackson.md",
     "2-areas/fullstack-dev/Java/Exceptions/IOExceptions.md",
-    "2-areas/fullstack-dev/Java/Exceptions/Exceptions.md",
-    "2-areas/fullstack-dev/Java/Exceptions/IllegalArgumentException.md",
+    "2-areas/fullstack-dev/Java/internal state.md",
+    "2-areas/fullstack-dev/Java/Intermediate operations.md",
+    "2-areas/fullstack-dev/Java/parallel execution.md",
+    "2-areas/fullstack-dev/Java/java stream().md",
+    "2-areas/fullstack-dev/Java/lazy evaluation.md",
+    "2-areas/fullstack-dev/Java/pipeline operations.md",
+    "2-areas/fullstack-dev/Java/Integration Testing.md",
+    "2-areas/fullstack-dev/Java/Variables",
     "2-areas/fullstack-dev/Java/Exceptions",
     "2-areas/fullstack-dev/Java/Variables/int.md",
-    "2-areas/fullstack-dev/Java/Variables/char.md",
+    "2-areas/fullstack-dev/Java/Exceptions/IllegalArgumentException.md",
+    "2-areas/fullstack-dev/Java/getter and setter methods.md",
+    "0-inbox/How to set up a string controller.md",
+    "0-inbox/functional interfaces.md",
+    "2-areas/fullstack-dev/Java/flush().md",
+    "2-areas/fullstack-dev/Java/Design Patterns/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Java/Variables/float.md",
-    "2-areas/fullstack-dev/Java/Variables/bounded generics.md",
-    "2-areas/fullstack-dev/Java/Variables/boolean.md",
-    "2-areas/fullstack-dev/Java/Variables",
-    "3-resources/Using AI/Prompting Claude, concepts.md",
-    "3-resources/Using AI/Prompting Claude, code.md",
-    "3-resources/Using AI/Asking about a technology.md",
-    "3-resources/Using AI",
-    "2-areas/fullstack-dev/Java/Design Patterns/DAO.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
-    "2-areas/fullstack-dev/Eclipse IDE/Eclipse Shortcuts for code editing.md",
+    "2-areas/fullstack-dev/Java/executeUpdate vs executeQuery.md",
     "2-areas/fullstack-dev/Eclipse IDE",
-    "1-projects/Ideas/Hackathon",
-    "1-projects/Ideas/Clothes tracker",
     "1-projects/Ideas",
+    "3-resources/Using AI",
+    "1-projects/Ideas/Clothes tracker",
     "3-resources/images/IMG_5087.png",
-    "1-projects/Hackathon",
+    "1-projects/Ideas/Hackathon",
     "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "2-areas/fullstack-dev/Linux",
+    "3-resources/images/~$el-saver-final.docx",
     "3-resources/images/Pasted image 20240815124638.png",
     "3-resources/images/Pasted image 20240813133542.png",
     "Untitled.canvas",
