@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Tracy Lee, CEO This Dot.md",
+                "file": "2-areas/Professional Growth/Tracy Lee, CEO This Dot.md",
                 "mode": "preview",
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Goals at infoware.md",
+                "file": "1-projects/Goals at infoware.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Basic Syntax of @ApiResponse.md",
+                "file": "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @ApiResponse.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
-                "mode": "source",
+                "file": "2-areas/fullstack-dev/Java/Springdoc.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
+                "file": "2-areas/fullstack-dev/Java/Springdoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
+                "file": "2-areas/fullstack-dev/Java/Springdoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md"
+                "file": "2-areas/fullstack-dev/Java/Springdoc.md"
               }
             }
           },
@@ -266,36 +266,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "588862e4ff695057",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "0-inbox/TODO Monday Sept 30.md",
-    "0-inbox/Basic Syntax of @Parameter.md",
-    "0-inbox/Basic Syntax of @ApiResponse.md",
+    "1-projects/Blog/Setting up Next.js blog.md",
+    "1-projects/Blog",
+    "1-projects/fuel-saver-app/Java/OpenAPI spec.md",
+    "0-inbox/DONT FORGET.md",
+    "1-projects/fuel-saver-app/Enum issue.md",
+    "2-areas/fullstack-dev/Java/How to set up a string controller.md",
+    "1-projects/Goals at infoware.md",
+    "2-areas/fullstack-dev/Java/functional interfaces.md",
+    "2-areas/fullstack-dev/distribution family.md",
+    "2-areas/fullstack-dev/Eclipse IDE/Debug in Eclipse IDE.md",
+    "0-inbox/Blog.md",
+    "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @ApiResponse.md",
+    "2-areas/fullstack-dev/Java/Spring",
+    "2-areas/Professional Growth/Tracy Lee, CEO This Dot.md",
+    "0-inbox/Untitled.md",
+    "2-areas/fullstack-dev/Java/Springdoc.md",
+    "conflict-files-obsidian-git.md",
+    "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @Parameter.md",
     "0-inbox/Questions Sept 24.md",
     "0-inbox/My first try.md",
-    "0-inbox/Blog.md",
     "2-areas/fullstack-dev/Java/Pageable.md",
-    "0-inbox/Springdoc.md",
-    "0-inbox/Goals at infoware.md",
-    "0-inbox/OpenAPI spec.md",
     "2-areas/Life Management/Schwab.md",
     "2-areas/Life Management/Passwords.md",
     "0-inbox/Master TODO list.md",
     "2-areas/fullstack-dev/Java/Design Patterns/DTO.md",
     "2-areas/fullstack-dev/Java/Design Patterns/flow of DAO and DTO.md",
     "2-areas/fullstack-dev/Java/Exceptions/IOExceptions.md",
-    "2-areas/fullstack-dev/Java/Exceptions/Exceptions.md",
-    "2-areas/fullstack-dev/Java/Exceptions/IllegalArgumentException.md",
     "2-areas/fullstack-dev/Java/Exceptions",
-    "2-areas/fullstack-dev/Java/Variables/int.md",
-    "2-areas/fullstack-dev/Java/Variables/char.md",
-    "2-areas/fullstack-dev/Java/Variables/float.md",
-    "2-areas/fullstack-dev/Java/Variables/bounded generics.md",
-    "2-areas/fullstack-dev/Java/Variables/boolean.md",
     "2-areas/fullstack-dev/Java/Variables",
-    "3-resources/Using AI/Prompting Claude, concepts.md",
-    "3-resources/Using AI/Prompting Claude, code.md",
     "3-resources/Using AI",
     "2-areas/fullstack-dev/Eclipse IDE",
     "1-projects/Ideas/Hackathon",
@@ -303,9 +305,7 @@
     "1-projects/Ideas",
     "3-resources/images/IMG_5087.png",
     "1-projects/Hackathon",
-    "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
-    "2-areas/fullstack-dev/Linux",
     "3-resources/images/Pasted image 20240815124638.png",
     "3-resources/images/Pasted image 20240813133542.png",
     "Untitled.canvas",
