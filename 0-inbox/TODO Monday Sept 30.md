@@ -23,3 +23,6 @@ Changed StreetNumber in db setup to BIGINT from VARCHAR(20)
 
 X Creating DTOs for Update and Save Methods for separation of concerns and security reasons. 
 
+- [ ] priceHistory: example in parameter, example return object in API response 200 
+-  [ ] /save is incorrect for request body: says ID of gas station to save, but it should be details. 
+

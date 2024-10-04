@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Basic Syntax of @ApiResponse.md",
+                "file": "0-inbox/Basic Syntax of @Parameter.md",
                 "mode": "source",
                 "source": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Basic Syntax of @ApiResponse.md",
+                "file": "0-inbox/Basic Syntax of @Parameter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Basic Syntax of @ApiResponse.md",
+                "file": "0-inbox/Basic Syntax of @Parameter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Basic Syntax of @ApiResponse.md"
+                "file": "0-inbox/Basic Syntax of @Parameter.md"
               }
             }
           },
