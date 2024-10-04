@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "92be9111282ccb01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/Professional Growth/Tracy Lee, CEO This Dot.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c04165bcc48bfcd5",
             "type": "leaf",
             "state": {
@@ -56,61 +44,25 @@
             }
           },
           {
-            "id": "11c0d95bcad745c7",
+            "id": "817475df7a79383f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Questions Sept 24.md",
+                "file": "0-inbox/TODO Monday Sept 30.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "0d3bcf2e875e58f3",
+            "id": "679bfb6dadcf6f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Goals at infoware.md",
+                "file": "0-inbox/Blog.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c1e70355fa95e88d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Questions Sept 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9611bd84b0230675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @ApiResponse.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "588862e4ff695057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Springdoc.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -128,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maven",
+                "query": "sonarqube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Springdoc.md",
+                "file": "0-inbox/TODO Monday Sept 30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Springdoc.md",
+                "file": "0-inbox/TODO Monday Sept 30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/fullstack-dev/Java/Springdoc.md"
+                "file": "0-inbox/TODO Monday Sept 30.md"
               }
             }
           },
@@ -266,45 +218,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "817475df7a79383f",
   "lastOpenFiles": [
-    "0-inbox/TODO Monday Sept 30.md",
-    "1-projects/Blog/Setting up Next.js blog.md",
-    "1-projects/Blog",
-    "1-projects/fuel-saver-app/Java/OpenAPI spec.md",
-    "0-inbox/DONT FORGET.md",
-    "1-projects/fuel-saver-app/Enum issue.md",
-    "2-areas/fullstack-dev/Java/How to set up a string controller.md",
-    "1-projects/Goals at infoware.md",
-    "2-areas/fullstack-dev/Java/functional interfaces.md",
-    "2-areas/fullstack-dev/distribution family.md",
-    "2-areas/fullstack-dev/Eclipse IDE/Debug in Eclipse IDE.md",
     "0-inbox/Blog.md",
+    "2-areas/fullstack-dev/distribution family.md",
+    "2-areas/fullstack-dev/Java/functional interfaces.md",
+    "2-areas/fullstack-dev/Java/Springdoc.md",
+    "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @Parameter.md",
     "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @ApiResponse.md",
     "2-areas/fullstack-dev/Java/Spring",
+    "2-areas/fullstack-dev/Java/How to set up a string controller.md",
+    "2-areas/fullstack-dev/Eclipse IDE/Debug in Eclipse IDE.md",
     "2-areas/Professional Growth/Tracy Lee, CEO This Dot.md",
-    "0-inbox/Untitled.md",
-    "2-areas/fullstack-dev/Java/Springdoc.md",
-    "conflict-files-obsidian-git.md",
-    "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @Parameter.md",
-    "0-inbox/Questions Sept 24.md",
+    "1-projects/fuel-saver-app/Java/OpenAPI spec.md",
+    "1-projects/fuel-saver-app/Enum issue.md",
+    "1-projects/Goals at infoware.md",
+    "1-projects/Blog/Setting up Next.js blog.md",
+    "1-projects/Blog",
+    "0-inbox/Basic Syntax of @Parameter.md",
+    "0-inbox/Basic Syntax of @ApiResponse.md",
+    "0-inbox/Setting up Next.js blog.md",
+    "0-inbox/TODO Monday Sept 30.md",
     "0-inbox/My first try.md",
     "2-areas/fullstack-dev/Java/Pageable.md",
-    "2-areas/Life Management/Schwab.md",
-    "2-areas/Life Management/Passwords.md",
-    "0-inbox/Master TODO list.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/DTO.md",
-    "2-areas/fullstack-dev/Java/Design Patterns/flow of DAO and DTO.md",
+    "0-inbox/Springdoc.md",
+    "conflict-files-obsidian-git.md",
+    "0-inbox/OpenAPI spec.md",
+    "0-inbox/Goals at infoware.md",
+    "2-areas/fullstack-dev/Java/Java Generics.md",
+    "2-areas/fullstack-dev/Java/Jackson.md",
     "2-areas/fullstack-dev/Java/Exceptions/IOExceptions.md",
-    "2-areas/fullstack-dev/Java/Exceptions",
     "2-areas/fullstack-dev/Java/Variables",
-    "3-resources/Using AI",
+    "2-areas/fullstack-dev/Java/Exceptions",
     "2-areas/fullstack-dev/Eclipse IDE",
-    "1-projects/Ideas/Hackathon",
-    "1-projects/Ideas/Clothes tracker",
     "1-projects/Ideas",
+    "3-resources/Using AI",
+    "1-projects/Ideas/Clothes tracker",
     "3-resources/images/IMG_5087.png",
-    "1-projects/Hackathon",
+    "1-projects/Ideas/Hackathon",
+    "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "3-resources/images/Pasted image 20240815124638.png",
     "3-resources/images/Pasted image 20240813133542.png",
