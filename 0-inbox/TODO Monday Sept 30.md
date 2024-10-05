@@ -28,5 +28,6 @@ X Creating DTOs for Update and Save Methods for separation of concerns and secur
 - [x] 200 response body in /delete
 - [x] Save method to be what is the example street etx
 - [x] getDriver response is not correct 
-- [ ] 
+- [ ] add **GOOD** comments to my code
+- [ ] Add better error handling and logging 
 
