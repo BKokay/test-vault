@@ -3,6 +3,8 @@
 	- [ ] Check how Georg uses logging in the Server API
 	- [ ] Refactor controller to only call the service
 		- [ ] remove all business logic from controller into service class
+			- [ ] actually keep if/else in controller & return ResoibseEntity
+				- [ ] in Service, return object
 		- [ ] add logging to service class
 	- [ ] *Where to put the FuelType enum class?*
 	- [ ] *Rename entity to model?*
