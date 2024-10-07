@@ -1,6 +1,9 @@
 ## Time Block 10/7
 - [ ] 9:10 - 12:00 add logs to each methods
 	- [ ] Check how Georg uses logging in the Server API
+	- [ ] Refactor controller to only call the service
+		- [ ] remove all business logic from controller into service class
+		- [ ] add logging to service class
 	- [ ] *Where to put the FuelType enum class?*
 	- [ ] *Rename entity to model?*
 	- [ ] *Remove CheckInputsUtil and add spring annotations* 

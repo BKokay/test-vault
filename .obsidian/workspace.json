@@ -80,6 +80,42 @@
             }
           },
           {
+            "id": "a8876cf752b74047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/@NotEmpty.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "44190a6500c131e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Timeblock.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a38a5249f4e9979f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/ID parameter for Spring.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "679bfb6dadcf6f8d",
             "type": "leaf",
             "state": {
@@ -104,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/@NotBlank.md",
+                "file": "0-inbox/ID parameter for Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/@NotBlank.md",
+                "file": "0-inbox/ID parameter for Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/@NotBlank.md"
+                "file": "0-inbox/ID parameter for Spring.md"
               }
             }
           },
@@ -242,14 +278,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2c40304317a444a",
+  "active": "a38a5249f4e9979f",
   "lastOpenFiles": [
     "0-inbox/Timeblock.md",
+    "0-inbox/ID parameter for Spring.md",
+    "0-inbox/Blog.md",
     "0-inbox/@NotBlank.md",
     "0-inbox/@NotEmpty.md",
     "0-inbox/@NotNull.md",
+    "0-inbox",
     "0-inbox/TODO Monday Sept 30.md",
-    "0-inbox/Blog.md",
     "2-areas/fullstack-dev/distribution family.md",
     "2-areas/fullstack-dev/Java/functional interfaces.md",
     "2-areas/fullstack-dev/Java/Springdoc.md",
@@ -271,7 +309,6 @@
     "2-areas/fullstack-dev/Java/Pageable.md",
     "0-inbox/Springdoc.md",
     "conflict-files-obsidian-git.md",
-    "0-inbox/OpenAPI spec.md",
     "2-areas/fullstack-dev/Java/Variables",
     "2-areas/fullstack-dev/Java/Exceptions",
     "2-areas/fullstack-dev/Eclipse IDE",
@@ -280,7 +317,6 @@
     "1-projects/Ideas/Clothes tracker",
     "3-resources/images/IMG_5087.png",
     "1-projects/Ideas/Hackathon",
-    "2-areas/Life Management/Meal Plans",
     "3-resources/images/Pasted image 20240918100802.png",
     "3-resources/images/Pasted image 20240815124638.png",
     "3-resources/images/Pasted image 20240813133542.png",
