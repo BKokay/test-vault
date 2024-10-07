@@ -15,6 +15,13 @@
 - [ ] 1 - 3 see what kind of errors could be thrown from each layer (use AI)
 	- [ ] make sure each error is handled in controller
 - [ ] Throughout - Add GOOD comments to explain what each layer or method is doing 
+// return the optional from DAO & 404 from this class
+// Helper class to not have to repeat over and over
+// move back to controller bc controller handles API level so exceptions and
+// results
+// 1 return object
+// 2 exception - 500, 400 (exception handler class)
+// 3 empty bc uuid doesnt exist
 
 ## Time Block 10/8
 - [ ] Finish any of the above 
