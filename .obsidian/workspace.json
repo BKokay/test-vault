@@ -109,7 +109,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Timeblock.md",
+                "file": "2-areas/Life Management/Passwords.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3428e200cd92a863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Maut rechner.md",
                 "mode": "source",
                 "source": true
               }
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Timeblock.md",
+                "file": "0-inbox/Maut rechner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Timeblock.md",
+                "file": "0-inbox/Maut rechner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Timeblock.md"
+                "file": "0-inbox/Maut rechner.md"
               }
             }
           },
@@ -278,10 +290,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a38a5249f4e9979f",
+  "active": "3428e200cd92a863",
   "lastOpenFiles": [
-    "0-inbox/ID parameter for Spring.md",
+    "2-areas/Life Management/Passwords.md",
+    "0-inbox/Maut rechner.md",
     "0-inbox/Timeblock.md",
+    "0-inbox/ID parameter for Spring.md",
     "0-inbox/Blog.md",
     "0-inbox/@NotBlank.md",
     "0-inbox/@NotEmpty.md",
@@ -307,8 +321,6 @@
     "0-inbox/Setting up Next.js blog.md",
     "0-inbox/My first try.md",
     "2-areas/fullstack-dev/Java/Pageable.md",
-    "0-inbox/Springdoc.md",
-    "conflict-files-obsidian-git.md",
     "2-areas/fullstack-dev/Java/Variables",
     "2-areas/fullstack-dev/Java/Exceptions",
     "2-areas/fullstack-dev/Eclipse IDE",
