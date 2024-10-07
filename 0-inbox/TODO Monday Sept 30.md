@@ -31,3 +31,9 @@ X Creating DTOs for Update and Save Methods for separation of concerns and secur
 - [ ] add **GOOD** comments to my code
 - [ ] Add better error handling and logging 
 
+## Time Block 10/7
+- [ ] 9:10 - 12:00 add logs to each methods
+	- [ ] Check how Georg uses logging in the Server API
+- [ ] 1 - 3 see what kind of errors could be thrown from each layer (use AI)
+	- [ ] make sure each error is handled in controller
+- [ ] Throughout - Add GOOD comments to explain what each layer or method is doing  
