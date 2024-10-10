@@ -8,108 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4216de4cfdb9807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/Unit Testing.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "34c81086253f4724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Questions Sept 24.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c04165bcc48bfcd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "817475df7a79383f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/TODO Monday Sept 30.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "ee4b282bd7bccb31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Timeblock.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c2c40304317a444a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/@NotBlank.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a8876cf752b74047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/@NotEmpty.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "44190a6500c131e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Timeblock.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "679bfb6dadcf6f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Blog.md",
                 "mode": "source",
                 "source": true
               }
@@ -127,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,36 +169,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44190a6500c131e9",
+  "active": "ee4b282bd7bccb31",
   "lastOpenFiles": [
-    "0-inbox/Get docs.md",
+    "2-areas/fullstack-dev/Java/@NotBlank.md",
+    "2-areas/fullstack-dev/Java/@NotEmpty.md",
+    "1-projects/Blog/Blog.md",
+    "1-projects/watch and code/Class 2 - Watch and Code.md",
+    "1-projects/watch and code",
+    "1-projects/fuel-saver-app/DONT FORGET.md",
+    "1-projects/fuel-saver-app/Get docs.md",
+    "2-areas/fullstack-dev/Java/IllegalStateException.md",
+    "1-projects/fuel-saver-app/TODO Monday Sept 30.md",
+    "0-inbox/Maut rechner.md",
     "0-inbox/Timeblock.md",
     "2-areas/Life Management/Passwords.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
-    "0-inbox/IllegalStateException.md",
     "1-projects/fuel-saver-app/Questions 1.md",
     "1-projects/fuel-saver-app/TODO.md",
     "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @ApiResponse.md",
     "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @Parameter.md",
-    "0-inbox/DONT FORGET.md",
     "1-projects/Goals at infoware.md",
-    "0-inbox/Questions Sept 24.md",
-    "0-inbox/Maut rechner.md",
-    "0-inbox/Class 2 - Watch and Code.md",
-    "0-inbox/ID parameter for Spring.md",
-    "0-inbox/Blog.md",
-    "0-inbox/@NotBlank.md",
-    "0-inbox/@NotEmpty.md",
-    "0-inbox/@NotNull.md",
+    "1-projects/fuel-saver-app/Questions Sept 24.md",
+    "2-areas/fullstack-dev/Java/ID parameter for Spring.md",
+    "2-areas/fullstack-dev/Java/@NotNull.md",
     "0-inbox",
-    "0-inbox/TODO Monday Sept 30.md",
     "2-areas/fullstack-dev/distribution family.md",
     "2-areas/fullstack-dev/Java/functional interfaces.md",
     "2-areas/fullstack-dev/Java/Springdoc.md",
     "2-areas/fullstack-dev/Java/Spring",
     "2-areas/fullstack-dev/Java/How to set up a string controller.md",
     "2-areas/fullstack-dev/Eclipse IDE/Debug in Eclipse IDE.md",
-    "2-areas/Professional Growth/Tracy Lee, CEO This Dot.md",
     "1-projects/Blog",
     "2-areas/fullstack-dev/Java/Variables",
     "2-areas/fullstack-dev/Java/Exceptions",
@@ -304,7 +207,6 @@
     "3-resources/Using AI",
     "1-projects/Ideas/Clothes tracker",
     "3-resources/images/IMG_5087.png",
-    "1-projects/Ideas/Hackathon",
     "3-resources/images/Pasted image 20240918100802.png",
     "3-resources/images/Pasted image 20240815124638.png",
     "3-resources/images/Pasted image 20240813133542.png",
