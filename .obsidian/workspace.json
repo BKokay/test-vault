@@ -104,30 +104,6 @@
             }
           },
           {
-            "id": "a38a5249f4e9979f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/Life Management/Passwords.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3428e200cd92a863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "679bfb6dadcf6f8d",
             "type": "leaf",
             "state": {
@@ -152,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -218,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "0-inbox/Timeblock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "0-inbox/Timeblock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
+                "file": "0-inbox/Timeblock.md"
               }
             }
           },
@@ -290,11 +266,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3428e200cd92a863",
+  "active": "44190a6500c131e9",
   "lastOpenFiles": [
-    "0-inbox/IllegalStateException.md",
-    "1-projects/fuel-saver-app/Notes from Georg.md",
     "0-inbox/Get docs.md",
+    "0-inbox/Timeblock.md",
+    "2-areas/Life Management/Passwords.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "0-inbox/IllegalStateException.md",
     "1-projects/fuel-saver-app/Questions 1.md",
     "1-projects/fuel-saver-app/TODO.md",
     "2-areas/fullstack-dev/Java/Spring/Basic Syntax of @ApiResponse.md",
@@ -304,8 +282,6 @@
     "0-inbox/Questions Sept 24.md",
     "0-inbox/Maut rechner.md",
     "0-inbox/Class 2 - Watch and Code.md",
-    "2-areas/Life Management/Passwords.md",
-    "0-inbox/Timeblock.md",
     "0-inbox/ID parameter for Spring.md",
     "0-inbox/Blog.md",
     "0-inbox/@NotBlank.md",

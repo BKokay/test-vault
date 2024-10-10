@@ -1,4 +1,4 @@
-## Time Block 10/7
+## 10/8
 - [ ] 9:10 - 12:00 add logs to each methods
 	- [ ] Check how Georg uses logging in the Server API
 	- [ ] Refactor controller to only call the service
@@ -23,7 +23,7 @@
 // 2 exception - 500, 400 (exception handler class)
 // 3 empty bc uuid doesnt exist
 
-## Time Block 10/8
+## 10/11
 - [ ] Finish any of the above 
 - [ ] Add CI/CD to get it on to staging server
 	- [ ] Check properties
