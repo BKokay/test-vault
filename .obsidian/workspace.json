@@ -30,8 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "be64fb504bc799b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1010.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3869704e863485cb",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Timeblock.md",
+                "file": "0-inbox/1010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Timeblock.md",
+                "file": "0-inbox/1010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Timeblock.md"
+                "file": "0-inbox/1010.md"
               }
             }
           },
@@ -169,8 +183,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee4b282bd7bccb31",
+  "active": "be64fb504bc799b9",
   "lastOpenFiles": [
+    "0-inbox/1010.md",
+    "0-inbox/Timeblock.md",
     "2-areas/fullstack-dev/Java/@NotBlank.md",
     "2-areas/fullstack-dev/Java/@NotEmpty.md",
     "1-projects/Blog/Blog.md",
@@ -181,7 +197,6 @@
     "2-areas/fullstack-dev/Java/IllegalStateException.md",
     "1-projects/fuel-saver-app/TODO Monday Sept 30.md",
     "0-inbox/Maut rechner.md",
-    "0-inbox/Timeblock.md",
     "2-areas/Life Management/Passwords.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "1-projects/fuel-saver-app/Questions 1.md",
