@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6e8e64d2e4cec86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Methods for use cases draft.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "connection.pre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/1010.md",
+                "file": "1-projects/fuel-saver-app/Methods for use cases draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/1010.md",
+                "file": "1-projects/fuel-saver-app/Methods for use cases draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/1010.md"
+                "file": "1-projects/fuel-saver-app/Methods for use cases draft.md"
               }
             }
           },
@@ -170,10 +183,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be64fb504bc799b9",
+  "active": "6e8e64d2e4cec86e",
   "lastOpenFiles": [
-    "2-areas/Life Management/Passwords.md",
+    "0-inbox/DOCs Edit.md",
+    "3-resources/images/Pasted image 20241011102002.png",
     "0-inbox/1010.md",
+    "2-areas/Life Management/Passwords.md",
     "0-inbox/Timeblock.md",
     "2-areas/fullstack-dev/Java/@NotBlank.md",
     "2-areas/fullstack-dev/Java/@NotEmpty.md",
@@ -199,8 +214,6 @@
     "2-areas/fullstack-dev/Java/functional interfaces.md",
     "2-areas/fullstack-dev/Java/Springdoc.md",
     "2-areas/fullstack-dev/Java/Spring",
-    "2-areas/fullstack-dev/Java/How to set up a string controller.md",
-    "2-areas/fullstack-dev/Eclipse IDE/Debug in Eclipse IDE.md",
     "1-projects/Blog",
     "2-areas/fullstack-dev/Java/Variables",
     "2-areas/fullstack-dev/Java/Exceptions",
