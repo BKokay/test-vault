@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Life Management/Passwords.md",
+                "file": "0-inbox/1010.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-areas/Life Management/Passwords.md",
+                "file": "0-inbox/1010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-areas/Life Management/Passwords.md",
+                "file": "0-inbox/1010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Life Management/Passwords.md"
+                "file": "0-inbox/1010.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "be64fb504bc799b9",
   "lastOpenFiles": [
+    "2-areas/Life Management/Passwords.md",
     "0-inbox/1010.md",
     "0-inbox/Timeblock.md",
     "2-areas/fullstack-dev/Java/@NotBlank.md",
@@ -184,7 +185,6 @@
     "2-areas/fullstack-dev/Java/IllegalStateException.md",
     "1-projects/fuel-saver-app/TODO Monday Sept 30.md",
     "0-inbox/Maut rechner.md",
-    "2-areas/Life Management/Passwords.md",
     "1-projects/fuel-saver-app/Notes from Georg.md",
     "1-projects/fuel-saver-app/Questions 1.md",
     "1-projects/fuel-saver-app/TODO.md",
