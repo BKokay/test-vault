@@ -46,3 +46,7 @@ For the database, it can just be clothes table. Loop through table x times and a
 
 ~~Check out [[vaadin]] for front end? Uses Java~~ 
 Use [[react]] for front end because it is so in demand 
+
+# V2
+A clothes bundle e-commerce website only for clothes that are for 0-2 year olds 
+Why? These clothes are barely worn, and usually sit in the basement collecting dust until the next kid. 
