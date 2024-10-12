@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Ideas/Clothes tracker/baby clothes tracker.md",
+                "file": "0-inbox/Trip.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1-projects/Ideas/Clothes tracker/baby clothes tracker.md",
+            "file": "0-inbox/Trip.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1-projects/Ideas/Clothes tracker/baby clothes tracker.md",
+            "file": "0-inbox/Trip.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-projects/Ideas/Clothes tracker/baby clothes tracker.md"
+            "file": "0-inbox/Trip.md"
           }
         }
       },
@@ -164,6 +164,9 @@
   },
   "active": "e736d5e96e5c6d9f",
   "lastOpenFiles": [
+    "0-inbox/Timeblock.md",
+    "1-projects/Ideas/Clothes tracker/baby clothes tracker.md",
+    "0-inbox/1011.md",
     "0-inbox/Trip.md",
     "2-areas/Personal Growth/Brain Waves.md",
     "0-inbox/TODO Monday Sept 30.md",
@@ -194,9 +197,6 @@
     "4-archive",
     "0-inbox/To build.md",
     "0-inbox/MVC.md",
-    "0-inbox/rest controller.md",
-    "0-inbox/ResponseEntity.md",
-    "2-areas/Life Management/Meal Plans/Meal Plan.md",
     "2-areas/Life Management/Meal Plans",
     "2-areas/fullstack-dev/Linux",
     "0-inbox",
