@@ -10,3 +10,6 @@ Check in to hotel
 What does streaming on twitch entail? 
 Continue design and database design 
 Start to write API 
+
+Clerk 
+Convex 
