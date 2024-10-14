@@ -12,9 +12,9 @@
 		- [x] [[@NotNull]]
 		- [x] [[@NotEmpty]]
 		- [x] [[@NotBlank]]
-- [ ] 1 - 3 see what kind of errors could be thrown from each layer
-	- [ ] make sure each error is handled in controller
-- [ ] Throughout - Add better comments to explain what each layer or method is doing 
+- [x] 1 - 3 see what kind of errors could be thrown from each layer
+	- [x] make sure each error is handled in controller
+- [x] Throughout - Add better comments to explain what each layer or method is doing 
 // return the optional from DAO & 404 from this class
 // Helper class to not have to repeat over and over
 // move back to controller bc controller handles API level so exceptions and
@@ -27,3 +27,10 @@
 - [ ] Finish any of the above 
 - [ ] Add CI/CD to get it on to staging server
 	- [ ] Check properties
+
+## 10/14
+- [ ] 11-12:30 Finish implementing coordinate in gas station
+- [ ] 12:30-1 Meditate
+- [ ] 1-1:30 Read article that Georg sent
+- [ ] 1:30-3 fix any errors from the tool Georg sent
+- [ ] 
