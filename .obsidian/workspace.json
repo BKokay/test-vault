@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "d2da1ab5f61a683a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Steps to login to server and run playbook.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "6e8e64d2e4cec86e",
             "type": "leaf",
             "state": {
@@ -196,9 +208,10 @@
   },
   "active": "d17ca3dbc969b763",
   "lastOpenFiles": [
+    "0-inbox/Steps to login to server and run playbook.md",
+    "0-inbox/1015.md",
     "0-inbox/1010.md",
     "conflict-files-obsidian-git.md",
-    "0-inbox/1015.md",
     "0-inbox/1011.md",
     "0-inbox/Timeblock.md",
     "1-projects/fuel-saver-app/Methods for use cases draft.md",
@@ -223,7 +236,6 @@
     "1-projects/fuel-saver-app/DONT FORGET.md",
     "1-projects/fuel-saver-app/Get docs.md",
     "2-areas/fullstack-dev/Java/IllegalStateException.md",
-    "1-projects/fuel-saver-app/TODO Monday Sept 30.md",
     "0-inbox",
     "2-areas/fullstack-dev/Java/Spring",
     "1-projects/Blog",
