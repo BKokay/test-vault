@@ -1,5 +1,5 @@
 # This week:
-- [ ] add Open API spec to fuel-saver-api 
+- [x] add Open API spec to fuel-saver-api 
 - [ ] organize this vault 
 - [ ] add all basics to anki 
 - [ ] Figure out how to bullet journal with Obsidian 
