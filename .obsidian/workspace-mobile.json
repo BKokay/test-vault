@@ -50,9 +50,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "09689b661b7db078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/Motherboard.md",
+            "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0-inbox/Motherboard.md",
+            "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0-inbox/Motherboard.md"
+            "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md"
           }
         }
       },
@@ -174,10 +186,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f5e410a6c8663ae",
+  "active": "09689b661b7db078",
   "lastOpenFiles": [
-    "0-inbox/Trip.md",
+    "0-inbox/TODO - baby tracker.md",
+    "0-inbox/1015.md",
     "0-inbox/Motherboard.md",
+    "0-inbox/Trip.md",
     "0-inbox/Timeblock.md",
     "1-projects/Ideas/Clothes tracker/baby clothes tracker.md",
     "0-inbox/1011.md",
@@ -204,11 +218,9 @@
     "4-archive/WGU/Preplanning/PreStudy.md",
     "4-archive/WGU/Preplanning/WGU.md",
     "4-archive/WGU/Preplanning/Timeline & Cost.md",
-    "4-archive/WGU/Preplanning/Study.com.md",
     "4-archive/WGU/Preplanning",
     "4-archive/WGU",
     "4-archive",
-    "0-inbox/To build.md",
     "2-areas/Life Management/Meal Plans",
     "2-areas/fullstack-dev/Linux",
     "0-inbox",
