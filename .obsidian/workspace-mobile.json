@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
+                "file": "1-projects/Ideas/To build.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
+            "file": "1-projects/Ideas/To build.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
+            "file": "1-projects/Ideas/To build.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md"
+            "file": "1-projects/Ideas/To build.md"
           }
         }
       },
@@ -188,6 +188,7 @@
   },
   "active": "09689b661b7db078",
   "lastOpenFiles": [
+    "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
     "0-inbox/TODO - baby tracker.md",
     "0-inbox/1015.md",
     "0-inbox/Motherboard.md",
@@ -217,7 +218,6 @@
     "4-archive/WGU/Preplanning/Course List.md",
     "4-archive/WGU/Preplanning/PreStudy.md",
     "4-archive/WGU/Preplanning/WGU.md",
-    "4-archive/WGU/Preplanning/Timeline & Cost.md",
     "4-archive/WGU/Preplanning",
     "4-archive/WGU",
     "4-archive",
