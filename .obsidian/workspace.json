@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Connect to postgres from fuelsaver.md",
+                "file": "0-inbox/1015.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Connect to postgres from fuelsaver"
+              "title": "1015"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Connect to postgres from fuelsaver.md",
+                "file": "0-inbox/1015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Connect to postgres from fuelsaver"
+              "title": "Backlinks for 1015"
             }
           },
           {
@@ -239,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Connect to postgres from fuelsaver.md",
+                "file": "0-inbox/1015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Connect to postgres from fuelsaver"
+              "title": "Outgoing links from 1015"
             }
           },
           {
@@ -266,10 +266,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Connect to postgres from fuelsaver.md"
+                "file": "0-inbox/1015.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Connect to postgres from fuelsaver"
+              "title": "Outline of 1015"
             }
           },
           {
@@ -304,8 +304,8 @@
   },
   "active": "3c75b52cf5812f20",
   "lastOpenFiles": [
-    "0-inbox/1015.md",
     "0-inbox/Connect to postgres from fuelsaver.md",
+    "0-inbox/1015.md",
     "conflict-files-obsidian-git.md",
     "ansible notes.canvas",
     "timestamps/2024/10-October/2024-10-17-Thursday.md",
