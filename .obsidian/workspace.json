@@ -16,7 +16,9 @@
                 "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Notes from Georg"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "1-projects/fuel-saver-app/1010.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1010"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "0-inbox/1015.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1015"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "0-inbox/1015.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1015"
             }
           },
           {
@@ -64,22 +72,35 @@
                 "file": "0-inbox/ansible read me.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ansible read me"
             }
           },
           {
             "id": "c5ffd1ff2dad7ca9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ansible notes.canvas",
-                "viewState": {
-                  "x": 315.5,
-                  "y": 2887.5,
-                  "zoom": 0
-                }
-              }
+                "file": "0-inbox/1015.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1015"
+            }
+          },
+          {
+            "id": "c7629f68bca6a7ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -91,7 +112,9 @@
                 "file": "0-inbox/Steps to login to server and run playbook.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Steps to login to server and run playbook"
             }
           },
           {
@@ -103,11 +126,13 @@
                 "file": "1-projects/fuel-saver-app/Methods for use cases draft.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Methods for use cases draft"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -127,7 +152,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -142,7 +169,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -150,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -173,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/yml.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +212,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notes from Georg"
             }
           },
           {
@@ -190,10 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/yml.md",
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes from Georg"
             }
           },
           {
@@ -204,7 +239,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -213,8 +250,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/yml.md"
-              }
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes from Georg"
             }
           },
           {
@@ -222,7 +261,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -245,10 +286,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5ffd1ff2dad7ca9",
+  "active": "c7629f68bca6a7ac",
   "lastOpenFiles": [
-    "0-inbox/1015.md",
     "ansible notes.canvas",
+    "0-inbox/1015.md",
     "timestamps/2024/10-October/2024-10-17-Thursday.md",
     "0-inbox/yml.md",
     "timestamps/2024/10-October",
