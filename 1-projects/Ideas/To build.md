@@ -14,3 +14,7 @@ Simple database. *Increment* and decrement options. Pictures for the items with 
 [[First idea - clothes tracker]] [[baby announcement]]
 
 AI video mock interviewer 
+
+Go the fuck to sleep (app that counts how many times you bounced until your baby goes to sleep )
+
+Baby name generator with swiping. Like tender 
