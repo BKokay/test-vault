@@ -110,6 +110,18 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Name Picker - concept.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2a23d0de6e98f964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Name Picker - concept.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -266,10 +278,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75d9730d6438140f",
+  "active": "2a23d0de6e98f964",
   "lastOpenFiles": [
-    "0-inbox/Spring Data JPA Naming Conventions.md",
+    "0-inbox/markdown viewer vscode shortcuts.md",
     "0-inbox/Name Picker - concept.md",
+    "0-inbox/Spring Data JPA Naming Conventions.md",
     "1-projects/Ideas/Name Picker",
     "0-inbox/Connect to postgres from fuelsaver.md",
     "0-inbox/TODO - baby tracker.md",
@@ -296,7 +309,6 @@
     "1-projects/Clothes tracker/Functionality - Clothes Tracker.md",
     "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
     "1-projects/Clothes tracker/baby announcement.md",
-    "1-projects/watch and code/Class 2 - Watch and Code.md",
     "3-resources/images/Pasted image 20241011102002.png",
     "1-projects/watch and code",
     "2-areas/fullstack-dev/Java/Spring",
