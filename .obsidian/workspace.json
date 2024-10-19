@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Ideas/Clothes tracker/First idea - clothes tracker.md",
+                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
+                "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Ideas/Clothes tracker/User Stories Clothes Tracker.md",
+                "file": "1-projects/Clothes tracker/User Stories Clothes Tracker.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Ideas/Clothes tracker/Problem - Clothes Tracker.md",
+                "file": "1-projects/Clothes tracker/Problem - Clothes Tracker.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
+                "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Ideas/Clothes tracker/First idea - clothes tracker.md",
+                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Ideas/Clothes tracker/Tech stack - Clothes Trackers.md",
+                "file": "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md",
                 "mode": "source",
                 "source": true
               }
@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "75d9730d6438140f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Name Picker - concept.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "fb96bb977c11a8f0",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Spring Data JPA Naming Conventions.md",
+                "file": "0-inbox/Name Picker - concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Spring Data JPA Naming Conventions.md",
+                "file": "0-inbox/Name Picker - concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Spring Data JPA Naming Conventions.md"
+                "file": "0-inbox/Name Picker - concept.md"
               }
             }
           },
@@ -254,8 +266,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1087eea9f9ab3d44",
+  "active": "75d9730d6438140f",
   "lastOpenFiles": [
+    "0-inbox/Spring Data JPA Naming Conventions.md",
+    "0-inbox/Name Picker - concept.md",
+    "1-projects/Ideas/Name Picker",
     "0-inbox/Connect to postgres from fuelsaver.md",
     "0-inbox/TODO - baby tracker.md",
     "timestamps/2024/10-October/2024-10-17-Thursday.md",
@@ -264,7 +279,7 @@
     "1-projects/fuel-saver-app/1011.md",
     "1-projects/fuel-saver-app/1010.md",
     "1-projects/Ideas/Motherboard.md",
-    "1-projects/Ideas/Clothes tracker/TODO - baby tracker.md",
+    "1-projects/Clothes tracker/TODO - baby tracker.md",
     "0-inbox/yml.md",
     "0-inbox/ansible read me.md",
     "0-inbox/Server Docs edit.md",
@@ -272,18 +287,16 @@
     "0-inbox/ubuntu.md",
     "0-inbox/Steps to login to server and run playbook.md",
     "0-inbox/1015.md",
-    "0-inbox/Spring Data JPA Naming Conventions.md",
-    "1-projects/Ideas/Clothes tracker/Tech stack - Clothes Trackers.md",
+    "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md",
     "0-inbox/Motherboard.md",
-    "1-projects/Ideas/Clothes tracker/First idea - clothes tracker.md",
-    "1-projects/Ideas/Clothes tracker/User Stories Clothes Tracker.md",
-    "1-projects/Ideas/Clothes tracker/Requirements - Clothes Tracker.md",
-    "1-projects/Ideas/Clothes tracker/Problem - Clothes Tracker.md",
-    "1-projects/Ideas/Clothes tracker/Functionality - Clothes Tracker.md",
-    "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
-    "1-projects/Ideas/Clothes tracker/baby announcement.md",
+    "1-projects/Clothes tracker/First idea - clothes tracker.md",
+    "1-projects/Clothes tracker/User Stories Clothes Tracker.md",
+    "1-projects/Clothes tracker/Requirements - Clothes Tracker.md",
+    "1-projects/Clothes tracker/Problem - Clothes Tracker.md",
+    "1-projects/Clothes tracker/Functionality - Clothes Tracker.md",
+    "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
+    "1-projects/Clothes tracker/baby announcement.md",
     "1-projects/watch and code/Class 2 - Watch and Code.md",
-    "2-areas/fullstack-dev/Java/Unit Testing.md",
     "3-resources/images/Pasted image 20241011102002.png",
     "1-projects/watch and code",
     "2-areas/fullstack-dev/Java/Spring",
@@ -293,7 +306,6 @@
     "2-areas/fullstack-dev/Eclipse IDE",
     "1-projects/Ideas",
     "3-resources/Using AI",
-    "1-projects/Ideas/Clothes tracker",
     "3-resources/images/IMG_5087.png",
     "3-resources/images/Pasted image 20240918100802.png",
     "3-resources/images/Pasted image 20240815124638.png",
