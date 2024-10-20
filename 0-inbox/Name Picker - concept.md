@@ -10,14 +10,5 @@ The user gets a name. They swipe right if they like it, or left if they don't. Y
 - [ ] Collaboration: https://liveblocks.io/
 	- [ ] Can be added later. 
 
-|Shortcuts|Functionality|
-|---|---|
-|cmd-k v or ctrl-k v|Open preview to the Side|
-|cmd-shift-v or ctrl-shift-v|Open preview|
-|ctrl-shift-s|Sync preview / Sync source|
-|shift-enter|Run Code Chunk|
-|ctrl-shift-enter|Run all Code Chunks|
-|cmd-= or cmd-shift-=|Preview zoom in|
-|cmd-- or cmd-shift-_|Preview zoom out|
-|cmd-0|Preview reset zoom|
-|esc|Toggle sidebar TOC|
+
+![[Screenshot 2024-10-20 at 6.48.24 AM.png]]
