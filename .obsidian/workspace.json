@@ -120,6 +120,20 @@
             }
           },
           {
+            "id": "50779bf0939f1e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1021.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1021"
+            }
+          },
+          {
             "id": "d2da1ab5f61a683a",
             "type": "leaf",
             "state": {
@@ -148,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -220,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/1015.md",
+                "file": "0-inbox/1021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +244,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1015"
+              "title": "Backlinks for 1021"
             }
           },
           {
@@ -239,12 +253,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/1015.md",
+                "file": "0-inbox/1021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1015"
+              "title": "Outgoing links from 1021"
             }
           },
           {
@@ -266,10 +280,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/1015.md"
+                "file": "0-inbox/1021.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1015"
+              "title": "Outline of 1021"
             }
           },
           {
@@ -302,10 +316,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c75b52cf5812f20",
+  "active": "50779bf0939f1e82",
   "lastOpenFiles": [
-    "0-inbox/Connect to postgres from fuelsaver.md",
     "0-inbox/1015.md",
+    "0-inbox/1021.md",
+    "0-inbox/Connect to postgres from fuelsaver.md",
     "conflict-files-obsidian-git.md",
     "ansible notes.canvas",
     "timestamps/2024/10-October/2024-10-17-Thursday.md",
@@ -332,7 +347,6 @@
     "1-projects/Ideas/Clothes tracker/Functionality - Clothes Tracker.md",
     "1-projects/Ideas/Clothes tracker/First idea - clothes tracker.md",
     "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
-    "1-projects/Ideas/Clothes tracker/TODO - baby tracker.md",
     "3-resources/images/Pasted image 20241011102002.png",
     "1-projects/watch and code",
     "0-inbox",
