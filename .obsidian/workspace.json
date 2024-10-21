@@ -63,8 +63,7 @@
               "title": "send ballot"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Setting up different environments in Spring.md",
+                "file": "0-inbox/1021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Setting up different environments in Spring"
+              "title": "Backlinks for 1021"
             }
           },
           {
@@ -155,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Setting up different environments in Spring.md",
+                "file": "0-inbox/1021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Setting up different environments in Spring"
+              "title": "Outgoing links from 1021"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Setting up different environments in Spring.md"
+                "file": "0-inbox/1021.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Setting up different environments in Spring"
+              "title": "Outline of 1021"
             }
           },
           {
@@ -218,10 +217,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d92dcdad5d51f22a",
+  "active": "8c394e124c3e2f63",
   "lastOpenFiles": [
-    "0-inbox/Untitled.md",
     "0-inbox/Setting up different environments in Spring.md",
+    "0-inbox/Untitled.md",
     "0-inbox/1021.md",
     "0-inbox/send ballot.md",
     "1-projects/fuel-saver-app/Get docs.md",
