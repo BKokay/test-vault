@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "3de3c5485f09e8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d92dcdad5d51f22a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Setting up different environments in Spring.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Setting up different environments in Spring"
+            }
+          },
+          {
             "id": "d04296862d666911",
             "type": "leaf",
             "state": {
@@ -35,7 +63,8 @@
               "title": "send ballot"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "localhost",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/1021.md",
+                "file": "0-inbox/Setting up different environments in Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1021"
+              "title": "Backlinks for Setting up different environments in Spring"
             }
           },
           {
@@ -126,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/1021.md",
+                "file": "0-inbox/Setting up different environments in Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1021"
+              "title": "Outgoing links from Setting up different environments in Spring"
             }
           },
           {
@@ -153,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/1021.md"
+                "file": "0-inbox/Setting up different environments in Spring.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1021"
+              "title": "Outline of Setting up different environments in Spring"
             }
           },
           {
@@ -189,10 +218,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c394e124c3e2f63",
+  "active": "d92dcdad5d51f22a",
   "lastOpenFiles": [
-    "0-inbox/send ballot.md",
+    "0-inbox/Untitled.md",
+    "0-inbox/Setting up different environments in Spring.md",
     "0-inbox/1021.md",
+    "0-inbox/send ballot.md",
     "1-projects/fuel-saver-app/Get docs.md",
     "1-projects/fuel-saver-app/ansible read me.md",
     "1-projects/fuel-saver-app/1015.md",
@@ -217,8 +248,6 @@
     "0-inbox/yml.md",
     "conflict-files-obsidian-git.md",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
-    "1-projects/Clothes tracker/baby announcement.md",
-    "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md",
     "1-projects/Clothes tracker",
     "ansible notes.canvas",
     "timestamps/2024/10-October",
