@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md",
+                "file": "1-projects/Clothes tracker/TODO - baby tracker.md",
                 "mode": "source",
                 "source": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md",
+                "file": "1-projects/Clothes tracker/TODO - baby tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md",
+                "file": "1-projects/Clothes tracker/TODO - baby tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md"
+                "file": "1-projects/Clothes tracker/TODO - baby tracker.md"
               }
             }
           },
@@ -244,6 +244,9 @@
   },
   "active": "c4faf93b5fad4236",
   "lastOpenFiles": [
+    "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
+    "1-projects/Clothes tracker/TODO - baby tracker.md",
+    "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md",
     "0-inbox/Name Picker - concept.md",
     "3-resources/markdown viewer vscode shortcuts.md",
     "2-areas/fullstack-dev/ubuntu.md",
@@ -272,9 +275,6 @@
     "timestamps/2024/10-October/2024-10-17-Thursday.md",
     "timestamps/2024/10-October",
     "ansible notes.canvas",
-    "1-projects/fuel-saver-app/1011.md",
-    "1-projects/fuel-saver-app/1010.md",
-    "1-projects/Ideas/Motherboard.md",
     "3-resources/images/Pasted image 20241011102002.png",
     "1-projects/watch and code",
     "2-areas/fullstack-dev/Java/Spring",
