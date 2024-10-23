@@ -6,3 +6,5 @@ Changed User to Family and Child to Person. Changed IDs to UUIDs.
 - [ ] Add service to ClothingItem 
 - [ ] Add service for ToBuy
 - [ ] Add controllers ALL 
+
+Finished 10/23 on expanding enums for shoes. Look at Claude reply. Does this matter though? We're trying to get an MVP for a portfolio. 
