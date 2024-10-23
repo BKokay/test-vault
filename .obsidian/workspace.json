@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1021.md",
-                "mode": "preview",
+                "file": "0-inbox/409 duplicate object.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1021"
+              "title": "409 duplicate object"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/1021.md",
+                "file": "0-inbox/409 duplicate object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1021"
+              "title": "Backlinks for 409 duplicate object"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/1021.md",
+                "file": "0-inbox/409 duplicate object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1021"
+              "title": "Outgoing links from 409 duplicate object"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/1021.md"
+                "file": "0-inbox/409 duplicate object.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1021"
+              "title": "Outline of 409 duplicate object"
             }
           },
           {
@@ -220,9 +220,9 @@
   },
   "active": "88ede7d730625187",
   "lastOpenFiles": [
+    "0-inbox/1021.md",
     "0-inbox/409 duplicate object.md",
     "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
-    "0-inbox/1021.md",
     "1-projects/fuel-saver-app/ansible read me.md",
     "0-inbox/Run ansible script.md",
     "0-inbox/send ballot.md",
