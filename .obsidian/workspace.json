@@ -16,7 +16,9 @@
                 "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "First idea - clothes tracker"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Brain Dump Clothes Tracker"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "1-projects/Clothes tracker/User Stories Clothes Tracker.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "User Stories Clothes Tracker"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "1-projects/Clothes tracker/Problem - Clothes Tracker.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Problem - Clothes Tracker"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Brain Dump Clothes Tracker"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "First idea - clothes tracker"
             }
           },
           {
@@ -88,7 +100,21 @@
                 "file": "1-projects/Clothes tracker/TODO - baby tracker.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TODO - baby tracker"
+            }
+          },
+          {
+            "id": "d77a680d97120d4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -100,11 +126,13 @@
                 "file": "1-projects/fuel-saver-app/Notes from Georg.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Notes from Georg"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -124,7 +152,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -139,7 +169,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -147,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -170,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Clothes tracker/TODO - baby tracker.md",
+                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +212,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for First idea - clothes tracker"
             }
           },
           {
@@ -187,10 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Clothes tracker/TODO - baby tracker.md",
+                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from First idea - clothes tracker"
             }
           },
           {
@@ -201,7 +239,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -210,8 +250,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Clothes tracker/TODO - baby tracker.md"
-              }
+                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of First idea - clothes tracker"
             }
           },
           {
@@ -219,7 +261,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -242,7 +286,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4faf93b5fad4236",
+  "active": "d77a680d97120d4c",
   "lastOpenFiles": [
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
