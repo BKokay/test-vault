@@ -11,3 +11,7 @@ if(existingDevice.isPresent()) {
     return ResponseEntity.status(HttpStatus.CONFLICT).body(e.getMessage());  
 }
 ```
+
+[[Exceptions]]
+
+Each layer has to catch the exceptions of the next layer
