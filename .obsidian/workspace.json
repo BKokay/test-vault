@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "88ede7d730625187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1021.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1021"
+            }
+          },
+          {
             "id": "d04296862d666911",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +116,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
+                "file": "0-inbox/1021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Connect to postgres from fuelsaver"
+              "title": "Backlinks for 1021"
             }
           },
           {
@@ -142,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
+                "file": "0-inbox/1021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Connect to postgres from fuelsaver"
+              "title": "Outgoing links from 1021"
             }
           },
           {
@@ -169,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md"
+                "file": "0-inbox/1021.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Connect to postgres from fuelsaver"
+              "title": "Outline of 1021"
             }
           },
           {
@@ -205,8 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afbd8c07f18b099e",
+  "active": "88ede7d730625187",
   "lastOpenFiles": [
+    "0-inbox/409 duplicate object.md",
+    "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
     "0-inbox/1021.md",
     "1-projects/fuel-saver-app/ansible read me.md",
     "0-inbox/Run ansible script.md",
@@ -215,8 +230,6 @@
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
-    "0-inbox/Untitled.md",
-    "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
     "0-inbox/Server Docs edit.md",
     "1-projects/fuel-saver-app/Get docs.md",
     "1-projects/fuel-saver-app/1015.md",
