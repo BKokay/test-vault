@@ -223,3 +223,15 @@ createdetourroad
 
 createdetoursegement NEEDS TO BE EDITTED 
 find in DetourSegmentRequest
+
+- lat: 50.73321765
+
+- lon: 7.09467852
+
+- lat: 50.73330294
+
+- lon: 7.09444496
+
+- lat: 50.73342803
+
+- lon: 7.09402275
