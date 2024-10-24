@@ -6,25 +6,28 @@ In the UI, create a file
 ![[Pasted image 20241024110849.png]]
 
 In the Server API:
-
+`[POST] /detour/file`
+ID: 85879
 Then, get file id 
 ![[Pasted image 20241024110939.png]]
 
-In the API:
+In the API,  you can get all:
+`[GET] /detour/file/all`
 
 You can see all your files here:
 ![[Pasted image 20241024111055.png]]
 
 In the API:
-
+`[GET] /detour/file/all`
 Then using the ID, or all, you can get the segments: 
 ![[Pasted image 20241024111147.png]]
 ![[Pasted image 20241024111207.png]]
 ![[Pasted image 20241024111242.png]]
 
 API:
+`/detour/file/{fileid}/segment/all`
 
-To edit the segments in the API, you need to have the file ID and the segment ID: 
+To edit the segments in the API, you need to have the `fileid` `segmentid` and `openlr` id: 
 File ID: 41333
 Segment ID: 1981609
 /detour/file/{fileid}/segment/{segmentid}
