@@ -55,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
+                "file": "0-inbox/Server Docs edit.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Server Docs edit"
+            }
+          },
+          {
+            "id": "4c6c39ca3d79ac9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/creating segment files.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tokens"
+              "title": "creating segment files"
             }
           },
           {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
+                "file": "0-inbox/creating segment files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tokens"
+              "title": "Backlinks for creating segment files"
             }
           },
           {
@@ -169,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
+                "file": "0-inbox/creating segment files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tokens"
+              "title": "Outgoing links from creating segment files"
             }
           },
           {
@@ -196,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md"
+                "file": "0-inbox/creating segment files.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tokens"
+              "title": "Outline of creating segment files"
             }
           },
           {
@@ -232,12 +246,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "4c6c39ca3d79ac9b",
   "lastOpenFiles": [
-    "2-areas/Life Management/Passwords.md",
-    "1-projects/Infoware stuff/Tokens.md",
-    "1-projects/Infoware stuff",
+    "3-resources/images/Pasted image 20241024111242.png",
+    "3-resources/images/Pasted image 20241024111207.png",
+    "3-resources/images/Pasted image 20241024111147.png",
+    "3-resources/images/Pasted image 20241024111055.png",
+    "3-resources/images/Pasted image 20241024110939.png",
+    "3-resources/images/Pasted image 20241024110849.png",
     "0-inbox/Server Docs edit.md",
+    "0-inbox/creating segment files.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "2-areas/Life Management/Passwords.md",
+    "1-projects/Infoware stuff",
     "3-resources/markdown viewer vscode shortcuts.md",
     "0-inbox/1021.md",
     "2-areas/fullstack-dev/Git MERGE_HEAD exists.md",
@@ -262,9 +283,7 @@
     "1-projects/fuel-saver-app/Timeblock.md",
     "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
     "2-areas/fullstack-dev/OpenSSH.md",
-    "1-projects/NamePicker/Name Picker - concept.md",
     "1-projects/NamePicker",
-    "1-projects/Blog/My first try.md",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
     "1-projects/Clothes tracker",
     "ansible notes.canvas",
@@ -276,11 +295,6 @@
     "2-areas/fullstack-dev/Java/Spring",
     "1-projects/Blog",
     "2-areas/fullstack-dev/Java/Variables",
-    "2-areas/fullstack-dev/Java/Exceptions",
-    "3-resources/images/IMG_5087.png",
-    "3-resources/images/Pasted image 20240918100802.png",
-    "3-resources/images/Pasted image 20240815124638.png",
-    "3-resources/images/Pasted image 20240813133542.png",
-    "3-resources/images/IMG_4546.jpeg"
+    "2-areas/fullstack-dev/Java/Exceptions"
   ]
 }
