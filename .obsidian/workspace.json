@@ -4,137 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "131fa394d9b3ef40",
+        "id": "3832e1a5bcdc9a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "f4216de4cfdb9807",
+            "id": "8c394e124c3e2f63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
+                "file": "1-projects/fuel-saver-app/ansible read me.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "First idea - clothes tracker"
+              "title": "ansible read me"
             }
           },
           {
-            "id": "ee4715749756d72e",
+            "id": "afbd8c07f18b099e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
+                "file": "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Brain Dump Clothes Tracker"
+              "title": "Connect to postgres from fuelsaver"
             }
           },
           {
-            "id": "c671c9168c1b1ae0",
+            "id": "88ede7d730625187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Clothes tracker/User Stories Clothes Tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "User Stories Clothes Tracker"
-            }
-          },
-          {
-            "id": "7e5fcedb69e175ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/Problem - Clothes Tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Problem - Clothes Tracker"
-            }
-          },
-          {
-            "id": "48432ddbf8b70d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Brain Dump Clothes Tracker"
-            }
-          },
-          {
-            "id": "2c6ccf676778f9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "First idea - clothes tracker"
-            }
-          },
-          {
-            "id": "c4faf93b5fad4236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/1021.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1021"
-            }
-          },
-          {
-            "id": "d77a680d97120d4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/TODO - baby tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "TODO - baby tracker"
-            }
-          },
-          {
-            "id": "fb96bb977c11a8f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "3-resources/markdown viewer vscode shortcuts.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Notes from Georg"
+              "title": "markdown viewer vscode shortcuts"
+            }
+          },
+          {
+            "id": "d04296862d666911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Run ansible script.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Run ansible script"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sonarqube",
+                "query": "markdown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/1021.md",
+                "file": "3-resources/markdown viewer vscode shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1021"
+              "title": "Backlinks for markdown viewer vscode shortcuts"
             }
           },
           {
@@ -225,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/1021.md",
+                "file": "3-resources/markdown viewer vscode shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1021"
+              "title": "Outgoing links from markdown viewer vscode shortcuts"
             }
           },
           {
@@ -252,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/1021.md"
+                "file": "3-resources/markdown viewer vscode shortcuts.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1021"
+              "title": "Outline of markdown viewer vscode shortcuts"
             }
           },
           {
@@ -288,10 +219,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d77a680d97120d4c",
+  "active": "88ede7d730625187",
   "lastOpenFiles": [
-    "0-inbox/409 duplicate object.md",
     "0-inbox/1021.md",
+    "2-areas/fullstack-dev/Git MERGE_HEAD exists.md",
+    "conflict-files-obsidian-git.md",
+    "0-inbox/409 duplicate object.md",
     "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
     "1-projects/fuel-saver-app/ansible read me.md",
     "0-inbox/Run ansible script.md",
@@ -300,48 +233,41 @@
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
-    "2-areas/fullstack-dev/Setting up different environments in Spring.md",
-    "1-projects/Clothes tracker/TODO - baby tracker.md",
-    "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md",
-    "0-inbox/Name Picker - concept.md",
-    "3-resources/markdown viewer vscode shortcuts.md",
+    "0-inbox/Server Docs edit.md",
+    "1-projects/fuel-saver-app/Get docs.md",
+    "1-projects/fuel-saver-app/1015.md",
+    "1-projects/fuel-saver-app/Methods for use cases draft.md",
+    "1-projects/fuel-saver-app/Steps to login to server and run playbook.md",
     "2-areas/fullstack-dev/ubuntu.md",
+    "1-projects/Ideas/To build.md",
+    "1-projects/fuel-saver-app/1010.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "1-projects/fuel-saver-app/Timeblock.md",
     "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
     "2-areas/fullstack-dev/OpenSSH.md",
-    "1-projects/fuel-saver-app/ansible read me.md",
-    "1-projects/fuel-saver-app/Timeblock.md",
-    "1-projects/fuel-saver-app/Steps to login to server and run playbook.md",
-    "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
-    "1-projects/fuel-saver-app/1015.md",
     "1-projects/NamePicker/Name Picker - concept.md",
     "1-projects/NamePicker",
-    "1-projects/Ideas/skillscout.md",
     "1-projects/Blog/My first try.md",
-    "0-inbox/send ballot.md",
-    "0-inbox/Untitled.md",
-    "0-inbox/Setting up different environments in Spring.md",
-    "0-inbox/Run ansible script.md",
-    "0-inbox/1021.md",
+    "3-resources/markdown viewer vscode shortcuts.md",
+    "0-inbox/Master TODO list.md",
+    "1-projects/Ideas/skillscout.md",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
-    "0-inbox/markdown viewer vscode shortcuts.md",
-    "0-inbox/Spring Data JPA Naming Conventions.md",
-    "1-projects/Ideas/Name Picker",
-    "0-inbox/Connect to postgres from fuelsaver.md",
-    "timestamps/2024/10-October",
+    "1-projects/Clothes tracker",
     "ansible notes.canvas",
+    "timestamps/2024/10-October",
+    "ansible yml setup.canvas",
     "3-resources/images/Pasted image 20241011102002.png",
     "1-projects/watch and code",
+    "0-inbox",
     "2-areas/fullstack-dev/Java/Spring",
     "1-projects/Blog",
     "2-areas/fullstack-dev/Java/Variables",
     "2-areas/fullstack-dev/Java/Exceptions",
     "2-areas/fullstack-dev/Eclipse IDE",
-    "1-projects/Ideas",
     "3-resources/images/IMG_5087.png",
     "3-resources/images/Pasted image 20240918100802.png",
     "3-resources/images/Pasted image 20240815124638.png",
     "3-resources/images/Pasted image 20240813133542.png",
-    "Untitled.canvas",
     "3-resources/images/IMG_4546.jpeg"
   ]
 }
