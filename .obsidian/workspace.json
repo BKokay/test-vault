@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/markdown viewer vscode shortcuts.md",
-                "mode": "preview",
+                "file": "2-areas/Life Management/Passwords.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "markdown viewer vscode shortcuts"
+              "title": "Passwords"
+            }
+          },
+          {
+            "id": "b2ee5e6ad9298813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Infoware stuff/Tokens.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tokens"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markdown",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-resources/markdown viewer vscode shortcuts.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for markdown viewer vscode shortcuts"
+              "title": "Backlinks for Tokens"
             }
           },
           {
@@ -156,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/markdown viewer vscode shortcuts.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from markdown viewer vscode shortcuts"
+              "title": "Outgoing links from Tokens"
             }
           },
           {
@@ -183,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/markdown viewer vscode shortcuts.md"
+                "file": "1-projects/Infoware stuff/Tokens.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of markdown viewer vscode shortcuts"
+              "title": "Outline of Tokens"
             }
           },
           {
@@ -219,8 +232,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88ede7d730625187",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
+    "2-areas/Life Management/Passwords.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "1-projects/Infoware stuff",
+    "0-inbox/Server Docs edit.md",
+    "3-resources/markdown viewer vscode shortcuts.md",
     "0-inbox/1021.md",
     "2-areas/fullstack-dev/Git MERGE_HEAD exists.md",
     "conflict-files-obsidian-git.md",
@@ -233,7 +251,6 @@
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
-    "0-inbox/Server Docs edit.md",
     "1-projects/fuel-saver-app/Get docs.md",
     "1-projects/fuel-saver-app/1015.md",
     "1-projects/fuel-saver-app/Methods for use cases draft.md",
@@ -248,9 +265,6 @@
     "1-projects/NamePicker/Name Picker - concept.md",
     "1-projects/NamePicker",
     "1-projects/Blog/My first try.md",
-    "3-resources/markdown viewer vscode shortcuts.md",
-    "0-inbox/Master TODO list.md",
-    "1-projects/Ideas/skillscout.md",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
     "1-projects/Clothes tracker",
     "ansible notes.canvas",
@@ -263,7 +277,6 @@
     "1-projects/Blog",
     "2-areas/fullstack-dev/Java/Variables",
     "2-areas/fullstack-dev/Java/Exceptions",
-    "2-areas/fullstack-dev/Eclipse IDE",
     "3-resources/images/IMG_5087.png",
     "3-resources/images/Pasted image 20240918100802.png",
     "3-resources/images/Pasted image 20240815124638.png",
