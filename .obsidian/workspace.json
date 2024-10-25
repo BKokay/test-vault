@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/creating segment files.md",
+                "file": "0-inbox/Reading List.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "creating segment files"
+              "title": "Reading List"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Server Docs edit.md",
+                "file": "0-inbox/creating segment files.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Server Docs edit"
+              "title": "creating segment files"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "Run ansible script"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,17 +218,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "19f908d7c36d6afe",
   "lastOpenFiles": [
     "0-inbox/Server Docs edit.md",
+    "0-inbox/Reading List.md",
+    "0-inbox/creating segment files.md",
     "0-inbox/1021.md",
     "0-inbox/409 duplicate object.md",
-    "0-inbox/Reading List.md",
     "2-areas/Life Management/Passwords.md",
     "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
     "1-projects/fuel-saver-app/ansible read me.md",
     "0-inbox/Spring Start Here.md",
-    "0-inbox/creating segment files.md",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",

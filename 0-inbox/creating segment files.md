@@ -143,7 +143,7 @@ Segment ID: 1981609
 }
 ```
 
-4. then [POST] /detor/file/{fileid}/segment
+4. then [POST] /detor/file/{fileid}/segment Create a detour segment
 	1. paste the result from /match
 	2. add a description 
 	3. Add the attributes that you want 
