@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1028.md",
-                "mode": "source",
+                "file": "0-inbox/creating segment files.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1028"
+              "title": "creating segment files"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/1028.md",
+                "file": "0-inbox/creating segment files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1028"
+              "title": "Backlinks for creating segment files"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/1028.md",
+                "file": "0-inbox/creating segment files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1028"
+              "title": "Outgoing links from creating segment files"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/1028.md"
+                "file": "0-inbox/creating segment files.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1028"
+              "title": "Outline of creating segment files"
             }
           },
           {
@@ -234,8 +234,8 @@
   },
   "active": "6b5ffaf00aacd2d2",
   "lastOpenFiles": [
-    "0-inbox/1021.md",
     "0-inbox/1028.md",
+    "0-inbox/1021.md",
     "0-inbox/creating segment files.md",
     "0-inbox/Server Docs edit.md",
     "0-inbox/Reading List.md",
