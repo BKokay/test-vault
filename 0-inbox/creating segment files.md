@@ -1,6 +1,7 @@
 [[Maptrip Detour]]
-
+[[endpoints to edit for server api]]
 https://editor.maptrip.de/detour/index.html
+
 
 In the UI, create a file 
 ![[Pasted image 20241024110849.png]]
