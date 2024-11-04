@@ -1,0 +1,1 @@
+Someone who thrives when blazing their own trail. 
