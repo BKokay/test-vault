@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/Get docs.md",
-                "mode": "source",
+                "file": "0-inbox/Jupiter in Aries.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Get docs"
+              "title": "Jupiter in Aries"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,16 +246,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c6c39ca3d79ac9b",
+  "active": "42905513dddf41ed",
   "lastOpenFiles": [
+    "0-inbox/Jupiter in Aries.md",
+    "1-projects/fuel-saver-app/Get docs.md",
     "0-inbox/Server Docs edit.md",
     "0-inbox/1104.md",
-    "1-projects/fuel-saver-app/Get docs.md",
     "conflict-files-obsidian-git.md",
     "1-projects/fuel-saver-app/DONT FORGET.md",
     "1-projects/fuel-saver-app/1015.md",
     "0-inbox/1028.md",
-    "0-inbox/Jupiter in Aries.md",
     "0-inbox/creating segment files.md",
     "0-inbox/endpoints to edit for server api.md",
     "2-areas/Life Management/Passwords.md",
