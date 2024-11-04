@@ -4,95 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "3832e1a5bcdc9a0e",
+        "id": "131fa394d9b3ef40",
         "type": "tabs",
         "children": [
           {
-            "id": "b2ee5e6ad9298813",
+            "id": "f4216de4cfdb9807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Reading List.md",
+                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Reading List"
+              "title": "First idea - clothes tracker"
             }
           },
           {
-            "id": "4c6c39ca3d79ac9b",
+            "id": "ee4715749756d72e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Server Docs edit.md",
+                "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Server Docs edit"
+              "title": "Brain Dump Clothes Tracker"
             }
           },
           {
-            "id": "19f908d7c36d6afe",
+            "id": "c671c9168c1b1ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1028.md",
+                "file": "1-projects/Clothes tracker/User Stories Clothes Tracker.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1028"
+              "title": "User Stories Clothes Tracker"
             }
           },
           {
-            "id": "42905513dddf41ed",
+            "id": "7e5fcedb69e175ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1104.md",
+                "file": "1-projects/Clothes tracker/Problem - Clothes Tracker.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1104"
+              "title": "Problem - Clothes Tracker"
             }
           },
           {
-            "id": "5bbd35ddea8dedb2",
+            "id": "48432ddbf8b70d9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Jupiter in Aries.md",
+                "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jupiter in Aries"
+              "title": "Brain Dump Clothes Tracker"
             }
           },
           {
-            "id": "98d32df54e1a0fd9",
+            "id": "2c6ccf676778f9bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/yaml quotes rules.md",
+                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "yaml quotes rules"
+              "title": "First idea - clothes tracker"
+            }
+          },
+          {
+            "id": "c4faf93b5fad4236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Clothes tracker/TODO - baby tracker.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TODO - baby tracker"
+            }
+          },
+          {
+            "id": "6487c408a3c6d46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Brain Buddy.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Brain Buddy"
+            }
+          },
+          {
+            "id": "fb96bb977c11a8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Notes from Georg"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -123,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sonarqube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Jupiter in Aries.md",
+                "file": "0-inbox/Brain Buddy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jupiter in Aries"
+              "title": "Backlinks for Brain Buddy"
             }
           },
           {
@@ -183,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Jupiter in Aries.md",
+                "file": "0-inbox/Brain Buddy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jupiter in Aries"
+              "title": "Outgoing links from Brain Buddy"
             }
           },
           {
@@ -210,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Jupiter in Aries.md"
+                "file": "0-inbox/Brain Buddy.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Jupiter in Aries"
+              "title": "Outline of Brain Buddy"
             }
           },
           {
@@ -246,55 +288,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bbd35ddea8dedb2",
+  "active": "6487c408a3c6d46e",
   "lastOpenFiles": [
-    "0-inbox/1104.md",
     "0-inbox/Jupiter in Aries.md",
-    "0-inbox/1028.md",
-    "0-inbox/creating segment files.md",
-    "0-inbox/endpoints to edit for server api.md",
-    "2-areas/Life Management/Passwords.md",
+    "0-inbox/1104.md",
     "0-inbox/yaml quotes rules.md",
-    "0-inbox/Server Docs edit.md",
+    "0-inbox/endpoints to edit for server api.md",
+    "1-projects/Clothes tracker/TODO - baby tracker.md",
     "0-inbox/Brain Buddy.md",
-    "0-inbox/1021.md",
-    "0-inbox/Reading List.md",
-    "0-inbox/409 duplicate object.md",
-    "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
-    "1-projects/fuel-saver-app/ansible read me.md",
+    "2-areas/Life Management/Passwords.md",
     "0-inbox/Spring Start Here.md",
+    "0-inbox/1028.md",
+    "0-inbox/Reading List.md",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
     "3-resources/images/Pasted image 20241024111055.png",
     "3-resources/images/Pasted image 20241024110939.png",
     "3-resources/images/Pasted image 20241024110849.png",
+    "2-areas/fullstack-dev/Git MERGE_HEAD exists.md",
     "1-projects/Infoware stuff/Tokens.md",
     "1-projects/Infoware stuff",
-    "3-resources/markdown viewer vscode shortcuts.md",
-    "2-areas/fullstack-dev/Git MERGE_HEAD exists.md",
-    "conflict-files-obsidian-git.md",
-    "0-inbox/Run ansible script.md",
-    "0-inbox/send ballot.md",
-    "2-areas/fullstack-dev/Setting up different environments in Spring.md",
+    "0-inbox/creating segment files.md",
+    "0-inbox/409 duplicate object.md",
+    "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
-    "1-projects/fuel-saver-app/Get docs.md",
-    "1-projects/fuel-saver-app/1015.md",
-    "1-projects/fuel-saver-app/Methods for use cases draft.md",
+    "2-areas/fullstack-dev/Setting up different environments in Spring.md",
+    "1-projects/Clothes tracker/Tech stack - Clothes Trackers.md",
+    "0-inbox/Name Picker - concept.md",
+    "3-resources/markdown viewer vscode shortcuts.md",
+    "2-areas/fullstack-dev/ubuntu.md",
+    "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
+    "2-areas/fullstack-dev/OpenSSH.md",
+    "1-projects/fuel-saver-app/ansible read me.md",
+    "1-projects/fuel-saver-app/Timeblock.md",
     "1-projects/fuel-saver-app/Steps to login to server and run playbook.md",
+    "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
     "1-projects/NamePicker",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
-    "1-projects/Clothes tracker",
-    "ansible notes.canvas",
+    "1-projects/Ideas/Name Picker",
     "timestamps/2024/10-October",
-    "ansible yml setup.canvas",
+    "ansible notes.canvas",
     "1-projects/watch and code",
-    "0-inbox",
     "2-areas/fullstack-dev/Java/Spring",
     "1-projects/Blog",
     "2-areas/fullstack-dev/Java/Variables",
-    "2-areas/fullstack-dev/Java/Exceptions"
+    "2-areas/fullstack-dev/Java/Exceptions",
+    "2-areas/fullstack-dev/Eclipse IDE",
+    "Untitled.canvas"
   ]
 }
