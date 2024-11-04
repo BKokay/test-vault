@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/Get docs.md",
-                "mode": "source",
+                "file": "0-inbox/1104.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Get docs"
+              "title": "1104"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/Get docs.md",
+                "file": "0-inbox/1104.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Get docs"
+              "title": "Backlinks for 1104"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Get docs.md",
+                "file": "0-inbox/1104.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Get docs"
+              "title": "Outgoing links from 1104"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/Get docs.md"
+                "file": "0-inbox/1104.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Get docs"
+              "title": "Outline of 1104"
             }
           },
           {
@@ -248,8 +248,8 @@
   },
   "active": "5bbd35ddea8dedb2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "1-projects/fuel-saver-app/Get docs.md",
+    "conflict-files-obsidian-git.md",
     "1-projects/fuel-saver-app/DONT FORGET.md",
     "1-projects/fuel-saver-app/1015.md",
     "0-inbox/1028.md",
