@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Jupiter in Aries.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jupiter in Aries"
+              "title": "Get docs"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fuelsaver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Jupiter in Aries.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jupiter in Aries"
+              "title": "Backlinks for Get docs"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Jupiter in Aries.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jupiter in Aries"
+              "title": "Outgoing links from Get docs"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Jupiter in Aries.md"
+                "file": "1-projects/fuel-saver-app/Get docs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Jupiter in Aries"
+              "title": "Outline of Get docs"
             }
           },
           {
@@ -248,9 +248,11 @@
   },
   "active": "5bbd35ddea8dedb2",
   "lastOpenFiles": [
-    "0-inbox/1104.md",
-    "0-inbox/Jupiter in Aries.md",
+    "1-projects/fuel-saver-app/DONT FORGET.md",
+    "1-projects/fuel-saver-app/1015.md",
     "0-inbox/1028.md",
+    "0-inbox/Jupiter in Aries.md",
+    "0-inbox/1104.md",
     "0-inbox/creating segment files.md",
     "0-inbox/endpoints to edit for server api.md",
     "2-areas/Life Management/Passwords.md",
@@ -281,9 +283,7 @@
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
     "1-projects/fuel-saver-app/Get docs.md",
-    "1-projects/fuel-saver-app/1015.md",
     "1-projects/fuel-saver-app/Methods for use cases draft.md",
-    "1-projects/fuel-saver-app/Steps to login to server and run playbook.md",
     "1-projects/NamePicker",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
     "1-projects/Clothes tracker",
