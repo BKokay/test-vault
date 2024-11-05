@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1104.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1104"
+              "title": "Tokens"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fuelsaver",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,12 +247,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42905513dddf41ed",
+  "active": "5bbd35ddea8dedb2",
   "lastOpenFiles": [
+    "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/1104.md",
     "0-inbox/Jupiter in Aries.md",
     "1-projects/fuel-saver-app/Get docs.md",
     "0-inbox/Server Docs edit.md",
-    "0-inbox/1104.md",
     "conflict-files-obsidian-git.md",
     "1-projects/fuel-saver-app/DONT FORGET.md",
     "1-projects/fuel-saver-app/1015.md",
@@ -273,7 +275,6 @@
     "3-resources/images/Pasted image 20241024111055.png",
     "3-resources/images/Pasted image 20241024110939.png",
     "3-resources/images/Pasted image 20241024110849.png",
-    "1-projects/Infoware stuff/Tokens.md",
     "1-projects/Infoware stuff",
     "3-resources/markdown viewer vscode shortcuts.md",
     "2-areas/fullstack-dev/Git MERGE_HEAD exists.md",
