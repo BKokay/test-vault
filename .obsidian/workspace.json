@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2ee5e6ad9298813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Reading List.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Reading List"
-            }
-          },
-          {
-            "id": "4c6c39ca3d79ac9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Jupiter in Aries.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jupiter in Aries"
-            }
-          },
-          {
-            "id": "19f908d7c36d6afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/1028.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1028"
-            }
-          },
-          {
-            "id": "42905513dddf41ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tokens"
-            }
-          },
-          {
             "id": "5bbd35ddea8dedb2",
             "type": "leaf",
             "state": {
@@ -78,21 +22,35 @@
             }
           },
           {
-            "id": "98d32df54e1a0fd9",
+            "id": "0e8d7c7bde117751",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/yaml quotes rules.md",
+                "file": "0-inbox/Add Authentication to Spring project.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "yaml quotes rules"
+              "title": "Add Authentication to Spring project"
+            }
+          },
+          {
+            "id": "6d8337f71c405c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Books/Spring/Spring Security.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spring Security"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,28 +204,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bbd35ddea8dedb2",
+  "active": "0e8d7c7bde117751",
   "lastOpenFiles": [
-    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/1104.md",
+    "0-inbox/Add Authentication to Spring project.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "1-projects/Books/Spring/Spring Security.md",
+    "2-areas/fullstack-dev/yaml quotes rules.md",
+    "1-projects/Books/Spring/Spring Start Here.md",
+    "1-projects/Books/Spring",
+    "1-projects/Infoware stuff/Run ansible script.md",
+    "0-inbox/send ballot.md",
+    "4-archive/watch and code/Class 2 - Watch and Code.md",
+    "1-projects/Books",
+    "1-projects/Docs Edit/creating segment files.md",
+    "1-projects/Docs Edit",
+    "2-areas/fullstack-dev/409 duplicate object.md",
+    "1-projects/fuel-saver-app/1021.md",
+    "2-areas/Life Management/Brain Buddy.md",
     "0-inbox/Jupiter in Aries.md",
     "1-projects/fuel-saver-app/Get docs.md",
-    "0-inbox/Server Docs edit.md",
+    "1-projects/Docs Edit/Server Docs edit.md",
     "conflict-files-obsidian-git.md",
     "1-projects/fuel-saver-app/DONT FORGET.md",
     "1-projects/fuel-saver-app/1015.md",
-    "0-inbox/1028.md",
-    "0-inbox/creating segment files.md",
-    "0-inbox/endpoints to edit for server api.md",
+    "1-projects/fuel-saver-app/1028.md",
+    "1-projects/Docs Edit/endpoints to edit for server api.md",
     "2-areas/Life Management/Passwords.md",
-    "0-inbox/yaml quotes rules.md",
-    "0-inbox/Brain Buddy.md",
-    "0-inbox/1021.md",
-    "0-inbox/Reading List.md",
-    "0-inbox/409 duplicate object.md",
+    "1-projects/Books/Reading List.md",
     "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
     "1-projects/fuel-saver-app/ansible read me.md",
-    "0-inbox/Spring Start Here.md",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
@@ -277,25 +242,17 @@
     "3-resources/images/Pasted image 20241024110849.png",
     "1-projects/Infoware stuff",
     "3-resources/markdown viewer vscode shortcuts.md",
-    "2-areas/fullstack-dev/Git MERGE_HEAD exists.md",
-    "0-inbox/Run ansible script.md",
-    "0-inbox/send ballot.md",
-    "2-areas/fullstack-dev/Setting up different environments in Spring.md",
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
-    "1-projects/fuel-saver-app/Methods for use cases draft.md",
     "1-projects/NamePicker",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
     "1-projects/Clothes tracker",
     "ansible notes.canvas",
     "timestamps/2024/10-October",
     "ansible yml setup.canvas",
-    "1-projects/watch and code",
+    "4-archive/watch and code",
     "0-inbox",
-    "2-areas/fullstack-dev/Java/Spring",
-    "1-projects/Blog",
-    "2-areas/fullstack-dev/Java/Variables",
-    "2-areas/fullstack-dev/Java/Exceptions"
+    "2-areas/fullstack-dev/Java/Spring"
   ]
 }

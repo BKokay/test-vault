@@ -1,0 +1,1 @@
+Another dependency that is part of the [[spring]] framework and can be used in conjunction with [[springboot]] to create authentication services for your API. Spring Security is a framework for authentication and access control. 
