@@ -1,5 +1,5 @@
 - [ ] Authorization 
-	- [ ] Use a JWT token. Need to filter like in sever api security classes. 
+	- [ ] Use a JWT token. Need to filter like in server api security classes. 
 	- [ ] Make a controller for both ways to authenticate: API key and username/password
 		- [ ] filter might be used for both? 
 	- [ ] If authenticated, user can access endpoints
