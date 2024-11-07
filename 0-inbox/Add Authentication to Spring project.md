@@ -19,3 +19,5 @@ service to get token - actually the JWTTokenValidator
 
 nullpointer no token
 why is filter being called on index.html 
+
+add 403 forbidden to controllers for token error - actually should be another error because forbidden is for access level control issues [https://www.permit.io/blog/401-vs-403-error-whats-the-difference](https://www.permit.io/blog/401-vs-403-error-whats-the-difference "https://www.permit.io/blog/401-vs-403-error-whats-the-difference") 

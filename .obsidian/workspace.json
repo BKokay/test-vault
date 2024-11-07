@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Add Authentication to Spring project.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Add Authentication to Spring project"
+              "title": "Tokens"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swagger ",
+                "query": "token",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,12 +207,12 @@
   },
   "active": "6d8337f71c405c35",
   "lastOpenFiles": [
+    "0-inbox/Add Authentication to Spring project.md",
+    "1-projects/Infoware stuff/Tokens.md",
     "1-projects/Books/Spring/Spring Security.md",
     "0-inbox/1104.md",
     "1-projects/fuel-saver-app/Get docs.md",
-    "0-inbox/Add Authentication to Spring project.md",
     "1-projects/Goals at infoware.md",
-    "1-projects/Infoware stuff/Tokens.md",
     "2-areas/fullstack-dev/yaml quotes rules.md",
     "1-projects/Books/Spring/Spring Start Here.md",
     "1-projects/Books/Spring",
