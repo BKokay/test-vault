@@ -16,3 +16,6 @@ JWT will extract info. Look at the class `JWTTokenValidator` and the secret key 
 11/06 Ending in SecurityConfig which needs a CustomAuthenticationEntryPoint (or does it?)
 
 service to get token - actually the JWTTokenValidator 
+
+nullpointer no token
+why is filter being called on index.html 

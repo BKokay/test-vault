@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Add Authentication to Spring project.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Add Authentication to Spring project"
+              "title": "Get docs"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Books/Spring/Spring Security.md",
+                "file": "0-inbox/Add Authentication to Spring project.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spring Security"
+              "title": "Add Authentication to Spring project"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "swagger ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,13 +204,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e8d7c7bde117751",
+  "active": "6d8337f71c405c35",
   "lastOpenFiles": [
-    "1-projects/Goals at infoware.md",
-    "0-inbox/Add Authentication to Spring project.md",
-    "0-inbox/1104.md",
-    "1-projects/Infoware stuff/Tokens.md",
     "1-projects/Books/Spring/Spring Security.md",
+    "0-inbox/1104.md",
+    "1-projects/fuel-saver-app/Get docs.md",
+    "0-inbox/Add Authentication to Spring project.md",
+    "1-projects/Goals at infoware.md",
+    "1-projects/Infoware stuff/Tokens.md",
     "2-areas/fullstack-dev/yaml quotes rules.md",
     "1-projects/Books/Spring/Spring Start Here.md",
     "1-projects/Books/Spring",
@@ -224,7 +225,6 @@
     "1-projects/fuel-saver-app/1021.md",
     "2-areas/Life Management/Brain Buddy.md",
     "0-inbox/Jupiter in Aries.md",
-    "1-projects/fuel-saver-app/Get docs.md",
     "1-projects/Docs Edit/Server Docs edit.md",
     "conflict-files-obsidian-git.md",
     "1-projects/fuel-saver-app/DONT FORGET.md",
