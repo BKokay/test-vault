@@ -49,8 +49,7 @@
               "title": "Tokens"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,10 +203,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d8337f71c405c35",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
-    "0-inbox/Add Authentication to Spring project.md",
     "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/Add Authentication to Spring project.md",
     "1-projects/Books/Spring/Spring Security.md",
     "0-inbox/1104.md",
     "1-projects/fuel-saver-app/Get docs.md",
