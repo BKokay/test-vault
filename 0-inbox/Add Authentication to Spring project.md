@@ -14,3 +14,5 @@ Need: a dependency for spring security, a configuration, and a class which does 
 JWT will extract info. Look at the class `JWTTokenValidator` and the secret key in `maptripapi.properties`. The `JWTFilter` uses the servlet filter to say that before each request, this needs to happen. The `SecurityConfig` created the filter chain which tells what needs to happen. An important line is `http.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);`
 
 11/06 Ending in SecurityConfig which needs a CustomAuthenticationEntryPoint (or does it?)
+
+service to get token - actually the JWTTokenValidator 
