@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/1104.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -203,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "5bbd35ddea8dedb2",
   "lastOpenFiles": [
     "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/Add Authentication to Spring project.md",
