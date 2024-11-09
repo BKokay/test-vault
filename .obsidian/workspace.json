@@ -8,104 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4216de4cfdb9807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "First idea - clothes tracker"
-            }
-          },
-          {
-            "id": "ee4715749756d72e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Brain Dump Clothes Tracker"
-            }
-          },
-          {
-            "id": "c671c9168c1b1ae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/User Stories Clothes Tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "User Stories Clothes Tracker"
-            }
-          },
-          {
-            "id": "7e5fcedb69e175ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/Problem - Clothes Tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Problem - Clothes Tracker"
-            }
-          },
-          {
-            "id": "48432ddbf8b70d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/Brain Dump Clothes Tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Brain Dump Clothes Tracker"
-            }
-          },
-          {
-            "id": "2c6ccf676778f9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/First idea - clothes tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "First idea - clothes tracker"
-            }
-          },
-          {
-            "id": "c4faf93b5fad4236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Clothes tracker/TODO - baby tracker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "TODO - baby tracker"
-            }
-          },
-          {
             "id": "424a470c0155ad09",
             "type": "leaf",
             "state": {
@@ -120,21 +22,35 @@
             }
           },
           {
-            "id": "fb96bb977c11a8f0",
+            "id": "772402264d2486fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-app/Notes from Georg.md",
+                "file": "0-inbox/Name Picker table diagram.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Notes from Georg"
+              "title": "Name Picker table diagram"
+            }
+          },
+          {
+            "id": "d43b2dd30e5bfdc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Install homebrew, postgres, pgadmin"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-quickref/TODO mornings.md",
+                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO mornings"
+              "title": "Backlinks for Install homebrew, postgres, pgadmin"
             }
           },
           {
@@ -225,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-quickref/TODO mornings.md",
+                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO mornings"
+              "title": "Outgoing links from Install homebrew, postgres, pgadmin"
             }
           },
           {
@@ -252,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-quickref/TODO mornings.md"
+                "file": "0-inbox/Install homebrew, postgres, pgadmin.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO mornings"
+              "title": "Outline of Install homebrew, postgres, pgadmin"
             }
           },
           {
@@ -288,10 +204,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "424a470c0155ad09",
+  "active": "d43b2dd30e5bfdc9",
   "lastOpenFiles": [
-    "1-projects/Clothes tracker/TODO - baby tracker.md",
     "5-quickref/TODO mornings.md",
+    "0-inbox/Install homebrew, postgres, pgadmin.md",
+    "0-inbox/Name Picker table diagram.md",
+    "1-projects/fuel-saver-app/database/fuel-saver ER model.md",
+    "1-projects/fuel-saver-app/Notes from Georg.md",
+    "1-projects/Clothes tracker/TODO - baby tracker.md",
+    "1-projects/fuel-saver-app/database/Create fuel-saver Tables.md",
     "5-quickref",
     "0-inbox/Brain Buddy.md",
     "4-archive/watch and code/Class 2 - Watch and Code.md",
@@ -316,17 +237,12 @@
     "0-inbox/1104.md",
     "0-inbox/yaml quotes rules.md",
     "0-inbox/endpoints to edit for server api.md",
-    "2-areas/Life Management/Passwords.md",
-    "0-inbox/Spring Start Here.md",
-    "0-inbox/1028.md",
-    "0-inbox/Reading List.md",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
     "3-resources/images/Pasted image 20241024111055.png",
     "3-resources/images/Pasted image 20241024110939.png",
     "3-resources/images/Pasted image 20241024110849.png",
-    "2-areas/fullstack-dev/Git MERGE_HEAD exists.md",
     "1-projects/Infoware stuff",
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
