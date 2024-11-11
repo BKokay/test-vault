@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
-                "mode": "source",
+                "file": "0-inbox/1104.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tokens"
+              "title": "1104"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,12 +204,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bbd35ddea8dedb2",
+  "active": "6d8337f71c405c35",
   "lastOpenFiles": [
     "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/1104.md",
     "0-inbox/Add Authentication to Spring project.md",
     "1-projects/Books/Spring/Spring Security.md",
-    "0-inbox/1104.md",
     "1-projects/fuel-saver-app/Get docs.md",
     "1-projects/Goals at infoware.md",
     "2-areas/fullstack-dev/yaml quotes rules.md",
