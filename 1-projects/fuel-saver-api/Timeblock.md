@@ -6,7 +6,7 @@
 			- [x] actually keep if/else in controller & return ResoibseEntity
 				- [x] in Service, return object
 		- [x] add logging to service class
-	- [ ] *Where to put the FuelType enum class?*
+	- [x] *Where to put the FuelType enum class?*
 	- [ ] *Rename entity to model?*
 	- [x] *Remove CheckInputsUtil and add spring annotations* 
 		- [x] [[@NotNull]]
@@ -24,13 +24,13 @@
 // 3 empty bc uuid doesnt exist
 
 ## 10/11
-- [ ] Finish any of the above 
-- [ ] Add CI/CD to get it on to staging server
-	- [ ] Check properties
+- [x] Finish any of the above 
+- [x] Add CI/CD to get it on to staging server
+	- [x] Check properties
 
 ## 10/14
-- [ ] 11-12:30 Finish implementing coordinate in gas station
-- [ ] 12:30-1 Meditate
-- [ ] 1-1:30 Read article that Georg sent
-- [ ] 1:30-3 fix any errors from the tool Georg sent
+- [x] 11-12:30 Finish implementing coordinate in gas station
+- [x] 12:30-1 Meditate
+- [x] 1-1:30 Read article that Georg sent
+- [x] 1:30-3 fix any errors from the tool Georg sent
 - [ ] 

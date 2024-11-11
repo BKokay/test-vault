@@ -15,7 +15,7 @@ Response codes:
 500 - internal server error
 400 - bad request 
 404 - not found (id)
-- [ ] are there any other codes I should add? 
+- [x] are there any other codes I should add? 
 
 For the getAll() methods from the controller, should I add @Hidden? Or do I want them available since it will only be internal 
 
@@ -28,12 +28,12 @@ X Creating DTOs for Update and Save Methods for separation of concerns and secur
 - [x] 200 response body in /delete
 - [x] Save method to be what is the example street etx
 - [x] getDriver response is not correct 
-- [ ] add **GOOD** comments to my code
-- [ ] Add better error handling and logging 
+- [x] add **GOOD** comments to my code
+- [x] Add better error handling and logging 
 
 ## Time Block 10/7
-- [ ] 9:10 - 12:00 add logs to each methods
-	- [ ] Check how Georg uses logging in the Server API
-- [ ] 1 - 3 see what kind of errors could be thrown from each layer (use AI)
-	- [ ] make sure each error is handled in controller
-- [ ] Throughout - Add GOOD comments to explain what each layer or method is doing  
+- [x] 9:10 - 12:00 add logs to each methods
+	- [x] Check how Georg uses logging in the Server API
+- [x] 1 - 3 see what kind of errors could be thrown from each layer (use AI)
+	- [x] make sure each error is handled in controller
+- [x] Throughout - Add GOOD comments to explain what each layer or method is doing  

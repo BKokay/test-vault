@@ -18,9 +18,9 @@ updated: 2024-09-24T09:24
 - [x] Convert to UUIDs
 - [x] Test
 	- [ ] fuelstopgetmethod test, add in other details to assertEquals
-	- [ ] Gas Station tests 
+	- [x] Gas Station tests 
 - [x] think about reducing duplicate code
-- [ ] Ask about update methods when there are foreign keys 
+- [x] Ask about update methods when there are foreign keys 
 
 Where am I? Trying to learn about database testing/mocking. It seems that actually creating a table in Postgres will be best and then tearing it down after doing the tests. The use JUnit to run the tests. But there are so so many options, I feel lost.
 
