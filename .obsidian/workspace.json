@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1104.md",
+                "file": "1-projects/fuel-saver-app/1015.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1104"
+              "title": "1015"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "SonarQube"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sonarqube",
+                "query": "hibernate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,9 +203,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d8337f71c405c35",
+  "active": "5bbd35ddea8dedb2",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-app/1011.md",
+    "1-projects/fuel-saver-app/1010.md",
     "0-inbox/1104.md",
+    "2-areas/fullstack-dev/Java/SonarQube.md",
     "conflict-files-obsidian-git.md",
     "5-quickref/TODO mornings.md",
     "5-quickref",
@@ -234,9 +235,6 @@
     "1-projects/Docs Edit/Server Docs edit.md",
     "1-projects/fuel-saver-app/DONT FORGET.md",
     "1-projects/fuel-saver-app/1015.md",
-    "1-projects/fuel-saver-app/1028.md",
-    "1-projects/Docs Edit/endpoints to edit for server api.md",
-    "2-areas/Life Management/Passwords.md",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
