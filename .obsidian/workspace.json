@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1104.md",
+                "file": "2-areas/fullstack-dev/Java/SonarQube.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1104"
+              "title": "SonarQube"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "token",
+                "query": "sonarqube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,8 +207,13 @@
   },
   "active": "6d8337f71c405c35",
   "lastOpenFiles": [
-    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/1104.md",
+    "conflict-files-obsidian-git.md",
+    "5-quickref/TODO mornings.md",
+    "5-quickref",
+    "0-inbox/Name Picker table diagram.md",
+    "0-inbox/Install homebrew, postgres, pgadmin.md",
+    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/Add Authentication to Spring project.md",
     "1-projects/Books/Spring/Spring Security.md",
     "1-projects/fuel-saver-app/Get docs.md",
@@ -227,15 +232,11 @@
     "2-areas/Life Management/Brain Buddy.md",
     "0-inbox/Jupiter in Aries.md",
     "1-projects/Docs Edit/Server Docs edit.md",
-    "conflict-files-obsidian-git.md",
     "1-projects/fuel-saver-app/DONT FORGET.md",
     "1-projects/fuel-saver-app/1015.md",
     "1-projects/fuel-saver-app/1028.md",
     "1-projects/Docs Edit/endpoints to edit for server api.md",
     "2-areas/Life Management/Passwords.md",
-    "1-projects/Books/Reading List.md",
-    "1-projects/fuel-saver-app/Connect to postgres from fuelsaver.md",
-    "1-projects/fuel-saver-app/ansible read me.md",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
@@ -253,7 +254,6 @@
     "timestamps/2024/10-October",
     "ansible yml setup.canvas",
     "4-archive/watch and code",
-    "0-inbox",
-    "2-areas/fullstack-dev/Java/Spring"
+    "0-inbox"
   ]
 }
