@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "connection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,10 +233,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "f2e4470754869deb",
   "lastOpenFiles": [
-    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/Fuel Saver Meeting 1111 notes.md",
+    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/1111.md",
     "1-projects/fuel-saver-api/1104.md",
     "0-inbox/Add Authentication to Spring project.md",
