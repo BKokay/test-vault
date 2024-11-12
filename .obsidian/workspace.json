@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Next Project - Happy Trucker.md",
-                "mode": "source",
+                "file": "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Next Project - Happy Trucker"
+              "title": "Connect to postgres from fuelsaver"
             }
           },
           {
@@ -232,8 +232,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "dc085202449c6a98",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-api/Run ansible script.md",
+    "1-projects/fuel-saver-api/Timeblock.md",
+    "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
+    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
+    "1-projects/fuel-saver-api/ansible read me.md",
     "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/Next Project - Happy Trucker.md",
     "0-inbox/1111.md",
@@ -242,8 +247,6 @@
     "0-inbox/Add Authentication to Spring project.md",
     "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
     "1-projects/fuel-saver-api/TODO.md",
-    "1-projects/fuel-saver-api/Timeblock.md",
-    "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
     "1-projects/fuel-saver-api/Questions Sept 24.md",
     "1-projects/fuel-saver-api/Questions 1.md",
     "1-projects/fuel-saver-api/Notes from Georg.md",
@@ -257,10 +260,7 @@
     "1-projects/fuel-saver-api/1011.md",
     "1-projects/fuel-saver-api/1010.md",
     "2-areas/fullstack-dev/Java/SonarQube.md",
-    "conflict-files-obsidian-git.md",
-    "5-quickref/TODO mornings.md",
     "5-quickref",
-    "0-inbox/Name Picker table diagram.md",
     "1-projects/Books/Spring",
     "1-projects/Books",
     "1-projects/Docs Edit",
