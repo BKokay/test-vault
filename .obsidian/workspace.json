@@ -4,81 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "3832e1a5bcdc9a0e",
+        "id": "131fa394d9b3ef40",
         "type": "tabs",
         "children": [
           {
-            "id": "5bbd35ddea8dedb2",
+            "id": "424a470c0155ad09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-api/1104.md",
+                "file": "5-quickref/TODO mornings.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TODO mornings"
+            }
+          },
+          {
+            "id": "772402264d2486fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Name Picker table diagram.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1104"
+              "title": "Name Picker table diagram"
             }
           },
           {
-            "id": "f2e4470754869deb",
+            "id": "d43b2dd30e5bfdc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
+                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tokens"
-            }
-          },
-          {
-            "id": "a52acca242d75a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Fuel Saver Meeting 1111 notes.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Fuel Saver Meeting 1111 notes"
-            }
-          },
-          {
-            "id": "0e8d7c7bde117751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-api/Get docs.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Get docs"
-            }
-          },
-          {
-            "id": "6d8337f71c405c35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/fullstack-dev/Java/SonarQube.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SonarQube"
+              "title": "Install homebrew, postgres, pgadmin"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "connection",
+                "query": "sonarqube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-projects/fuel-saver-app/Get docs.md",
+                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Get docs"
+              "title": "Backlinks for Install homebrew, postgres, pgadmin"
             }
           },
           {
@@ -170,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Get docs.md",
+                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Get docs"
+              "title": "Outgoing links from Install homebrew, postgres, pgadmin"
             }
           },
           {
@@ -197,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/fuel-saver-app/Get docs.md"
+                "file": "0-inbox/Install homebrew, postgres, pgadmin.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Get docs"
+              "title": "Outline of Install homebrew, postgres, pgadmin"
             }
           },
           {
@@ -233,38 +204,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2e4470754869deb",
+  "active": "d43b2dd30e5bfdc9",
   "lastOpenFiles": [
-    "0-inbox/Fuel Saver Meeting 1111 notes.md",
-    "1-projects/Infoware stuff/Tokens.md",
-    "0-inbox/1111.md",
-    "1-projects/fuel-saver-api/1104.md",
-    "0-inbox/Add Authentication to Spring project.md",
-    "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
-    "1-projects/fuel-saver-api/TODO.md",
+    "4-archive/DONT FORGET.md",
+    "2-areas/Personal Growth/Jupiter in Aries.md",
+    "1-projects/fuel-saver-api/database/practice-problems.md",
+    "1-projects/fuel-saver-api/database/fuel-saver ER model.md",
+    "1-projects/fuel-saver-api/database/Insert new test fuel stops.md",
+    "1-projects/fuel-saver-api/database/Insert new test devices.md",
+    "1-projects/fuel-saver-api/database/Create fuel-saver Tables.md",
+    "1-projects/fuel-saver-api/Java/update method dynamic.md",
+    "1-projects/fuel-saver-api/Java/OpenAPI spec.md",
+    "1-projects/fuel-saver-api/Java/Connect to database.md",
+    "1-projects/fuel-saver-api/Java/Class Diagram fuel saver.md",
+    "1-projects/fuel-saver-api/database",
+    "1-projects/fuel-saver-api/ansible read me.md",
     "1-projects/fuel-saver-api/Timeblock.md",
+    "1-projects/fuel-saver-api/TODO.md",
+    "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
     "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
     "1-projects/fuel-saver-api/Questions Sept 24.md",
     "1-projects/fuel-saver-api/Questions 1.md",
     "1-projects/fuel-saver-api/Notes from Georg.md",
     "1-projects/fuel-saver-api/Methods for use cases final.md",
     "1-projects/fuel-saver-api/Methods for use cases draft.md",
+    "1-projects/fuel-saver-api/Java",
     "1-projects/fuel-saver-api/Get docs.md",
     "1-projects/fuel-saver-api/Fuel saver user stories.md",
     "1-projects/fuel-saver-api/Enum issue.md",
-    "4-archive/DONT FORGET.md",
-    "1-projects/fuel-saver-api/1015.md",
-    "1-projects/fuel-saver-api/1011.md",
-    "1-projects/fuel-saver-api/1010.md",
-    "2-areas/fullstack-dev/Java/SonarQube.md",
-    "conflict-files-obsidian-git.md",
-    "5-quickref/TODO mornings.md",
+    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
+    "1-projects/fuel-saver-api/1104.md",
+    "1-projects/fuel-saver-api",
     "5-quickref",
-    "0-inbox/Name Picker table diagram.md",
-    "0-inbox/Install homebrew, postgres, pgadmin.md",
+    "4-archive/watch and code",
+    "1-projects/Docs Edit",
     "1-projects/Books/Spring",
     "1-projects/Books",
-    "1-projects/Docs Edit",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
@@ -277,11 +252,7 @@
     "3-resources/images/Pasted image 20241022091853.png",
     "1-projects/NamePicker",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
-    "1-projects/Clothes tracker",
     "ansible notes.canvas",
-    "timestamps/2024/10-October",
-    "ansible yml setup.canvas",
-    "4-archive/watch and code",
-    "0-inbox"
+    "Untitled.canvas"
   ]
 }
