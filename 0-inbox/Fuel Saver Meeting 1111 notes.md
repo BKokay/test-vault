@@ -14,9 +14,9 @@ Issue with financial summary: Check in DAO and see what I did about the timestam
 Hard coded the dbsetup rather than using the db dump 
 
 1. Add methods for DeviceDaoImpl
-	- [ ] getStopHistory
-	- [ ] getFinancialSummaryByMonth
-	- [ ] getFinancialSummaryByYear
+	- [x] getStopHistory
+	- [x] getFinancialSummaryByMonth
+	- [x] getFinancialSummaryByYear
 2. Add methods for DeviceService 
 3. Add methods for DeviceController
 4. Figure out how to not show DriverController and all Driver models in swagger-ui
