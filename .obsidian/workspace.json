@@ -22,27 +22,13 @@
             }
           },
           {
-            "id": "dc085202449c6a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Connect to postgres from fuelsaver"
-            }
-          },
-          {
             "id": "a52acca242d75a9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Fuel Saver Meeting 1111 notes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -77,7 +63,8 @@
               "title": "1111"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,11 +218,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2e4470754869deb",
+  "active": "a52acca242d75a9c",
   "lastOpenFiles": [
-    "0-inbox/1111.md",
     "1-projects/Infoware stuff/Tokens.md",
     "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
+    "0-inbox/1111.md",
     "1-projects/fuel-saver-api/Run ansible script.md",
     "1-projects/fuel-saver-api/Timeblock.md",
     "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
