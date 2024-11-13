@@ -12,3 +12,13 @@ Issue with financial summary: Check in DAO and see what I did about the timestam
  *The DB dump set the time to time with timezone rather than timestamp with timezone *
 
 Hard coded the dbsetup rather than using the db dump 
+
+1. Add methods for DeviceDaoImpl
+	- [ ] getStopHistory
+	- [ ] getFinancialSummaryByMonth
+	- [ ] getFinancialSummaryByYear
+2. Add methods for DeviceService 
+3. Add methods for DeviceController
+4. Figure out how to not show DriverController and all Driver models in swagger-ui
+5. Run ansible script to have updated DB without driver table
+6. Test locally
