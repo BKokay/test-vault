@@ -25,9 +25,10 @@ Hard coded the dbsetup rather than using the db dump
 	- [x] getStopHistory
 	- [x] getFinancialSummaryByMonth
 	- [x] getFinancialSummaryByYear
-5. All get methods should be an optional in the dao layer and then unpacked in the service layer - right? Look at the get method and see what you see 
-5. Add tests for new methods
-6. Go back and clean up logs
-7. Figure out how to not show DriverController and all Driver models in swagger-ui
-8. Run ansible script to have updated DB without driver table
-9. Test locally
+5. ~~All get methods should be an optional in the dao layer and then unpacked in the service layer - right? Look at the get method and see what you see~~ 
+		1. Already check for null and then throw emptyresult
+6. Add tests for new methods
+7. Go back and clean up logs
+8. Figure out how to not show DriverController and all Driver models in swagger-ui
+9. Run ansible script to have updated DB without driver table
+10. Test locally

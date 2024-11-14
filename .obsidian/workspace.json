@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Fuel Saver Meeting 1111 notes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +230,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "95557bcc2b998714",
+  "active": "a52acca242d75a9c",
   "lastOpenFiles": [
     "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
     "0-inbox/Fuel Saver Meeting 1111 notes.md",
