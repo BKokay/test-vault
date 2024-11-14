@@ -25,6 +25,8 @@ Hard coded the dbsetup rather than using the db dump
 	- [ ] getStopHistory
 	- [ ] getFinancialSummaryByMonth
 	- [ ] getFinancialSummaryByYear
-6. Figure out how to not show DriverController and all Driver models in swagger-ui
-7. Run ansible script to have updated DB without driver table
-8. Test locally
+5. Add tests for new methods
+6. Go back and clean up logs
+7. Figure out how to not show DriverController and all Driver models in swagger-ui
+8. Run ansible script to have updated DB without driver table
+9. Test locally

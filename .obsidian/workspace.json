@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "naming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,12 +218,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a52acca242d75a9c",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
-    "1-projects/Infoware stuff/Tokens.md",
+    "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
     "0-inbox/Fuel Saver Meeting 1111 notes.md",
-    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
     "0-inbox/1111.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
     "1-projects/fuel-saver-api/Run ansible script.md",
     "1-projects/fuel-saver-api/Timeblock.md",
     "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
@@ -245,7 +246,6 @@
     "1-projects/fuel-saver-api/1015.md",
     "1-projects/fuel-saver-api/1011.md",
     "1-projects/fuel-saver-api/1010.md",
-    "2-areas/fullstack-dev/Java/SonarQube.md",
     "5-quickref",
     "1-projects/Books/Spring",
     "1-projects/Books",
