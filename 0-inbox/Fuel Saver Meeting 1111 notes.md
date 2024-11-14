@@ -22,9 +22,10 @@ Hard coded the dbsetup rather than using the db dump
 	- [x] getFinancialSummaryByMonth
 	- [x] getFinancialSummaryByYear
 4. Add methods for DeviceController
-	- [ ] getStopHistory
-	- [ ] getFinancialSummaryByMonth
-	- [ ] getFinancialSummaryByYear
+	- [x] getStopHistory
+	- [x] getFinancialSummaryByMonth
+	- [x] getFinancialSummaryByYear
+5. All get methods should be an optional in the dao layer and then unpacked in the service layer - right? Look at the get method and see what you see 
 5. Add tests for new methods
 6. Go back and clean up logs
 7. Figure out how to not show DriverController and all Driver models in swagger-ui

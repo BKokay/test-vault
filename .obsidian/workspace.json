@@ -28,11 +28,23 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Fuel Saver Meeting 1111 notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Fuel Saver Meeting 1111 notes"
+            }
+          },
+          {
+            "id": "95557bcc2b998714",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           },
           {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "95557bcc2b998714",
   "lastOpenFiles": [
     "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
     "0-inbox/Fuel Saver Meeting 1111 notes.md",
