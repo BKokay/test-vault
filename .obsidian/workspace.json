@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
+                "file": "2-areas/Personal Growth/Quotes to ponder.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tokens"
+              "title": "Quotes to ponder"
             }
           },
           {
@@ -75,8 +75,7 @@
               "title": "1111"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "naming",
+                "query": "quotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +127,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,12 +230,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a52acca242d75a9c",
+  "active": "f2e4470754869deb",
   "lastOpenFiles": [
-    "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
-    "0-inbox/Fuel Saver Meeting 1111 notes.md",
-    "0-inbox/1111.md",
     "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/Fuel Saver Meeting 1111 notes.md",
+    "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
+    "0-inbox/1111.md",
     "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
     "1-projects/fuel-saver-api/Run ansible script.md",
     "1-projects/fuel-saver-api/Timeblock.md",
