@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tokens"
-            }
-          },
-          {
-            "id": "a52acca242d75a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Books/Spring/Spring Start Here.md",
+                "file": "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
                 "mode": "source",
                 "source": true
               },
@@ -75,8 +61,7 @@
               "title": "1111"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,8 +215,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a52acca242d75a9c",
+  "active": "f2e4470754869deb",
   "lastOpenFiles": [
+    "1-projects/Books/Spring/Spring Start Here/Spring Context.md",
+    "1-projects/Books/Spring/Spring Security/Spring Security.md",
+    "1-projects/Books/Spring/Spring Start Here",
+    "1-projects/Books/Spring/Spring Security",
+    "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
     "0-inbox/Fuel Saver Meeting 1111 notes.md",
     "1-projects/Infoware stuff/Tokens.md",
     "2-areas/Personal Growth/Quotes to ponder.md",
@@ -255,9 +245,6 @@
     "1-projects/fuel-saver-api/Get docs.md",
     "1-projects/fuel-saver-api/Fuel saver user stories.md",
     "1-projects/fuel-saver-api/Enum issue.md",
-    "4-archive/DONT FORGET.md",
-    "1-projects/fuel-saver-api/1015.md",
-    "1-projects/fuel-saver-api/1011.md",
     "5-quickref",
     "1-projects/Books/Spring",
     "1-projects/Books",
@@ -277,8 +264,6 @@
     "1-projects/Clothes tracker",
     "ansible notes.canvas",
     "timestamps/2024/10-October",
-    "ansible yml setup.canvas",
-    "4-archive/watch and code",
-    "0-inbox"
+    "ansible yml setup.canvas"
   ]
 }
