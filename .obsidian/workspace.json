@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Personal Growth/Quotes to ponder.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Quotes to ponder"
+              "title": "Tokens"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Fuel Saver Meeting 1111 notes.md",
+                "file": "1-projects/Books/Spring/Spring Start Here.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fuel Saver Meeting 1111 notes"
+              "title": "Spring Start Here"
             }
           },
           {
@@ -75,7 +75,8 @@
               "title": "1111"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quotes",
+                "query": "token",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +128,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,10 +230,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2e4470754869deb",
+  "active": "a52acca242d75a9c",
   "lastOpenFiles": [
-    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/Fuel Saver Meeting 1111 notes.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "2-areas/Personal Growth/Quotes to ponder.md",
     "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
     "0-inbox/1111.md",
     "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
@@ -257,7 +258,6 @@
     "4-archive/DONT FORGET.md",
     "1-projects/fuel-saver-api/1015.md",
     "1-projects/fuel-saver-api/1011.md",
-    "1-projects/fuel-saver-api/1010.md",
     "5-quickref",
     "1-projects/Books/Spring",
     "1-projects/Books",

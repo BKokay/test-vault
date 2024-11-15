@@ -29,6 +29,6 @@ Hard coded the dbsetup rather than using the db dump
 		1. Already check for null and then throw emptyresult
 6. Add tests for new methods
 7. Go back and clean up logs
-8. Figure out how to not show DriverController and all Driver models in swagger-ui
-9. Run ansible script to have updated DB without driver table
+8. ~~Figure out how to not show DriverController and all Driver models in swagger-ui~~
+9. ~~Run ansible script to have updated DB without driver table~~
 10. Test locally
