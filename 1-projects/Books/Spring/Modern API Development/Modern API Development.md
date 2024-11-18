@@ -1,0 +1,1 @@
+*Naming* - use nouns and not verbs in REST apis. Using verbs would make it an RPC endpoint. In REST, you transfer states and not the instructions. Use the plural form for naming the collection resource in the endpoint path
