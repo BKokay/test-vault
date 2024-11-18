@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2e4470754869deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Goals at infoware.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Goals at infoware"
-            }
-          },
-          {
             "id": "f07eca85e37a9c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
+                "file": "0-inbox/Beans.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Modern API Development"
+              "title": "Beans"
             }
           },
           {
@@ -50,32 +36,6 @@
             }
           },
           {
-            "id": "95557bcc2b998714",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "0e8d7c7bde117751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/fuel-saver-api/Get docs.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Get docs"
-            }
-          },
-          {
             "id": "1d363c3cf97de9a8",
             "type": "leaf",
             "state": {
@@ -89,8 +49,7 @@
               "title": "1111"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,8 +205,12 @@
   },
   "active": "f07eca85e37a9c90",
   "lastOpenFiles": [
-    "0-inbox/1118.md",
     "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
+    "0-inbox/Beans.md",
+    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
+    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
+    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
+    "0-inbox/1118.md",
     "1-projects/Goals at infoware.md",
     "1-projects/Books/Spring/Modern API Development",
     "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
@@ -271,10 +234,6 @@
     "0-inbox/Add Authentication to Spring project.md",
     "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
     "1-projects/fuel-saver-api/TODO.md",
-    "1-projects/fuel-saver-api/Questions Sept 24.md",
-    "1-projects/fuel-saver-api/Questions 1.md",
-    "1-projects/fuel-saver-api/Notes from Georg.md",
-    "1-projects/fuel-saver-api/Methods for use cases final.md",
     "5-quickref",
     "1-projects/Books/Spring",
     "1-projects/Books",
