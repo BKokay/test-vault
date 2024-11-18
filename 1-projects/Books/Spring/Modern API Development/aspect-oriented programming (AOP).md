@@ -1,0 +1,1 @@
+Aspect-Oriented Programming  is a paradigm that allows separation of cross-cutting concerns (like logging, security, or transactions) from the main business logic by adding additional behavior to existing code without modifying the code itself. 
