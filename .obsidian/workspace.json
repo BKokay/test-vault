@@ -8,48 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f07eca85e37a9c90",
+            "id": "424a470c0155ad09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Beans.md",
+                "file": "5-quickref/TODO mornings.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Beans"
+              "title": "TODO mornings"
             }
           },
           {
-            "id": "7b94dc0ce46ca0d4",
+            "id": "772402264d2486fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1118.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1118"
-            }
-          },
-          {
-            "id": "1db0e0dace40a8ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/1111.md",
+                "file": "0-inbox/Name Picker table diagram.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Name Picker table diagram"
+            }
+          },
+          {
+            "id": "d43b2dd30e5bfdc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Install homebrew, postgres, pgadmin"
+            }
+          },
+          {
+            "id": "55f337ece477b9f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Data Science Bootcamp.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Data Science Bootcamp"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hibernate",
+                "query": "sonarqube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0-inbox/Data Science Bootcamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for Data Science Bootcamp"
             }
           },
           {
@@ -140,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0-inbox/Data Science Bootcamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from Data Science Bootcamp"
             }
           },
           {
@@ -167,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "0-inbox/Data Science Bootcamp.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Data Science Bootcamp"
             }
           },
           {
@@ -203,42 +218,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f07eca85e37a9c90",
+  "active": "55f337ece477b9f3",
   "lastOpenFiles": [
-    "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
-    "0-inbox/Beans.md",
-    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
-    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
-    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
-    "0-inbox/1118.md",
-    "1-projects/Goals at infoware.md",
-    "1-projects/Books/Spring/Modern API Development",
-    "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
-    "0-inbox/1111.md",
+    "0-inbox/Install homebrew, postgres, pgadmin.md",
+    "0-inbox/Data Science Bootcamp.md",
+    "conflict-files-obsidian-git.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Context.md",
-    "1-projects/Books/Spring/Spring Security/Spring Security.md",
     "1-projects/Books/Spring/Spring Start Here",
+    "1-projects/Books/Spring/Spring Security/Spring Security.md",
     "1-projects/Books/Spring/Spring Security",
-    "0-inbox/Fuel Saver Meeting 1111 notes.md",
-    "1-projects/Infoware stuff/Tokens.md",
-    "2-areas/Personal Growth/Quotes to ponder.md",
-    "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
-    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
+    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
+    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
+    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
+    "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
+    "1-projects/Books/Spring/Modern API Development",
+    "0-inbox/Beans.md",
+    "0-inbox/1118.md",
     "1-projects/fuel-saver-api/Run ansible script.md",
-    "1-projects/fuel-saver-api/Timeblock.md",
-    "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
-    "1-projects/fuel-saver-api/ansible read me.md",
     "0-inbox/Next Project - Happy Trucker.md",
-    "1-projects/fuel-saver-api/1104.md",
-    "0-inbox/Add Authentication to Spring project.md",
-    "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
-    "1-projects/fuel-saver-api/TODO.md",
+    "4-archive/DONT FORGET.md",
+    "2-areas/Personal Growth/Jupiter in Aries.md",
+    "1-projects/fuel-saver-api/database/practice-problems.md",
+    "1-projects/fuel-saver-api/database/fuel-saver ER model.md",
+    "1-projects/fuel-saver-api/database/Insert new test fuel stops.md",
+    "1-projects/fuel-saver-api/database/Insert new test devices.md",
+    "1-projects/fuel-saver-api/database/Create fuel-saver Tables.md",
+    "1-projects/fuel-saver-api/Java/update method dynamic.md",
+    "1-projects/fuel-saver-api/Java/OpenAPI spec.md",
+    "1-projects/fuel-saver-api/Java/Connect to database.md",
+    "1-projects/fuel-saver-api/Java/Class Diagram fuel saver.md",
+    "1-projects/fuel-saver-api/database",
+    "1-projects/fuel-saver-api/ansible read me.md",
+    "1-projects/fuel-saver-api/Java",
+    "1-projects/fuel-saver-api",
     "5-quickref",
     "4-archive/watch and code",
     "1-projects/Docs Edit",
     "1-projects/Books/Spring",
-    "1-projects/Books",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
@@ -251,6 +268,5 @@
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
     "ansible notes.canvas",
     "Untitled.canvas"
-    "ansible yml setup.canvas"
   ]
 }
