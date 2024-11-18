@@ -8,49 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "424a470c0155ad09",
+            "id": "f2e4470754869deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-quickref/TODO mornings.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TODO mornings"
+              "title": "Tokens"
             }
           },
           {
-            "id": "772402264d2486fe",
+            "id": "dc085202449c6a98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Name Picker table diagram.md",
+                "file": "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Name Picker table diagram"
+              "title": "Connect to postgres from fuelsaver"
             }
           },
           {
-            "id": "d43b2dd30e5bfdc9",
+            "id": "a52acca242d75a9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
+                "file": "0-inbox/Fuel Saver Meeting 1111 notes.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Fuel Saver Meeting 1111 notes"
+            }
+          },
+          {
+            "id": "0e8d7c7bde117751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-api/Get docs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Install homebrew, postgres, pgadmin"
+              "title": "Get docs"
+            }
+          },
+          {
+            "id": "1d363c3cf97de9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1111.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1111"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,6 +110,7 @@
               "type": "search",
               "state": {
                 "query": "sonarqube",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Install homebrew, postgres, pgadmin"
+              "title": "Backlinks for Get docs"
             }
           },
           {
@@ -141,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Install homebrew, postgres, pgadmin"
+              "title": "Outgoing links from Get docs"
             }
           },
           {
@@ -168,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Install homebrew, postgres, pgadmin.md"
+                "file": "1-projects/fuel-saver-app/Get docs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Install homebrew, postgres, pgadmin"
+              "title": "Outline of Get docs"
             }
           },
           {
@@ -204,25 +233,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d43b2dd30e5bfdc9",
+  "active": "dc085202449c6a98",
   "lastOpenFiles": [
-    "4-archive/DONT FORGET.md",
-    "2-areas/Personal Growth/Jupiter in Aries.md",
-    "1-projects/fuel-saver-api/database/practice-problems.md",
-    "1-projects/fuel-saver-api/database/fuel-saver ER model.md",
-    "1-projects/fuel-saver-api/database/Insert new test fuel stops.md",
-    "1-projects/fuel-saver-api/database/Insert new test devices.md",
-    "1-projects/fuel-saver-api/database/Create fuel-saver Tables.md",
-    "1-projects/fuel-saver-api/Java/update method dynamic.md",
-    "1-projects/fuel-saver-api/Java/OpenAPI spec.md",
-    "1-projects/fuel-saver-api/Java/Connect to database.md",
-    "1-projects/fuel-saver-api/Java/Class Diagram fuel saver.md",
-    "1-projects/fuel-saver-api/database",
-    "1-projects/fuel-saver-api/ansible read me.md",
+    "1-projects/fuel-saver-api/Run ansible script.md",
     "1-projects/fuel-saver-api/Timeblock.md",
-    "1-projects/fuel-saver-api/TODO.md",
+    "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
+    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
+    "1-projects/fuel-saver-api/ansible read me.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/Next Project - Happy Trucker.md",
+    "0-inbox/1111.md",
+    "0-inbox/Fuel Saver Meeting 1111 notes.md",
+    "1-projects/fuel-saver-api/1104.md",
+    "0-inbox/Add Authentication to Spring project.md",
     "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
     "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
+    "1-projects/fuel-saver-api/TODO.md",
     "1-projects/fuel-saver-api/Questions Sept 24.md",
     "1-projects/fuel-saver-api/Questions 1.md",
     "1-projects/fuel-saver-api/Notes from Georg.md",
@@ -232,9 +258,11 @@
     "1-projects/fuel-saver-api/Get docs.md",
     "1-projects/fuel-saver-api/Fuel saver user stories.md",
     "1-projects/fuel-saver-api/Enum issue.md",
-    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
-    "1-projects/fuel-saver-api/1104.md",
-    "1-projects/fuel-saver-api",
+    "4-archive/DONT FORGET.md",
+    "1-projects/fuel-saver-api/1015.md",
+    "1-projects/fuel-saver-api/1011.md",
+    "1-projects/fuel-saver-api/1010.md",
+    "2-areas/fullstack-dev/Java/SonarQube.md",
     "5-quickref",
     "4-archive/watch and code",
     "1-projects/Docs Edit",
