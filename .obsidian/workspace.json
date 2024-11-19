@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "131fa394d9b3ef40",
+        "id": "3832e1a5bcdc9a0e",
         "type": "tabs",
         "children": [
           {
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "1db0e0dace40a8ce",
+            "id": "1d363c3cf97de9a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,7 +46,7 @@
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "1111"
             }
           }
         ]
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for Get docs"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from Get docs"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "1-projects/fuel-saver-app/Get docs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Get docs"
             }
           },
           {
@@ -205,6 +205,7 @@
   },
   "active": "f07eca85e37a9c90",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
     "0-inbox/Beans.md",
     "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
@@ -233,24 +234,24 @@
     "1-projects/fuel-saver-api/1104.md",
     "0-inbox/Add Authentication to Spring project.md",
     "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
-    "1-projects/fuel-saver-api/TODO.md",
     "5-quickref",
-    "4-archive/watch and code",
-    "1-projects/Docs Edit",
     "1-projects/Books/Spring",
     "1-projects/Books",
+    "1-projects/Docs Edit",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
     "3-resources/images/Pasted image 20241024111055.png",
     "3-resources/images/Pasted image 20241024110939.png",
     "3-resources/images/Pasted image 20241024110849.png",
+    "1-projects/Infoware stuff",
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
+    "1-projects/NamePicker",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
+    "1-projects/Clothes tracker",
     "ansible notes.canvas",
-    "Untitled.canvas"
     "ansible yml setup.canvas"
   ]
 }
