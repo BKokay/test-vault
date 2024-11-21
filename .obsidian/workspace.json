@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Beans.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Beans"
-            }
-          },
-          {
-            "id": "c8b1f707c0a60392",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Tokens"
             }
           },
           {
@@ -93,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hibernate",
+                "query": "token",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,11 +205,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8b1f707c0a60392",
+  "active": "7b94dc0ce46ca0d4",
   "lastOpenFiles": [
+    "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/Beans.md",
+    "2-areas/Life Management/Passwords.md",
     "conflict-files-obsidian-git.md",
     "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
-    "0-inbox/Beans.md",
     "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
     "1-projects/Books/Spring/Modern API Development/dependency injection.md",
     "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
@@ -235,7 +226,6 @@
     "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security",
     "0-inbox/Fuel Saver Meeting 1111 notes.md",
-    "1-projects/Infoware stuff/Tokens.md",
     "2-areas/Personal Growth/Quotes to ponder.md",
     "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
     "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
@@ -246,7 +236,6 @@
     "0-inbox/Next Project - Happy Trucker.md",
     "1-projects/fuel-saver-api/1104.md",
     "0-inbox/Add Authentication to Spring project.md",
-    "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
     "5-quickref",
     "1-projects/Books/Spring",
     "1-projects/Books",
