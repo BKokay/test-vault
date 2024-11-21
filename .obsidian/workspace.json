@@ -4,66 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "131fa394d9b3ef40",
+        "id": "3832e1a5bcdc9a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "424a470c0155ad09",
+            "id": "f07eca85e37a9c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Beans.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Beans"
+              "title": "Tokens"
             }
           },
           {
-            "id": "772402264d2486fe",
+            "id": "7b94dc0ce46ca0d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Name Picker table diagram.md",
+                "file": "0-inbox/1118.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1118"
+            }
+          },
+          {
+            "id": "1d363c3cf97de9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1111.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Name Picker table diagram"
-            }
-          },
-          {
-            "id": "d43b2dd30e5bfdc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Install homebrew, postgres, pgadmin"
-            }
-          },
-          {
-            "id": "55f337ece477b9f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Data Science Bootcamp.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Data Science Bootcamp"
+              "title": "1111"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hibernate",
+                "query": "token",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Data Science Bootcamp.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Science Bootcamp"
+              "title": "Backlinks for Get docs"
             }
           },
           {
@@ -155,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Data Science Bootcamp.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data Science Bootcamp"
+              "title": "Outgoing links from Get docs"
             }
           },
           {
@@ -182,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Data Science Bootcamp.md"
+                "file": "1-projects/fuel-saver-app/Get docs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Science Bootcamp"
+              "title": "Outline of Get docs"
             }
           },
           {
@@ -218,14 +205,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f07eca85e37a9c90",
+  "active": "7b94dc0ce46ca0d4",
   "lastOpenFiles": [
     "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/Beans.md",
     "2-areas/Life Management/Passwords.md",
     "conflict-files-obsidian-git.md",
     "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
-    "0-inbox/Beans.md",
     "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
     "1-projects/Books/Spring/Modern API Development/dependency injection.md",
     "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
@@ -236,48 +222,38 @@
     "0-inbox/1111.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Context.md",
-    "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security/Spring Security.md",
+    "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security",
     "0-inbox/Fuel Saver Meeting 1111 notes.md",
-    "1-projects/Infoware stuff/Tokens.md",
     "2-areas/Personal Growth/Quotes to ponder.md",
     "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
     "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
     "1-projects/fuel-saver-api/Run ansible script.md",
-    "0-inbox/Next Project - Happy Trucker.md",
-    "4-archive/DONT FORGET.md",
-    "2-areas/Personal Growth/Jupiter in Aries.md",
-    "1-projects/fuel-saver-api/database/practice-problems.md",
-    "1-projects/fuel-saver-api/database/fuel-saver ER model.md",
-    "1-projects/fuel-saver-api/database/Insert new test fuel stops.md",
-    "1-projects/fuel-saver-api/database/Insert new test devices.md",
-    "1-projects/fuel-saver-api/database/Create fuel-saver Tables.md",
-    "1-projects/fuel-saver-api/Java/update method dynamic.md",
-    "1-projects/fuel-saver-api/Java/OpenAPI spec.md",
-    "1-projects/fuel-saver-api/Java/Connect to database.md",
-    "1-projects/fuel-saver-api/Java/Class Diagram fuel saver.md",
-    "1-projects/fuel-saver-api/database",
+    "1-projects/fuel-saver-api/Timeblock.md",
+    "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
     "1-projects/fuel-saver-api/ansible read me.md",
     "0-inbox/Next Project - Happy Trucker.md",
     "1-projects/fuel-saver-api/1104.md",
     "0-inbox/Add Authentication to Spring project.md",
-    "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
     "5-quickref",
-    "4-archive/watch and code",
-    "1-projects/Docs Edit",
     "1-projects/Books/Spring",
+    "1-projects/Books",
+    "1-projects/Docs Edit",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
     "3-resources/images/Pasted image 20241024111055.png",
     "3-resources/images/Pasted image 20241024110939.png",
     "3-resources/images/Pasted image 20241024110849.png",
+    "1-projects/Infoware stuff",
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
+    "1-projects/NamePicker",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
+    "1-projects/Clothes tracker",
     "ansible notes.canvas",
-    "Untitled.canvas"
+    "ansible yml setup.canvas"
   ]
 }
