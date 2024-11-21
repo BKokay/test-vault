@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-quickref/TODO mornings.md",
+                "file": "0-inbox/Beans.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TODO mornings"
+              "title": "Beans"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Data Science Bootcamp"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sonarqube",
+                "query": "hibernate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +115,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,23 +218,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55f337ece477b9f3",
+  "active": "f07eca85e37a9c90",
   "lastOpenFiles": [
+    "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/Beans.md",
+    "2-areas/Life Management/Passwords.md",
     "conflict-files-obsidian-git.md",
-    "0-inbox/Data Science Bootcamp.md",
-    "0-inbox/Install homebrew, postgres, pgadmin.md",
+    "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
+    "0-inbox/Beans.md",
+    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
+    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
+    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
+    "0-inbox/1118.md",
+    "1-projects/Goals at infoware.md",
+    "1-projects/Books/Spring/Modern API Development",
+    "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
+    "0-inbox/1111.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Context.md",
     "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security/Spring Security.md",
     "1-projects/Books/Spring/Spring Security",
-    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
-    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
-    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
-    "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
-    "1-projects/Books/Spring/Modern API Development",
-    "0-inbox/Beans.md",
-    "0-inbox/1118.md",
+    "0-inbox/Fuel Saver Meeting 1111 notes.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "2-areas/Personal Growth/Quotes to ponder.md",
+    "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
+    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
     "1-projects/fuel-saver-api/Run ansible script.md",
     "0-inbox/Next Project - Happy Trucker.md",
     "4-archive/DONT FORGET.md",
@@ -250,8 +259,10 @@
     "1-projects/fuel-saver-api/Java/Class Diagram fuel saver.md",
     "1-projects/fuel-saver-api/database",
     "1-projects/fuel-saver-api/ansible read me.md",
-    "1-projects/fuel-saver-api/Java",
-    "1-projects/fuel-saver-api",
+    "0-inbox/Next Project - Happy Trucker.md",
+    "1-projects/fuel-saver-api/1104.md",
+    "0-inbox/Add Authentication to Spring project.md",
+    "1-projects/fuel-saver-api/TODO Monday Sept 30.md",
     "5-quickref",
     "4-archive/watch and code",
     "1-projects/Docs Edit",
