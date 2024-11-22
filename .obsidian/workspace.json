@@ -81,8 +81,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "token",
-                "matchingCase": false,
+                "query": "SonarQube",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +206,8 @@
   },
   "active": "7b94dc0ce46ca0d4",
   "lastOpenFiles": [
+    "2-areas/fullstack-dev/Java/SonarQube.md",
+    "0-inbox/1118.md",
     "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/Beans.md",
     "2-areas/Life Management/Passwords.md",
@@ -215,7 +216,6 @@
     "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
     "1-projects/Books/Spring/Modern API Development/dependency injection.md",
     "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
-    "0-inbox/1118.md",
     "1-projects/Goals at infoware.md",
     "1-projects/Books/Spring/Modern API Development",
     "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
@@ -235,7 +235,6 @@
     "1-projects/fuel-saver-api/ansible read me.md",
     "0-inbox/Next Project - Happy Trucker.md",
     "1-projects/fuel-saver-api/1104.md",
-    "0-inbox/Add Authentication to Spring project.md",
     "5-quickref",
     "1-projects/Books/Spring",
     "1-projects/Books",
