@@ -9,3 +9,8 @@ https://api.maptrip.de/swagger-ui/index.html#/authenticate/authenticateByAPIKey
 ```json
 eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrZWl0aEBpbmZvd2FyZS5kZSIsImF1dGgiOiJST0xFX1JPT1QiLCJpZCI6MTA4NTc5MywiY29tcGFueUlkIjoxLCJleHAiOjE3MzIzNDkxNzl9.O8YzED05bwNTgD1iFifleUKiV5gVtWrQWrwxJjES8TrcJalgaz-ZRzM93nCn_4tL0ju5IvgL5JMO4ntsCY2HvA
 ```
+
+11/24/24
+```json
+eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrZWl0aEBpbmZvd2FyZS5kZSIsImF1dGgiOiJST0xFX1JPT1QiLCJpZCI6MTA4NTc5MywiY29tcGFueUlkIjoxLCJleHAiOjE3MzUxMTkxMTV9.VckKmJIXQxIlo2k8heVZmwaE-hxQ6hz7vRF2VVHbOzGgndRvltPqHyZgWNzLEbxsCFpuY9DF37pQgrytkJLQKA
+```
