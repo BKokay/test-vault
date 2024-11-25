@@ -36,6 +36,48 @@
             }
           },
           {
+            "id": "8559f037ec456c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-api/1118.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1118"
+            }
+          },
+          {
+            "id": "7d38ac296fad80b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1125.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1125"
+            }
+          },
+          {
+            "id": "972ca755bc666232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/API Codes RFC edit.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "API Codes RFC edit"
+            }
+          },
+          {
             "id": "1d363c3cf97de9a8",
             "type": "leaf",
             "state": {
@@ -50,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "token",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +144,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,12 +246,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b94dc0ce46ca0d4",
+  "active": "972ca755bc666232",
   "lastOpenFiles": [
-    "2-areas/fullstack-dev/Java/SonarQube.md",
-    "0-inbox/1118.md",
-    "0-inbox/Data Science Bootcamp.md",
+    "3-resources/images/Pasted image 20241125115806.png",
+    "0-inbox/1125.md",
+    "0-inbox/API Codes RFC edit.md",
+    "1-projects/fuel-saver-api/1118.md",
+    "1-projects/Docs Edit/Follow me.md",
+    "0-inbox/HTTP Response.md",
     "1-projects/Infoware stuff/Tokens.md",
+    "Untitled",
+    "2-areas/fullstack-dev/Java/SonarQube.md",
+    "0-inbox/Data Science Bootcamp.md",
     "0-inbox/Beans.md",
     "2-areas/Life Management/Passwords.md",
     "conflict-files-obsidian-git.md",
@@ -221,7 +268,7 @@
     "1-projects/Goals at infoware.md",
     "1-projects/Books/Spring/Modern API Development",
     "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
-    "0-inbox/1111.md",
+    "1-projects/fuel-saver-api/1111.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Context.md",
     "1-projects/Books/Spring/Spring Security/Spring Security.md",
@@ -231,11 +278,6 @@
     "2-areas/Personal Growth/Quotes to ponder.md",
     "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
     "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
-    "1-projects/fuel-saver-api/Run ansible script.md",
-    "1-projects/fuel-saver-api/Timeblock.md",
-    "1-projects/fuel-saver-api/Steps to login to server and run playbook.md",
-    "1-projects/fuel-saver-api/ansible read me.md",
-    "0-inbox/Next Project - Happy Trucker.md",
     "5-quickref",
     "1-projects/Books/Spring",
     "1-projects/Books",
@@ -252,7 +294,6 @@
     "3-resources/images/Pasted image 20241022091853.png",
     "1-projects/NamePicker",
     "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
-    "1-projects/Clothes tracker",
     "ansible notes.canvas",
     "ansible yml setup.canvas"
   ]
