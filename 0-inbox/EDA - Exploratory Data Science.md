@@ -1,0 +1,1 @@
+Look inside the data without a manual to understand what's going on, maybe explore some assumptions. 
