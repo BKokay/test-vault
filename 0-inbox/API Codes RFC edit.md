@@ -11,3 +11,4 @@ Mapping that resolves these error URIs and returns the description? More details
 
 ### Notes:
 *Problem Details for HTTP APIs* via RFC 7807 is a standard way for conveying machine-readable error details in an HTTP response. In RFC 9457, new dimensions and updates were added to the framework. 
+
