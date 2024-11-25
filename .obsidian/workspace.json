@@ -8,73 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "424a470c0155ad09",
+            "id": "f07eca85e37a9c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-quickref/TODO mornings.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TODO mornings"
+              "title": "Tokens"
             }
           },
           {
-            "id": "772402264d2486fe",
+            "id": "7b94dc0ce46ca0d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Name Picker table diagram.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tokens"
+            }
+          },
+          {
+            "id": "8559f037ec456c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-api/1118.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1118"
+            }
+          },
+          {
+            "id": "7d38ac296fad80b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1125.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Name Picker table diagram"
+              "title": "1125"
             }
           },
           {
-            "id": "d43b2dd30e5bfdc9",
+            "id": "972ca755bc666232",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
+                "file": "0-inbox/1125.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Install homebrew, postgres, pgadmin"
+              "title": "1125"
             }
           },
           {
-            "id": "55f337ece477b9f3",
+            "id": "1d363c3cf97de9a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Data Science Bootcamp.md",
-                "mode": "source",
+                "file": "0-inbox/1111.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Data Science Bootcamp"
-            }
-          },
-          {
-            "id": "4ca9f08f027a7770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Questions from Felipe.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Questions from Felipe"
+              "title": "1111"
             }
           }
         ],
@@ -111,6 +125,8 @@
               "state": {
                 "query": "sonarqube",
                 "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -150,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/Questions from Felipe.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Questions from Felipe"
+              "title": "Backlinks for Get docs"
             }
           },
           {
@@ -169,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Questions from Felipe.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Questions from Felipe"
+              "title": "Outgoing links from Get docs"
             }
           },
           {
@@ -196,10 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Questions from Felipe.md"
+                "file": "1-projects/fuel-saver-app/Get docs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Questions from Felipe"
+              "title": "Outline of Get docs"
             }
           },
           {
@@ -232,40 +248,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ca9f08f027a7770",
+  "active": "972ca755bc666232",
   "lastOpenFiles": [
+    "0-inbox/API Codes RFC edit.md",
+    "3-resources/images/Pasted image 20241125115806.png",
+    "0-inbox/1125.md",
+    "1-projects/fuel-saver-api/1118.md",
+    "1-projects/Docs Edit/Follow me.md",
+    "0-inbox/HTTP Response.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "Untitled",
+    "2-areas/fullstack-dev/Java/SonarQube.md",
     "0-inbox/Data Science Bootcamp.md",
-    "0-inbox/Questions from Felipe.md",
+    "0-inbox/Beans.md",
+    "2-areas/Life Management/Passwords.md",
     "conflict-files-obsidian-git.md",
-    "0-inbox/Install homebrew, postgres, pgadmin.md",
+    "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
+    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
+    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
+    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
+    "1-projects/Goals at infoware.md",
+    "1-projects/Books/Spring/Modern API Development",
+    "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
+    "1-projects/fuel-saver-api/1111.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Context.md",
     "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security/Spring Security.md",
     "1-projects/Books/Spring/Spring Security",
-    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
-    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
-    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
-    "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
-    "1-projects/Books/Spring/Modern API Development",
-    "0-inbox/Beans.md",
-    "0-inbox/1118.md",
-    "1-projects/fuel-saver-api/Run ansible script.md",
-    "0-inbox/Next Project - Happy Trucker.md",
-    "4-archive/DONT FORGET.md",
-    "2-areas/Personal Growth/Jupiter in Aries.md",
-    "1-projects/fuel-saver-api/database/practice-problems.md",
-    "1-projects/fuel-saver-api/database/fuel-saver ER model.md",
-    "1-projects/fuel-saver-api/database/Insert new test fuel stops.md",
-    "1-projects/fuel-saver-api/database/Insert new test devices.md",
-    "1-projects/fuel-saver-api/database/Create fuel-saver Tables.md",
-    "1-projects/fuel-saver-api/Java/update method dynamic.md",
-    "1-projects/fuel-saver-api/Java/OpenAPI spec.md",
-    "1-projects/fuel-saver-api/Java/Connect to database.md",
-    "1-projects/fuel-saver-api/Java/Class Diagram fuel saver.md",
-    "1-projects/fuel-saver-api/database",
-    "1-projects/fuel-saver-api/Java",
-    "1-projects/fuel-saver-api",
+    "0-inbox/Fuel Saver Meeting 1111 notes.md",
+    "2-areas/Personal Growth/Quotes to ponder.md",
+    "2-areas/fullstack-dev/Spring Data JPA Naming Conventions.md",
+    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
     "5-quickref",
     "4-archive/watch and code",
     "1-projects/Docs Edit",
@@ -279,7 +293,7 @@
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
-    "3-resources/images/Screenshot 2024-10-20 at 6.48.24 AM.png",
+    "1-projects/NamePicker",
     "ansible notes.canvas",
     "Untitled.canvas"
   ]
