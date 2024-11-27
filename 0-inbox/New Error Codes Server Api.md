@@ -81,3 +81,10 @@ responses:
 The rest of this might not be accurate as I am not totally familiar with the error handling of the app, but it is a place to start. 
 
 In the app, we would need to add the `ProblemApiError` to the class `ErrorUtils`. We'd need to get the header out of the `RequestService` and serve the response based on that. We'd need to refactor the `ApiExceptionHandler` class to handle the new response shape based on the header. Additionally, we'd need to add the error values to each services error class. In the long range, we'd need to add documentation pages for each of the non-general errors a client might encounter for the `type` value in the response. 
+
+NEW BRANCH! with INWA-4784. First pull from develop, build, then new branch 
+new converter class which takes code and creates URI and set URI to code 
+Start with specificiation part - add schema and then will generate code and can use in ApiExceptionHandler `ProblemDetail` 
+accept header to define which of the classes should be returned
+
+clean package - run as map-trip
