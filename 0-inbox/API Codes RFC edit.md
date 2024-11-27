@@ -26,7 +26,8 @@ Mapping that resolves these error URIs and returns the description? More details
   ] 
 }
 ```
-
+misc.yml -> ApiError & ApiErrorDetail
+MaptripServerApiError
 #### Updated response: application/problem+json
 ```json
 {
@@ -35,7 +36,7 @@ Mapping that resolves these error URIs and returns the description? More details
 "status": 400,
 "detail": "An address string has to be provided",
 "code": "GEOCODER_ERROR_MISSING_ADDRESS",
-"instance": "https://stagingapi.maptrip.de/v1/geocoder?provider=TomTom&address=%20&country=DEU&limit=1",
+"instance": "https://stagingapi.maptrip.de/v1/geocoder?provider=TomTom&address=%20&country=DEU&limit=1", // Can get out of request? 
 "timestamp": "2023-11-28T12:34:56Z" // Optional but could be useful
 }
 ```
