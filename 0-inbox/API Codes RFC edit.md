@@ -10,5 +10,50 @@ Mapping that resolves these error URIs and returns the description? More details
 
 
 ### Notes:
-*Problem Details for HTTP APIs* via RFC 7807 is a standard way for conveying machine-readable error details in an HTTP response. In RFC 9457, new dimensions and updates were added to the framework. 
+*Problem Details for HTTP APIs* via [[RFC 7807]] is a standard way for conveying machine-readable error details in an HTTP response. In [[RFC 9457]], new dimensions and updates were added to the framework. 
 
+
+#### Current response: application/json
+```json
+{ 
+"status": 400, 
+"errors": ["An address string has to be provided"], 
+"details": [ 
+	{ 
+	  "code": "GEOCODER_ERROR_MISSING_ADDRESS", 
+	  "message": "An address string has to be provided" 
+	}
+  ] 
+}
+```
+
+#### Updated response: application/problem+json
+```json
+{
+"type": "https://https://api.maptrip.de/docs/tutorial/error-codes.html", // individual error code pages would need to be implemented eventually. General errors that are self-explanatory would lead to about:blank. Absolute URIs are recommended
+"title": "Missing Address Parameter",
+"status": 400,
+"detail": "An address string has to be provided",
+"code": "GEOCODER_ERROR_MISSING_ADDRESS",
+"instance": "https://stagingapi.maptrip.de/v1/geocoder?provider=TomTom&address=%20&country=DEU&limit=1"
+}
+```
+
+#### Merged to be backward compatible 
+```json
+{
+"status": 400, 
+"errors": ["An address string has to be provided"], 
+"details": [ 
+	{ 
+	  "code": "GEOCODER_ERROR_MISSING_ADDRESS", 
+	  "message": "An address string has to be provided" 
+	}
+  ], 
+"type": "https://https://api.maptrip.de/docs/tutorial/error-codes.html",
+"title": "Missing Address Parameter",
+"detail": "An address string has to be provided",
+"code": "GEOCODER_ERROR_MISSING_ADDRESS",
+"instance": "https://stagingapi.maptrip.de/v1/geocoder?provider=TomTom&address=%20&country=DEU&limit=1"
+}
+```

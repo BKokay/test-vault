@@ -4,95 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "131fa394d9b3ef40",
+        "id": "3832e1a5bcdc9a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "424a470c0155ad09",
+            "id": "f07eca85e37a9c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-quickref/TODO mornings.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TODO mornings"
+              "title": "Tokens"
             }
           },
           {
-            "id": "772402264d2486fe",
+            "id": "7d38ac296fad80b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Name Picker table diagram.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Name Picker table diagram"
-            }
-          },
-          {
-            "id": "d43b2dd30e5bfdc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Install homebrew, postgres, pgadmin.md",
+                "file": "0-inbox/1125.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Install homebrew, postgres, pgadmin"
+              "title": "1125"
             }
           },
           {
-            "id": "55f337ece477b9f3",
+            "id": "972ca755bc666232",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Data Science Bootcamp.md",
+                "file": "0-inbox/RFC 9457.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Data Science Bootcamp"
+              "title": "RFC 9457"
             }
           },
           {
-            "id": "4ca9f08f027a7770",
+            "id": "e56362fee3d60e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Questions from Felipe.md",
+                "file": "0-inbox/API Codes RFC edit.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Questions from Felipe"
-            }
-          },
-          {
-            "id": "de94b0db3b3b46f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/EDA - Exploratory Data Science.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "EDA - Exploratory Data Science"
+              "title": "API Codes RFC edit"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,8 +95,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sonarqube",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -164,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-inbox/EDA - Exploratory Data Science.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EDA - Exploratory Data Science"
+              "title": "Backlinks for Get docs"
             }
           },
           {
@@ -183,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/EDA - Exploratory Data Science.md",
+                "file": "1-projects/fuel-saver-app/Get docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EDA - Exploratory Data Science"
+              "title": "Outgoing links from Get docs"
             }
           },
           {
@@ -210,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/EDA - Exploratory Data Science.md"
+                "file": "1-projects/fuel-saver-app/Get docs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of EDA - Exploratory Data Science"
+              "title": "Outline of Get docs"
             }
           },
           {
@@ -246,55 +218,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de94b0db3b3b46f3",
+  "active": "e56362fee3d60e22",
   "lastOpenFiles": [
+    "0-inbox/RFC 9457.md",
+    "0-inbox/API Codes RFC edit.md",
+    "0-inbox/RFC 7807.md",
+    "0-inbox/1125.md",
     "0-inbox/Questions from Felipe.md",
     "0-inbox/EDA - Exploratory Data Science.md",
-    "conflict-files-obsidian-git.md",
     "3-resources/images/Pasted image 20241125115806.png",
     "1-projects/fuel-saver-api/1118.md",
-    "1-projects/fuel-saver-api/1111.md",
     "1-projects/Docs Edit/Follow me.md",
     "0-inbox/HTTP Response.md",
-    "0-inbox/API Codes RFC edit.md",
-    "0-inbox/1125.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "Untitled",
+    "2-areas/fullstack-dev/Java/SonarQube.md",
     "0-inbox/Data Science Bootcamp.md",
-    "0-inbox/Install homebrew, postgres, pgadmin.md",
+    "0-inbox/Beans.md",
+    "2-areas/Life Management/Passwords.md",
+    "conflict-files-obsidian-git.md",
+    "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
+    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
+    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
+    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
+    "1-projects/Goals at infoware.md",
+    "1-projects/Books/Spring/Modern API Development",
+    "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
+    "1-projects/fuel-saver-api/1111.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Context.md",
-    "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security/Spring Security.md",
+    "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security",
-    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
-    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
-    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
-    "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
-    "1-projects/Books/Spring/Modern API Development",
-    "0-inbox/Beans.md",
-    "0-inbox/1118.md",
-    "1-projects/fuel-saver-api/Run ansible script.md",
-    "0-inbox/Next Project - Happy Trucker.md",
-    "4-archive/DONT FORGET.md",
-    "2-areas/Personal Growth/Jupiter in Aries.md",
-    "1-projects/fuel-saver-api/database/practice-problems.md",
-    "1-projects/fuel-saver-api/database/fuel-saver ER model.md",
-    "1-projects/fuel-saver-api/database",
-    "1-projects/fuel-saver-api/Java",
-    "1-projects/fuel-saver-api",
+    "0-inbox/Fuel Saver Meeting 1111 notes.md",
     "5-quickref",
-    "4-archive/watch and code",
-    "1-projects/Docs Edit",
     "1-projects/Books/Spring",
+    "1-projects/Books",
+    "1-projects/Docs Edit",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
     "3-resources/images/Pasted image 20241024111055.png",
     "3-resources/images/Pasted image 20241024110939.png",
     "3-resources/images/Pasted image 20241024110849.png",
+    "1-projects/Infoware stuff",
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
+    "1-projects/NamePicker",
     "ansible notes.canvas",
-    "Untitled.canvas"
+    "ansible yml setup.canvas"
   ]
 }
