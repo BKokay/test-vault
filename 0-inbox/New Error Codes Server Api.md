@@ -29,6 +29,14 @@ If we implemented the application/problem+json from the start, this is how the r
 }
 ```
 
+```json
+{
+"type": "https://api.maptrip.de/problems/geocoder/missing-address.html",
+"title": "Missing Address Parameter",
+"status": 400,
+"detail": "An address string has to be provided"
+}
+```
 An option would be to merge the two responses to be backward compatible. If a client accepts either application/json or application/problem+json, the response will be the same. The consideration for this not being the right choice is that it wouldn't be strictly RFC 9457 compliant, it uses redundant information, and it increases the response size. Probably not ideal if we are working on improving our user experience and standardization.
 ```json
 {
