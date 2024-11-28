@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1125.md",
+                "file": "0-inbox/1127.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1125"
+              "title": "1127"
+            }
+          },
+          {
+            "id": "29a073d2f29e5e65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Build server api.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Build server api"
             }
           },
           {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "token",
+                "query": "server api",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,15 +260,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c12a2f6e1bcf035",
+  "active": "29a073d2f29e5e65",
   "lastOpenFiles": [
-    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/1127.md",
+    "0-inbox/Build server api.md",
+    "0-inbox/1125.md",
     "0-inbox/API Codes RFC edit.md",
+    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/New Error Codes Server Api.md",
     "0-inbox/RFC 9457.md",
     "0-inbox/RFC 7807.md",
-    "0-inbox/1125.md",
     "0-inbox/Questions from Felipe.md",
     "0-inbox/EDA - Exploratory Data Science.md",
     "3-resources/images/Pasted image 20241125115806.png",
@@ -276,7 +291,6 @@
     "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
     "1-projects/fuel-saver-api/1111.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
-    "1-projects/Books/Spring/Spring Start Here/Spring Context.md",
     "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security",
     "5-quickref",
