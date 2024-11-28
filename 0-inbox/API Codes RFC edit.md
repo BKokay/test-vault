@@ -60,3 +60,57 @@ MaptripServerApiError
 "timestamp": "2023-11-28T12:34:56Z" 
 }
 ```
+
+ProblemDetail:
+
+type: object
+
+properties:
+
+status:
+
+type: integer
+
+description: HTTP status code
+
+example: 404
+
+type:
+
+type: string
+
+description: A URI leading to more documentation about the problem
+
+example: https://api.maptrip.de/problems/matrix/diameter-too-large
+
+title:
+
+type: string
+
+description: A short message about the error
+
+example: Diameter too large
+
+detail:
+
+type: string
+
+description: Optional additional information about the error
+
+example: The region in which the stops are located must not exceed 200 km in diameter
+
+timestamp:
+
+type: string
+
+description: The time of the error as an ISO-8601 string
+
+example: 2021-07-06T15:02:00.000+0000
+
+instance:
+
+type: string
+
+description: The URI where the error occurred
+
+example: https://api.maptrip.de/v1/matrix/async/77a735b7-f21f-4102-993f-ba1e279ac28a
