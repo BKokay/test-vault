@@ -41,40 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Build server api.md",
+                "file": "0-inbox/1127.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Build server api"
-            }
-          },
-          {
-            "id": "972ca755bc666232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/RFC 7807.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "RFC 7807"
-            }
-          },
-          {
-            "id": "e56362fee3d60e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/RFC 9457.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "RFC 9457"
+              "title": "1127"
             }
           },
           {
@@ -83,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/API Codes RFC edit.md",
+                "file": "1-projects/Server API/API Codes RFC edit.md",
                 "mode": "source",
                 "source": true
               },
@@ -262,24 +234,25 @@
   },
   "active": "29a073d2f29e5e65",
   "lastOpenFiles": [
+    "1-projects/Server API/API Codes RFC edit.md",
     "0-inbox/1127.md",
-    "0-inbox/Build server api.md",
-    "0-inbox/1125.md",
-    "0-inbox/API Codes RFC edit.md",
-    "1-projects/Infoware stuff/Tokens.md",
-    "0-inbox/New Error Codes Server Api.md",
-    "0-inbox/RFC 9457.md",
-    "0-inbox/RFC 7807.md",
-    "0-inbox/Questions from Felipe.md",
+    "1-projects/Server API/RFC 9457.md",
+    "1-projects/Server API/RFC 7807.md",
+    "0-inbox/Data Science Bootcamp.md",
+    "1-projects/Books/Spring/Beans.md",
     "0-inbox/EDA - Exploratory Data Science.md",
+    "1-projects/fuel-saver-api/Fuel Saver Meeting 1111 notes.md",
+    "0-inbox/HTTP Response.md",
+    "1-projects/Server API/Build server api.md",
+    "0-inbox/1125.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "1-projects/Server API/New Error Codes Server Api.md",
+    "0-inbox/Questions from Felipe.md",
     "3-resources/images/Pasted image 20241125115806.png",
     "1-projects/fuel-saver-api/1118.md",
-    "1-projects/Docs Edit/Follow me.md",
-    "0-inbox/HTTP Response.md",
+    "1-projects/Server API/Follow me.md",
     "Untitled",
     "2-areas/fullstack-dev/Java/SonarQube.md",
-    "0-inbox/Data Science Bootcamp.md",
-    "0-inbox/Beans.md",
     "2-areas/Life Management/Passwords.md",
     "conflict-files-obsidian-git.md",
     "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
@@ -290,13 +263,12 @@
     "1-projects/Books/Spring/Modern API Development",
     "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
     "1-projects/fuel-saver-api/1111.md",
-    "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
     "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security",
     "5-quickref",
     "1-projects/Books/Spring",
     "1-projects/Books",
-    "1-projects/Docs Edit",
+    "1-projects/Server API",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
