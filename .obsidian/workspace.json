@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "New Error Codes Server Api"
             }
+          },
+          {
+            "id": "fddfea7fc1cebf88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1127.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1127"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,11 +246,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d94bcd1f0c1fd8aa",
+  "active": "fddfea7fc1cebf88",
   "lastOpenFiles": [
+    "0-inbox/New Error Codes Server Api.md",
+    "0-inbox/1127.md",
     "0-inbox/RFC 9457.md",
     "0-inbox/API Codes RFC edit.md",
-    "0-inbox/New Error Codes Server Api.md",
     "0-inbox/RFC 7807.md",
     "0-inbox/1125.md",
     "0-inbox/Questions from Felipe.md",
@@ -262,7 +277,6 @@
     "1-projects/fuel-saver-api/1111.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Start Here.md",
     "1-projects/Books/Spring/Spring Start Here/Spring Context.md",
-    "1-projects/Books/Spring/Spring Security/Spring Security.md",
     "1-projects/Books/Spring/Spring Start Here",
     "1-projects/Books/Spring/Spring Security",
     "5-quickref",
