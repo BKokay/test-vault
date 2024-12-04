@@ -1,0 +1,1 @@
+If you did the previous steps well, then implementation should be incredibly straightforward. If it is difficult, you might need to take a step back and reconsider the previous steps. The key to making implementation as smooth as possible is to not think about it at all until you get there. 

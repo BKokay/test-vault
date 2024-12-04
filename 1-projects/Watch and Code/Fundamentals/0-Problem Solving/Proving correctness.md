@@ -1,0 +1,1 @@
+If you cannot find a [[ Proving incorrectness | counterexample]], you must prove correctness. *Why does this solution always work?* 

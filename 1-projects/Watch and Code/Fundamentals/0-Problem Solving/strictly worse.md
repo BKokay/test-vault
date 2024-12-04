@@ -1,0 +1,1 @@
+To be strictly worse, a choice must be worse in at least one respect and worse or as good in all other respects.

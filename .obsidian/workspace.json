@@ -4,97 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "3832e1a5bcdc9a0e",
+        "id": "16d0e3529f8869ef",
         "type": "tabs",
         "children": [
           {
-            "id": "f07eca85e37a9c90",
+            "id": "4cc0744cb0fdce56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
+                "file": "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide/3-Fundamentals Submitting Assessments Guide.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tokens"
+              "title": "3-Fundamentals Submitting Assessments Guide"
             }
           },
           {
-            "id": "7d38ac296fad80b0",
+            "id": "df137b2c17885e91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1127.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1127"
-            }
-          },
-          {
-            "id": "d94bcd1f0c1fd8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Server API/API Codes RFC edit.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "API Codes RFC edit"
-            }
-          },
-          {
-            "id": "fddfea7fc1cebf88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Infoware stuff/Tokens.md",
+                "file": "1-projects/Watch and Code/Fundamentals/0-Problem Solving/0-Problem Solving Guide.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tokens"
-            }
-          },
-          {
-            "id": "6ca46295c65ada2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/1202.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1202"
+              "title": "0-Problem Solving Guide"
             }
           }
         ]
       },
       {
-        "id": "0a6ee0e6a49a3809",
+        "id": "30529fff932b99ce",
         "type": "tabs",
         "children": [
           {
-            "id": "8b2c2136d9234f46",
+            "id": "480296e30cf2f0fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/1202.md",
+                "file": "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1202"
+              "title": "Large, Larger, Largest"
             }
           }
         ]
@@ -251,54 +209,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b2c2136d9234f46",
+  "active": "480296e30cf2f0fc",
   "lastOpenFiles": [
-    "1-projects/Infoware stuff/Tokens.md",
+    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide/3-Fundamentals Submitting Assessments Guide.md",
+    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/0-Problem Solving Guide.md",
+    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
+    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide/1-Iterative Logic Guide.md",
+    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide/2-Fundamentals Foundation Script Guide.md",
+    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide",
+    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide",
+    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The \"rarely wrong programmer\".md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Mental cues for solving problems.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Improve the machine.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Implementation.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Choose a strategy based on your criteria.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Create a top-down outline of your strategy.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The \"sometimes wrong programmer\".md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The \"routinely wrong programmer\".md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Proving correctness.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Proving incorrectness.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/strictly worse.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Develop reasonable strategies.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Precisely define the problem.md",
+    "1-projects/Watch and Code/Fundamentals",
     "0-inbox/1202.md",
+    "1-projects/Watch and Code",
+    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/1127.md",
     "1-projects/Server API/API Codes RFC edit.md",
     "1-projects/Server API/RFC 9457.md",
     "1-projects/Server API/RFC 7807.md",
     "0-inbox/Data Science Bootcamp.md",
     "1-projects/Books/Spring/Beans.md",
-    "0-inbox/EDA - Exploratory Data Science.md",
-    "1-projects/fuel-saver-api/Fuel Saver Meeting 1111 notes.md",
-    "0-inbox/HTTP Response.md",
-    "1-projects/Server API/Build server api.md",
-    "0-inbox/1125.md",
-    "1-projects/Server API/New Error Codes Server Api.md",
-    "0-inbox/Questions from Felipe.md",
     "3-resources/images/Pasted image 20241125115806.png",
-    "1-projects/fuel-saver-api/1118.md",
-    "1-projects/Server API/Follow me.md",
     "Untitled",
-    "2-areas/fullstack-dev/Java/SonarQube.md",
-    "2-areas/Life Management/Passwords.md",
-    "conflict-files-obsidian-git.md",
-    "1-projects/Books/Spring/Modern API Development/Modern API Development.md",
-    "1-projects/Books/Spring/Modern API Development/aspect-oriented programming (AOP).md",
-    "1-projects/Books/Spring/Modern API Development/dependency injection.md",
-    "1-projects/Books/Spring/Modern API Development/inversion of control (IoC).md",
-    "1-projects/Goals at infoware.md",
     "1-projects/Books/Spring/Modern API Development",
-    "2-areas/fullstack-dev/Java/Design Patterns/DAO Support in Spring Boot.md",
     "1-projects/Books/Spring/Spring Start Here",
-    "1-projects/Books/Spring/Spring Security",
-    "5-quickref",
-    "1-projects/Books/Spring",
-    "1-projects/Books",
-    "1-projects/Server API",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
     "3-resources/images/Pasted image 20241024111147.png",
     "3-resources/images/Pasted image 20241024111055.png",
     "3-resources/images/Pasted image 20241024110939.png",
     "3-resources/images/Pasted image 20241024110849.png",
-    "1-projects/Infoware stuff",
     "3-resources/images/Pasted image 20241022091950.png",
     "3-resources/images/Pasted image 20241022091918.png",
     "3-resources/images/Pasted image 20241022091853.png",
-    "1-projects/NamePicker",
     "ansible notes.canvas",
     "ansible yml setup.canvas"
   ]
