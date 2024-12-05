@@ -1,9 +1,12 @@
-##### First:
-- [ ] Update enum for fueltype
-- [ ] Make sure the enum argument is converted to uppercase
-- [ ] Update the dbsetup doc with the changes
+##### First: FuelStop
+- [x] Update enum for fueltype
+- [x] Update tests
+- [ ] Make numberOfLiters and int instead of double
+	- [ ] I don't think this makes sense for forward compatibility 
+- [x] Make sure the enum argument is converted to uppercase
+- [x] Update the dbsetup doc with the changes
 ##### Second: 
-- [ ] Add timestamp automatically on the java side
+- [x] Add timestamp automatically on the java side
 ##### Third: 
 - [ ] Update coordinate object to use lat/lon rather than latitude/longitude to be consistent with Server Api. 
 - [ ] Update gas station classes to reflect these changes
@@ -11,4 +14,7 @@
 - [ ] Update dbsetup with the change
 ##### Fourth: 
 - [ ] Catch the `HttpMediaTypeNotSupportedException` in the Exception handler class
+- [ ] Update all tests to reflect changes
+
+##### Fifth:
 - [ ] Refactor to use [[Zalando ProblemDetail]] for error handling

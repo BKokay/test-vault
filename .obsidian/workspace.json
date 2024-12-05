@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "0a6ee0e6a49a3809",
@@ -105,7 +105,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Updates to fuel saver.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -269,11 +269,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ca46295c65ada2e",
+  "active": "c7aa5b6b3688bf79",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-api/1125.md",
     "0-inbox/Updates to fuel saver.md",
     "0-inbox/1202.md",
-    "1-projects/fuel-saver-api/1125.md",
     "1-projects/fuel-saver-api/1127.md",
     "0-inbox/Linkedin Bio - Twitter Bio.md",
     "3-resources/images/Pasted image 20241205065534.png",
