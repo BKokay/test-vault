@@ -32,30 +32,59 @@
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "0-Problem Solving Guide"
+              "title": "Tokens"
+            }
+          },
+          {
+            "id": "6ca46295c65ada2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1202.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1202"
             }
           }
         ]
       },
       {
-        "id": "30529fff932b99ce",
+        "id": "0a6ee0e6a49a3809",
         "type": "tabs",
         "children": [
           {
-            "id": "480296e30cf2f0fc",
+            "id": "8b2c2136d9234f46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
+                "file": "0-inbox/1202.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Large, Larger, Largest"
+              "title": "1202"
+            }
+          },
+          {
+            "id": "5766468b63766eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Linkedin Bio - Twitter Bio.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linkedin Bio - Twitter Bio"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,39 +235,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "480296e30cf2f0fc",
+  "active": "5766468b63766eaf",
   "lastOpenFiles": [
-    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide/3-Fundamentals Submitting Assessments Guide.md",
-    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/0-Problem Solving Guide.md",
-    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
-    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide/1-Iterative Logic Guide.md",
-    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide/2-Fundamentals Foundation Script Guide.md",
-    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide",
-    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide",
-    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The \"rarely wrong programmer\".md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Mental cues for solving problems.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Improve the machine.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Implementation.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Choose a strategy based on your criteria.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Create a top-down outline of your strategy.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The \"sometimes wrong programmer\".md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The \"routinely wrong programmer\".md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Proving correctness.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Proving incorrectness.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/strictly worse.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Develop reasonable strategies.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Precisely define the problem.md",
-    "1-projects/Watch and Code/Fundamentals",
     "0-inbox/1202.md",
-    "1-projects/Watch and Code",
-    "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/Linkedin Bio - Twitter Bio.md",
     "0-inbox/1127.md",
+    "1-projects/Infoware stuff/Tokens.md",
     "1-projects/Server API/API Codes RFC edit.md",
     "1-projects/Server API/RFC 9457.md",
     "1-projects/Server API/RFC 7807.md",
