@@ -8,13 +8,15 @@
 ##### Second: 
 - [x] Add timestamp automatically on the java side
 ##### Third: 
-- [ ] Update coordinate object to use lat/lon rather than latitude/longitude to be consistent with Server Api. 
-- [ ] Update gas station classes to reflect these changes
-- [ ] Update gas station model and class so that name can be null
-- [ ] Update dbsetup with the change
+- [x] Update coordinate object to use lat/lon rather than latitude/longitude to be consistent with Server Api. 
+- [x] Update gas station classes to reflect these changes
+- [x] Update gas station model and class so that name can be null
+- [x] Update dbsetup with the change
 ##### Fourth: 
 - [ ] Catch the `HttpMediaTypeNotSupportedException` in the Exception handler class
 - [ ] Update all tests to reflect changes
+- [ ] jar:file:/C:/Users/Keith/.m2/repository/org/json/json/20240303/json-20240303.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/Keith/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
 
 ##### Fifth:
 - [ ] Refactor to use [[Zalando ProblemDetail]] for error handling
