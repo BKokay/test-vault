@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/fuel-saver-api/1125.md",
+                "file": "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1125"
+              "title": "Connect to postgres from fuelsaver"
             }
           },
           {
@@ -105,7 +105,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/Updates to fuel saver.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "truck",
+                "query": "password",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -271,7 +271,10 @@
   },
   "active": "c7aa5b6b3688bf79",
   "lastOpenFiles": [
+    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
+    "1-projects/fuel-saver-api/ansible read me.md",
     "1-projects/fuel-saver-api/1125.md",
+    "1-projects/Infoware stuff/Tokens.md",
     "0-inbox/Updates to fuel saver.md",
     "0-inbox/1202.md",
     "1-projects/fuel-saver-api/1127.md",
@@ -295,7 +298,6 @@
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Develop reasonable strategies.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Create a top-down outline of your strategy.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/0-Problem Solving Guide.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Choose a strategy based on your criteria.md",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
     "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide",
     "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide",
@@ -303,8 +305,6 @@
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving",
     "1-projects/Watch and Code/Fundamentals",
     "1-projects/Watch and Code",
-    "1-projects/Infoware stuff/Tokens.md",
-    "1-projects/Server API/API Codes RFC edit.md",
     "3-resources/images/Pasted image 20241125115806.png",
     "Untitled",
     "1-projects/Books/Spring/Modern API Development",
