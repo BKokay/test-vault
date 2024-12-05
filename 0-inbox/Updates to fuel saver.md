@@ -19,5 +19,7 @@
 	jar:file:/C:/Users/Keith/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
 ##### Fifth:
 - [ ] set up logging so that all package errors goes to the normal application log but any spring related errors go to a spring log
+- [ ] add a rate limiter so that only a certain number of requests can happen per minute or something 
+- [ ] block IP
 ##### Sixth:
 - [ ] Refactor to use [[Zalando ProblemDetail]] for error handling
