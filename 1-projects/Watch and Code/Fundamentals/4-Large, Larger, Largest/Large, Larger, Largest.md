@@ -1,10 +1,9 @@
 Should be three functions. The first checks in the number is > 10. The second takes an array of two numbers and return the largest of the two. The third takes three numbers and returns the largest of the three. 
 
 ```javascript
-// Summary: A function that checks if an argument is greater than 10. The argument is a number and the return type is a boolean. 
-
+/* Summary: Check if a number is bigger than 10 and return a boolean. */
 function large(number) {
-    // If the number is greater than 10, it is considered 'large', and we return true
+    // Do check
     if (number > 10) {
 	    return true;
     } else {
@@ -12,37 +11,31 @@ function large(number) {
     }    
 }
 
-// Summary: Check which of the two numbers provided as arguments to the function is larger. Return the larger of the two. 
+/* Summary: Compare two numbers. Return the largest. */
 function larger(numOne, numTwo) {
-    // If numOne is greater or equal to numTwo, it is the largest, so we return numOne
-    if(numOne >= numTwo) {
+    // Compare the numbers. Return the largest.
+    if (numOne >= numTwo) {
         return numOne;
-    } else {
-    // If we didn't return numOne, that is because numTwo is the largest. 
+    } else { 
         return numTwo; 
     }
 }
 
-// Summary: Check which of three number arguments is the largest and return that number
+/* Summary: Compare three numbers. Return the largest. */
 function largest(numOne, numTwo, numThree) {
     var largest; 
     
-    // Is numOne bigger than the other two? If so, to assign largest 
-    if(numOne >= numTwo && numOne >= numThree) {
+    // Compare numbers
+    if (numOne >= numTwo && numOne >= numThree) {
         largest = numOne;
-    }
-    // Is numTwo bigger than the other two? If so, assign to largest
-    if(numTwo >= numOne && numTwo >= numThree) {
+    } else if (numTwo >= numOne && numTwo >= numThree) {
         largest = numTwo;
-    }
-    // Is numThree bigger than the other two? If so, assign to largest
-    if(numThree >= numOne && numThree >= numTwo) {
+    } else if (numThree >= numOne && numThree >= numTwo) {
         largest = numThree; 
     }
-
+    // Return the largest
     return largest; 
 }
-
 
 ```
 

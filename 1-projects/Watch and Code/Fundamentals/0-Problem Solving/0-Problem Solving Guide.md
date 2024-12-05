@@ -24,7 +24,11 @@ Tips on proving correctness:
 
 # [[Mental cues for solving problems]]
 
-... end at 
 # [[Mental cues for outlines]]
+
+Don't skip! You need to include at least on of these layers. For example, if you want to just include the broadest strokes, use d1 - like a summary. If you want to be exhaustive and work out finer details, you could include all layers. To make sure you don't skip from d2 to d4, always ask yourself "What is the broader goal" at every turn. If you ask yourself this at d2, you'll find d1. etc. 
+![[Pasted image 20241205065534.png]]
+
+
 
 
