@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-inbox/1202.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3869704e863485cb",
