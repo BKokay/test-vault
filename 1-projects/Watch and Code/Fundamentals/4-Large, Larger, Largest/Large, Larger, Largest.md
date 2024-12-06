@@ -23,7 +23,7 @@ function larger(numOne, numTwo) {
 
 /* Summary: Compare three numbers. Return the largest. */
 function largest(numOne, numTwo, numThree) {
-    var largest; 
+    let largest; 
     
     // Compare numbers
     if (numOne >= numTwo && numOne >= numThree) {
