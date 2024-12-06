@@ -4,24 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "16d0e3529f8869ef",
+        "id": "3832e1a5bcdc9a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "df137b2c17885e91",
+            "id": "f07eca85e37a9c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
+                "file": "1-projects/Infoware stuff/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Large, Larger, Largest"
+              "title": "Tokens"
+            }
+          },
+          {
+            "id": "7d38ac296fad80b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Connect to postgres from fuelsaver"
+            }
+          },
+          {
+            "id": "d94bcd1f0c1fd8aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Server API/API Codes RFC edit.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "API Codes RFC edit"
+            }
+          },
+          {
+            "id": "fddfea7fc1cebf88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Infoware stuff/Tokens.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tokens"
+            }
+          },
+          {
+            "id": "6ca46295c65ada2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/1202.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1202"
             }
           }
-        ]
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "0a6ee0e6a49a3809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b2c2136d9234f46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/fuel-saver-api/1125.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1125"
+            }
+          },
+          {
+            "id": "c7aa5b6b3688bf79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Updates to fuel saver.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Updates to fuel saver"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "server api",
+                "query": "password",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,20 +153,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "2f79cd36c2e7e7af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Mental cues for outlines.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mental cues for outlines"
             }
           },
           {
@@ -186,43 +264,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df137b2c17885e91",
+  "active": "6ca46295c65ada2e",
   "lastOpenFiles": [
-    "1-projects/fuel-saver-api/1127.md",
+    "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/Updates to fuel saver.md",
+    "1-projects/fuel-saver-api/Connect to postgres from fuelsaver.md",
+    "1-projects/fuel-saver-api/ansible read me.md",
     "1-projects/fuel-saver-api/1125.md",
+    "0-inbox/1202.md",
+    "1-projects/fuel-saver-api/1127.md",
+    "0-inbox/Linkedin Bio - Twitter Bio.md",
+    "3-resources/images/Pasted image 20241205065534.png",
+    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
+    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide/2-Fundamentals Foundation Script Guide.md",
+    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide/3-Fundamentals Submitting Assessments Guide.md",
+    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide/1-Iterative Logic Guide.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The sometimes wrong programmer.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The routinely wrong programmer.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The rarely wrong programmer.md",
-    "0-inbox/Updates to fuel saver.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/0-Problem Solving Guide.md",
-    "3-resources/images/Pasted image 20241205065534.png",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Mental cues for outlines.md",
-    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
-    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide/3-Fundamentals Submitting Assessments Guide.md",
-    "conflict-files-obsidian-git.md",
-    "0-inbox/Linkedin Bio - Twitter Bio.md",
-    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
-    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide/1-Iterative Logic Guide.md",
-    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide/2-Fundamentals Foundation Script Guide.md",
-    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide",
-    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide",
-    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The \"rarely wrong programmer\".md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/strictly worse.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Proving incorrectness.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Proving correctness.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Precisely define the problem.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Mental cues for solving problems.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Improve the machine.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Mental cues for outlines.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Implementation.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Choose a strategy based on your criteria.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Create a top-down outline of your strategy.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The \"sometimes wrong programmer\".md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The \"routinely wrong programmer\".md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Proving correctness.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Proving incorrectness.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/strictly worse.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Develop reasonable strategies.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Create a top-down outline of your strategy.md",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/0-Problem Solving Guide.md",
+    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
+    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide",
+    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide",
+    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide",
+    "1-projects/Watch and Code/Fundamentals/0-Problem Solving",
     "1-projects/Watch and Code/Fundamentals",
     "1-projects/Watch and Code",
     "3-resources/images/Pasted image 20241125115806.png",
