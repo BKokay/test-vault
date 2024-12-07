@@ -37,6 +37,8 @@ function largest(numOne, numTwo, numThree) {
     return largest; 
 }
 
+// Feedback on this problem: -10 points for design because setting the greatest num to largest in each if-block suggests that we *have to* keep looking for largest. The better option would be that you just return the number in the body of each if-block. 
+
 ```
 
 The first function, `large`, should take a number as input and return a boolean value indicating whether or not that number is larger than 10.
