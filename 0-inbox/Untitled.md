@@ -1,0 +1,1 @@
+I need to figure out how to smoke just enough that it helps me to relax and reach my higher goals. I always smoke and then derail with TV and food. I need to try just smoking the sari a during the week with 1-2 hits at night and that’s if.
