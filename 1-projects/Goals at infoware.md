@@ -7,26 +7,26 @@ updated: 2024-09-27T14:36
 ## HTML, CSS
 - Bootstrap
 - Responsive Design
-- SASS?
+- **SASS?**
 
 ## JavaScript
 - node.js / NPM
 - Object Oriented Programming
 - Testing: Which framework?
 - TypeScript
-- jQuery
+- **jQuery**
 - vue.js
-- Angular
+- **Angular**
 - JSDoc
 
 ## Java
 - Data types
-- Control structures
+- **Control structures**
 - Object Oriented Programming
 - Generics
-- Lambdas
-- Stream API
-- Multithreading
+- **Lambdas**
+- **Stream API**
+- **Multithreading**
 - Java WebApps
 - JUnit
 - Maven and Gradle
@@ -35,17 +35,17 @@ updated: 2024-09-27T14:36
 ## Databases
 - SQL
 - Access from Java with JDBC and SQ
-- ORM / Hibernate
+- **ORM / Hibernate**
 - NoSQL Databases?
 
 ## Miscellaneous
 - Tools like SonarQube and Sentry
 - GitLab CI/CD
 - OpenAPI
-- Linux and Windows Servers
+- **Linux and Windows Servers**
 - Administration with Ansible
 - Docker?
-- MQTT / Mosquitto?
+- **MQTT / Mosquitto?**
 
 
 # Tasks
@@ -84,7 +84,7 @@ updated: 2024-09-27T14:36
 - This is used by SafetyCT (C#/.NET?)
 - We should test this and also provide our own tutorial
 
-## Reporting Tool for the MapTrip Server API
+## Reporting Tool for the MapTrip Server API (Can this be a next project?)
 
 - Technology: Java, Spring Boot, Database
 - Some customers should be billed not by device licenses, but based on usage, such as routes
@@ -96,7 +96,7 @@ updated: 2024-09-27T14:36
 - Additionally, a web application will display the current figures and older reports
 - The content of the reports and the website will be coordinated with the sales team
 
-## Display Vector Maps in LeafletJS
+## Display Vector Maps in LeafletJS (Georg already did this)
 
 - Technology: JavaScript
 - Our maps should be displayed in other APIs like LeafletJS
