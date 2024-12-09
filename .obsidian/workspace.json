@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "1d32c833930c7ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/INWA 4849.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "INWA 4849"
+            }
+          },
+          {
             "id": "7d38ac296fad80b0",
             "type": "leaf",
             "state": {
@@ -77,7 +91,8 @@
               "title": "1202"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0a6ee0e6a49a3809",
@@ -168,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3869704e863485cb",
@@ -268,10 +282,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f07eca85e37a9c90",
+  "active": "1d32c833930c7ffd",
   "lastOpenFiles": [
-    "0-inbox/Updates to fuel saver.md",
     "1-projects/Infoware stuff/Tokens.md",
+    "0-inbox/INWA 4849.md",
+    "0-inbox/Updates to fuel saver.md",
     "1-projects/Watch and Code/Web/Submission Failure.md",
     "1-projects/Watch and Code/Web/0-Reading Codebases.md",
     "1-projects/Watch and Code/Web",
@@ -298,7 +313,6 @@
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Proving correctness.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Precisely define the problem.md",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Mental cues for solving problems.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Improve the machine.md",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
     "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide",
     "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide",
