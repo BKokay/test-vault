@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware stuff/HappyTrucker Integration/Happy Trucker Project Plan.md",
+                "file": "1-projects/Infoware stuff/HappyTrucker Integration/Initial Findings.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Happy Trucker Project Plan"
+              "title": "Initial Findings"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38c5caa3704b7a7e",
+  "active": "a5bba9b16b58b9d8",
   "lastOpenFiles": [
-    "1-projects/Infoware stuff/HappyTrucker Integration/Happy Trucker Project Plan.md",
     "0-inbox/Transform route into format for happy trucker.md",
+    "1-projects/Infoware stuff/HappyTrucker Integration/Initial Findings.md",
     "1-projects/Infoware stuff/HappyTrucker Integration/API get token.md",
     "1-projects/Infoware stuff/HappyTrucker Integration/Next Project - Happy Trucker.md",
     "1-projects/Infoware stuff/HappyTrucker Integration/parking-areas.md",
