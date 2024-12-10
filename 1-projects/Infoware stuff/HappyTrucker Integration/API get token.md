@@ -1,13 +1,12 @@
 We have created access to our Happy Trucker API for you:
- 
-1. to use the API, it is necessary to get a time-limited token with the infoware credentials. To do this, first convert the credentials into a Basic Authentication Base64 string:
+ [https://test-happy-trucker-backend.it2media.de/swagger-ui/index.html#/](https://test-happy-trucker-backend.it2media.de/swagger-ui/index.html#/)
+1. to use the API, it is necessary to get a time-limited token (5 minutes) with the infoware credentials. To do this, first convert the credentials into a Basic Authentication Base64 string:
 - infoware:K2g6z=K8(9>23M#
 - aW5mb3dhcmU6SzJnNno9SzgoOT4yM00j
 
 and then get the token:
 ```bash
-curl --location "https://test-happy-trucker-backoffice.it2media.de/oauth2/token" --header "Authorization:
- Basic aW5mb3dhcmU6SzJnNno9SzgoOT4yM00j" --form "grant_type=client_credentials"
+curl --location "https://test-happy-trucker-backoffice.it2media.de/oauth2/token" --header "Authorization: Basic aW5mb3dhcmU6SzJnNno9SzgoOT4yM00j" --form "grant_type=client_credentials"
 ```
 
 ```json
