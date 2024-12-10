@@ -6,6 +6,7 @@
 
 ### Issues: 
 - API doesn't provide any link to the booking site. Trying to create a URL from the `name` property doesn't work because there is always a random number at the end of the URL that is not in the response body (not the id). There isn't a way to lead to the website via ID either. I think the only thing we could do with the API as is, is to have a copy function for the name
+- https://www.happy-trucker.de/lkw-parkplatz/parkareal-in-bautzen-262?location=Parkplatz-in-bautzen-351
 
 ## API: 
 #### See parking based on address, route, bounding box, coordinate
