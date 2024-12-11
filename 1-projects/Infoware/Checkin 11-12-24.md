@@ -10,4 +10,5 @@
 		- Opinion needed: know a little about a lot or be really good at one thing? Where in my career is the right time to start thinking about this? 
 	- Working on Vue with TypeScript over the next months. Will have a better idea of what I like after this next project as I have more experience and it will be less of a learning curve and more of a "what the work is actually like". 
 	- Currently, enjoyed Java and thinking about systems and how they should interact (databases, api development, documentation)
-- GeoJson Project 
+- GeoJson Project ?
+delete post  check if company == company. companyid nonull device Long 
