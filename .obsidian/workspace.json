@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware/HappyTrucker Integration/API get token.md",
+                "file": "1-projects/Infoware/HappyTrucker Integration/Happy Trucker - technical.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "API get token"
+              "title": "Happy Trucker - technical"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
+                "file": "1-projects/Infoware/Checkin 11-12-24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Initial Findings"
+              "title": "Checkin 11-12-24"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Transform route into format for happy trucker"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,20 +218,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44b4c61c507d1e2c",
+  "active": "f07eca85e37a9c90",
   "lastOpenFiles": [
+    "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
+    "1-projects/Infoware/HappyTrucker Integration/Happy Trucker - technical.md",
+    "1-projects/Infoware/HappyTrucker Integration/API get token.md",
+    "1-projects/Infoware/Checkin 11-12-24.md",
+    "1-projects/Infoware/HappyTrucker Integration/Transform route into format for happy trucker.md",
+    "1-projects/Infoware/HappyTrucker Integration/Next Project - Happy Trucker.md",
     "1-projects/Infoware/Weekly todo/TODO.md",
     "1-projects/Infoware/Weekly todo/1010.md",
     "1-projects/Infoware/Weekly todo/1202.md",
     "1-projects/Infoware/Weekly todo",
     "2-areas/Professional Growth/Data Science Bootcamp.md",
-    "1-projects/Infoware/HappyTrucker Integration/Transform route into format for happy trucker.md",
     "0-inbox/Install homebrew, postgres, pgadmin.md",
-    "1-projects/Infoware/Checkin 11-12-24.md",
-    "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
     "1-projects/Infoware/Goals at infoware.md",
-    "1-projects/Infoware/HappyTrucker Integration/API get token.md",
-    "1-projects/Infoware/HappyTrucker Integration/Next Project - Happy Trucker.md",
     "1-projects/Infoware/HappyTrucker Integration/parking-areas.md",
     "1-projects/Infoware/Tokens.md",
     "1-projects/Infoware/Server API/INWA 4849.md",
@@ -251,7 +251,6 @@
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Feedback - Large, Larger, Largest.md",
     "1-projects/Infoware/fuel-saver-api/ansible read me.md",
     "1-projects/Infoware/Weekly todo/1125.md",
-    "1-projects/Infoware/Weekly todo/1127.md",
     "3-resources/images/Pasted image 20241205065534.png",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
     "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide",
