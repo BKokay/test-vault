@@ -21,42 +21,42 @@ updated: 2024-09-27T14:36
 
 ## Java
 - Data types
-- **Control structures**
+- Control structures
 - Object Oriented Programming
 - Generics
 - **Lambdas**
-- **Stream API**
+- Stream API
 - **Multithreading**
 - Java WebApps
 - JUnit
-- Maven and Gradle
+- Maven and **Gradle**
 - Spring / Spring Boot
 
 ## Databases
 - SQL
-- Access from Java with JDBC and SQ
+- Access from Java with JDBC and **SQ**
 - **ORM / Hibernate**
-- NoSQL Databases?
+- **NoSQL Databases?**
 
 ## Miscellaneous
-- Tools like SonarQube and Sentry
+- Tools like SonarQube and **Sentry**
 - GitLab CI/CD
 - OpenAPI
 - **Linux and Windows Servers**
 - Administration with Ansible
-- Docker?
+- **Docker?**
 - **MQTT / Mosquitto?**
 
 
 # Tasks
 
-## Geocoder Test Page
+## ✅ Geocoder Test Page 
 
 - Technology: JS, HTML, CSS
 - Complete the task from May
 - See 2023-05-22 Geocoder Support Map.md
 
-## MapTrip Remote Tracking
+## ✅ MapTrip Remote Tracking
 
 - Website with a login (MapTrip Manager credentials)
 - After login, the page shows a map with all (active?) MapTrip devices of the user
@@ -75,7 +75,7 @@ updated: 2024-09-27T14:36
   - Ensure that the components created by DreamDev can be easily used in other applications
   - Provide improved demos for maptrip.de
 
-## MapTrip Server API / openapi-generator
+## MapTrip Server API / openapi-generator (Georg did this)
 
 - Technology: Any, e.g., Java
 - Tools like openapi-generator or swagger-codegen generate code from the API specification
@@ -84,7 +84,7 @@ updated: 2024-09-27T14:36
 - This is used by SafetyCT (C#/.NET?)
 - We should test this and also provide our own tutorial
 
-## Reporting Tool for the MapTrip Server API (Can this be a next project?)
+## Reporting Tool for the MapTrip Server API (Georg just did this?)
 
 - Technology: Java, Spring Boot, Database
 - Some customers should be billed not by device licenses, but based on usage, such as routes
@@ -96,7 +96,7 @@ updated: 2024-09-27T14:36
 - Additionally, a web application will display the current figures and older reports
 - The content of the reports and the website will be coordinated with the sales team
 
-## Display Vector Maps in LeafletJS (Georg already did this)
+## Display Vector Maps in LeafletJS (Georg did this)
 
 - Technology: JavaScript
 - Our maps should be displayed in other APIs like LeafletJS
@@ -109,7 +109,7 @@ updated: 2024-09-27T14:36
   - Adds this canvas as a tile into the map
 - This function should be ported to LeafletJS
 
-## Web Application for Fuel Savings from MapTrip
+## Web Application for Fuel Savings from MapTrip (Fuel Saver API in progress)
 
 - MapTrip shows the savings when refueling compared to the average price along the route
 - So far, this info is stored on the device ("savings this month")

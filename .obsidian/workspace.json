@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware stuff/HappyTrucker Integration/API get token.md",
+                "file": "1-projects/Infoware/HappyTrucker Integration/API get token.md",
                 "mode": "source",
                 "source": true
               },
@@ -27,7 +27,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware stuff/HappyTrucker Integration/Initial Findings.md",
+                "file": "1-projects/Infoware/Goals at infoware.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Goals at infoware"
+            }
+          },
+          {
+            "id": "44b4c61c507d1e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
                 "mode": "source",
                 "source": true
               },
@@ -41,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Transform route into format for happy trucker.md",
+                "file": "1-projects/Infoware/HappyTrucker Integration/Transform route into format for happy trucker.md",
                 "mode": "source",
                 "source": true
               },
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,45 +219,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5bba9b16b58b9d8",
+  "active": "44b4c61c507d1e2c",
   "lastOpenFiles": [
-    "0-inbox/Transform route into format for happy trucker.md",
-    "1-projects/Infoware stuff/HappyTrucker Integration/Initial Findings.md",
-    "1-projects/Infoware stuff/HappyTrucker Integration/API get token.md",
-    "1-projects/Infoware stuff/HappyTrucker Integration/Next Project - Happy Trucker.md",
-    "1-projects/Infoware stuff/HappyTrucker Integration/parking-areas.md",
-    "1-projects/Infoware stuff/Tokens.md",
-    "1-projects/Infoware stuff/Server API/INWA 4849.md",
+    "1-projects/Infoware/Weekly todo/TODO.md",
+    "1-projects/Infoware/Weekly todo/1010.md",
+    "1-projects/Infoware/Weekly todo/1202.md",
+    "1-projects/Infoware/Weekly todo",
+    "2-areas/Professional Growth/Data Science Bootcamp.md",
+    "1-projects/Infoware/HappyTrucker Integration/Transform route into format for happy trucker.md",
+    "0-inbox/Install homebrew, postgres, pgadmin.md",
+    "1-projects/Infoware/Checkin 11-12-24.md",
+    "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
+    "1-projects/Infoware/Goals at infoware.md",
+    "1-projects/Infoware/HappyTrucker Integration/API get token.md",
+    "1-projects/Infoware/HappyTrucker Integration/Next Project - Happy Trucker.md",
+    "1-projects/Infoware/HappyTrucker Integration/parking-areas.md",
+    "1-projects/Infoware/Tokens.md",
+    "1-projects/Infoware/Server API/INWA 4849.md",
     "1-projects/Personal Projects",
-    "0-inbox/1202.md",
-    "1-projects/Infoware stuff/Server API/API Codes RFC edit.md",
+    "1-projects/Infoware/Server API/API Codes RFC edit.md",
     "conflict-files-obsidian-git.md",
-    "1-projects/Infoware stuff/fuel-saver-api/Connect to postgres from fuelsaver.md",
-    "1-projects/Infoware stuff/HappyTrucker Integration",
-    "0-inbox/Untitled.md",
-    "1-projects/Infoware stuff/fuel-saver-api/Updates to fuel saver.md",
+    "1-projects/Infoware/fuel-saver-api/Connect to postgres from fuelsaver.md",
+    "1-projects/Infoware/HappyTrucker Integration",
+    "2-areas/Personal Growth/Untitled.md",
+    "1-projects/Infoware/fuel-saver-api/Updates to fuel saver.md",
     "1-projects/Watch and Code/Web/Submission Failure.md",
     "1-projects/Watch and Code/Web/0-Reading Codebases.md",
     "1-projects/Watch and Code/Web",
     "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
     "1-projects/Watch and Code/Fundamentals/5-True-False",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Feedback - Large, Larger, Largest.md",
-    "1-projects/Infoware stuff/fuel-saver-api/ansible read me.md",
-    "1-projects/Infoware stuff/fuel-saver-api/1125.md",
-    "1-projects/Infoware stuff/fuel-saver-api/1127.md",
-    "0-inbox/Linkedin Bio - Twitter Bio.md",
+    "1-projects/Infoware/fuel-saver-api/ansible read me.md",
+    "1-projects/Infoware/Weekly todo/1125.md",
+    "1-projects/Infoware/Weekly todo/1127.md",
     "3-resources/images/Pasted image 20241205065534.png",
-    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
-    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide/2-Fundamentals Foundation Script Guide.md",
-    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide/3-Fundamentals Submitting Assessments Guide.md",
-    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide/1-Iterative Logic Guide.md",
-    "1-projects/Watch and Code/Fundamentals/0-Problem Solving/The sometimes wrong programmer.md",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
     "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide",
     "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide",
     "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide",
     "1-projects/Watch and Code/Fundamentals/0-Problem Solving",
-    "1-projects/Watch and Code/Fundamentals",
     "3-resources/images/Pasted image 20241125115806.png",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
