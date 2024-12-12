@@ -8,7 +8,7 @@ Make any improvements to the tutorial based on feedback.
 
 ## First edit:
 - Hard to understand
-- "Every map data release has an unique ID. Pick the release you are using in MapTrip from the list and use the ID of the map data release for your FollowMe files." -> Where does a user find this in MapTrip? Do they just know? 
-- Tracks -> what is a track? The route that you've uploaded? 
-- Get the Status of a Ride -> more explanation of the results 
+	- "Every map data release has an unique ID. Pick the release you are using in MapTrip from the list and use the ID of the map data release for your FollowMe files." -> Where does a user find this in MapTrip? Do they just know? 
+	- Tracks -> what is a track? The route that you've uploaded? 
+	- Get the Status of a Ride -> more explanation of the results 
 
