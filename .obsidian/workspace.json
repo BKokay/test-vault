@@ -69,12 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/111224.md",
+                "file": "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "111224"
+              "title": "Initial Findings"
+            }
+          },
+          {
+            "id": "796d8086ef4f5fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/16-12-24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "16-12-24"
             }
           },
           {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -247,14 +261,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84463b89a142b8bf",
+  "active": "796d8086ef4f5fe3",
   "lastOpenFiles": [
-    "1-projects/Infoware/Server API/Follow me.md",
-    "0-inbox/FollowMe.md",
+    "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
+    "0-inbox/16-12-24.md",
+    "1-projects/Infoware/Tokens.md",
     "0-inbox/111224.md",
+    "1-projects/Infoware/fuel-saver-api/Updates to fuel saver.md",
+    "0-inbox/FollowMe.md",
+    "1-projects/Infoware/Server API/Follow me.md",
     "1-projects/Infoware/Checkin 11-12-24.md",
     "1-projects/Infoware/HappyTrucker Integration/Happy Trucker - technical.md",
-    "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
     "1-projects/Infoware/HappyTrucker Integration/API get token.md",
     "1-projects/Infoware/HappyTrucker Integration/Transform route into format for happy trucker.md",
     "1-projects/Infoware/HappyTrucker Integration/Next Project - Happy Trucker.md",
@@ -266,7 +283,6 @@
     "0-inbox/Install homebrew, postgres, pgadmin.md",
     "1-projects/Infoware/Goals at infoware.md",
     "1-projects/Infoware/HappyTrucker Integration/parking-areas.md",
-    "1-projects/Infoware/Tokens.md",
     "1-projects/Infoware/Server API/INWA 4849.md",
     "1-projects/Personal Projects",
     "1-projects/Infoware/Server API/API Codes RFC edit.md",
@@ -274,11 +290,9 @@
     "1-projects/Infoware/fuel-saver-api/Connect to postgres from fuelsaver.md",
     "1-projects/Infoware/HappyTrucker Integration",
     "2-areas/Personal Growth/Untitled.md",
-    "1-projects/Infoware/fuel-saver-api/Updates to fuel saver.md",
     "1-projects/Watch and Code/Web/Submission Failure.md",
     "1-projects/Watch and Code/Web/0-Reading Codebases.md",
     "1-projects/Watch and Code/Web",
-    "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
     "1-projects/Watch and Code/Fundamentals/5-True-False",
     "3-resources/images/Pasted image 20241205065534.png",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
