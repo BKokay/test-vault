@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3832e1a5bcdc9a0e",
+        "id": "16d0e3529f8869ef",
         "type": "tabs",
         "children": [
           {
-            "id": "f07eca85e37a9c90",
+            "id": "df137b2c17885e91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware/HappyTrucker Integration/Happy Trucker - technical.md",
+                "file": "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Happy Trucker - technical"
-            }
-          },
-          {
-            "id": "a5bba9b16b58b9d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Infoware/Goals at infoware.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Goals at infoware"
-            }
-          },
-          {
-            "id": "44b4c61c507d1e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Infoware/Server API/Follow me.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Follow me"
-            }
-          },
-          {
-            "id": "84463b89a142b8bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/FollowMe.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "FollowMe"
-            }
-          },
-          {
-            "id": "2c6238e9f1af8821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Initial Findings"
-            }
-          },
-          {
-            "id": "796d8086ef4f5fe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/16-12-24.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "16-12-24"
-            }
-          },
-          {
-            "id": "38c5caa3704b7a7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Infoware/HappyTrucker Integration/Transform route into format for happy trucker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Transform route into format for happy trucker"
+              "title": "Even"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "password",
+                "query": "server api",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,6 +61,20 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "2f79cd36c2e7e7af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Watch and Code/Fundamentals/0-Problem Solving/Mental cues for outlines.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mental cues for outlines"
             }
           },
           {
@@ -162,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 289.5
   },
   "right": {
     "id": "3869704e863485cb",
@@ -257,49 +186,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "796d8086ef4f5fe3",
+  "active": "df137b2c17885e91",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "0-inbox/16-12-24.md",
-    "1-projects/Watch and Code/Web/5-this.md",
-    "1-projects/Watch and Code/Web/4-Scope.md",
-    "1-projects/Watch and Code/Web/3-Anonymous.md",
-    "1-projects/Watch and Code/Web/2-Call Stack Observations.md",
-    "1-projects/Watch and Code/Web/1-Submission Failure.md",
+    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
     "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
+    "1-projects/Watch and Code/Web/4-Scope.md",
     "1-projects/Watch and Code/Fundamentals/6-Even",
-    "1-projects/Infoware/HappyTrucker Integration/Initial Findings.md",
-    "1-projects/Infoware/Tokens.md",
-    "0-inbox/111224.md",
-    "1-projects/Infoware/fuel-saver-api/Updates to fuel saver.md",
-    "0-inbox/FollowMe.md",
-    "1-projects/Infoware/Server API/Follow me.md",
-    "1-projects/Infoware/Checkin 11-12-24.md",
-    "1-projects/Infoware/HappyTrucker Integration/Happy Trucker - technical.md",
-    "1-projects/Infoware/HappyTrucker Integration/API get token.md",
-    "1-projects/Infoware/HappyTrucker Integration/Transform route into format for happy trucker.md",
-    "1-projects/Infoware/HappyTrucker Integration/Next Project - Happy Trucker.md",
-    "1-projects/Infoware/Weekly todo/TODO.md",
-    "1-projects/Infoware/Weekly todo/1010.md",
-    "1-projects/Infoware/Weekly todo/1202.md",
-    "1-projects/Infoware/Weekly todo",
+    "1-projects/Watch and Code/Web/5-this.md",
+    "1-projects/Watch and Code/Web/3-Anonymous.md",
+    "1-projects/Watch and Code/Web/1-Submission Failure.md",
+    "1-projects/Watch and Code/Web/2-Call Stack Observations.md",
+    "2-areas/Professional Growth/Questions from Felipe.md",
+    "2-areas/Professional Growth/Linkedin Bio - Twitter Bio.md",
+    "2-areas/Professional Growth/EDA - Exploratory Data Science.md",
     "2-areas/Professional Growth/Data Science Bootcamp.md",
-    "0-inbox/Install homebrew, postgres, pgadmin.md",
-    "1-projects/Infoware/Goals at infoware.md",
-    "1-projects/Infoware/HappyTrucker Integration/parking-areas.md",
+    "2-areas/Personal Growth/Untitled.md",
+    "1-projects/Personal Projects/Clothes tracker/baby announcement.md",
+    "1-projects/Personal Projects/Clothes tracker/Requirements - Clothes Tracker.md",
+    "1-projects/Personal Projects/Clothes tracker/User Stories Clothes Tracker.md",
+    "1-projects/Personal Projects/Clothes tracker/Tech stack - Clothes Trackers.md",
+    "1-projects/Personal Projects/Clothes tracker/TODO - baby tracker.md",
+    "1-projects/Personal Projects/Clothes tracker/Problem - Clothes Tracker.md",
+    "1-projects/Personal Projects/Clothes tracker/Functionality - Clothes Tracker.md",
+    "1-projects/Personal Projects/Clothes tracker/Brain Dump Clothes Tracker.md",
+    "1-projects/Personal Projects/Clothes tracker/First idea - clothes tracker.md",
+    "1-projects/Personal Projects/NamePicker/Name Picker table diagram.md",
+    "1-projects/Personal Projects/NamePicker/Name Picker - concept.md",
+    "1-projects/Personal Projects/NamePicker",
+    "1-projects/Personal Projects/Clothes tracker",
     "1-projects/Personal Projects",
+    "1-projects/Infoware/fuel-saver-api/Java/Class Diagram fuel saver.md",
+    "1-projects/Infoware/fuel-saver-api/database/practice-problems.md",
+    "1-projects/Infoware/fuel-saver-api/database",
+    "1-projects/Infoware/fuel-saver-api/Java",
+    "1-projects/Infoware/fuel-saver-api",
+    "1-projects/Infoware/Weekly todo",
+    "1-projects/Infoware/Server API",
     "1-projects/Infoware/HappyTrucker Integration",
-    "1-projects/Watch and Code/Web",
-    "1-projects/Watch and Code/Fundamentals/5-True-False",
     "3-resources/images/Pasted image 20241205065534.png",
-    "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest",
-    "1-projects/Watch and Code/Fundamentals/2-Fundamentals FoundationScript Guide",
-    "1-projects/Watch and Code/Fundamentals/3-Fundamentals Submitting Assessments Guide",
-    "1-projects/Watch and Code/Fundamentals/1-Iterative Logic Guide",
     "3-resources/images/Pasted image 20241125115806.png",
     "3-resources/images/Pasted image 20241024111242.png",
     "3-resources/images/Pasted image 20241024111207.png",
