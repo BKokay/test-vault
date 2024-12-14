@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "7c202273a039d53d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "888f5aee445e5f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "True-False"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "3869704e863485cb",
@@ -191,9 +212,10 @@
   },
   "active": "df137b2c17885e91",
   "lastOpenFiles": [
+    "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
+    "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
     "0-inbox/16-12-24.md",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
-    "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
     "1-projects/Watch and Code/Web/4-Scope.md",
     "1-projects/Watch and Code/Fundamentals/6-Even",
     "1-projects/Watch and Code/Web/5-this.md",
@@ -220,7 +242,6 @@
     "1-projects/Personal Projects/Clothes tracker",
     "1-projects/Personal Projects",
     "1-projects/Infoware/fuel-saver-api/Java/Class Diagram fuel saver.md",
-    "1-projects/Infoware/fuel-saver-api/database/practice-problems.md",
     "1-projects/Infoware/fuel-saver-api/database",
     "1-projects/Infoware/fuel-saver-api/Java",
     "1-projects/Infoware/fuel-saver-api",

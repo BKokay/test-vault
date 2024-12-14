@@ -19,7 +19,9 @@ Imagine that you only allow yourself to watch tv on weekends or holidays. Write 
 5. [[Implementation]]
 ```javascript
 /* Question: since isHoliday and isWeekday both hold the boolean value I would want to return, would it be more readable to return those values explicityly rather than true/false? I decided against this since the function name asks a question and true/false seemed more readable to me, but I would like your opinion. */
+// ANSWER: true false is more clear
 
+//Submission 1 - missing check for if it is a weekend
 /* Summary: Return true if you can watch TV and false if not. */
 
 function canWatchTv(isHoliday, isWeekday) {
@@ -30,6 +32,23 @@ function canWatchTv(isHoliday, isWeekday) {
     } 
     // Not a weekday? You can watch TV
     return true;
+}
+
+// Submission 2 - The first challenge is to make sure that you express it _correctly_. The second challenge is to think about how you can express it _clearly_.
+
+function canWatchTv(isHoliday, isWeekday) {
+  // If it's a holiday, return true.
+  if (isHoliday === true) {
+    return true;
+  }
+
+  // If it's NOT a weekday, return true.
+  if (isWeekday === false) {
+    return true;
+  }
+
+  // Otherwise, return false.
+  return false;
 }
 ```
 
