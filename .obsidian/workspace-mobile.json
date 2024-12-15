@@ -84,17 +84,17 @@
             }
           },
           {
-            "id": "847dbbc9c99d63b6",
+            "id": "93fe4b6b635ed79c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Untitled.md",
+                "file": "0-inbox/3 month strategy.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "3 month strategy"
             }
           }
         ],
@@ -237,10 +237,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "847dbbc9c99d63b6",
+  "active": "93fe4b6b635ed79c",
   "lastOpenFiles": [
     "2-areas/Life Management/Passwords.md",
-    "0-inbox/Untitled.md",
+    "0-inbox/3 month strategy.md",
     "1-projects/Ideas/To build.md",
     "0-inbox/Reading List.md",
     "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
