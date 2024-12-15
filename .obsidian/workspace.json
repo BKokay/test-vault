@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Even"
             }
+          },
+          {
+            "id": "c54af4534b2b4e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Happier Hour Book Club.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Happier Hour Book Club"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7c202273a039d53d",
@@ -111,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "3869704e863485cb",
@@ -210,10 +224,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df137b2c17885e91",
+  "active": "c54af4534b2b4e87",
   "lastOpenFiles": [
-    "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
     "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
+    "0-inbox/Happier Hour Book Club.md",
+    "0-inbox/3 month strategy.md",
+    "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
     "0-inbox/16-12-24.md",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
     "1-projects/Watch and Code/Web/4-Scope.md",
@@ -237,11 +253,9 @@
     "1-projects/Personal Projects/Clothes tracker/Brain Dump Clothes Tracker.md",
     "1-projects/Personal Projects/Clothes tracker/First idea - clothes tracker.md",
     "1-projects/Personal Projects/NamePicker/Name Picker table diagram.md",
-    "1-projects/Personal Projects/NamePicker/Name Picker - concept.md",
     "1-projects/Personal Projects/NamePicker",
     "1-projects/Personal Projects/Clothes tracker",
     "1-projects/Personal Projects",
-    "1-projects/Infoware/fuel-saver-api/Java/Class Diagram fuel saver.md",
     "1-projects/Infoware/fuel-saver-api/database",
     "1-projects/Infoware/fuel-saver-api/Java",
     "1-projects/Infoware/fuel-saver-api",

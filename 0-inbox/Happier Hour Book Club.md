@@ -1,0 +1,13 @@
+Questions -
+- How do you feel about the way you spend your time currently?
+- Are you satisfied with how much free time you have? Why or why not?
+- Do you feel time-starved or like you have an abundance of time?
+- If you could reallocate your time, what would you change?
+- What activities currently feel most meaningful or joyful to you?
+- Are there activities that you think you “should” enjoy but don’t?
+- How many discretionary hours do you think you have in your day? 
+- What did you think about the findings from the graph on page 5? Too much or too little time is a bad thing
+- More time or more money? 
+- What’s one change you think you could make to how you spend your time that would make you happier?
+- Is there a specific time-wasting habit you want to let go of?
+- Did the first chapter reveal any blind spots in how you currently use your time?
