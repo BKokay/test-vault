@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/3 month strategy.md",
+                "file": "2-areas/Life Management/Passwords.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3 month strategy"
+              "title": "Passwords"
             }
           }
         ],
@@ -172,7 +172,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-inbox/3 month strategy.md",
+            "file": "2-areas/Life Management/Passwords.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -239,8 +239,9 @@
   },
   "active": "93fe4b6b635ed79c",
   "lastOpenFiles": [
-    "2-areas/Life Management/Passwords.md",
+    "2-areas/Life Management/Schwab.md",
     "0-inbox/3 month strategy.md",
+    "2-areas/Life Management/Passwords.md",
     "1-projects/Ideas/To build.md",
     "0-inbox/Reading List.md",
     "1-projects/Ideas/Clothes tracker/Brain Dump Clothes Tracker.md",
@@ -268,7 +269,6 @@
     "1-projects/fuel-saver-app/Questions 1.md",
     "1-projects/Prompting Claude, concepts.md",
     "3-resources/images/Pasted image 20240918100802.png",
-    "4-archive/WGU/Preplanning/Sophia.md",
     "4-archive/WGU/Preplanning",
     "4-archive/WGU",
     "4-archive",
