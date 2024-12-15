@@ -1,4 +1,16 @@
-Starting 
+Starting December 16, 2024
+Structure / Process
+- every day blocked into 90 minute sessions followed by 10 minute reflection breaks. 
+- Before each session, sketch out/map out what I will build (already in Jira, but write exact todos) 
+- during the reflection time, document any patterns I found
+- Always document any bugs or issue as to what they were and how I solved them
+- Keep a “pattern journal” for any recurring patterns or solutions I see
+Practice
+- build a small application or part of an application each week. 
+- Time myself on common tasks to see improvement 
+- If there is something I use often, try to recreate the solution in my own words 
+
+
 Let me focus on your most aligned strategies for this specific phase, based on your chart:
 
 Three Key Development Strategies:
