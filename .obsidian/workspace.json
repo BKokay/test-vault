@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Astrology/Prompt for Claude.md",
+                "file": "0-inbox/3 month strategy.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prompt for Claude"
+              "title": "3 month strategy"
+            }
+          },
+          {
+            "id": "3ed9bd0763257ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/INWA-4851.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "INWA-4851"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7c202273a039d53d",
@@ -225,14 +239,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c54af4534b2b4e87",
+  "active": "3ed9bd0763257ba4",
   "lastOpenFiles": [
-    "0-inbox/Happier Hour Book Club.md",
+    "0-inbox/3 month strategy.md",
+    "0-inbox/INWA-4851.md",
     "2-areas/Astrology/Prompt for Claude.md",
+    "0-inbox/Happier Hour Book Club.md",
     "2-areas/Astrology",
     "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
     "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
-    "0-inbox/3 month strategy.md",
     "0-inbox/16-12-24.md",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
     "1-projects/Watch and Code/Web/4-Scope.md",
@@ -254,7 +269,6 @@
     "1-projects/Personal Projects/Clothes tracker/Problem - Clothes Tracker.md",
     "1-projects/Personal Projects/Clothes tracker/Functionality - Clothes Tracker.md",
     "1-projects/Personal Projects/Clothes tracker/Brain Dump Clothes Tracker.md",
-    "1-projects/Personal Projects/Clothes tracker/First idea - clothes tracker.md",
     "1-projects/Personal Projects/NamePicker",
     "1-projects/Personal Projects/Clothes tracker",
     "1-projects/Personal Projects",
