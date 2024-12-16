@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Happier Hour Book Club.md",
+                "file": "2-areas/Astrology/Prompt for Claude.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Happier Hour Book Club"
+              "title": "Prompt for Claude"
             }
           }
         ],
@@ -227,10 +227,12 @@
   },
   "active": "c54af4534b2b4e87",
   "lastOpenFiles": [
-    "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
     "0-inbox/Happier Hour Book Club.md",
-    "0-inbox/3 month strategy.md",
+    "2-areas/Astrology/Prompt for Claude.md",
+    "2-areas/Astrology",
     "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
+    "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
+    "0-inbox/3 month strategy.md",
     "0-inbox/16-12-24.md",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
     "1-projects/Watch and Code/Web/4-Scope.md",
@@ -253,7 +255,6 @@
     "1-projects/Personal Projects/Clothes tracker/Functionality - Clothes Tracker.md",
     "1-projects/Personal Projects/Clothes tracker/Brain Dump Clothes Tracker.md",
     "1-projects/Personal Projects/Clothes tracker/First idea - clothes tracker.md",
-    "1-projects/Personal Projects/NamePicker/Name Picker table diagram.md",
     "1-projects/Personal Projects/NamePicker",
     "1-projects/Personal Projects/Clothes tracker",
     "1-projects/Personal Projects",
@@ -262,7 +263,6 @@
     "1-projects/Infoware/fuel-saver-api",
     "1-projects/Infoware/Weekly todo",
     "1-projects/Infoware/Server API",
-    "1-projects/Infoware/HappyTrucker Integration",
     "3-resources/images/Pasted image 20241205065534.png",
     "3-resources/images/Pasted image 20241125115806.png",
     "3-resources/images/Pasted image 20241024111242.png",
