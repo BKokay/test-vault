@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/3 month strategy.md",
+                "file": "0-inbox/Happier Hour Book Club.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3 month strategy"
-            }
-          },
-          {
-            "id": "3ed9bd0763257ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/INWA-4851.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "INWA-4851"
+              "title": "Happier Hour Book Club"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7c202273a039d53d",
@@ -140,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "3869704e863485cb",
@@ -228,7 +215,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -239,15 +225,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ed9bd0763257ba4",
+  "active": "c54af4534b2b4e87",
   "lastOpenFiles": [
-    "0-inbox/3 month strategy.md",
-    "0-inbox/INWA-4851.md",
     "2-areas/Astrology/Prompt for Claude.md",
-    "0-inbox/Happier Hour Book Club.md",
     "2-areas/Astrology",
-    "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
+    "0-inbox/INWA-4851.md",
     "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
+    "0-inbox/Happier Hour Book Club.md",
+    "0-inbox/3 month strategy.md",
+    "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
     "0-inbox/16-12-24.md",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
     "1-projects/Watch and Code/Web/4-Scope.md",
