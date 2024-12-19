@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/INWA-4851.md",
+                "file": "0-inbox/16-12-24.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "INWA-4851"
+              "title": "16-12-24"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "server api",
+                "query": "error",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,10 +240,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ed9bd0763257ba4",
+  "active": "66aff525e3bedd60",
   "lastOpenFiles": [
-    "0-inbox/3 month strategy.md",
+    "0-inbox/Untitled.md",
+    "1-projects/Infoware/Tokens.md",
     "0-inbox/INWA-4851.md",
+    "0-inbox/3 month strategy.md",
     "2-areas/Astrology/Prompt for Claude.md",
     "0-inbox/Happier Hour Book Club.md",
     "2-areas/Astrology",
@@ -267,8 +270,6 @@
     "1-projects/Personal Projects/Clothes tracker/Tech stack - Clothes Trackers.md",
     "1-projects/Personal Projects/Clothes tracker/TODO - baby tracker.md",
     "1-projects/Personal Projects/Clothes tracker/Problem - Clothes Tracker.md",
-    "1-projects/Personal Projects/Clothes tracker/Functionality - Clothes Tracker.md",
-    "1-projects/Personal Projects/Clothes tracker/Brain Dump Clothes Tracker.md",
     "1-projects/Personal Projects/NamePicker",
     "1-projects/Personal Projects/Clothes tracker",
     "1-projects/Personal Projects",
