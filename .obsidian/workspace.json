@@ -215,6 +215,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
