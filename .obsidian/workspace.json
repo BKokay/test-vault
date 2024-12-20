@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Untitled.md",
+                "file": "1-projects/Infoware/Server API/INWA-4770.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "INWA-4770"
             }
           }
         ],
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "3869704e863485cb",
@@ -191,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-resources/Pattern Journal/Super in java vs javascript.md",
+                "file": "1-projects/Infoware/Server API/INWA-4770.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Super in java vs javascript"
+              "title": "Outgoing links from INWA-4770"
             }
           },
           {
@@ -255,10 +254,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ed9bd0763257ba4",
+  "active": "edb8da47a0d76cdb",
   "lastOpenFiles": [
-    "0-inbox/Untitled.md",
+    "1-projects/Infoware/Server API/FollowMe.md",
+    "1-projects/Infoware/Server API/INWA-4770.md",
+    "1-projects/Infoware/Server API/INWA-4851.md",
     "0-inbox/16-12-24.md",
+    "3-resources/Pattern Journal/Super in java vs javascript.md",
     "1-projects/Watch and Code/Fundamentals/7-Even 2/Even 2.md",
     "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
     "1-projects/Watch and Code/Fundamentals/7-Even 2",
@@ -266,7 +268,6 @@
     "2-areas/Astrology/Prompt for Claude.md",
     "2-areas/Personal Growth/Aletheia.md",
     "2-areas/Personal Growth/Jupiter in Aries.md",
-    "3-resources/Pattern Journal/Super in java vs javascript.md",
     "5-quickref/TODO mornings.md",
     "3-resources/Pattern Journal/Extending classes java vs javascript.md",
     "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
@@ -274,7 +275,6 @@
     "3-resources/Pattern Journal",
     "conflict-files-obsidian-git.md",
     "1-projects/Infoware/Tokens.md",
-    "0-inbox/INWA-4851.md",
     "0-inbox/Happier Hour Book Club.md",
     "2-areas/Astrology",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
@@ -287,7 +287,6 @@
     "2-areas/Professional Growth/Questions from Felipe.md",
     "2-areas/Professional Growth/Linkedin Bio - Twitter Bio.md",
     "2-areas/Professional Growth/EDA - Exploratory Data Science.md",
-    "2-areas/Professional Growth/Data Science Bootcamp.md",
     "1-projects/Personal Projects/NamePicker",
     "1-projects/Personal Projects/Clothes tracker",
     "1-projects/Personal Projects",
