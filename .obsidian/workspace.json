@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df137b2c17885e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-resources/Pattern Journal/Super in java vs javascript.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Super in java vs javascript"
-            }
-          },
-          {
             "id": "c54af4534b2b4e87",
             "type": "leaf",
             "state": {
@@ -50,6 +36,55 @@
             }
           }
         ]
+      },
+      {
+        "id": "b7051e58225067ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2081a7bdc27ce753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Even"
+            }
+          },
+          {
+            "id": "df137b2c17885e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/16-12-24.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "16-12-24"
+            }
+          },
+          {
+            "id": "edb8da47a0d76cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "3869704e863485cb",
@@ -154,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/fuel-saver-app/Get docs.md",
+                "file": "0-inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Get docs"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -218,21 +254,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df137b2c17885e91",
+  "active": "edb8da47a0d76cdb",
   "lastOpenFiles": [
-    "3-resources/Pattern Journal/Extending classes java vs javascript.md",
+    "0-inbox/16-12-24.md",
+    "0-inbox/Untitled.md",
+    "1-projects/Watch and Code/Fundamentals/7-Even 2/Even 2.md",
     "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
-    "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
-    "3-resources/Pattern Journal/Super in java vs javascript.md",
+    "1-projects/Watch and Code/Fundamentals/7-Even 2",
     "0-inbox/3 month strategy.md",
+    "2-areas/Astrology/Prompt for Claude.md",
+    "2-areas/Personal Growth/Aletheia.md",
+    "2-areas/Personal Growth/Jupiter in Aries.md",
+    "3-resources/Pattern Journal/Super in java vs javascript.md",
+    "5-quickref/TODO mornings.md",
+    "3-resources/Pattern Journal/Extending classes java vs javascript.md",
+    "1-projects/Watch and Code/Fundamentals/5-True-False/True-False.md",
     "3-resources/images/Pasted image 20241219110706.png",
     "3-resources/Pattern Journal",
-    "0-inbox/16-12-24.md",
     "conflict-files-obsidian-git.md",
-    "0-inbox/Untitled.md",
     "1-projects/Infoware/Tokens.md",
     "0-inbox/INWA-4851.md",
-    "2-areas/Astrology/Prompt for Claude.md",
     "0-inbox/Happier Hour Book Club.md",
     "2-areas/Astrology",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
@@ -246,17 +287,12 @@
     "2-areas/Professional Growth/Linkedin Bio - Twitter Bio.md",
     "2-areas/Professional Growth/EDA - Exploratory Data Science.md",
     "2-areas/Professional Growth/Data Science Bootcamp.md",
-    "2-areas/Personal Growth/Untitled.md",
-    "1-projects/Personal Projects/Clothes tracker/baby announcement.md",
-    "1-projects/Personal Projects/Clothes tracker/Requirements - Clothes Tracker.md",
-    "1-projects/Personal Projects/Clothes tracker/User Stories Clothes Tracker.md",
     "1-projects/Personal Projects/NamePicker",
     "1-projects/Personal Projects/Clothes tracker",
     "1-projects/Personal Projects",
     "1-projects/Infoware/fuel-saver-api/database",
     "1-projects/Infoware/fuel-saver-api/Java",
     "1-projects/Infoware/fuel-saver-api",
-    "1-projects/Infoware/Weekly todo",
     "3-resources/images/Pasted image 20241205065534.png",
     "3-resources/images/Pasted image 20241125115806.png",
     "3-resources/images/Pasted image 20241024111242.png",

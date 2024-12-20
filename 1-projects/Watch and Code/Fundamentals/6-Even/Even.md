@@ -23,8 +23,8 @@ The first function, `even` should take an integer (`n`) as input and return a 
 /* Summary: Determine if a number is even by checking if the remainder of the number divided by 2 is 0. */
 
 function even(n) {
-    // If the remainder of n%2 is 0, the number is even. Return true.
-    if (n%2 === 0) {
+    // If n % 2 is 0, the number is even. Return true.
+    if (n % 2 === 0) {
         return true;
     // Otherwise, the number is odd. Return false.
     } else {
@@ -60,7 +60,7 @@ function allEven(nums) {
     // Iterate over all the numbers in the array
     for (let i = 0; i < nums.length; i++) {
         // If the remainder of the current number divided by 2 is not 0, the number is odd.
-        if (nums[i]%2 !== 0) {
+        if (nums[i] % 2 !== 0) {
             // An odd number was found. Return false. 
             return false
         }
