@@ -35,7 +35,8 @@
               "title": "Super in java vs javascript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b7051e58225067ea",
@@ -190,12 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-inbox/Untitled.md",
+                "file": "3-resources/Pattern Journal/Super in java vs javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Super in java vs javascript"
             }
           },
           {
@@ -254,10 +255,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edb8da47a0d76cdb",
+  "active": "3ed9bd0763257ba4",
   "lastOpenFiles": [
-    "0-inbox/16-12-24.md",
     "0-inbox/Untitled.md",
+    "0-inbox/16-12-24.md",
     "1-projects/Watch and Code/Fundamentals/7-Even 2/Even 2.md",
     "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
     "1-projects/Watch and Code/Fundamentals/7-Even 2",
