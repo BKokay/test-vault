@@ -27,3 +27,6 @@ API key:
 Spotify 
 xymsoz-8bebce-voHceh
 jekxok-qEkfug-wemgy2
+
+Instagram 
+zovca1-vywsyM-tonpek
