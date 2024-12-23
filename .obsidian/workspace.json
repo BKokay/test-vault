@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Infoware/Server API/INWA-4770.md",
+                "file": "0-inbox/Happier Hour Book Club.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "INWA-4770"
+              "title": "Happier Hour Book Club"
             }
           }
         ],
@@ -190,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-projects/Infoware/Server API/INWA-4770.md",
+                "file": "0-inbox/Happier Hour Book Club.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from INWA-4770"
+              "title": "Outgoing links from Happier Hour Book Club"
             }
           },
           {
@@ -256,8 +256,8 @@
   },
   "active": "edb8da47a0d76cdb",
   "lastOpenFiles": [
-    "1-projects/Infoware/Server API/FollowMe.md",
     "1-projects/Infoware/Server API/INWA-4770.md",
+    "1-projects/Infoware/Server API/FollowMe.md",
     "1-projects/Infoware/Server API/INWA-4851.md",
     "0-inbox/16-12-24.md",
     "3-resources/Pattern Journal/Super in java vs javascript.md",
