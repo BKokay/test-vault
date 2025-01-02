@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
+                "file": "0-inbox/01-02-25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Even"
-            }
-          },
-          {
-            "id": "df137b2c17885e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Infoware/Weekly todo/16-12-24.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "16-12-24"
+              "title": "01-02-25"
             }
           },
           {
@@ -55,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/01-02-25.md",
+                "file": "1-projects/Infoware/Tokens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01-02-25"
+              "title": "Tokens"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,19 +218,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "41eee3e883fff88a",
+  "active": "8c12a2f6e1bcf035",
   "lastOpenFiles": [
-    "0-inbox/3 month strategy.md",
+    "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
+    "1-projects/Infoware/Weekly todo/16-12-24.md",
+    "1-projects/Infoware/Tokens.md",
     "0-inbox/01-02-25.md",
+    "0-inbox/3 month strategy.md",
     "1-projects/Infoware/Server API/endpoints to edit for server api.md",
     "0-inbox/Happier Hour Book Club.md",
     "1-projects/Infoware/Server API/INWA-4770.md",
     "1-projects/Infoware/Server API/FollowMe.md",
     "1-projects/Infoware/Server API/INWA-4851.md",
-    "1-projects/Infoware/Weekly todo/16-12-24.md",
     "3-resources/Pattern Journal/Super in java vs javascript.md",
     "1-projects/Watch and Code/Fundamentals/7-Even 2/Even 2.md",
-    "1-projects/Watch and Code/Fundamentals/6-Even/Even.md",
     "1-projects/Watch and Code/Fundamentals/7-Even 2",
     "2-areas/Astrology/Prompt for Claude.md",
     "2-areas/Personal Growth/Aletheia.md",
@@ -256,7 +242,6 @@
     "3-resources/images/Pasted image 20241219110706.png",
     "3-resources/Pattern Journal",
     "conflict-files-obsidian-git.md",
-    "1-projects/Infoware/Tokens.md",
     "2-areas/Astrology",
     "1-projects/Watch and Code/Fundamentals/4-Large, Larger, Largest/Large, Larger, Largest.md",
     "1-projects/Watch and Code/Web/4-Scope.md",
